@@ -8,35 +8,35 @@ La nostra visione sui pool di liquidità è unica. Stiamo costruendo un mondo ep
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
 
-## Issuance Schedule
+## **Programma di emissione**
 
-**The issuance of JEWEL as rewards for staking LP tokens in the Garden is scheduled to change during each consecutive period of time, which we refer to as an Epoch. Each Epoch is 302,400 blocks on the Harmony Blockchain, and the length of each Epoch depends on the average block speed on Harmony.** Epochs were calculated to 302,400 blocks so that each Epoch would equal one week assuming a speed of 2 seconds per block on the Harmony Blockchain. However, if block speeds are longer than 2 seconds per block on average, an Epoch will last longer than a week, and inversely, if block speeds are less than 2 seconds per block on average, then an Epoch would last less than one week.
+**L'emissione di JEWEL come ricompensa per lo staking di token LP nel Garden è programmata per cambiare durante ogni periodo di tempo consecutivo, che chiamiamo Epoch. Ogni Epoch è di 302,400 blocchi su Harmony Blockchain e la lunghezza di ogni Epoch dipende dalla velocità media dei blocchi su Harmony.** Le Epoche sono state calcolate a 302.400 blocchi in modo che ogni Epoca equivalga a una settimana assumendo una velocità di 2 secondi per blocco su Harmony Blockchain. Tuttavia, se le velocità dei blocchi sono in media più lunghe di 2 secondi per blocco, un'Epoca durerà più di una settimana e, viceversa, se le velocità dei blocchi sono in media inferiori a 2 secondi per blocco, allora un'Epoca durerà meno di una settimana.
 
-* **Block 16,350,367 (Epoch 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minute
-* **Block 16,652,767 (Epoch 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minute
-* **Block 16,955,167 (Epoch 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minute
-* **Block 17,257,567 (Epoch 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minute
-* **Block 17,559,967 (Epoch 5):** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minute
-* **Block 17,862,367 (Epoch 6):** 48x multiplier = 48 JEWEL/block = 1,440 JEWEL/minute
-* **Block 18,164,767 (Epoch 7):** 40x multiplier = 40 JEWEL/block = 1,200 JEWEL/minute
-* **Block 18,467,167 (Epoch 8):** 32x multiplier = 32 JEWEL/block = 960 JEWEL/minute
-* **Block 18,769,567 (Epoch 9):** 28x multiplier = 28 JEWEL/block = 840 JEWEL/minute
-* **Block 19,071,967 (Epoch 10):** 24x multiplier = 24 JEWEL/block = 720 JEWEL/minute
-* **Block 19,374,367 (Epoch 11):** 20x multiplier = 20 JEWEL/block = 600 JEWEL/minute
-* **Block 19,676,767 (Epoch 12):** 16x multiplier = 16 JEWEL/block = 480 JEWEL/minute
-* **Block 19,979,167 (Epoch 13):** 15x multiplier = 15 JEWEL/block = 450 JEWEL/minute
-* **Block 20,281,567 (Epoch 14):** 14x multiplier = 14 JEWEL/block = 420 JEWEL/minute
-* **Block 20,583,967 (Epoch 15):** 13x multiplier = 13 JEWEL/block = 390 JEWEL/minute
-* **Block 20,886,367 (Epoch 16):** 12x multiplier = 12 JEWEL/block = 360 JEWEL/minute
-* **Block 21,188,767 (Epoch 17):** 11x multiplier = 11 JEWEL/block = 330 JEWEL/minute
-* **Block 21,491,167 (Epoch 18):** 10x multiplier = 10 JEWEL/block = 300 JEWEL/minute
-* **Block 21,793,567 (Epoch 19):** 9x multiplier = 9 JEWEL/block = 270 JEWEL/minute
-* **Block 22,095,967 (Epoch 20-35):** 8x multiplier = 8 JEWEL/block = 240 JEWEL/minute
-* **Block 26,631,967 (Epoch 36+):** 4x multiplier = 4 JEWEL/block = 120 JEWEL/minute
+* **Block 16,350,367 (Epoch 1):** 256x multiplier = 256 JEWEL/block = 7,680 JEWEL/minuto
+* **Block 16,652,767 (Epoch 2):** 128x multiplier = 128 JEWEL/block = 3,840 JEWEL/minuto
+* **Block 16,955,167 (Epoch 3):** 96x multiplier = 96 JEWEL/block = 2,880 JEWEL/minuto
+* **Block 17,257,567 (Epoch 4):** 64x multiplier = 64 JEWEL/block = 1,920 JEWEL/minuto
+* **Block 17,559,967 (Epoch 5):** 56x multiplier = 56 JEWEL/block = 1,680 JEWEL/minuto
+* **Block 17,862,367 (Epoch 6):** 48x multiplier = 48 JEWEL/block = 1,440 JEWEL/minuto
+* **Block 18,164,767 (Epoch 7):** 40x multiplier = 40 JEWEL/block = 1,200 JEWEL/minuto
+* **Block 18,467,167 (Epoch 8):** 32x multiplier = 32 JEWEL/block = 960 JEWEL/minuto
+* **Block 18,769,567 (Epoch 9):** 28x multiplier = 28 JEWEL/block = 840 JEWEL/minuto
+* **Block 19,071,967 (Epoch 10):** 24x multiplier = 24 JEWEL/block = 720 JEWEL/minuto
+* **Block 19,374,367 (Epoch 11):** 20x multiplier = 20 JEWEL/block = 600 JEWEL/minuto
+* **Block 19,676,767 (Epoch 12):** 16x multiplier = 16 JEWEL/block = 480 JEWEL/minuto
+* **Block 19,979,167 (Epoch 13):** 15x multiplier = 15 JEWEL/block = 450 JEWEL/minuto
+* **Block 20,281,567 (Epoch 14):** 14x multiplier = 14 JEWEL/block = 420 JEWEL/minuto
+* **Block 20,583,967 (Epoch 15):** 13x multiplier = 13 JEWEL/block = 390 JEWEL/minuto
+* **Block 20,886,367 (Epoch 16):** 12x multiplier = 12 JEWEL/block = 360 JEWEL/minuto
+* **Block 21,188,767 (Epoch 17):** 11x multiplier = 11 JEWEL/block = 330 JEWEL/minuto
+* **Block 21,491,167 (Epoch 18):** 10x multiplier = 10 JEWEL/block = 300 JEWEL/minuto
+* **Block 21,793,567 (Epoch 19):** 9x multiplier = 9 JEWEL/block = 270 JEWEL/minuto
+* **Block 22,095,967 (Epoch 20-35):** 8x multiplier = 8 JEWEL/block = 240 JEWEL/minuto
+* **Block 26,631,967 (Epoch 36+):** 4x multiplier = 4 JEWEL/block = 120 JEWEL/minuto
 
-_\*Listed multipliers are spread out across all Gardens. See the Seed Box for pool-specific emission rates._
+_\*I moltiplicatori elencati sono distribuiti in tutti i giardini. Puoi vedere la seed box per i tassi di emissione specifici per ogni pool._
 
-Visit the [Harmony Blockchain Explorer](https://explorer.harmony.one) to see what the current block is and the current block speed (latency). Please note that block speed fluctuates and should be viewed on an average (i.e. daily or weekly basis) when trying to plan your Garden farming strategies.
+Visita [Harmony Blockchain Explorer](https://explorer.harmony.one) per vedere qual è il blocco corrente e la velocità del blocco corrente (latenza). Tieni presente che la velocità di blocco varia e dovrebbe essere visualizzata in media (ovvero su base giornaliera o settimanale) quando provi a pianificare le strategie di farming del tuo giardino.
 
 ## Locking Model
 
