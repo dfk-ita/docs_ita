@@ -49,51 +49,53 @@ L'allocazione di JEWEL tra importi sbloccati e bloccati dipenderà dall'Epoca in
 
 Quindi, ad esempio, le ricompense per lo staking del giardino richieste durante l'Epoca 1 saranno sbloccate al 5%, bloccate al 95%; durante l'Epoca 2 sarà sbloccato al 7%, bloccato al 93%; durante l'Epoca 3 sarà sbloccato al 9%, bloccato al 91% e così via, fino a dopo l'Epoca 51, quando non si verificherà più il blocco delle ricompense in palio per le ricompense del Giardino appena reclamate.
 
-## Locking Model - Simplified Examples
+## Locking Model - **Esempi semplificati**
 
-Below are two simplified examples that show how the locking model works. For the sake of simplicity, **the examples assume no reinvestment** of unlocked claimed rewards into additional LP positions and that a player earned 100 JEWEL in Garden rewards during Epoch 1, 50 JEWEL in Epoch 2 and so on to reflect the reduced JEWEL emission per Epoch. In both scenarios, 301.6 JEWEL is earned, but the amount unlocked versus locked is different. This locking model provides players the opportunity to choose a strategy that suits their style and risk appetite.
+Di seguito sono riportati due esempi semplificati che mostrano come funziona il modello di bloccaggio. Per semplicità, **gli esempi non presuppongono il reinvestimento** dei premi rivendicati sbloccati in posizioni aggiuntive di LP e che un giocatore ha guadagnato 100 JEWEL in ricompense da Giardino durante l'Epoca 1, 50 JEWEL nell'Epoca 2 e così via per riflettere l'emissione ridotta di JEWEL per Epoca. In entrambi gli scenari, si guadagna 301.6 JEWEL, ma l'importo sbloccato rispetto a quello bloccato è diverso. Questo modello di blocco offre ai giocatori l'opportunità di scegliere una strategia che si adatta al loro stile e alla loro propensione al rischio.
 
-**Illustrative Example A**: Rewards earned during each Epoch are claimed during each Epoch (and not reinvested).
+**Esempio illustrativo A:** I premi guadagnati durante ogni Epoca vengono richiesti durante ogni Epoca (e non reinvestiti).
 
-* _10 Epoch Summary_:
-  * Total unlocked JEWEL: **29.8** JEWEL
-  * Total locked JEWEL: **271.8** JEWEL (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
-  * Total rewards: **301.6** JEWEL
-  * _Lower unlocked JEWEL over the sample period, but allows for use of and potential recompounding/reinvestment of unlocked JEWEL during sample period, which could result in more unlocked JEWEL than not claiming over the same period depending on what you choose to do with such unlocked claimed rewards. The choice is yours!_
 
-|   Epoch  | Unlocked at time of claiming | Locked at time of claiming | Example JEWEL Earned during Epoch | Unlocked Claimed during Epoch | Locked Claimed During Epoch | Unlocked Cumulative | Locked Cumulative |
-| :------: | :--------------------------: | :------------------------: | :-------------------------------: | :---------------------------: | :-------------------------: | :-----------------: | :---------------: |
-|  Epoch 1 |              5%              |             95%            |               100.0               |              5.0              |             95.0            |         5.0         |        95.0       |
-|  Epoch 2 |              7%              |             93%            |                50.0               |              3.5              |             46.5            |         8.5         |       141.5       |
-|  Epoch 3 |              9%              |             91%            |                37.5               |              3.4              |             34.1            |         11.9        |       175.6       |
-|  Epoch 4 |              11%             |             89%            |                25.0               |              2.8              |             22.3            |         14.6        |       197.9       |
-|  Epoch 5 |              13%             |             87%            |                21.9               |              2.8              |             19.0            |         17.5        |       216.9       |
-|  Epoch 6 |              15%             |             85%            |                18.8               |              2.8              |             15.9            |         20.3        |       232.8       |
-|  Epoch 7 |              17%             |             83%            |                15.6               |              2.7              |             13.0            |         22.9        |       245.8       |
-|  Epoch 8 |              19%             |             81%            |                12.5               |              2.4              |             10.1            |         25.3        |       255.9       |
-|  Epoch 9 |              21%             |             79%            |                10.9               |              2.3              |             8.6             |         27.6        |       264.6       |
-| Epoch 10 |              23%             |             77%            |                9.4                |              2.2              |             7.2             |         29.8        |       271.8       |
 
-**Illustrative Example B**: Rewards are not claimed until the end of Epoch 10.
+* _Riepilogo epoca 10:_
+  * _JEWEL sbloccati totali: **29,8** JEWEL_
+  * _JEWEL bloccati totale: **271.8** JEWEL (inaccessibile fino a dopo l'Epoca 51 a meno che non sia stato sbloccato in precedenza tramite Heroes)_
+  * _Ricompense totali: **301.6** JEWEL_
+  * _JEWEL sbloccato inferiore durante il periodo di prova, ma consente l'uso e il potenziale ricomposizione/reinvestimento di JEWEL sbloccato durante il periodo di prova, il che potrebbe comportare un numero maggiore di JEWEL sbloccato rispetto a non rivendicare nello stesso periodo, a seconda di cosa si sceglie di fare con i JEWEL sbloccati. La scelta è tua!_
 
-* 10 Epoch Summary:
-  * Total unlocked JEWEL: **69.4** JEWEL
-  * Total locked JEWEL: **232.2** JEWEL (inaccessible until after Epoch 51 unless unlocked earlier via Heroes)
-  * Total rewards: **301.6** JEWEL
-  * _Higher unlocked JEWEL count by the end of sample period, but unable to use or compound unlocked Jewel during sample period._
+|   Epoca  | Sbloccati al momento del claiming | Bloccati al momento del claiming | Esempio JEWEL guadagnati durante l'Epoca | Unlocked Claimed during Epoch | Locked Claimed During Epoch | Unlocked Cumulative | Locked Cumulative |
+| :------: | :-------------------------------: | :------------------------------: | :--------------------------------------: | :---------------------------: | :-------------------------: | :-----------------: | :---------------: |
+|  Epoch 1 |                 5%                |                95%               |                   100.0                  |              5.0              |             95.0            |         5.0         |        95.0       |
+|  Epoch 2 |                 7%                |                93%               |                   50.0                   |              3.5              |             46.5            |         8.5         |       141.5       |
+|  Epoch 3 |                 9%                |                91%               |                   37.5                   |              3.4              |             34.1            |         11.9        |       175.6       |
+|  Epoch 4 |                11%                |                89%               |                   25.0                   |              2.8              |             22.3            |         14.6        |       197.9       |
+|  Epoch 5 |                13%                |                87%               |                   21.9                   |              2.8              |             19.0            |         17.5        |       216.9       |
+|  Epoch 6 |                15%                |                85%               |                   18.8                   |              2.8              |             15.9            |         20.3        |       232.8       |
+|  Epoch 7 |                17%                |                83%               |                   15.6                   |              2.7              |             13.0            |         22.9        |       245.8       |
+|  Epoch 8 |                19%                |                81%               |                   12.5                   |              2.4              |             10.1            |         25.3        |       255.9       |
+|  Epoch 9 |                21%                |                79%               |                   10.9                   |              2.3              |             8.6             |         27.6        |       264.6       |
+| Epoch 10 |                23%                |                77%               |                    9.4                   |              2.2              |             7.2             |         29.8        |       271.8       |
 
-|   Epoch  | Unlocked at time of claiming | Locked at time of claiming | Example JEWEL Earned during Epoch | Cumulative UNCLAIMED Unlocked | Cumulative UNCLAIMED Locked | Cumulative CLAIMED Unlocked | Cumulative CLAIMED Locked |
-| :------: | :--------------------------: | :------------------------: | :-------------------------------: | :---------------------------: | :-------------------------: | :-------------------------: | :-----------------------: |
-|  Epoch 1 |              5%              |             95%            |               100.0               |              5.0              |             95.0            |             0.0             |            0.0            |
-|  Epoch 2 |              7%              |             93%            |                50.0               |              10.5             |            139.5            |             0.0             |            0.0            |
-|  Epoch 3 |              9%              |             91%            |                37.5               |              16.9             |            170.6            |             0.0             |            0.0            |
-|  Epoch 4 |              11%             |             89%            |                25.0               |              23.4             |            189.1            |             0.0             |            0.0            |
-|  Epoch 5 |              13%             |             87%            |                21.9               |              30.5             |            203.9            |             0.0             |            0.0            |
-|  Epoch 6 |              15%             |             85%            |                18.8               |              38.0             |            215.2            |             0.0             |            0.0            |
-|  Epoch 7 |              17%             |             83%            |                15.6               |              45.7             |            223.1            |             0.0             |            0.0            |
-|  Epoch 8 |              19%             |             81%            |                12.5               |              53.4             |            227.8            |             0.0             |            0.0            |
-|  Epoch 9 |              21%             |             79%            |                10.9               |              61.4             |            230.8            |             0.0             |            0.0            |
-| Epoch 10 |              23%             |             77%            |                9.4                |              69.4             |            232.2            |             69.4            |           232.2           |
+**Esempio illustrativo B:** le ricompense non vengono richieste fino alla fine dell'Epoca 10.
+
+* _Riepilogo epoca 10:_
+  * _JEWEL sbloccati totali: **69,4** JEWEL_
+  * _JEWEL bloccati totale: **232.2** JEWEL (inaccessibile fino a dopo l'Epoca 51 a meno che non sia stato sbloccato in precedenza tramite Heroes)_
+  * _Ricompense totali: **301.6** JEWEL_
+  * _Numero di JEWEL sbloccato più alto entro la fine del periodo di prova, ma non è possibile utilizzare o reinvestire i JEWEL sbloccati durante il periodo di prova._
+
+|   Epoch  | Sbloccati al momento del claiming | Bloccati al momento del claiming | Esempio JEWEL guadagnati durante l'Epoca | Cumulative UNCLAIMED Unlocked | Cumulative UNCLAIMED Locked | Cumulative CLAIMED Unlocked | Cumulative CLAIMED Locked |
+| :------: | :-------------------------------: | :------------------------------: | :--------------------------------------: | :---------------------------: | :-------------------------: | :-------------------------: | :-----------------------: |
+|  Epoch 1 |                 5%                |                95%               |                   100.0                  |              5.0              |             95.0            |             0.0             |            0.0            |
+|  Epoch 2 |                 7%                |                93%               |                   50.0                   |              10.5             |            139.5            |             0.0             |            0.0            |
+|  Epoch 3 |                 9%                |                91%               |                   37.5                   |              16.9             |            170.6            |             0.0             |            0.0            |
+|  Epoch 4 |                11%                |                89%               |                   25.0                   |              23.4             |            189.1            |             0.0             |            0.0            |
+|  Epoch 5 |                13%                |                87%               |                   21.9                   |              30.5             |            203.9            |             0.0             |            0.0            |
+|  Epoch 6 |                15%                |                85%               |                   18.8                   |              38.0             |            215.2            |             0.0             |            0.0            |
+|  Epoch 7 |                17%                |                83%               |                   15.6                   |              45.7             |            223.1            |             0.0             |            0.0            |
+|  Epoch 8 |                19%                |                81%               |                   12.5                   |              53.4             |            227.8            |             0.0             |            0.0            |
+|  Epoch 9 |                21%                |                79%               |                   10.9                   |              61.4             |            230.8            |             0.0             |            0.0            |
+| Epoch 10 |                23%                |                77%               |                    9.4                   |              69.4             |            232.2            |             69.4            |           232.2           |
 
 ## Locking Model - Early Unlocking with Hero NFTs
 
