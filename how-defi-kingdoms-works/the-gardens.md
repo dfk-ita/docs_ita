@@ -97,9 +97,9 @@ Di seguito sono riportati due esempi semplificati che mostrano come funziona il 
 |  Epoch 9 |                21%                |                79%               |                   10.9                   |              61.4             |            230.8            |             0.0             |            0.0            |
 | Epoch 10 |                23%                |                77%               |                    9.4                   |              69.4             |            232.2            |             69.4            |           232.2           |
 
-## Locking Model - Early Unlocking with Hero NFTs
+## Locking Model - Sblocco anticipato con Eroi NFT
 
-**One amazing and unique feature of Defi Kingdoms that sets us apart from any other DeFi exchange out there today is the ability for Heroes to mine locked JEWEL tokens, unlocking them early. Each Hero's stats will determine their ability to unlock JEWEL.**
+**Una caratteristica unica e straordinaria di Defi Kingdoms, che ci distingue da qualsiasi altro Exchange DeFi disponibile oggi, è la possibilità per gli Eroi NFT di estrarre JEWEL Token bloccati, sbloccandoli in anticipo. Le statistiche di ogni eroe determineranno la sua capacità di sbloccare i JEWEL.**
 
 ## Locking Model - Rationale
 
