@@ -101,25 +101,25 @@ Di seguito sono riportati due esempi semplificati che mostrano come funziona il 
 
 **Una caratteristica unica e straordinaria di Defi Kingdoms, che ci distingue da qualsiasi altro Exchange DeFi disponibile oggi, è la possibilità per gli Eroi NFT di estrarre JEWEL Token bloccati, sbloccandoli in anticipo. Le statistiche di ogni eroe determineranno la sua capacità di sbloccare i JEWEL.**
 
-## Locking Model - Rationale
+## Locking Model - Logica
 
-This locking model helps the project retain value for the long-term, and ensures only those who see the long-term vision of DeFi Kingdoms jump in and earn the maximized rewards available to early adopters. Further, this locking model both balances the rewards needed to attract early providers of the necessary liquidity against the long term interest of a sustainable price for an in game token and concurrently provides early LP stakers a strategic choice to claim early and compound their staking rewards at the cost of locking more of their JEWEL rewards until after Epoch 51 (unless unlocked earlier by Hero NFTs) or to delay claiming until an Epoch with a higher unlock percentage at an opportunity cost of not being able to utilize any garden rewards in the meantime.
+Questo modello di blocco aiuta il progetto a mantenere il valore a lungo termine e garantisce che solo coloro che vedono la visione a lungo termine di Defi Kingdoms entrino nel gioco avendo i massimi vantaggi, sopratutto per chi entra all’inizio. Inoltre, questo modello di blocco bilancia i premi necessari per attirare i primi fornitori della liquidità necessaria con l'interesse a lungo termine di un prezzo sostenibile per un token in gioco e contemporaneamente fornisce ai primi staker LP una scelta strategica per rivendicare anticipatamente e aumentare i loro premi di staking a il costo per bloccare più premi JEWEL fino a dopo l'Epoca 51 (a meno che non siano stati sbloccati prima da Hero NFT) o per ritardare la richiesta fino a un'Epoca con una percentuale di sblocco più alta a un costo opportunità di non essere in grado di utilizzare i premi del giardino nel frattempo.
 
-As noted above, once claimed, locked tokens remain locked until the end of the 51st Epoch (estimated in Q3 2022 depending on Harmony block speeds) at which point such locked JEWEL will begin to unlock ratably over the next year (assuming a block speed of 2 seconds per block on the Harmony Blockchain). After the end of Epoch 51 and we reach the point where 100% of newly claimed gardening rewards will be unlocked, all locked tokens previously claimed during the prior 51 Epochs not otherwise unlocked through Hero mining quests will begin to unlock ratably over the year (and will be fully unlocked by approximately Q3 2023 assuming a 2 seconds per block speed on the Harmony Blockchain during such year).
+Come notato sopra, una volta rivendicati, i token bloccati rimangono bloccati fino alla fine della 51a Epoca (stimata nel terzo trimestre del 2022 a seconda della velocità del blocco Harmony) a quel punto tale JEWEL bloccato inizierà a sbloccarsi in modo significativo nel corso del prossimo anno (assumendo una velocità di blocco di 2 secondi per blocco su Harmony Blockchain). Dopo la fine dell'Epoca 51 e raggiungiamo il punto in cui verrà sbloccato il 100% delle ricompense di giardinaggio appena rivendicate, tutti i token bloccati precedentemente rivendicati durante le precedenti 51 Epoche non sbloccati in altro modo tramite le missioni di estrazione degli eroi inizieranno a sbloccarsi in modo significativo nel corso dell'anno (e sarà completamente sbloccato entro il terzo trimestre del 2023 circa, presupponendo una velocità di 2 secondi per blocco su Harmony Blockchain durante tale anno).51 Epochs not otherwise unlocked through Hero mining quests will begin to unlock ratably over the year (and will be fully unlocked by approximately Q3 2023 assuming a 2 seconds per block speed on the Harmony Blockchain during such year).
 
 ![](<../.gitbook/assets/Screen Shot 2021-07-31 at 10.02.00 PM.png>)
 
-## **Garden Staking Deposit and Withdrawal Fees**
+## **Commissioni di deposito e prelievo di ritiro dai Gardens**
 
-**There are no deposit fees for staking LP tokens in the Gardens.** To protect against flash loans and pump and dumps, we do implement withdrawal fees for withdrawing staked LP tokens. The withdrawal fees are listed below.
+**Non ci sono commissioni di deposito per lo staking di token LP nei Gardens.** Per proteggerci da prestiti lampo e pump and dump, implementiamo commissioni di prelievo per il prelievo di token LP in stake. Le commissioni di prelievo sono elencate di seguito.
 
-* **0.01%** fee if a user withdraws after **4 Epochs**
-* **0.25%** fee if a user withdraws after **2 Epochs but before 4 Epochs**
-* **0.5%** fee if a user withdraws after **5 days but before 2 Epochs**
-* **1%** fee if a user withdraws under **5 days. \***
-* **2%** fee if a user withdraws under **3 days. \***
-* **4%** fee if a user withdraws under **24 hours. \***
-* **8%** fee if a user withdraws under **1 hour. \***
-* **25%** slashing fee if a user withdraws **during the same block.**
+* **0.01%** fee se un utente si ritira **dopo 4 Epoche**
+* **0.25%** fee se un utente si ritira **dopo 2 Epoche ma prima di 4 Epoche**
+* **0.5%** fee se un utente si ritira **dopo 5 giorni ma prima di 2 Epoche**
+* **1%** fee se un utente si ritira in meno di **5 giorni. \***
+* **2%** fee se un utente si ritira in meno di **3 giorni. \***
+* **4%** fee se un utente si ritira in meno di **24 ore. \***
+* **8%** fee se un utente si ritira in meno di **1 ora. \***
+* **25%** slashing fee se un utente si ritira **durante lo stesso blocco.**
 
-_\*Days/Hours listed assume a 2 seconds per block speed during such period and will depend on Harmony Blockchain speed._
+_\*I giorni/ore elencati presuppongono una velocità di 2 secondi per blocco durante tale periodo e dipenderanno dalla velocità di Harmony Blockchain._
