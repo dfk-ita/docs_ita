@@ -1,10 +1,10 @@
 # I Gardens
 
-Fondamentalmente, i giardini sono un luogo in cui depositare i tuoi LP per farmare token JEWEL. Guadagnerai JEWEL da utilizzare nel gioco per NFT rari e altri oggetti SOLO depositando gettoni LP! È una parte potente del gioco ed è davvero divertente.
+I Gardens sono il luogo dove depositare i tuoi LP per "coltivare" (farming) token JEWEL. Guadagnerai JEWEL da spendere nel gioco per acquisire NFT rari ed altri oggetti **SOLO** depositando tokens LP nei Gardens! È una parte molto potente del gioco ed è davvero divertente.
 
 ![](<../.gitbook/assets/Cute Henry.gif>)
 
-La nostra visione sui pool di liquidità è unica. Stiamo costruendo un mondo epico dove i giardini rappresentano coppie di token e pool di liquidità. All'interno di ogni giardino, sarai in grado di vedere la tua parte della quota totale depositata (il tuo share della pool). Il giardiniere si occupa della cura delle tue piante (questo rappresenta il conto alla rovescia tra i blocchi estratti) e una volta effettuato il raccolto, il giardiniere deposita il tuo frutti (reward) nel magazzino (wallet), ovvero i JEWEL prodotti dal farming dei tuoi LP. **Ci saranno modi per aumentare la tua resa attraverso oggetti di gioco che ti forniranno maggiori premi in token JEWEL!**
+La nostra visione sui Pool di Liquidità è unica. Stiamo costruendo un mondo epico dove i Gardens rappresentano coppie di token e Pool di Liquidità. All'interno di ogni Giardino, sarai in grado di vedere la tua quota totale depositata (il tuo share della Pool). Il giardiniere si occupa della cura delle tue piante (questo rappresenta il conto alla rovescia tra i blocchi estratti) ed una volta effettuato il raccolto, deposita i tuoi frutti (Rewards) nel magazzino (Wallet), ovvero i JEWEL prodotti dal farming dei tuoi LP. **Ci saranno modi per aumentare la tua resa attraverso oggetti di gioco che ti forniranno maggiori premi in token JEWEL!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
 
@@ -43,7 +43,7 @@ Visita [Harmony Blockchain Explorer](https://explorer.harmony.one) per vedere qu
 Una parte dei JEWEL coltivati ​​nei Giardini può essere raccolta immediatamente (cioè sbloccata e immediatamente utilizzabile), mentre il resto viene piantato in profondità (chiuso). Questi JEWEL bloccati si faranno strada lentamente verso l'alto e verranno ricompensati in tempo per i proprietari, ma fino a quando non saranno sbloccati non possono essere utilizzati in alcun modo (cioè non possono essere utilizzati per lo staking, fornire liquidità, voti di governance o qualsiasi altra transazione nel gioco). Una volta rivendicati, i token bloccati rimangono bloccati fino alla fine dell'Epoca 51 (stimata nel terzo trimestre del 2022 a seconda della velocità del blocco Harmony) a quel punto i JEWEL bloccati inizieranno a sbloccarsi in modo significativo nel corso del prossimo anno (sbloccandosi completamente nel terzo trimestre del 2023 a seconda di Harmony velocità di blocco).
 
 Per bilanciare gli incredibili moltiplicatori che ricevono i primi utenti che forniscono liquidità tramite i Giardini, i nostri tokenomics includono un modello di blocco sui token JEWEL ricevuti dalla fornitura di liquidità. Il calcolo di quale parte dei tuoi premi è bloccata rispetto a quella sbloccata ha effetto solo dopo aver fatto clic sul pulsante **CLAIM**. Ogni volta che le ricompense vengono **RICHIESTE** dai Giardini, una parte delle ricompense verrà sbloccata (cioè immediatamente utilizzabile per scambiare, acquistare, vendere, puntare in banca) e il resto verrà bloccato.\
-L'allocazione di JEWEL tra importi sbloccati e bloccati dipenderà dall'Epoca in cui vengono **RICHIESTI** i premi, non da quando vengono guadagnati o puntati.&#x20;
+L'allocazione di JEWEL tra importi sbloccati e bloccati dipenderà dall'Epoca in cui vengono **RICHIESTI** i premi, non da quando vengono guadagnati o puntati.
 
 **A partire dalla prima Epoca, il 5% di tutte le ricompense richieste dai Giardini è stato sbloccato e immediatamente accessibile e il 95% delle ricompense reclamate dai Giardini è stato bloccato. La percentuale di ricompense RICHIESTE dal Giardino che vengono sbloccate aumenterà del 2% ogni Epoca fino a dopo l'Epoca 51, dove tutte le ricompense richieste successivamente saranno sbloccate al 100%. Questo aumento del 2% delle ricompense sbloccate per Epoca si applica solo alle ricompense non reclamate (ovvero, una volta richieste, le ricompense bloccate non beneficiano di questo tasso di sblocco crescente per Epoca e rimarranno bloccate fino a dopo l'Epoca 51, quando inizieranno a sbloccarsi).**
 
@@ -55,13 +55,12 @@ Di seguito sono riportati due esempi semplificati che mostrano come funziona il 
 
 **Esempio illustrativo A:** I premi guadagnati durante ogni Epoca vengono richiesti durante ogni Epoca (e non reinvestiti).
 
+_Riepilogo epoca 10:_
 
-
-* _Riepilogo epoca 10:_
-  * _JEWEL sbloccati totali: **29,8** JEWEL_
-  * _JEWEL bloccati totale: **271.8** JEWEL (inaccessibile fino a dopo l'Epoca 51 a meno che non sia stato sbloccato in precedenza tramite Heroes)_
-  * _Ricompense totali: **301.6** JEWEL_
-  * _JEWEL sbloccato inferiore durante il periodo di prova, ma consente l'uso e il potenziale ricomposizione/reinvestimento di JEWEL sbloccato durante il periodo di prova, il che potrebbe comportare un numero maggiore di JEWEL sbloccato rispetto a non rivendicare nello stesso periodo, a seconda di cosa si sceglie di fare con i JEWEL sbloccati. La scelta è tua!_
+* _JEWEL sbloccati totali: **29,8** JEWEL_
+* _JEWEL bloccati totale: **271.8** JEWEL (inaccessibile fino a dopo l'Epoca 51 a meno che non sia stato sbloccato in precedenza tramite Heroes)_
+* _Ricompense totali: **301.6** JEWEL_
+* _JEWEL sbloccato inferiore durante il periodo di prova, ma consente l'uso e il potenziale ricomposizione/reinvestimento di JEWEL sbloccato durante il periodo di prova, il che potrebbe comportare un numero maggiore di JEWEL sbloccato rispetto a non rivendicare nello stesso periodo, a seconda di cosa si sceglie di fare con i JEWEL sbloccati. La scelta è tua!_
 
 |   Epoca  | Sbloccati al momento del claiming | Bloccati al momento del claiming | Esempio JEWEL guadagnati durante l'Epoca | Unlocked Claimed during Epoch | Locked Claimed During Epoch | Unlocked Cumulative | Locked Cumulative |
 | :------: | :-------------------------------: | :------------------------------: | :--------------------------------------: | :---------------------------: | :-------------------------: | :-----------------: | :---------------: |
@@ -76,15 +75,18 @@ Di seguito sono riportati due esempi semplificati che mostrano come funziona il 
 |  Epoch 9 |                21%                |                79%               |                   10.9                   |              2.3              |             8.6             |         27.6        |       264.6       |
 | Epoch 10 |                23%                |                77%               |                    9.4                   |              2.2              |             7.2             |         29.8        |       271.8       |
 
+***
+
 **Esempio illustrativo B:** le ricompense non vengono richieste fino alla fine dell'Epoca 10.
 
-* _Riepilogo epoca 10:_
-  * _JEWEL sbloccati totali: **69,4** JEWEL_
-  * _JEWEL bloccati totale: **232.2** JEWEL (inaccessibile fino a dopo l'Epoca 51 a meno che non sia stato sbloccato in precedenza tramite Heroes)_
-  * _Ricompense totali: **301.6** JEWEL_
-  * _Numero di JEWEL sbloccato più alto entro la fine del periodo di prova, ma non è possibile utilizzare o reinvestire i JEWEL sbloccati durante il periodo di prova._
+_Riepilogo epoca 10:_
 
-|   Epoch  | Sbloccati al momento del claiming | Bloccati al momento del claiming | Esempio JEWEL guadagnati durante l'Epoca | Cumulative UNCLAIMED Unlocked | Cumulative UNCLAIMED Locked | Cumulative CLAIMED Unlocked | Cumulative CLAIMED Locked |
+* _JEWEL sbloccati totali: **69,4** JEWEL_
+* _JEWEL bloccati totale: **232.2** JEWEL (inaccessibile fino a dopo l'Epoca 51 a meno che non sia stato sbloccato in precedenza tramite Heroes)_
+* _Ricompense totali: **301.6** JEWEL_
+* _Numero di JEWEL sbloccato più alto entro la fine del periodo di prova, ma non è possibile utilizzare o reinvestire i JEWEL sbloccati durante il periodo di prova._
+
+|   Epoca  | Sbloccati al momento del claiming | Bloccati al momento del claiming | Esempio JEWEL guadagnati durante l'Epoca | Cumulative UNCLAIMED Unlocked | Cumulative UNCLAIMED Locked | Cumulative CLAIMED Unlocked | Cumulative CLAIMED Locked |
 | :------: | :-------------------------------: | :------------------------------: | :--------------------------------------: | :---------------------------: | :-------------------------: | :-------------------------: | :-----------------------: |
 |  Epoch 1 |                 5%                |                95%               |                   100.0                  |              5.0              |             95.0            |             0.0             |            0.0            |
 |  Epoch 2 |                 7%                |                93%               |                   50.0                   |              10.5             |            139.5            |             0.0             |            0.0            |

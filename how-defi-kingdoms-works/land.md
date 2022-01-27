@@ -1,21 +1,19 @@
 # Kingdoms
 
-In DeFi Kingdom’s world map, there will be a limited supply of plots of land available for purchase. You’ll not only be able to claim a plot of land for yourself, but you’ll also be able to build your kingdom up, investing in upgrades that will provide you with an upkeep of resources! Your land will house your developing kingdom and will be distinctly visible to everyone from the world map.
+nella mappa del regno di DeFi Kingdoms, ci sarà una fornitura limitata di Lotti di terreno disponibili per l'acquisto. Non solo potrai acquistare un Lotto di terra per te stesso, ma potrai anche costruirci sopra il tuo Regno, investendo in potenziamenti che ti forniranno un mantenimento passivo di risorse! La tua terra ospiterà il tuo Regno in sviluppo e sarà chiaramente visibile a tutti dalla mappa del mondo.
 
-**Buying and Selling**
+### **Lotti - Comprare e Vendere**
 
-Location, location, location! Not all land plots are created equal. Some will provide more of one resource than another, based on the nearby forests, stone, and other resources. Some will be closer to the capital, requiring less stamina to participate in certain quests. Others will be closer to various dungeons and quests, requiring less travel time to complete those.
+Lotti, Lotti, Lotti! Non tutti i Lotti di terreno sono uguali. Alcuni forniranno più di una risorsa rispetto ad un'altra in base alle foreste vicine, alla pietra e ad altre risorse. Alcuni Lotti saranno più vicini alla Capitale, quindi richiederanno meno stamina per partecipare a determinate missioni (si, ci saranno gli spostamenti). Altri saranno più vicini a vari dungeon e missioni, richiedendo meno tempo di viaggio per completarli.
 
-If you wish to sell your kingdom NFT someday as property values go up, you can do so. Kingdoms can be bought and sold in the real estate office at the capital, including all of the improvements made in the kingdom, and all of the buildings built there.
+Se un giorno vorrai vendere il tuo regno NFT, quando i valori delle proprietà aumenteranno, potrai farlo. I regni possono essere acquistati e venduti nell'ufficio immobiliare della capitale, inclusi tutti i miglioramenti apportati nel regno e tutti gli edifici costruitici sopra.
 
-**Buildings**
+### **Edifici - Costruzioni**
 
-Buildings can be built within your kingdom and upgraded to increase their bonuses. Resource buildings can be built next to resource nodes to allow your kingdom to begin accumulating the resources you need to build more buildings and craft rare equipment for heroes.
+Gli Edifici possono essere costruiti all'interno del tuo Regno e migliorati per aumentare i bonus che offrono. Gli Edifici per le risorse (come la falegnameria, o la miniera) possono essere costruiti accanto ai punti di interesse (foreste, montagne ecc) per consentire al tuo Regno di iniziare ad accumulare le risorse necessarie per costruire più Edifici e creare Equipaggiamenti rari per gli Eroi.
 
-Other buildings can provide passive bonuses to your heroes, improving their quest efficiency and stats. Still others can allow you to gain higher multipliers on your staking rewards in the gardens. Buildings are a fun and exciting way to increase your effectiveness in the game.
+Altri Edifici possono fornire bonus passivi ai tuoi Eroi, migliorandone l'efficienza e le statistiche per le missioni. Altri ancora possono permetterti di ottenere moltiplicatori più alti per le tue ricompense di staking nei Gardens. Gli Edifici sono un modo divertente ed eccitante per aumentare la tua efficacia nel gioco.
 
-**Foraging**
+### **Foraging - Raccolta risorse**
 
-Owning land also gives you the ability to forage for resources every day, with the opportunity to find rare and valuable materials or even equipment for your heroes.
-
-\\
+Possedere un Lotto ti dà anche la possibilità di cercare risorse ogni giorno, con l'opportunità di trovare materiali rari e preziosi o persino Equipaggiamenti per i tuoi Eroi.

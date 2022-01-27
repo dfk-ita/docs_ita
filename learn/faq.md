@@ -1,208 +1,206 @@
 ---
 description: >-
-  Here are answers to some of the frequently asked questions that we receive in
-  Discord and our other social media channels.
+  Ecco le risposte ad alcune delle domande frequenti che riceviamo su Discord e
+  sui nostri altri canali di social media.
 ---
 
-# FAQ
+# FAQ - Frequently Asked Questions
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GENERAL
+## GENERALI
 
-### What is DeFi Kingdoms?
+### Cos'è DeFi Kingdoms?
 
-DeFi Kingdoms (DFK) is a game, a decentralized exchange (DEX), a liquidity pool (LP) opportunity, and a market of rare utility-driven NFTs, that all plays out seamlessly in the incredibly nostalgic form of fantasy pixel art.
+DeFi Kingdoms (DFK) è un gioco, uno Exchange decentralizzato (DEX), un'opportunità in pool di liquidità (LP), ed un mercato di rari NFT basati su utility, tutto si svolge perfettamente nella forma incredibilmente nostalgica della pixel art fantasy.
 
-DFK launched on August 22, 2021 as a DEX with LP farming opportunities, and additional features are constantly being added.
+DFK è stato lanciato il 22 agosto 2021 come DEX con opportunità di farming LP ed è in costante sviluppo.
 
-[https://game.defikingdoms.com/](https://game.defikingdoms.com)
+[https://game.defikingdoms.com/](https://game.defikingdoms.com)\
+[https://beta.defikingdoms.com/](https://game.defikingdoms.com)
 
-### What blockchain is DeFi Kingdoms using?
+### Che Blockchain utilizza DeFi Kingdoms?
 
-DeFi Kingdoms is using the Harmony Protocol blockchain with its native coin ONE. ONE can be purchased on most major exchanges, including Binance, Kucoin, Crypto.com, and others.
+DeFi Kingdoms utilizza la blockchain del protocollo Harmony e la sua moneta nativa ONE. ONE può essere acquistata sulla maggior parte dei principali exchange, inclusi Binance, Kucoin, Crypto.com e altri.
 
-For information on how to setup your MetaMask wallet, please refer to our tutorial [here](https://defikingdoms.com/tutorial.html) or Harmony's documentation [here](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
+Per informazioni su come configurare il tuo portafoglio MetaMask, fai riferimento al nostro [tutorial](https://defikingdoms.com/tutorial.html) o alla documentazione di [Harmony](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
 
-### What is DeFi and what is a Decentralized Exchange (DEX)?
+### Che cos'è DeFi e che cos'è un Exchange Decentralizzato (DEX)?
 
-DeFi, or Decentralized Finance, is an ecosystem of financial applications built on top of blockchain networks that aims to provide financial services without a centralized authority.
+DeFi, o Decentralized Finance, è un ecosistema di applicazioni finanziarie costruito su reti blockchain che mira a fornire servizi finanziari senza un'autorità centralizzata.
 
-A decentralized exchange, or DEX, allows users to exchange funds through smart contracts without relinquishing custody over them until the exchange is finalized. Liquidity is provided to DEXes by individuals who supply a token pair (e.g. ONE and JEWEL) to a liquidity pool, which is then used by the DEX to facilitate trades on that pair.
+Uno exchange decentralizzato, o DEX, consente agli utenti di scambiare fondi tramite smart contracts senza rinunciare alla custodia fino al completamento dello scambio. La liquidità viene fornita ai DEX da individui che forniscono una coppia di token (ad es. ONE e JEWEL) a un pool di liquidità, che viene quindi utilizzata dal DEX per facilitare le negoziazioni su quella coppia.
 
-Users who provide liquidity in this way receive Liquidity Pool (LP) Tokens, which can often be staked to earn additional rewards, such as in [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
+Gli utenti che forniscono liquidità in questo modo ricevono gettoni Liquidity Pool (LP), che spesso possono essere utilizzati per guadagnare premi aggiuntivi, come nei [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
 
-You can read more about [decentralized finance](https://academy.binance.com/en/articles/the-complete-beginners-guide-to-decentralized-finance-defi) and [decentralized exchanges](https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex) at Binance Academy.
+Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com/it/articles/the-complete-beginners-guide-to-decentralized-finance-defi) e gli [scambi decentralizzati](https://academy.binance.com/it/articles/what-is-a-decentralized-exchange-dex) su Binance Academy.
 
-### What does it cost to get started and play?
+### Quanto costa cominciare a giocare?
 
-The game itself is free, however there is a transaction cost (gas) every time you interact with the blockchain such as when you make a profile entering the game. Thanks to Harmony's very low fees, these are a fraction of a cent.
+Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Once you're in the game, you can spend as much or as little as you'd like by adding to the liquidity pools in the Marketplace and staking LP Tokens in the Gardens or JEWEL in the Bank.
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md) o JEWEL in [Bank](gameplay/bank.md).
 
-You can also spend JEWEL to purchase Hero NFTs in the Tavern. They can be used to collect resources through their Professions, and can be paired with other Heroes to Summon new Heroes from the Inner Grove.
+Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) JEWEL TOKEN
+## JEWEL TOKEN
 
-### How do I purchase JEWEL?
+### Come posso acquistare JEWEL?
 
-After logging into [https://game.defikingdoms.com/](https://game.defikingdoms.com) you can purchase JEWEL at the Marketplace from the Trader, Merchant Matoya, with your ONE or with most of Harmony's other tokens.
+Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.defikingdoms.com/#/) potrai acquistare JEWEL al [Marketplace](gameplay/marketplace.md) dal commerciante, il Trader Matoya. Potrai scambiare i tuoi ONE, o la maggior parte degli altri token di Harmony.
 
-The contract address for JEWEL is: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
+Il contratto di JEWEL su Harmony è: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
-### Where can I find the current price / market cap of JEWEL?
+### Dove posso trovare il prezzo corrente / market cap di JEWEL?
 
-You can see the view the current price and market cap of JEWEL [in the game](https://game.defikingdoms.com) by clicking on your profile picture.
+Puoi vedere il prezzo attuale e la capitalizzazione di mercato di JEWEL nel [gioco](https://game.defikingdoms.com/#/) facendo clic sull'immagine del tuo profilo in alto a sinistra.
 
-You can also see charts and stats for JEWEL and all other tokens and pairings on the DeFi Kingdoms DEX at: [https://info.defikingdoms.com/](https://info.defikingdoms.com).
+Puoi anche vedere grafici e statistiche di JEWEL e di tutti gli altri token e abbinamenti su DeFi Kingdoms DEX su: [https://info.defikingdoms.com/](https://info.defikingdoms.com/home) o su [https://dexscreener.com/harmony/defikingdoms](https://dexscreener.com/harmony/defikingdoms).
 
-### What do I do with my JEWEL tokens?
+### Cosa posso fare con i miei JEWEL?
 
-JEWEL is the lifeblood of the DFK economy, and most in-game actions involve either receiving or spending JEWEL, whether buying/selling heroes, earning through quests, [providing liquidity](../how-defi-kingdoms-works/decentralized-exchange.md) to the DEX and [staking in the Gardens](../how-defi-kingdoms-works/the-gardens.md), or depositing in the Bank vault.
+JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gioco implicano la ricezione o la spesa di JEWEL, sia che si tratti di acquistare/vendere Eroi, guadagnare tramite Quests, [fornire liquidità al DEX](../how-defi-kingdoms-works/decentralized-exchange.md) e [farmare nei giardini](../how-defi-kingdoms-works/the-gardens.md) o depositare nel caveau della [Bank](gameplay/bank.md).
 
-You can also [read more about the JEWEL token](../how-defi-kingdoms-works/jewel-token.md) and its tokenomics.
+[Qui](faq.md#jewel-token) puoi leggere di più sul token JEWEL e la sua tokenomic.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) GAME & DEX MECHANICS
+## GIOCO & MECCANICHE DEX
 
-### What is the difference between the Bank and the Gardens?
+### Qual'è la differenza tra Bank e Gardens?
 
-[The Bank](https://defikingdoms.medium.com/the-bank-depositing-staking-and-claiming-rewards-6ff5368f91ff) is a single-staking pool for JEWEL. When you stake your JEWEL in the Bank, you receive a proportional amount of xJEWEL. Since the ratio between JEWEL and xJEWEL only goes up, when you withdraw from the Bank, you will always receive more JEWEL than you put in!
+La [Bank](gameplay/bank.md) è un pool a partecipazione unica per JEWEL. Quando depositi i tuoi JEWEL nella Banca, ricevi un importo proporzionale di xJEWEL. Poiché il rapporto tra JEWEL ed xJEWEL non fa che aumentare, quando prelevi dalla Banca riceverai sempre più JEWEL di quello che hai messo!
 
-[The Gardens](../how-defi-kingdoms-works/the-gardens.md) allow you to stake Liquidity Pool (LP) Tokens that you receive from providing liquidity to the DEX. You will receive a return in JEWEL in exchange for staking these tokens.
+I [Gardens](../how-defi-kingdoms-works/the-gardens.md) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL in cambio dello staking di questi token.
 
-While the Gardens provide higher returns than the Bank, this comes with greater risk, including impermanent loss (IL) if the value of the tokens in the pair changes relative to one another. You can learn more about impermanent loss from [Binance Academy](https://academy.binance.com/en/articles/impermanent-loss-explained) or by [watching this video](https://www.youtube.com/watch?v=HPGSSkOq0-Q).
+Sebbene i Gardens forniscano rendimenti più elevati rispetto alla Bank, ciò comporta un rischio maggiore, inclusa l'Impermanent Loss (IL) se il valore dei token nella coppia cambia l'uno rispetto all'altro. Puoi saperne di più sulla perdita temporanea da [Binance Academy](https://academy.binance.com/it/articles/impermanent-loss-explained) o [guardando questo video.](https://www.youtube.com/watch?v=qkaBCIpvfIg\&t=1297s)
 
-### What is the difference between JEWEL and xJEWEL?
+### Qual'è la differenza tra JEWEL e xJEWEL?
 
-JEWEL is DFK's primary token, used for many in-game transactions. When you deposit JEWEL into the Bank, you receive xJEWEL, which is DFK's governance token. Holding xJEWEL also makes you eligible to receive community airdrops and other rewards.
+JEWEL è il token principale di DFK, utilizzato per molte transazioni in-game. Quando depositi JEWEL nella banca, ricevi xJEWEL, che è il token di governance di DFK. Tenere xJEWEL ti rende anche idoneo a ricevere airdrop per la Community ed altri premi.
 
-### What is the APR / interest rate in the Bank?
+### Quanto è l'APR / tasso di interesse della Bank?
 
-Because earnings in the Bank are derived from transaction fees that take place within the game, there is no set APR or interest rate. During periods of significant in-game activity, the JEWEL to xJEWEL ratio may rise quite a bit, while being limited at other times.
+Poiché i guadagni in Bank derivano dalle commissioni di trading che si verificano all'interno del gioco, non è previsto alcun APR o tasso di interesse. Durante i periodi di grande attività di gioco, il rapporto tra JEWEL ed xJEWEL aumenterà un po', mentre è rallentato in altri momenti.
 
-### What does the 'Claim' button in the bank do?
+### Che cosa fa il tasto "Claim" nella Bank?
 
-The 'claim' button collects a portion of the fees earned from in-game transactions and market-buys JEWEL with them, increasing the ratio of JEWEL to xJEWEL. When you withdraw your JEWEL from the Bank, you will have more than you put in! Since 'claiming' is distributed at once among all players, you may not see any immediate change from pushing the button.
+Il pulsante "**Claim**" raccoglie una parte delle fees accumulate dalle transazioni in-game e, con esse, acquista sul mercato JEWEL, aumentando il rapporto tra JEWEL ed xJEWEL. Quando prelevi i tuoi JEWEL dalla Bank, avrai più di quello che hai messo! Poiché il "Claiming" viene distribuito immediatamente tra tutti i giocatori, potresti non vedere alcun cambiamento immediato (premendo il pulsante).
 
-### Why are some of my JEWEL tokens locked?
+### Perchè alcuni dei miei token JEWEL sono bloccati?
 
-In order to ensure the stability of JEWEL for the long term, a portion of the JEWEL tokens earned in the Gardens are temporarily locked and cannot be used in any way. These locked tokens will slowly become unlocked beginning in Epoch 51 (est. Q3 2022). The unlocking process can also be accelerated through Mining quests. [Learn more about DFK's tokenomics.](../how-defi-kingdoms-works/the-gardens.md)
+Al fine di garantire la stabilità di JEWEL nel lungo termine, una parte dei tokens JEWEL guadagnati nei Gardens sono temporaneamente bloccati e non possono essere utilizzati in alcun modo. Questi JEWEL bloccati verranno lentamente sbloccati a partire dall'Epoch 51 (stima nel terzo trimestre del 2022). Il processo di sblocco può essere accelerato tramite le missioni di Mining. Scopri di più sulla tokenomics di DFK [qui](../how-defi-kingdoms-works/the-gardens.md).
 
-### How long is an Epoch?
+### Quanto è lunga un'Epoch?
 
-An epoch in DFK is 302,400 blocks on the Harmony blockchain, and the length of each epoch depends on the average block speed on Harmony. Epochs were calculated to 302,400 blocks so that each epoch would equal one week assuming a speed of 2 seconds per block.
+Un'Epoch in DFK è di 302.400 blocchi sulla blockchain di Harmony, e la lunghezza di ciascuna Epoch dipende dalla velocità media di elaborazione dei blocchi su Harmony. Le Epoch sono state calcolate a 302.400 blocchi in modo che ognuna equivalesse ad una settimana, ad una velocità di 2 secondi per blocco (non fissa).
 
-### Why did my JEWEL in the Gardens get claimed?
+### Perchè i JEWEL nei miei giardini vengono riscattati?
 
-JEWEL rewards from the Gardens are automatically claimed whenever you deposit or withdraw LP Tokens into the Gardens.
+I guadagni in JEWEL dei Gardens vengono automaticamente accreditati ogni volta che depositi o prelevi tokens LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md).
 
-### When does the fee schedule for the Gardens begin/reset?
+### Quando inizia / azzera il sistema di fees dei giardini?
 
-The [withdrawal fee schedule](../how-defi-kingdoms-works/the-gardens.md#garden-staking-deposit-and-withdrawal-fees) for the Gardens begins when you first stake your LP Tokens into a specific garden, and is separate for every garden. The fees reset whenever you withdraw LP Tokens from a garden.
+Il [programma delle fees di prelievo](../how-defi-kingdoms-works/the-gardens.md#commissioni-di-deposito-e-prelievo-di-ritiro-dai-gardens) per i Gardens inizia quando depositi per la prima volta i tuoi tokens LP in un giardino specifico, ed è separato per ogni giardino. Le fees si azzerano ogni volta che prelevi gettoni LP da un giardino.
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HEROES & SUMMONING
+## EROI & EVOCAZIONI
 
-### What do Heroes do? Do I need a Hero?
+### Che cosa può fare un Eroe? Me ne serve uno?
 
-Heroes are central to gameplay in DeFi Kingdoms. They can summon new heroes, be sent on quests, engage in professions, and eventually fight each other in PVP. While you can still use the DEX, Gardens, and Bank without a hero, we think everyone will enjoy the opportunities that heroes bring!
+Gli Eroi sono fondamentali per il gameplay in DeFi Kingdoms. Possono Evocare nuovi Eroi, essere inviati in missioni, impegnarsi in professioni ed infine combattersi tra loro in PVP. Anche se puoi usare il DEX, i Gardens e la Bank senza un Eroe, pensiamo che tutti apprezzeranno le opportunità che hanno da offrire!
 
-[Read more about Heroes.](../how-defi-kingdoms-works/the-heroes.md)
+Leggi di più riguard gli Eroi [qui](../how-defi-kingdoms-works/the-heroes.md).
 
-### Where do I get a Hero?
+### Dove posso acquisire un Eroe?
 
-Heroes are available for purchase from other players in the Tavern, and can also be rented at the Portal to assist in the summoning process!
+Gli Eroi possono essere acquistati da altri giocatori nella [Tavern](gameplay/tavern.md) e possono anche essere noleggiati dal [Portal](gameplay/portal.md), per assistere nel processo di [Evocazione](gameplay/heroes/summoning.md).
 
-[Read more about buying, selling, and renting out heroes at the Tavern.](https://defikingdoms.medium.com/the-tavern-buy-sell-and-rent-out-heroes-85a661b23b6f)
+### Qual'è la differenza tra Eroi Gen0 e Generazioni successive?
 
-### What is the difference between Gen0 Heroes and later generations?
+Gli Eroi Gen0 sono i creatori di tutti gli altri Eroi del gioco e, in quanto tali, sono presenti in numero limitato e rari, questo li rendi anche altamente collezionabili. Poiché sono responsabili della semina dei geni a tutti gli altri Eroi, gli Eroi Gen0 non hanno un limite al numero di volte che possono evocare.
 
-Gen0 heroes are the originators of all other heroes in the game, and as such, are limited in number and highly collectible. Because they are responsible for seeding genes to all other Heroes, Gen0 heroes do not have a limit on the number of times that they can summon.
+### Ci saranno altre vendite di Eroi Gen0?
 
-### Will there be another Gen0 Hero sale?
+La vendita degli Eroi Gen0 è avvenuta il 30 Settembre e tutti i 2000 Eroi sono andati esauriti in 11 minuti! Poiché questi Eroi sono NFT collezionabili unici, non ci sarà un'altra vendita di Eroi Gen0 come quella passata.
 
-The Gen0 hero sale took place on September 30 and all 2000 heroes sold out in 11 minutes! As these heroes are limited and collectible, there will not be another Gen0 hero sale like this one.
+Tuttavia, poiché gli Eroi Gen0 sono l'unico modo per seminare nuovi geni nella Pool Genetica degli Eroi, man mano che DFK si espande a nuovi Regni e blockchain, potremmo eventualmente vendere altri Eroi Gen0 in futuro per introdurre nuove Classi o altre caratteristiche per gli Eroi nel gioco. Questo sarà fatto con attenzione per non diluire il valore degli Eroi Gen0 esistenti.
 
-However, since Gen0 heroes are the only way to seed new genes into the hero pool, as DFK expands to new realms and blockchains, we may eventually sell additional Gen0 heroes in the future to introduce new classes or other hero features into the game. This will be done carefully as to not dilute the value of existing Gen0 heroes.
+### Come evoco un nuovo Eroe?
 
-### How do I summon a new Hero?
+Se hai due Eroi, puoi andare al Portal ed evocarne un altro. Avrai bisogno di alcuni JEWEL ed almeno 20 Gaia's Tears.
 
-If you have two heroes, you can go to the Portal and summon another one. You will need some JEWEL and at least 20 Gaia's Tears.
+Se hai un solo Eroe, puoi noleggiarne uno da un altro giocatore per assisterlo nel processo di Evocazione.
 
-If you only have one hero, you can rent one from another player at the Portal to assist in the summoning process.
+Leggi di più sule Evocazioni [qui](gameplay/heroes/summoning.md).
 
-[Read more about Hero Summoning.](gameplay/heroes/summoning.md)
+### Dove posso ottenere le Gaia's Tears per evocare un nuovo Eroe?
 
-### Where can I get Gaia's Tears to summon Heroes?
+Le Gaia's Tears sono disponibili come bottino dalle [Profession Quests](gameplay/professions/). La [Pesca](gameplay/professions/fishing.md), la [Raccolta](gameplay/professions/foraging.md), il [Giardinaggio](gameplay/professions/gardening.md) e l'Estrazione Mineraria ([Gold](gameplay/professions/gold-mining.md) e [JEWEL](gameplay/professions/jewel-mining.md)), tutte hanno la possibilità di ricompensare con Gaia's Tears.
 
-Gaia's Tears are available as loot drops from Professions Quests. Fishing, Foraging, Gardening, and Mining all have a chance to drop Gaia's Tears.
+Inoltre, le Gaia's Tears possono essere guadagnate nella mini-quest del Pozzo dei Desideri (Whishing Well), a cui è possibile accedere vicino al Castello nella schermata della mappa del mondo o all'interno della zona del Circolo di Meditazione (Meditation Circle). Se possiedi un Eroe, puoi inviarlo in una missione del Pozzo dei Desideri, che esaurirà la sua Stamina e ti darà la possibilità di ricevere alcune Gaia's Tears. C'è la possibilità di non ricevere Tears per la missione.
 
-Additionally, Gaia's Tears can be earned in the Wishing Well mini-quests, which can be accessed near the castle on the overworld map screen or within the Meditation Circle zone. As long as you have at least one hero, you can send them on a Wishing Well quest, which will deplete their stamina and gift you with a possibility to receive some of Gaia's Tears. There is a chance to receive no tears per quest.
+Alcuni giocatori hanno aggiunto le loro Gaia's Tears (DFKTEARS) ad una Pool di Liquidità (JEWEL-DFKTEARS) nel Marketplace.
 
-Some players have added their Gaia's Tears (DFKTEARS) to a JEWEL-DFKTEARS liquidity pool in the Marketplace.
+### Non ho ricevuto il nuovo Eroe dopo l'Evocazione!
 
-### I didn't receive a new Hero from summoning!
+Dopo aver infuso un Cristallo con l'essenza di due Eroi, deve essere portato al Portale di Evocazione per richiamare l'eroe dai meandri del Bosco Interno.
 
-Once you infuse a crystal with the essence of two heroes, it must be brought to the summoning portal to bring the hero forth from the Inner Grove.
+Se non vedi il Cristallo Infuso dopo che la transazione di Evocazione è andata a buon fine, prova ad aggiornare la pagina ed aprire MetaMask per alcuni secondi (preferibilmente nella schermata delle risorse). Potrebbe essere necessario provare più volte, ma questo dovrebbe permetterti di visualizzare il Cristallo Infuso.
 
-If you do not see the Infused Crystal after the summoning transaction successfully goes through, please try to refresh the page and open MetaMask for a few seconds (preferably on the Asset overview). You may have to try several times, but this should allow you to see the Infused Crystal.
+## STATS EROI, QUESTS, E PROFESSIONI
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) HERO STATS, QUESTS, AND PROFESSIONS
+### Quali sono le diverse Rarità e che cosa comportano?
 
-### What are the different Hero rarities and what do they do?
+Gli Eroi evocati possono essere delle seguenti [Rarità](gameplay/heroes/rarity.md), indicate dal colore del bordo della carta:
 
-Summoned heroes may be of the following rarities, indicated by the color of the card border:
+* **Mythic (Viola)**
+* **Legendary (Arancione)**
+* **Rare (Blu)**
+* **Uncommon (Verde)**
+* **Common (Grigio)**
 
-* Mythic (Purple)
-* Legendary (Orange)
-* Rare (Blue)
-* Uncommon (Green)
-* Common (Grey)
+Gli Eroi di Rarità superiore vengono evocati con valori delle [Statistiche](gameplay/heroes/stats.md) aumentati. Anche gli Eroi rari o superiori ricevono bonus aggiuntivi alle Stats ogni 5 livelli.
 
-Higher rarity heroes are summoned with increased stat values. Heroes that are Rare or above also receive additional stat increases every 5 levels. [Read more about hero stat values](https://defikingdoms.medium.com/breaking-down-advanced-hero-classes-stats-and-rarities-ce745dc5024).
+### Come posso sapere se il mio Eroe è forte?
 
-### How do I know if my Hero is good?
+Pensiamo che ogni Eroe sia prezioso! Ma diverse Classi di Eroi e combinazioni di Statistiche possono essere più utili a determinate attività, siano esse particolari Quests, Professions o PVP. Controlla se le Statistiche potenziate del tuo Eroe (in verde, blu o viola) sono in linea con la Profession scelta (in verde) o con le [Statistiche associate alla sua Classe/Cottoclasse](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=2115998520)
 
-We think that every hero is valuable to someone! But different heroes' classes and stat combinations may lend themselves to certain activities, whether particular quests, professions, or PVP. Look to see if your hero's boosted stats (in green, blue, or purple) align with their chosen profession (in green) or their [class/subclass's associated stats](https://docs.google.com/spreadsheets/d/1jfG6E6otW1V6ZLQycF5DumoBr\_LrpQaz7cTmDPpwV2s/edit#gid=785443787) (Google Docs link).
+Alcune Classi, Professioni, Rarità e Caratteristiche visive possono anche essere più desiderabili per i giocatori a seconda del loro stile di gioco.
 
-Certain classes, professions, rarities, and visual attributes may also be more desirable to players depending on their playstyle.
+### Cosa sono le Stats Verdi/Blu/Viola del mio Eroe?
 
-### What are the Green/Blue/Purple stats on my Hero?
+I geni di ogni Eroe danno un aiuto a due Statistiche e lo rendono naturalmente incline ad una Professione. I geni delle Statistiche sono mostrati in **verde** e **blu** sul retro della carta Eroe. Se i due geni sono entrambi per la stessa Statistica, verrà mostrato in **viola**.
 
-Each hero's genes give it a boost to two stats, and make it naturally inclined toward one profession. Stat boosts are shown in green and blue on the back of the Hero card. If the two stat boosts are both for the same stat, it will be shown in purple.
+Esistono due tipi di geni delle Statistiche, ed ogni Eroe ne ha uno per ciascuno:
 
-There are two kinds of stat boosts, and every hero has one of each:
+* Un bonus una tantum +2 a quella Statistica (**verde**)
+* Un bonus continuo del +2% al valore di crescita primaria della Statistica dell'Eroe, ed un bonus del +4% al suo valore di crescita secondario della Statistica dell'Eroe (**blu**). Questi valori aumentano la probabilità che le Statistiche aumentino quando l'Eroe sale di livello.
 
-* A one-time +2 bonus to that stat number (green)
-* An ongoing +2% bonus to the hero's Primary Growth Stat Value and +4% bonus to their Secondary Growth Stat Value (blue). These values increase the likelihood that stat will increase when the hero levels up.
+Gli Eroi riceveranno un bonus quando effettuano Profession Quests che corrispondono al loro gene della Professione (**verde**).
 
-Heroes will receive a nice bonus when doing profession quests that match their profession gene (green).
+### Come funzionano le Professioni?
 
-### How do Professions work?
+Per gli Eroi, sono disponibili quattro diverse [Professions](gameplay/professions/): Gardening, Mining, Fishing e Foraging. Ogni Professione ha un'abilità (skill) ad essa associata che ha la possibilità di aumentare ogni volta che un Eroe esegue una missione di Professione associata. Man mano che queste abilità aumenteranno, aumenterà anche la capacità dell'Eroe di guadagnare ricompense da quella Professione. Inoltre, ciascuna di queste Professioni ha un gene ad essa associato (in **verde** sulla tua carta Eroe). Gli Eroi ricevono vantaggi aggiuntivi quando svolgono missioni di Professione che corrispondono al loro gene di Professione.
 
-Four different professions are available to heroes: Gardening, Mining, Fishing, and Foraging. Each profession has a profession skill associated with it which has a chance to increase each time a hero does an associated profession quest. As those skills increase, so too will the hero’s ability to earn rewards from that profession. In addition, each of these professions has a gene associated with it (in green on your hero card). Heroes receive additional benefits when doing profession quests that match their profession gene.
+Impegnarsi in una Profession Quest consuma la Stamina del tuo Eroe. Il Mining ed il Gardening drenano la Stamina ad una velocità fissa di 10 minuti, come indicato nel menu delle Quests. Questo consente all'Eroe di svolgere queste missioni per periodi di tempo più lunghi, fino a quando non esaurisce la sua Stamina o fino a quando la missione non viene interrotta manualmente. Le missioni di Foraging e Fishing sono più brevi e consumano una maggiore quantità di Stamina per una durata minima, come mostrato nel menu delle Quests. Le missioni di Fishing e Foraging ti consentono di mettere in coda più tentativi di missioni in una transazione, fino all'importo massimo consentito dalla Stamina del tuo Eroe (in base al consumo di Stamina dato dalla presenza o meno del gene di Professione). Gli Eroi recuperano Stamina ad una velocità fissa di 1 ogni 20 minuti.\
+**Nota: gli Eroi non possono recuperare Stamina mentre sono impegnati in una missione.**
 
-Engaging in a profession quest uses your hero's Stamina. Mining and Gardening drain stamina at a fixed rate every 10 minutes, as indicated in the quest menu, allowing the hero to work these quests over longer periods of time until they run out of stamina or until you stop them. Foraging and Fishing quests are shorter, consuming a larger amount of mana over a minimal duration, as shown in the quest menu. Fishing and foraging quests allow you to queue multiple quest attempts in one transaction, up to the maximum amount allowed by your hero's stamina. Heroes recover stamina at a rate of 1 every 20 minutes. _Note: Heroes cannot recover stamina while engaged in a quest._
+## KINGDOMS / LANDS
 
-[Read more about Professions.](gameplay/professions/)
+### Cosa sono i Lotti di terreno?
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) KINGDOMS / LANDS
+I Regni, o Lotti, saranno un ulteriore tipo di NFT limitato in quantità ed altamente collezionabile. Man mano che la mappa del mondo verrà rivelata, i giocatori potranno acquistare Lotti di terreno dove potranno essere costruiti Edifici, e dove potranno aver luogo transazioni e missioni. I proprietari terrieri riceveranno una parte delle entrate generate dai loro Lotti!
 
-### What are Kingdoms/Land plots?
+### Come posso acquistare un Lotto o partecipare all'airdrop?
 
-Kingdoms, or land plots, will be an additional kind of NFT that is limited in quantity and highly collectable. As the world map is revealed, players will be able to purchase plots of land where buildings can be constructed, and transactions and quests can take place. Land owners will receive a portion of the revenue generated on their plots!
+25 Kingdom Plots sono stati assegnati a vincitori casuali, persone che possedevano almeno 5.000 xJEWEL nel proprio conto in Bank entro il 13 Novembre 2021 (per ogni 5000 xJEWEL aggiuntivi che un giocatore aveva in Bank, ha ricevuto 2 tickets extra nell'estrazione di vincitori casuali.)
 
-### How do I purchase land or participate in the land airdrop?
+Altri 25 Kingdom Plots verranno assegnati a vincitori casuali, persone che possedevano almeno 1.000 xJEWEL nel proprio conto in Bank entro il 13 Novembre 2021. Ulteriori Snapshots sono stati effettuati ogni 8-12 ore per 4 settimane, fino all'11 Dicembre 2021. Il numero totale di iscrizioni sarà determinato dalla quantità media di xJEWEL in tutti gli Snapshot, per tutti i titolari che si sono qualificati durante lo Snapshot iniziale. (Per ogni 1.000 xJEWEL in più che un giocatore aveva in Bank, riceverà 2 tickets extra.)
 
-25 Kingdom Plots will be given to random winners from people who had at least 5,000 xJEWEL tokens in their bank balance by Nov 13, 2021 _(For each additional 5000 xJEWEL a player has in the bank, they will get 2 extra entries in the drawing of random winners.)_
+I Lotti di terreno saranno disponibili per l'acquisto durante la [Fase 3 della Roadmap](../roadmap/phase-3-world-map-and-land.md). Solo i giocatori che partecipano attivamente al gioco livellando gli Eroi e svolgendo missioni/professioni potranno acquistare Lotti di terreno.
 
-25 more Kingdom Plots will be given to random winners from people who had at least 1,000 xJEWEL tokens in their bank balance by Nov 13, 2021. Additional snapshots will be taken every 8 to 12 hours for 4 weeks, ending on Dec 11, 2021. Total number of entries will be determined by average amount of xJEWEL across all snapshots for all holders who qualified during the initial snapshot. _(For each additional 1,000 xJEWEL a player has in the bank, they will receive 2 extra entries.)_
+## VARIE
 
-Land plots will be available for purchase during [Phase 3 of the Roadmap](https://github.com/dfk-ita/docs/blob/master/roadmap/phrase-3-world-map-and-land.md). **Only players who actively participate in the game by leveling heroes and doing quests/professions will be eligible to purchase land plots.**
+### DeFi Kindoms ha passato Verifiche di Sicurezza?
 
-## ![](https://dfk-hv.b-cdn.net/website-media/images/jewel-icon.png) MISCELLANEOUS
+Sì, un Audit di [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) è già stato completato. Il team si impegna a garantire la sicurezza e la stabilità del progetto e sono in corso ulteriori [Audit](../important/audit-results.md).
 
-### Is DeFi Kingdoms being audited?
+### Il team di sviluppo è doxxed (nomi reali rivelati)?
 
-Yes, an audit by [Solidity.Finance](https://solidity.finance/audits/DefiKingdoms/) has already been completed. The team is committed to ensuring the safety and stability of the project, and additional [audits](../important/audit-results.md) are in the works.
-
-### Is the team doxxed?
-
-The team is not currently doxxed for personal reasons, though many of them would like to do so in the future. They encourage you to view their [track record of development](../roadmap/) and commitment to the project, examine the [smart contract audit](../important/audit-results.md), attend the weekly team AMAs (Mondays at 18:00 UTC) on our [Discord server](https://discord.gg/defikingdoms), and, of course, to [DYOR](../important/dyor-disclaimer.md).
+Il Team non è attualmente doxxato per motivi personali anche se molti di loro vorrebbero farlo in futuro. Alcuni di loro lo sono con i volti in quanto DeFi Kingdoms ha già partecipato a diverse conferences globali come [BitBasel](https://twitter.com/bitbaselmiami), [DCentralCon](https://twitter.com/DcentralCon) ([foto di gruppo ;)](https://twitter.com/AbrahamOne4all/status/1466435426395246598)),e tante altre. Ti incoraggiamo a visualizzare il nostro [track record di sviluppo](../roadmap/) ed impegno per il progetto, ad esaminare l'[Audit dello Smart Contract](../important/audit-results.md), a partecipare agli AMA settimanali dei vari reparti del Team (lunedì alle 20:00 CEST (Roma) sul nostro server [Discord](https://discord.gg/defikingdoms) e, naturalmente, a [DYOR](../important/dyor-disclaimer.md).
