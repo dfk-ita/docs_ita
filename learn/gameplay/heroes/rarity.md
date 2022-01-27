@@ -8,25 +8,17 @@ I seguenti simboli appaiono al centro della carta del tuo Eroe, indicando il lor
 
 ![](<../../../.gitbook/assets/common gem 1.png>) **Common**
 
-***
-
-\*\*\*\* ![](<../../../.gitbook/assets/uncommon gem 1.png>) **Uncommon**
-
-***
+&#x20;![](<../../../.gitbook/assets/uncommon gem 1.png>) **Uncommon**
 
 ![](<../../../.gitbook/assets/rare gem 1.png>) **Rare**
 
-***
-
 ![](<../../../.gitbook/assets/legendary gem 1.png>) **Legendary**
-
-***
 
 ![](<../../../.gitbook/assets/mythic gem 1.png>) **Mythic**
 
 ## Rarità ed Evocazioni
 
-La rarità di un Eroe è influenzata dalla rarità degli Eroi usati per infondere il Cristallo di Evocazione.
+La Rarità di un Eroe è influenzata dalla rarità degli Eroi usati per infondere il Cristallo di Evocazione.
 
 ![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
