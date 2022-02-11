@@ -54,45 +54,47 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ### **FISH:**
 
-**Bloater:** `0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432`
+![](https://lh5.googleusercontent.com/sneOzzmOYXHqP06W-L9DBQfm9QrrlORLndMAYtenboaf6eCnGFeeg7PcOhthtGTkDInWMZ8P4CJSNioI3\_otE6g3zS6xy-me2urgJrr-Ds3kVsmQzVoW9WGOQYVOylt0Uk-yV7lcMO5W)**Bloater:** `0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432`
 
-**Ironscale:** `0xe4Cfee5bF05CeF3418DA74CFB89727D8E4fEE9FA`
+![](https://lh3.googleusercontent.com/krRDBDvJiZtq-5UZqreEp0hvyQ\_xaQfefLydDrHjmdxmDv2Fs1Ffb9MZKFctd8snIiMiFTKqejQh38P2Bq0eLwKZCL4dNfaHoH6xaiU8cGEjZ9eygfSBHCmPDNVWGsz3vrbuTU\_DiNpp)**Ironscale:** `0xe4Cfee5bF05CeF3418DA74CFB89727D8E4fEE9FA`
 
-**Lanterneye:** `0x8Bf4A0888451C6b5412bCaD3D9dA3DCf5c6CA7BE`
+![](https://lh3.googleusercontent.com/pyf3HMxCKSfUyAIA3LQX1z3xbJqw7b\_eZIzrGYP2\_qdxvST9IAti8oLVAWdH7DesgJKV2PntA6\_AoBLgmCPYBH\_hfXh2t3VUMhqS5i9mlXMqpQEUCiKsM8yjMPC5qXF6C-yLCRHnPqcV)**Lanterneye:** `0x8Bf4A0888451C6b5412bCaD3D9dA3DCf5c6CA7BE`
 
-**Redgill:** `0xc5891912718ccFFcC9732D1942cCD98d5934C2e1`
+![](https://lh3.googleusercontent.com/x93YYm6LNuO7zq6cJ\_Ylv-7oOVcoNW5D4b-TsgX\_JtVBbmGh75rguGOoiLS\_tAFGiWE3cFfxIF6b7o4q9X8OUPTI5IZxt3lWMp4GQePCrxDLMxX0jkOAAlEOM2PlCN9c0wESn1CvpQMc)**Redgill:** `0xc5891912718ccFFcC9732D1942cCD98d5934C2e1`
 
-**Sailfish:** `0xb80A07e13240C31ec6dc0B5D72Af79d461dA3A70`
+![](https://lh3.googleusercontent.com/6hLdFFVNthZ91qyGh2MrgcmCyEqqhmk3z0P0\_I2\_Pmwh693WhJzADwYm7fNi0kK3sVN5CvHHqHXv4jWdAYBQSHLtNKq0GCzWAGhkde6sbxiUsfRMpuBhWX7kbrj87Ck2xEJEZzcPaIgo)**Sailfish:** `0xb80A07e13240C31ec6dc0B5D72Af79d461dA3A70`
 
-**Shimmerskin:** `0x372CaF681353758f985597A35266f7b330a2A44D`
+![](https://lh5.googleusercontent.com/ofM3ppi\_zpRtg2Qx-rIG16xl9QlUZCf7usc1mqrxt4YzGENCxSiMpwSKpzBoqCxXTFjLMAJfy0TY24S0bIuziF4UExgvsN-s7zGWpAUk5eVM963u4WyJI\_1ycLPpw8K0Z3q3kuvxoP1Y)**Shimmerskin:** `0x372CaF681353758f985597A35266f7b330a2A44D`
 
-**Silverfin:** `0x2493cfDAcc0f9c07240B5B1C4BE08c62b8eEff69`
+![](https://lh4.googleusercontent.com/z4n3owHXcYUxrhYod6D6RhKh2qiUFuI9lrJb16kUDJ9DP4lmyuwEEv9vCctJoKi2dgTu0NxxiQiUw7s2UjbxOkzyYbF8oBNvP661rAzxwDAHeT3n5AHNQMoMKU9SPhGVZR5k9FPsa0qd)**Silverfin:** `0x2493cfDAcc0f9c07240B5B1C4BE08c62b8eEff69`
 
 ### **RUNES:**
 
-**Shvas Rune:** `0x66F5BfD910cd83d3766c4B39d13730C911b2D286`
+![](https://lh3.googleusercontent.com/xw5c9HWp1LXl8R-q9IQPp8GF\_K4JNP4krymhAEhd6Dv4SC7EQZqljkoXgj1WSMtZ8eHkvvIAXNF53aOZXgJuHQCwVSKaKiKcVpsXhYSGvr4Rd1N8U1S\_oIxdyeV8\_E1L36joz\_\_gqZd\_)**Shvas Rune:** `0x66F5BfD910cd83d3766c4B39d13730C911b2D286`
 
 ### **PETS:**
 
-**Blue Pet Egg- Fishing:** `0x9678518e04Fe02FB30b55e2D0e554E26306d0892`
+![](https://lh3.googleusercontent.com/DXjVk7BIrJEG5TIt-dwYjW5QWZ6oKZqHkFBcd8gnql0FpV3zeoWV565g7uPYigNW9H4g2yui0n7dL5itLz9HGyx6DELjgzJPsBaEM0ja-k8fZljHNXMRYen6AUL6uZJI4qZaI8bThcvH)**Blue Pet Egg- Fishing:** `0x9678518e04Fe02FB30b55e2D0e554E26306d0892`
 
-**Green Pet Egg-Gardening:** `0x6d605303e9Ac53C59A3Da1ecE36C9660c7A71da5`
+![](https://lh4.googleusercontent.com/kg\_3vB3wBI2tFvC18CgLlXAbQRXosykF0M5wJ59Ptdy1zVdXV1TfQc5Ya2ggwfsDtQU5DKIAZnMbqGiJpvcsDxuCfYRirZKEuNuqRpb5QR73DT84-BeDQJxCyYQjj9qn9jsngJvDfZlH)**Green Pet Egg-Gardening:** `0x6d605303e9Ac53C59A3Da1ecE36C9660c7A71da5`
 
-**Grey Pet Egg-Foraging:** `0x95d02C1Dc58F05A015275eB49E107137D9Ee81Dc`
+![](https://lh5.googleusercontent.com/RED-2jB1xSSZZRtQKrGPztD-lFTG3Qk\_gyfmoLr7bSL-nVIYX7xtlEbV4Yl20CTKfz32Sqa1lJrY52LJhjvYw7mqSLj8c\_e5bJujHL7X7YqKOjtvgY6JrC3qnSZ1ZY0UChl9jIYGNP10)**Grey Pet Egg-Foraging:** `0x95d02C1Dc58F05A015275eB49E107137D9Ee81Dc`
 
-**Yellow Pet Egg- Mining:** `0x3dB1fd0Ad479A46216919758144FD15A21C3e93c`
+![](https://lh4.googleusercontent.com/5ufO6QFvBptAg650gqWkf92O54Qa\_Osv9ViCCfHOS0Zzph0bW85Wepjl9DIyz6pPW3CeN7nfalLW6VIsop0XMIgrlhfR9OqSP3VVoRvB6Hhmy7jixJlCPEo7M5aJDDKlB9dz3usN6vdT)**Yellow Pet Egg- Mining:** `0x3dB1fd0Ad479A46216919758144FD15A21C3e93c`
 
-**Golden Egg- Vendor Zada:** `0x9edb3Da18be4B03857f3d39F83e5C6AAD67bc148`
+![](https://lh3.googleusercontent.com/MYMUAAyJDII94AsYRWbrktqbDmiRJEdzB4zXIXIfQCpNY6Vr4KK7csKkJHXQzfCJ-xWrApFKf3yqcAlUL30VlwXAnDABV1JKh2U-c9Z-SeVVWlDwcZdo88bWBqLdDwYq0SjPDGZ0yO1V)**Golden Egg- Vendor Zada:** `0x9edb3Da18be4B03857f3d39F83e5C6AAD67bc148`
 
 ### ATONEMENT CRYSTAL:
 
-**Atonement Crystal:** `0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d`
+![](https://lh4.googleusercontent.com/0k8Gito10nIIB3OMDVRUjICOaKMYAGd\_CglcWoATPIK4YCxyoVzkii3O4Ah7JkMa\_tzs6r\_SMg-Goxry7anfsPr09ixXKWi8mDTpbnL\_RW6D\_sbDUExJu7FKXbJUAScxC8zriBQ6zLXi)**Greater Atonement Crystal:** `???`
 
-**Lesser Atonement Crystal:** `0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf`
+![](https://lh5.googleusercontent.com/pR4jEFytgxWh8v1tKkPz34CkTTi3u90mY\_dXe9fQdAq3mTL-ycPH\_1C-58V3\_IusEBDmtZazYs0\_OKYR3jgy3njDDLwB5mW4mlChwfy15H1qJRen4cxJEVCvk4hR4jiViH3xrHxyDFpN)**Atonement Crystal:** `0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d`
+
+![](https://lh5.googleusercontent.com/FrhDNY-un\_8mq7-fd4IryWt3w7GAFoZFYYgLttqn3NMAglktdnVctpR1aZNFS87cT-sqIyuWinYT91si8bMXRBwSHmZ3jjYyUSaq9oCab55-p1Srz2tmq8dLjklTEFkGh3vNwfxPpp9M)**Lesser Atonement Crystal:** `0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf`
 
 ### **ENHANCEMENT STONES:**
 
-**Lesser Chaos Stone:** `0x6D4f4bC32df561a35C05866051CbE9C92759Da29`
+![](https://lh6.googleusercontent.com/MQzEVLpS7mg0AgzOfO3ohDpvZJv6jVoh30J1WBNy\_17Sl71GIOZ9ApPxrUqmaEzO8IUGbhGH8N1ffRsH6CBdE7D1dIX-rM9tmPIkJjnmbg9YSRBX7mqrIc3bwNbOAEyiic4Tsic0p5Wm)**Lesser Chaos Stone:** `0x6D4f4bC32df561a35C05866051CbE9C92759Da29`
 
 ### **POTIONS:**
 
