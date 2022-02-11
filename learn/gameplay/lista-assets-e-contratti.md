@@ -32,25 +32,25 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ### **PLANTS:**
 
-**Ambertaffy:** `0x6e1bC01Cc52D165B357c42042cF608159A2B81c1`
+![](https://lh4.googleusercontent.com/xv1PAjQjW2c7o5UkvdlP04CgA4dOPxvxTECFVAw9bX\_mxArqAhsd0Ew5\_RwfQVFPpCMOsURVmWnsA4LKp3bA2D9Mth3jzwxcH7Ql9-VBL5jpZOvdJ3WfN4j3giy4KAB6aqfnL07tdoIn)**Ambertaffy:** `0x6e1bC01Cc52D165B357c42042cF608159A2B81c1`
 
-**Milkweed:** `0xc0214b37FCD01511E6283Af5423CF24C96BB9808`
+![](https://lh6.googleusercontent.com/nh\_HuGnyFPUexakZAZMB8fBUPMUcF0PV\_Dzzo2Gnbg6F4ygLPbFwzpbubyKIBZhQzQGKs2j0qgFE3cfJnqy0U9vWeQMq64LRIWRyrqSVTnpCkT\_E0nOUGjrxKaciOrG-8-3k5Z\_sXFOv)**Milkweed:** `0xc0214b37FCD01511E6283Af5423CF24C96BB9808`
 
-**Darkweed:** `0x68EA4640C5ce6cC0c9A1F17B7b882cB1cBEACcd7`
+![](https://lh6.googleusercontent.com/c8-91Y0jQ-Vz0VYKvXJCxKLBoudB61dGT7NzalzdTlcbtt1GPJLUDhxz2rUJJ3rZvvR9UmHwUc1qXzvh71XRtR8eDQ2rsUCapyhXMhGML58ENq7p6GrPMLwURuzCWNFACU8YjEv7K2LH)**Darkweed:** `0x68EA4640C5ce6cC0c9A1F17B7b882cB1cBEACcd7`
 
-**Goldvein:** `0x600541aD6Ce0a8b5dae68f086D46361534D20E80`
+![](https://lh6.googleusercontent.com/mRKKhrLLxaEBl81jkDihxAmyOCvc\_LA\_a780LmPbqvcacUkDisavA45s-Wr4nT9127gAeOrACT5Lo\_okHxwpH0kSf3ThQ2FPPcW7rYeGBbtaNDHAgGfSkfFXNTV81Oyh2BnI3iwUFjmV)**Goldvein:** `0x600541aD6Ce0a8b5dae68f086D46361534D20E80`
 
-**SpiderFruit:** `0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881`
+![](https://lh3.googleusercontent.com/2XW\_YIkqh655mjHZ851qT6h9JrkyCzXuGiG6lO7rTB8cPGtrk\_hbLbu3D36IXUenD\_jskixOGqpb5QVcT-KF2ye9gHo6kBXqnGpdpDY8ayYHLkgDgdC9RZNITwxG39lhvLRpMZzOAcCJ)**SpiderFruit:** `0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881`
 
-**Ragweed:** `0x043F9bd9Bb17dFc90dE3D416422695Dd8fa44486`
+![](https://lh4.googleusercontent.com/C57L6sVTjXIIgfDbppNgzmS2WaiEalDa8tKbviY-UJq-4uceSCH4oG5xDyl6U5TvKaPDbkHXVFRY84JVZUdBu3SXcOiKCgEXTYyurp5LdCO2\_-xDdPJef1RgrhEUFPxowLS\_iYWG7tqE)**Ragweed:** `0x043F9bd9Bb17dFc90dE3D416422695Dd8fa44486`
 
-**Redleaf:** `0x094243DfABfBB3E6F71814618ace53f07362a84c`
+![](https://lh6.googleusercontent.com/54Bl9Ygs9qwGUg5azekV6sRVUR9II0zn2YyNUQGiZet3ipon8MravEiVmjZuat5m8ssDmoKjAX631WEf-a4Dy2bUqNjJqkHQU85FKUN2N9Y1n8D1UPHt5ItIysCU\_EhqIjnmWBojFK04)**Redleaf:** `0x094243DfABfBB3E6F71814618ace53f07362a84c`
 
-**Rockroot:** `0x6B10Ad6E3b99090De20bF9f95F960addC35eF3E2`
+![](https://lh5.googleusercontent.com/aFZx1hqP2rZMdHG1rjpVtKCRWP\_bkKSJf-aYwjvNphKf9KRNFgw0Zs9s0e0CF8w\_ZRS22ddjd0S3VCghjnLLRjPdBb-2BRXscKaIW2pckpGXyn97k\_aIYDPmtnhYqzy0pajytX08Jc7E)**Rockroot:** `0x6B10Ad6E3b99090De20bF9f95F960addC35eF3E2`
 
-**Blue Stem:** `0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9`
+![](https://lh4.googleusercontent.com/CGj\_WfOvwiXZD34K-Gc\_dwpEwFS8dyLR3sln4oRCGqHZ1jPBFeqNfJM-vMlcSznXcFAvuG2yg1-fPCszH\_YGAdHuuCjiCz8R6ha0NF6hforou6zspyhAxqNHuIwJSCuJXEFD75euAmaD)**Blue Stem:** `0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9`
 
-**Swift-Thistle:** `0xCdfFe898E687E941b124dfB7d24983266492eF1d`
+![](https://lh5.googleusercontent.com/MMKz-aBj-UgZeSfR2palHGCg4RdxKXhzY7SI003c9KCIHiL\_m24HQS5epYfvBA0lF0GxYiSKUE3ixbz71ng-aKDx3J5Il8ArafMFi8Lp9vqqwYH-DWcwIIdunWLj\_62jZCq8KtcKoz7R)**Swift-Thistle:** `0xCdfFe898E687E941b124dfB7d24983266492eF1d`
 
 ### **FISH:**
 
@@ -96,25 +96,25 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ### **POTIONS:**
 
-**Health Vial:** `0x2789F04d22a845dC854145d3c289240517f2BcF0`
+![](https://lh5.googleusercontent.com/CfIX09-ntABfEU0QZbrkdAVOvGjN75QT9C9KG97cXEU8O3uiyeVJUa4MdiF2mRKrUWSuDK85UqGuAFnd9DANh76kCpZslqrTrf7BPx7XS3-KVwqqDbLR3QmeteyBs4QEM0s3EtSxmRVk)**Health Vial:** `0x2789F04d22a845dC854145d3c289240517f2BcF0`
 
-**Full Health Potion:** `0x87361363A75c9A6303ce813D0B2656c34B68FF52`
+![](https://lh4.googleusercontent.com/Z3Df-DzlO6Jr4L07aIznqOG38wkcd8yvl4Zn02UYLkD3ogq3uD48hs0uOA1li8UGZt8IZqqClq7BQtOQtnAeUKT0ygy4m26zZiriRnQZe1AiTgKkJZVjaqT28TSTTTSm5wwmpFZjKa4A)**Full Health Potion:** `0x87361363A75c9A6303ce813D0B2656c34B68FF52`
 
-**Mana Vial:** `0x19b020001AB0C12Ffa93e1FDeF90c7C37C8C71ef`
+![](https://lh4.googleusercontent.com/nLV44VRAnmjV84ciQV4\_8daI7T0YvQt2JGURHoE\_YPgoOqrDAd7WhDY1dWRUqpH8zDmH2HXTLixOXVXHQWfRX8f7l5aF6KhEtDwMvUlk\_XLuCgbFKfZLFO\_ZOZAv1EhPRE-j2qYS25JM)**Mana Vial:** `0x19b020001AB0C12Ffa93e1FDeF90c7C37C8C71ef`
 
-**Full Mana Potion:** `0xDc2C698aF26Ff935cD1c50Eef3a4A933C62AF18D`
+![](https://lh5.googleusercontent.com/lmOwp1yoTBBFuVEVIw8MgtfOwZ8AlGSAVnzWHIvrUFYj6RK5LIwY7dLSYwhHLKP8j7aPUqgQe0fzUvIqLEZWDyIsRV2gDpUj\_AoIURZApkpy5aPc\_ECnuOUDqtQ3hf5b4lpENPbSUNkO)**Full Mana Potion:** `0xDc2C698aF26Ff935cD1c50Eef3a4A933C62AF18D`
 
-**Stamina Vial:** `0x959ba19508827d1ed2333B1b503Bd5ab006C710e`
+![](https://lh3.googleusercontent.com/Tlz45Uo1033DjusTWGEXUoV2eUNHHR8c6Ri8E\_uRa8czuP5vnkOrQYvYUfjE8jzX\_CbaYOGzZsdJXznNJkATrTXMSCEfdvh4o\_JUwqI\_vn6dAsTENjZCKrtQkftaR9K832nx5PpXXoOZ)**Stamina Vial:** `0x959ba19508827d1ed2333B1b503Bd5ab006C710e`
 
-**Anti-Poison Potion:** `0xA1f8b0E88c51a45E152934686270DDF4E3356278`
+![](https://lh6.googleusercontent.com/-FZ\_gy6awzVbtP6EzSZjMftDcT8CImZbJIcVJcGl7xCZthtT79C1k08pkBENJ1UaNEwMXn81eVD2j70bQzRBgJ5EQMs6hl8XfOdMc4OVC5-gRHBXr0oVlXmKcoanSk7meJXYcMHYG4td)**Anti-Poison Potion:** `0xA1f8b0E88c51a45E152934686270DDF4E3356278`
 
-**Anti-blinding Potion:** `0x1771dEc8D9A29F30d82443dE0a69e7b6824e2F53`
+![](https://lh4.googleusercontent.com/Qw934tY\_XmTPkMePr\_4KeV-GMBCtBCzZjJpls\_Mf9q423gC5cviVRM\_Av\_LomyzVfyUn5c7ev\_JMzgxOeYkDsRbCC5-5C3pQ6UWb-ZYjYVaKBS55zCb2wxVIVHzW1SncsIdv5KG-s8xN)**Anti-blinding Potion:** `0x1771dEc8D9A29F30d82443dE0a69e7b6824e2F53`
 
-**Magic Resistance Potion:** `0x7e120334D9AFFc0982719A4eacC045F78BF41C68`
+![](https://lh3.googleusercontent.com/Jywsp1w3RojqxLzgfow9VKy3DzWxFaPY1-Oxd9TnV-0C\_wiJbA4kMuwn9etjnvDvohYs91DR1JkDaVu57KkY-2rlU1sBhVwjkhdWBKbNq4rh\_cFakgW-dbq9lIo8JEullr6f7f6Jc3yy)**Magic Resistance Potion:** `0x7e120334D9AFFc0982719A4eacC045F78BF41C68`
 
-**Toughness Potion:** `0xFb03c364969a0bB572Ce62b8Cd616A7DDEb4c09A`
+![](https://lh4.googleusercontent.com/fpdNlLkft-EqnWgqPmSrwlcAXW9NTpf5snSBPOvjSYd1UwaYpbbZ2Fw\_TKND7UgQbbH5jrAQqCKV\_BESnYERBircSJloMiFGC4fB3gcIX7xGZvYPPdlntAmETM5eToxRCUo8tEb8ycr-)**Toughness Potion:** `0xFb03c364969a0bB572Ce62b8Cd616A7DDEb4c09A`
 
-**Swiftness Potion:** `0x872dD1595544CE22ad1e0174449C7ECE6F0bb01b`
+![](https://lh6.googleusercontent.com/3g3IcfYZ1spCrVX5vKgrfrE2NNCKWSbB7zxIPcmx5Vk6KjCf\_ArtIMtIVz6VCkzbfBPEjYuu3RR5hxRi0tgZbxxDZfRhl1BW6t2LUR4uw8WpI4a\_lsF9BEjORlMOjiKXgud9xJoUg9gl)**Swiftness Potion:** `0x872dD1595544CE22ad1e0174449C7ECE6F0bb01b`
 
 ``
 
