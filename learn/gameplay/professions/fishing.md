@@ -20,9 +20,9 @@ Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi
 
 **Ironscale** - 9.015%
 
-**Redgill** - 6.015%
-
 **Lantern-eye** - 9.015%
+
+**Redgill** - 6.015%
 
 **Silverfin** - 1.015%
 

@@ -26,11 +26,11 @@ description: Informazioni riguardanti le Gardening Quests di livello 0
 
 ### **Drop Rates Quest livello 0:**
 
+**Bluestem** - 9% (per 5 Stamina spesi)
+
 **Spiderfruit** - 6% (per 5 Stamina spesi)
 
 **Milkweed** - 4% (per 5 Stamina spesi)
-
-**Bluestem** - 9% (per 5 Stamina spesi)
 
 **Uovo Verde** - .02% (per 10 Stamina spesi)
 

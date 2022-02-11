@@ -32,6 +32,7 @@
     * [Gardening](learn/gameplay/professions/gardening.md)
     * [Gold Mining](learn/gameplay/professions/gold-mining.md)
     * [JEWEL Mining](learn/gameplay/professions/jewel-mining.md)
+    * [Recap Drop Rates](learn/gameplay/professions/recap-drop-rates.md)
   * [Jeweler](learn/gameplay/bank.md)
   * [Portal](learn/gameplay/portal.md)
   * [Tavern](learn/gameplay/tavern.md)

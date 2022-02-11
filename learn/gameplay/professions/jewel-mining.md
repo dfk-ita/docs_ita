@@ -42,8 +42,8 @@ Inoltre, per ogni 15 Stamina consumati dal **Lead Miner**, c'è una probabilità
 
 ### **Drop Rates Quest livello 0:**
 
-**Shvās rune** - 0.3% per 5 Stamina spesi, aumentato a 1.5% con Mining come Professione principale
+**Gaia's Tears** - 7% per 5 Stamina spesi, aumentato a 10.75% con **Mining** come Professione principale
 
-**Gaia's Tears** - 7% per 5 Stamina spesi, aumentato a 10.75% con Mining come Professione principale
+**Shvās rune** - 0.3% per 5 Stamina spesi, aumentato a 1.5% con **Mining** come Professione principale
 
 **Uovo Giallo** - 0.02% (per 10 Stamina spesi)
