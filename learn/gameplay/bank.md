@@ -1,6 +1,10 @@
+---
+description: ex Bank
+---
+
 # Jeweler
 
-![](<../../.gitbook/assets/Schermata 2022-01-27 alle 13.09.59.png>)
+![](<../../.gitbook/assets/Schermata 2022-02-11 alle 15.57.33.png>)
 
 Il **Jeweler** è un luogo in cui **depositare i propri JEWEL** per guadagnare i premi derivanti dalla **condivisione delle trading fees di JEWEL**. Quando depositi i tuoi JEWEL dal **Jeweler**, ricevi **xJEWEL** in cambio, ad un rapporto che puoi controllare nel menù del Teller. Il rapporto tra xJEWEL e JEWEL cresce nel tempo. Quando **prelevi**, ricevi JEWEL in base al rapporto corrente. Poiché questo rapporto non diminuisce mai, non potrai mai ricevere meno JEWEL rispetto a quanto hai depositato. Puoi depositare e prelevare in qualsiasi momento, senza commissioni.
 
