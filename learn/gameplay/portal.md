@@ -12,6 +12,6 @@ Per evocare, devi possedere almeno un Eroe. Il secondo può essere noleggiato da
 
 Il costo dell'Evocazione è determinato dalla Generazione dell'Eroe evocatore, insieme a quante volte è stato evocato prima. Inoltre, il numero minimo di **Gaia's Tears** è determinato dal rango degli Eroi evocatori. I costi di Evocazione aumentano per le Generazioni superiori e con ogni Evocazione eseguita da ogni singolo Eroe.
 
-Una volta selezionati gli Eroi e aggiunte eventuali **Gaia's Tears** o **Enhancement Stones** aggiuntive, l'Arch Druid fornirà un **Cristallo Infuso** che potrai portare al **Summoner** per aprirlo. Una volta aperto il Cristallo, potrai vedere il tuo nuovo Eroe attraversare il Portale in tutta la sua gloria!
+Una volta selezionati gli Eroi e aggiunte eventuali **Gaia's Tears, Enhancement Stones** o **Chaos Stones** aggiuntive, l'Arch Druid fornirà un **Cristallo Infuso** che potrai portare al **Summoner** per aprirlo. Una volta aperto il Cristallo, potrai vedere il tuo nuovo Eroe attraversare il Portale in tutta la sua gloria!
 
 Dovresti essere consapevole del fatto che tutti gli Eroi hanno un limite di Evocazioni disponibile, fatta eccezione per gli Eroi di Generazione 0. Inoltre, gli Eroi hanno un tempo di recupero dopo l'Evocazione che aumenta con ogni Evocazione successiva. Ulteriori dettagli sull'Evocazione, tra cui la ripartizione dei costi, gli alberi delle Classi e le probabilità di Rarità, possono essere trovati nella pagina principale dell'argomento dell'[Evocazione](heroes/summoning.md).
