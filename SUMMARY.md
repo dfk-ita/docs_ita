@@ -40,6 +40,7 @@
   * [Alchemist](learn/gameplay/alchemist.md)
   * [Docks](learn/gameplay/docks.md)
   * [Castle](learn/gameplay/castle.md)
+  * [Lista Assets e Contratti](learn/gameplay/lista-assets-e-contratti.md)
 * [Trama](learn/lore.md)
 * [FAQ - Frequently Asked Questions](learn/faq.md)
 

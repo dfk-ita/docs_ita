@@ -1,0 +1,121 @@
+# Lista Assets e Contratti
+
+## **DeFi Kingdoms Serendale (Harmony)**
+
+_Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utilizzando gli assets giusti!_
+
+**UniswapV2Factory:** `0x9014B937069918bd319f80e8B3BB4A2cf6FAA5F7`
+
+**UniswapV2Router02:** `0x24ad62502d1C652Cc7684081169D04896aC20f30`
+
+**JEWEL token:** `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
+
+**xJEWEL:** `0xA9cE83507D872C5e1273E745aBcfDa849DAA654F`
+
+**Bank:** `0xA9cE83507D872C5e1273E745aBcfDa849DAA654F`
+
+**Jeweler:** `0x3685Ec75Ea531424Bbe67dB11e07013ABeB95f1e`
+
+**MasterGardener:** `0xDB30643c71aC9e2122cA0341ED77d09D5f99F924`
+
+**Airdrop:** `0xa678d193fEcC677e137a00FEFb43a9ccffA53210`
+
+**Profiles:** `0xabD4741948374b1f5DD5Dd7599AC1f85A34cAcDD`
+
+**Hero:** `0x5F753dcDf9b1AD9AabC1346614D1f4746fd6Ce5C`
+
+**Gaia's Tears:** `0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04`
+
+**DFK Gold:** `0x3a4edcf3312f44ef027acfd8c21382a5259936e7`
+
+**Gardening Quest:** `0xe4154B6E5D240507F9699C730a496790A722DF19`
+
+### **PLANTS:**
+
+**Ambertaffy:** `0x6e1bC01Cc52D165B357c42042cF608159A2B81c1`
+
+**Milkweed:** `0xc0214b37FCD01511E6283Af5423CF24C96BB9808`
+
+**Darkweed:** `0x68EA4640C5ce6cC0c9A1F17B7b882cB1cBEACcd7`
+
+**Goldvein:** `0x600541aD6Ce0a8b5dae68f086D46361534D20E80`
+
+**SpiderFruit:** `0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881`
+
+**Ragweed:** `0x043F9bd9Bb17dFc90dE3D416422695Dd8fa44486`
+
+**Redleaf:** `0x094243DfABfBB3E6F71814618ace53f07362a84c`
+
+**Rockroot:** `0x6B10Ad6E3b99090De20bF9f95F960addC35eF3E2`
+
+**Blue Stem:** `0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9`
+
+**Swift-Thistle:** `0xCdfFe898E687E941b124dfB7d24983266492eF1d`
+
+### **FISH:**
+
+**Bloater:** `0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432`
+
+**Ironscale:** `0xe4Cfee5bF05CeF3418DA74CFB89727D8E4fEE9FA`
+
+**Lanterneye:** `0x8Bf4A0888451C6b5412bCaD3D9dA3DCf5c6CA7BE`
+
+**Redgill:** `0xc5891912718ccFFcC9732D1942cCD98d5934C2e1`
+
+**Sailfish:** `0xb80A07e13240C31ec6dc0B5D72Af79d461dA3A70`
+
+**Shimmerskin:** `0x372CaF681353758f985597A35266f7b330a2A44D`
+
+**Silverfin:** `0x2493cfDAcc0f9c07240B5B1C4BE08c62b8eEff69`
+
+### **RUNES:**
+
+**Shvas Rune:** `0x66F5BfD910cd83d3766c4B39d13730C911b2D286`
+
+### **PETS:**
+
+**Blue Pet Egg- Fishing:** `0x9678518e04Fe02FB30b55e2D0e554E26306d0892`
+
+**Green Pet Egg-Gardening:** `0x6d605303e9Ac53C59A3Da1ecE36C9660c7A71da5`
+
+**Grey Pet Egg-Foraging:** `0x95d02C1Dc58F05A015275eB49E107137D9Ee81Dc`
+
+**Yellow Pet Egg- Mining:** `0x3dB1fd0Ad479A46216919758144FD15A21C3e93c`
+
+**Golden Egg- Vendor Zada:** `0x9edb3Da18be4B03857f3d39F83e5C6AAD67bc148`
+
+### ATONEMENT CRYSTAL:
+
+**Atonement Crystal:** `0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d`
+
+**Lesser Atonement Crystal:** `0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf`
+
+### **ENHANCEMENT STONES:**
+
+**Lesser Chaos Stone:** `0x6D4f4bC32df561a35C05866051CbE9C92759Da29`
+
+### **POTIONS:**
+
+**Health Vial:** `0x2789F04d22a845dC854145d3c289240517f2BcF0`
+
+**Full Health Potion:** `0x87361363A75c9A6303ce813D0B2656c34B68FF52`
+
+**Mana Vial:** `0x19b020001AB0C12Ffa93e1FDeF90c7C37C8C71ef`
+
+**Full Mana Potion:** `0xDc2C698aF26Ff935cD1c50Eef3a4A933C62AF18D`
+
+**Stamina Vial:** `0x959ba19508827d1ed2333B1b503Bd5ab006C710e`
+
+**Anti-Poison Potion:** `0xA1f8b0E88c51a45E152934686270DDF4E3356278`
+
+**Anti-blinding Potion:** `0x1771dEc8D9A29F30d82443dE0a69e7b6824e2F53`
+
+**Magic Resistance Potion:** `0x7e120334D9AFFc0982719A4eacC045F78BF41C68`
+
+**Toughness Potion:** `0xFb03c364969a0bB572Ce62b8Cd616A7DDEb4c09A`
+
+**Swiftness Potion:** `0x872dD1595544CE22ad1e0174449C7ECE6F0bb01b`
+
+``
+
+_Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utilizzando gli assets giusti!_
