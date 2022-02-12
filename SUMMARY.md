@@ -21,6 +21,7 @@
 * [Come Cominciare](learn/getting-started.md)
 * [Gameplay](learn/gameplay/README.md)
   * [Heroes](learn/gameplay/heroes/README.md)
+    * [Atonement Crystal](learn/gameplay/heroes/atonement-crystal.md)
     * [Summoning](learn/gameplay/heroes/summoning.md)
     * [Stats](learn/gameplay/heroes/stats.md)
     * [Rarity](learn/gameplay/heroes/rarity.md)
