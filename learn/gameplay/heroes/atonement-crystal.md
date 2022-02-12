@@ -8,7 +8,7 @@ Gli **Atonement Crysta**l sono un oggetto creato per ricompensare i giocatori ch
 
 L' **Atonement Crysta**l fornirà un bonus di **+35 ai HP** e un bonus di **+10 MP** a qualsiasi eroe che lo usi mentre sale di livello. Questo tipo di cristallo può essere utilizzato solo una volta per eroe. Viene assegnato ai giocatori che hanno fatto salire di livello Eroi tra l'8 dicembre 2021 e il 10 dicembre 2021, data in cui è stata inviata una correzione al bug  di livellamento che garantiva solo piccoli guadagni di HP e MP. Questo oggetto è stato rilasciato il 2/2/2022.&#x20;
 
-### &#x20;![](<../../../.gitbook/assets/image (2).png>)Lesser Atonement Crystal
+### &#x20;![](<../../../.gitbook/assets/image (2) (1).png>)Lesser Atonement Crystal
 
 &#x20;Il **Lesser Atonement Crystal** fornirà un bonus di **+15 HP** a qualsiasi Eroe che lo utilizzi mentre sale di livello. Questo tipo di cristallo può essere utilizzato solo una volta per eroe. Viene assegnato ai giocatori che hanno fatto salire di livello Eroi tra il 10 dicembre 2021 e il 30 dicembre 2021 e hanno ricevuto il normale bonus HP prima della correzione di un bug dove il bonus HP acquisito da VIT veniva calcolato in modo errato. Questo oggetto è stato rilasciato il 2/2/2022.
 

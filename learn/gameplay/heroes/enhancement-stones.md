@@ -1,6 +1,6 @@
 # Enhancement Stones
 
-## Lesser Chaos Stone
+## ![](<../../../.gitbook/assets/image (2).png>) Lesser Chaos Stone
 
 una **Enhancement Stone** che, se usata durante il processo di **Summoning**, selezionerà casualmente una Statistica e fornirà i seguenti bonus all'Eroe appena evocato:&#x20;
 
