@@ -37,7 +37,7 @@ Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com
 
 Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md) o JEWEL in [Bank](gameplay/bank.md).
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md) o JEWEL dal [Jeweler](gameplay/bank.md).
 
 Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
 
@@ -63,25 +63,25 @@ JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gi
 
 ## GIOCO & MECCANICHE DEX
 
-### Qual'è la differenza tra Bank e Gardens?
+### Qual'è la differenza tra Jeweler e Gardens?
 
-La [Bank](gameplay/bank.md) è un pool a partecipazione unica per JEWEL. Quando depositi i tuoi JEWEL nella Banca, ricevi un importo proporzionale di xJEWEL. Poiché il rapporto tra JEWEL ed xJEWEL non fa che aumentare, quando prelevi dalla Banca riceverai sempre più JEWEL di quello che hai messo!
+Il [Jeweler](gameplay/bank.md) è una pool a partecipazione unica per JEWEL. Quando depositi i tuoi JEWEL dal Jeweler, ricevi un importo proporzionale di xJEWEL. Poiché il rapporto tra JEWEL ed xJEWEL non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL di quello che hai messo!
 
 I [Gardens](../how-defi-kingdoms-works/the-gardens.md) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL in cambio dello staking di questi token.
 
-Sebbene i Gardens forniscano rendimenti più elevati rispetto alla Bank, ciò comporta un rischio maggiore, inclusa l'Impermanent Loss (IL) se il valore dei token nella coppia cambia l'uno rispetto all'altro. Puoi saperne di più sulla perdita temporanea da [Binance Academy](https://academy.binance.com/it/articles/impermanent-loss-explained) o [guardando questo video.](https://www.youtube.com/watch?v=qkaBCIpvfIg\&t=1297s)
+Sebbene i Gardens forniscano rendimenti più elevati rispetto al Jeweler, ciò comporta un rischio maggiore, inclusa l'Impermanent Loss (IL) se il valore dei token nella coppia cambia l'uno rispetto all'altro. Puoi saperne di più sulla perdita temporanea da [Binance Academy](https://academy.binance.com/it/articles/impermanent-loss-explained) o [guardando questo video.](https://www.youtube.com/watch?v=qkaBCIpvfIg\&t=1297s)
 
 ### Qual'è la differenza tra JEWEL e xJEWEL?
 
-JEWEL è il token principale di DFK, utilizzato per molte transazioni in-game. Quando depositi JEWEL nella banca, ricevi xJEWEL, che è il token di governance di DFK. Tenere xJEWEL ti rende anche idoneo a ricevere airdrop per la Community ed altri premi.
+JEWEL è il token principale di DFK, utilizzato per molte transazioni in-game. Quando depositi JEWEL dal Jeweler, ricevi xJEWEL, che è il token di governance di DFK. Tenere xJEWEL ti rende anche idoneo a ricevere airdrop per la Community ed altri premi.
 
-### Quanto è l'APR / tasso di interesse della Bank?
+### Quanto è l'APR / tasso di interesse del Jeweler?
 
-Poiché i guadagni in Bank derivano dalle commissioni di trading che si verificano all'interno del gioco, non è previsto alcun APR o tasso di interesse. Durante i periodi di grande attività di gioco, il rapporto tra JEWEL ed xJEWEL aumenterà un po', mentre è rallentato in altri momenti.
+Poiché i guadagni del Jeweler derivano dalle commissioni di trading che si verificano all'interno del gioco, non è previsto alcun APR o tasso di interesse. Durante i periodi di grande attività di gioco, il rapporto tra JEWEL ed xJEWEL aumenterà un po', mentre è rallentato in altri momenti.
 
-### Che cosa fa il tasto "Claim" nella Bank?
+### Che cosa fa il tasto "Claim" del Jeweler?
 
-Il pulsante "**Claim**" raccoglie una parte delle fees accumulate dalle transazioni in-game e, con esse, acquista sul mercato JEWEL, aumentando il rapporto tra JEWEL ed xJEWEL. Quando prelevi i tuoi JEWEL dalla Bank, avrai più di quello che hai messo! Poiché il "Claiming" viene distribuito immediatamente tra tutti i giocatori, potresti non vedere alcun cambiamento immediato (premendo il pulsante).
+Il pulsante "**Claim**" raccoglie una parte delle fees accumulate dalle transazioni in-game e, con esse, acquista sul mercato JEWEL, aumentando il rapporto tra JEWEL ed xJEWEL. Quando prelevi i tuoi JEWEL dal Jeweler, avrai più di quello che hai messo! Poiché il "Claiming" viene distribuito immediatamente tra tutti i giocatori, potresti non vedere alcun cambiamento immediato (premendo il pulsante).
 
 ### Perchè alcuni dei miei token JEWEL sono bloccati?
 
@@ -103,7 +103,7 @@ Il [programma delle fees di prelievo](../how-defi-kingdoms-works/the-gardens.md#
 
 ### Che cosa può fare un Eroe? Me ne serve uno?
 
-Gli Eroi sono fondamentali per il gameplay in DeFi Kingdoms. Possono Evocare nuovi Eroi, essere inviati in missioni, impegnarsi in professioni ed infine combattersi tra loro in PVP. Anche se puoi usare il DEX, i Gardens e la Bank senza un Eroe, pensiamo che tutti apprezzeranno le opportunità che hanno da offrire!
+Gli Eroi sono fondamentali per il gameplay in DeFi Kingdoms. Possono Evocare nuovi Eroi, essere inviati in missioni, impegnarsi in professioni ed infine combattersi tra loro in PVP. Anche se puoi usare il DEX, i Gardens ed il Jeweler senza un Eroe, pensiamo che tutti apprezzeranno le opportunità che hanno da offrire!
 
 Leggi di più riguard gli Eroi [qui](../how-defi-kingdoms-works/the-heroes.md).
 
@@ -189,9 +189,9 @@ I Regni, o Lotti, saranno un ulteriore tipo di NFT limitato in quantità ed alta
 
 ### Come posso acquistare un Lotto o partecipare all'airdrop?
 
-25 Kingdom Plots sono stati assegnati a vincitori casuali, persone che possedevano almeno 5.000 xJEWEL nel proprio conto in Bank entro il 13 Novembre 2021 (per ogni 5000 xJEWEL aggiuntivi che un giocatore aveva in Bank, ha ricevuto 2 tickets extra nell'estrazione di vincitori casuali.)
+25 Kingdom Plots sono stati assegnati a vincitori casuali, persone che possedevano almeno 5.000 xJEWEL nel proprio conto dal Jeweler entro il 13 Novembre 2021 (per ogni 5000 xJEWEL aggiuntivi che un giocatore aveva dal Jeweler, ha ricevuto 2 tickets extra nell'estrazione di vincitori casuali.)
 
-Altri 25 Kingdom Plots verranno assegnati a vincitori casuali, persone che possedevano almeno 1.000 xJEWEL nel proprio conto in Bank entro il 13 Novembre 2021. Ulteriori Snapshots sono stati effettuati ogni 8-12 ore per 4 settimane, fino all'11 Dicembre 2021. Il numero totale di iscrizioni sarà determinato dalla quantità media di xJEWEL in tutti gli Snapshot, per tutti i titolari che si sono qualificati durante lo Snapshot iniziale. (Per ogni 1.000 xJEWEL in più che un giocatore aveva in Bank, riceverà 2 tickets extra.)
+Altri 25 Kingdom Plots verranno assegnati a vincitori casuali, persone che possedevano almeno 1.000 xJEWEL nel proprio conto presso il Jeweler entro il 13 Novembre 2021. Ulteriori Snapshots sono stati effettuati ogni 8-12 ore per 4 settimane, fino all'11 Dicembre 2021. Il numero totale di iscrizioni sarà determinato dalla quantità media di xJEWEL in tutti gli Snapshot, per tutti i titolari che si sono qualificati durante lo Snapshot iniziale. (Per ogni 1.000 xJEWEL in più che un giocatore aveva dal Jeweler, riceverà 2 tickets extra.)
 
 I Lotti di terreno saranno disponibili per l'acquisto durante la [Fase 3 della Roadmap](../roadmap/phase-3-world-map-and-land.md). Solo i giocatori che partecipano attivamente al gioco livellando gli Eroi e svolgendo missioni/professioni potranno acquistare Lotti di terreno.
 
