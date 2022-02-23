@@ -26,7 +26,7 @@
     * [Rarity](learn/gameplay/heroes/rarity.md)
     * [Leveling](learn/gameplay/heroes/leveling.md)
     * [Quests](learn/gameplay/heroes/quests.md)
-    * [Atonement Crystal](learn/gameplay/heroes/atonement-crystal.md)
+    * [Attunement Crystal](learn/gameplay/heroes/attunement-crystal.md)
     * [Enhancement Stones](learn/gameplay/heroes/enhancement-stones.md)
   * [Professions](learn/gameplay/professions/README.md)
     * [Fishing](learn/gameplay/professions/fishing.md)
@@ -43,6 +43,7 @@
   * [Docks](learn/gameplay/docks.md)
   * [Castle](learn/gameplay/castle.md)
   * [Lista Assets e Contratti](learn/gameplay/lista-assets-e-contratti.md)
+* [The Perilous Journey](learn/the-perilous-journey.md)
 * [Trama](learn/lore.md)
 * [FAQ - Frequently Asked Questions](learn/faq.md)
 

@@ -34,7 +34,7 @@ Ogni qualvolta che l’Eroe cresce di 5 livelli, riceve dei bonus aggiuntivi all
 ![](<../../../.gitbook/assets/image (2) (1) (1).png>)     **Uncommon**- **+1** a due stats diverse \
 **(tot stats +2)**
 
-![](<../../../.gitbook/assets/image (3).png>)     **Rare- +1** a tre stats diverse, +1 ad una stat qualsiasi\
+![](<../../../.gitbook/assets/image (3) (1).png>)     **Rare- +1** a tre stats diverse, +1 ad una stat qualsiasi\
 **(tot stats +4)**
 
 ****![](<../../../.gitbook/assets/image (4).png>)     **Legendary- +1** a tre stats diverse, +1 a due stats qualsiasi, +2 ad una stat qualsiasi  **(tot stats +6)**
