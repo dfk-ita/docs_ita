@@ -10,7 +10,7 @@ La seconda fase principale vedrà gli Eroi entrare nel mondo di Defi Kingdoms, i
   * Stats
   * Tradabili
   * Possono guadagnare EXP (esperienza)
-  * 50 Eroi di generazione 0 (Gen0) sono stati assegnati a vincitori casuali, persone che avevano almeno 5.000 xJEWEL nel proprio bilancio in Bank entro il 15 settembre 2021 (ad ogni giocatore sono stati richiesti almeno 5.000 xJEWEL in Bank per ottenere un ticket per l'estrazione casuale dei vincitori. I partecipanti hanno ricevuto 2 ticket in più per ogni multiplo di 5.000 xJEWEL che avevano oltre il primo.)
+  * 50 Eroi di generazione 0 (Gen0) sono stati assegnati a vincitori casuali, persone che avevano almeno 5.000 xJEWEL nel proprio bilancio presso il Jeweler entro il 15 settembre 2021 (ad ogni giocatore sono stati richiesti almeno 5.000 xJEWEL per ottenere un ticket per l'estrazione casuale dei vincitori. I partecipanti hanno ricevuto 2 ticket in più per ogni multiplo di 5.000 xJEWEL che avevano oltre il primo.)
 * Quests
   * Gli Eroi possono essere assegnati a missioni che faranno guadagnare loro esperienza e ricompense.
   * Tipi di Quests:
