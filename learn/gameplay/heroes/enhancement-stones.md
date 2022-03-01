@@ -1,10 +1,48 @@
 # Enhancement Stones
 
-## ![](https://lh6.googleusercontent.com/MQzEVLpS7mg0AgzOfO3ohDpvZJv6jVoh30J1WBNy\_17Sl71GIOZ9ApPxrUqmaEzO8IUGbhGH8N1ffRsH6CBdE7D1dIX-rM9tmPIkJjnmbg9YSRBX7mqrIc3bwNbOAEyiic4Tsic0p5Wm) Lesser Chaos Stone
+Le **Enhancement Stones** possono essere utilizzate durante l'Evocazione per fornire un bonus ad una singola statistica, oltre ad aumentare le sue possibilità di crescita per livello. Durante un singolo rituale di Evocazione può essere utilizzata una sola **Enhancement Stone**.
 
-una **Enhancement Stone** che, se usata durante il processo di **Summoning**, selezionerà casualmente una Statistica e fornirà i seguenti bonus all'Eroe appena evocato:&#x20;
+### **Lesser Enhancement Stone**
 
-* Bonus **+4** alla Statistica selezionata
-* **+3%** di bonus alle possibilità di crescita della statistica selezionata della Classe primaria
-* **+5%** di bonus alle possibilità di crescita della statistica selezionata della Classe secondaria
+Pietre che, se usate durante l'Evocazione, forniscono i seguenti bonus alla statistica associata: bonus +4 alla statistica, bonus +3% alla possibilità di crescita primaria, bonus +5% alla possibilità di crescita secondaria della statistica associata alla Pietra.
+
+**Lesser Might Stone:** Associata con STR.&#x20;
+
+**Lesser Finesse Stone:** Associata con DEX.
+
+**Lesser Swiftness Stone:** Associata con AGI.
+
+**Lesser Vigor Stone:** Associata con VIT.
+
+**Lesser Fortitude Stone:** Associata con END.
+
+**Lesser Wit Stone:** Associata con INT.
+
+**Lesser Insight Stone:** Associata con WIS.
+
+**Lesser Fortune Stone:** Associata con LCK.
+
+**Lesser Chaos Stone:** Applica bonus ad una statistica casuale
+
+### **Enhancement Stone**
+
+Pietre che, se usate durante l'Evocazione, forniscono i seguenti bonus alla statistica associata: bonus +**6** alla statistica, bonus +5% alla possibilità di crescita primaria, bonus +13% alla possibilità di crescita secondaria della statistica associata alla Pietra.
+
+**Might Stone:** Associata con STR.
+
+**Finesse Stone:** Associata con DEX.
+
+**Swiftness Stone:** Associata con AGI.
+
+**Vigor Stone:** Associata con VIT.
+
+**Fortitude Stone:** Associata con END.
+
+**Wit Stone:** Associata con INT.
+
+**Insight Stone:** Associata con WIS.
+
+**Fortune Stone:** Associata con LCK.
+
+**Chaos Stone:** Applica bonus ad una statistica casuale
 
