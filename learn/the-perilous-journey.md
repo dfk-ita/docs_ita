@@ -103,4 +103,4 @@ _entries = level + (2 \* rarity) + (2 \* rank) where_
 
 &#x20;    _rank = 0 for Basic, 1 for Advanced, 2 for Elite, 3 for Exalted_
 
-Per scoraggiare il multi-walleting, i gruppi che hanno più di un Eroe sopravvissuto riceveranno ulteriori biglietti della lotteria. I tickets bonus ricevute saranno pari al numero base totale di tickets ricevuti diviso 3 (arrotondato per difetto), più il numero totale di Eroi sopravvissuti nel portafoglio. Ogni portafoglio può vincere solo una volta per lotteria.
+Per scoraggiare il multi-walleting, i gruppi che hanno più di un Eroe morto riceveranno ulteriori biglietti della lotteria. I tickets bonus ricevute saranno pari al numero base totale di tickets ricevuti diviso 3 (arrotondato per difetto), più il numero totale di Eroi sopravvissuti nel portafoglio. Ogni portafoglio può vincere solo una volta per lotteria.
