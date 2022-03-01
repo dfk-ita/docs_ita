@@ -24,6 +24,10 @@ description: Informazioni riguardanti le Gardening Quests di livello 0
 
 **launchBonus** - Uno speciale moltiplicatore applicato al lancio che inizierà con valore 5 e diminuirà di 0,5 ogni due settimane fino a raggiungere 1.
 
+\*\*I JEWEL rewards minimi guadagnati per punto Stamina speso è .0002 JEWEL.
+
+Inoltre, per ogni 15 Stamina spesi, c'è una probabilità del 9,9% di ricevere 0,1 JEWEL bonus ed una probabilità dello 0,1% di ricevere 1 JEWEL bonus. Questo bonus viene dimezzato se l'Eroe non ha Gardening come professione principale. Il bonus viene calcolato con un "tiro", quindi un Eroe non può ricevere entrambi i bonus. Questo bonus è stato implementato nella versione beta il 2 Febbraio 2022.
+
 ### **Drop Rates Quest livello 0:**
 
 **Bluestem** - 9% (per 5 Stamina spesi)

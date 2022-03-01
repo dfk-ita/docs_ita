@@ -185,15 +185,15 @@ Impegnarsi in una Profession Quest consuma la Stamina del tuo Eroe. Il Mining ed
 
 ### Cosa sono i Lotti di terreno?
 
-I Regni, o Lotti, saranno un ulteriore tipo di NFT limitato in quantità ed altamente collezionabile. Man mano che la mappa del mondo verrà rivelata, i giocatori potranno acquistare Lotti di terreno dove potranno essere costruiti Edifici, e dove potranno aver luogo transazioni e missioni. I proprietari terrieri riceveranno una parte delle entrate generate dai loro Lotti!
+I Regni, o Lotti, sono un ulteriore tipo di NFT limitato in quantità ed altamente collezionabile. Man mano che la mappa del mondo verrà rivelata, i giocatori potranno acquistare Lotti di terreno dove potranno essere costruiti Edifici, e dove potranno aver luogo transazioni e missioni. I proprietari terrieri riceveranno una parte delle entrate generate dai loro Lotti!
 
 ### Come posso acquistare un Lotto o partecipare all'airdrop?
 
-25 Kingdom Plots sono stati assegnati a vincitori casuali, persone che possedevano almeno 5.000 xJEWEL nel proprio conto dal Jeweler entro il 13 Novembre 2021 (per ogni 5000 xJEWEL aggiuntivi che un giocatore aveva dal Jeweler, ha ricevuto 2 tickets extra nell'estrazione di vincitori casuali.)
+25 Kingdom Plots sono stati assegnati a vincitori casuali il 26 Novembre 2021, persone che possedevano almeno 5.000 xJEWEL nel proprio conto dal Jeweler entro il 13 Novembre 2021 (per ogni 5000 xJEWEL aggiuntivi che un giocatore aveva dal Jeweler, ha ricevuto 2 tickets extra nell'estrazione di vincitori casuali.)
 
-Altri 25 Kingdom Plots verranno assegnati a vincitori casuali, persone che possedevano almeno 1.000 xJEWEL nel proprio conto presso il Jeweler entro il 13 Novembre 2021. Ulteriori Snapshots sono stati effettuati ogni 8-12 ore per 4 settimane, fino all'11 Dicembre 2021. Il numero totale di iscrizioni sarà determinato dalla quantità media di xJEWEL in tutti gli Snapshot, per tutti i titolari che si sono qualificati durante lo Snapshot iniziale. (Per ogni 1.000 xJEWEL in più che un giocatore aveva dal Jeweler, riceverà 2 tickets extra.)
+Altri 25 Kingdom Plots sono stai assegnati a vincitori casuali il 26 Novembre 2021, persone che possedevano almeno 1.000 xJEWEL nel proprio conto presso il Jeweler entro il 13 Novembre 2021. Ulteriori Snapshots sono stati effettuati ogni 8-12 ore per 4 settimane, fino all'11 Dicembre 2021. Il numero totale di iscrizioni sarà determinato dalla quantità media di xJEWEL in tutti gli Snapshot, per tutti i titolari che si sono qualificati durante lo Snapshot iniziale. (Per ogni 1.000 xJEWEL in più che un giocatore aveva dal Jeweler, riceverà 2 tickets extra.)
 
-I Lotti di terreno saranno disponibili per l'acquisto durante la [Fase 3 della Roadmap](../roadmap/phase-3-world-map-and-land.md). Solo i giocatori che partecipano attivamente al gioco livellando gli Eroi e svolgendo missioni/professioni potranno acquistare Lotti di terreno.
+Le Lands saranno disponibili per l'acquisto in futuro. Il modo più affidabile per prepararsi all'acquisizione di terre è rendere i tuoi Eroi il più potenti possibile, ma i meccanismi per acquisire i singoli lotti possono variare.
 
 ## VARIE
 

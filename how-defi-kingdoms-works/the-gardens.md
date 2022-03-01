@@ -4,7 +4,7 @@ I Gardens sono il luogo dove depositare i tuoi LP per "coltivare" (farming) toke
 
 ![](<../.gitbook/assets/Cute Henry.gif>)
 
-La nostra visione sui Pool di Liquidità è unica. Stiamo costruendo un mondo epico dove i Gardens rappresentano coppie di token e Pool di Liquidità. All'interno di ogni Giardino, sarai in grado di vedere la tua quota totale depositata (il tuo share della Pool). Il giardiniere si occupa della cura delle tue piante (questo rappresenta il conto alla rovescia tra i blocchi estratti) ed una volta effettuato il raccolto, deposita i tuoi frutti (Rewards) nel magazzino (Wallet), ovvero i JEWEL prodotti dal farming dei tuoi LP. **Ci saranno modi per aumentare la tua resa attraverso oggetti di gioco che ti forniranno maggiori premi in token JEWEL!**
+La nostra visione sui Pool di Liquidità è unica. Stiamo costruendo un mondo epico dove i Gardens rappresentano coppie di token e Pool di Liquidità. All'interno di ogni Giardino, sarai in grado di vedere la tua quota totale depositata (il tuo share della Pool). Il giardiniere si occupa della cura delle tue piante (questo rappresenta il conto alla rovescia tra i blocchi estratti) ed una volta effettuato il raccolto, deposita i tuoi frutti (Rewards) nel magazzino (Wallet), ovvero i JEWEL prodotti dal farming dei tuoi LP. **Gli Eroi che praticano Gardening possono guadagnare ricompense JEWEL in base alla tua quota totale in un giardino specifico, mentre gli Eroi che praticano Mining possono aiutarti a sbloccare le tue ricompense prima, rendendo il Gardening ancora più gratificante!**
 
 ![](https://dfk-hv.b-cdn.net/website-media/images/gardens.gif)
 
@@ -113,7 +113,7 @@ Come notato sopra, una volta rivendicati, i token bloccati rimangono bloccati fi
 
 ## **Commissioni di deposito e prelievo di ritiro dai Gardens**
 
-**Non ci sono commissioni di deposito per lo staking di token LP nei Gardens.** Per proteggerci da prestiti lampo e pump and dump, implementiamo commissioni di prelievo per il prelievo di token LP in stake. Le commissioni di prelievo sono elencate di seguito.
+**Non ci sono commissioni di deposito nei Giardini per i tokens LP.** Per proteggerci da prestiti flash e pump and dump, implementiamo commissioni per il prelievo di token LP. Ogni prelievo azzera il timer della commissione. Le commissioni di prelievo sono elencate di seguito:
 
 * **0.01%** fee se un utente si ritira **dopo 4 Epoche**
 * **0.25%** fee se un utente si ritira **dopo 2 Epoche ma prima di 4 Epoche**
