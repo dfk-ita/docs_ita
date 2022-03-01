@@ -10,6 +10,8 @@ Questa quest è progettata per essere incredibilmente rischiosa per gli Eroi.. m
 
 Questa quest non comporta nessun utilizzo di bridges. Tutte le ricompense tranne CRYSTAL, verranno distribuite a Serendale su Harmony, dove tutti gli Eroi sopravvissuti torneranno al termine del Viaggio. Le ricompense CRYSTAL saranno distribuite sulla subnet DeFi Kingdoms che ospiterà l'espansione Crystalvale, quindi saranno inaccessibili fino al lancio di DeFi Kingdoms: Crystalvale. A quel punto, una meccanica in-game assisterà nella configurazione RPC, consentirà ai giocatori di accedere all'espansione , fare bridge di JEWEL se lo desiderano ed accedere alle loro ricompense.
 
+Il 28 Febbraio 2022 durante l'AMA settimanale è stato annunciato un aumento del numero di Eroi Gen0 assegnati alle due lotterie.
+
 **Le informazioni che seguono sono uno sguardo approfondito sulle formule alla base della sopravvivenza e delle ricompense. Tuttavia, sarà possibile visualizzare l'esatta possibilità di sopravvivenza e le potenziali ricompense per ciascuno dei tuoi Eroi quando si interagirà con l'NPC per partecipare alla quest.**
 
 ### **Date ed Orari**
