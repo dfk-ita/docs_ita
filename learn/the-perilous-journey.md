@@ -57,7 +57,7 @@ I sopravvissuti ricevono una serie di premi:
 * Abbastanza XP da riempire la barra XP per avanzare al Livello successivo&#x20;
 * Un badge di sopravvivenza che sbloccherà quest speciali in futuro
 * Accesso a una selezione di tornei per ottenere il diritto di acquisto della Land, accessibili solo ai sopravvissuti del Perilous Journey
-* Tickets lotteria per l'estrazione di 25 Eroi Gen0 di Crystalvale (formula sotto)
+* Tickets lotteria per l'estrazione di 100 Eroi Gen0 di Crystalvale (formula sotto)
 * Un airdrop di CRYSTAL al lancio di Crystalvale (formula sotto)
 
 I tickets per la lotteria sono determinati con questa formula:
@@ -81,7 +81,7 @@ I proprietari degli Eroi che moriranno, riceveranno:
 * Un pagamento in JEWEL basato su Livello, Grado e Rarità
 * Una selezione di Rune in base al Livello degli Eroi morti
 * Enhancement Stones e Attunement Crystals in base alla matrice delle Statistiche, al Grado ed alla Rarità degli Eroi morti
-* tickets per una lotteria separata per 25 Eroi Gen0 di Crystalvale
+* tickets per una lotteria separata per 100 Eroi Gen0 di Crystalvale
 
 Il pagamento in JEWEL è calcolato in base alla tabella seguente. Noterai che la crescita per Livello è lineare: 0.2 JEWEL per Livello. Quindi, è possibile calcolare le ricompense per ogni singolo Eroe, trovando il più "vicino" sulla tabella ed aggiungendo o sottraendo 0,2 JEWEL per Livello, in modo che corrisponda alle statistiche del tuo Eroe.
 
