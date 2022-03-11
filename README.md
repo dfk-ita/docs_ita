@@ -6,7 +6,7 @@ description: >-
 
 # Defi Kingdoms
 
-![Join us in the Kingdoms!](.gitbook/assets/docs.dfk.graphic.halfnhalf.png)
+![Vieni a trovarci nei Regni!](.gitbook/assets/docs.dfk.graphic.halfnhalf.png)
 
 ## Introduzione
 

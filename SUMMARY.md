@@ -1,17 +1,22 @@
 # Table of contents
 
 * [Defi Kingdoms](README.md)
-* [Come funziona DeFi Kingdoms](how-defi-kingdoms-works/README.md)
-  * [I Token del potere](how-defi-kingdoms-works/i-token-del-potere/README.md)
-    * [JEWEL Token](how-defi-kingdoms-works/i-token-del-potere/jewel-token.md)
-    * [CRYSTAL Token](how-defi-kingdoms-works/i-token-del-potere/crystal-token.md)
-  * [Exchange Decentralizzato](how-defi-kingdoms-works/decentralized-exchange.md)
-  * [Il Jeweler](how-defi-kingdoms-works/il-jeweler.md)
-  * [I Gardens](how-defi-kingdoms-works/the-gardens/README.md)
-    * [Giardini JEWEL](how-defi-kingdoms-works/the-gardens/giardini-jewel.md)
-    * [Ice Gardens](how-defi-kingdoms-works/the-gardens/ice-gardens.md)
-  * [Gli Eroi](how-defi-kingdoms-works/the-heroes.md)
-  * [DeFi Kingdoms Blockchain](how-defi-kingdoms-works/defi-kingdoms-blockchain.md)
+
+## COME FUNZIONA DEFI KINGDOMS
+
+* [I Token del potere](come-funziona-defi-kingdoms/i-token-del-potere/README.md)
+  * [JEWEL Token](come-funziona-defi-kingdoms/i-token-del-potere/jewel-token.md)
+  * [CRYSTAL Token](come-funziona-defi-kingdoms/i-token-del-potere/crystal-token.md)
+* [Exchange Decentralizzato](come-funziona-defi-kingdoms/decentralized-exchange.md)
+* [Il Jeweler](come-funziona-defi-kingdoms/il-jeweler.md)
+
+***
+
+* [I Gardens](the-gardens/README.md)
+  * [Giardini JEWEL](the-gardens/giardini-jewel.md)
+  * [Ice Gardens](the-gardens/ice-gardens.md)
+* [Gli Eroi](the-heroes.md)
+* [DeFi Kingdoms Blockchain](defi-kingdoms-blockchain.md)
 * [Roadmap](roadmap/README.md)
   * [Phase 0.5 - Community ✔️](roadmap/phase-0.5-community.md)
   * [Phase 1 - Capitale & JEWELs ✔️](roadmap/phase-1-dex.md)

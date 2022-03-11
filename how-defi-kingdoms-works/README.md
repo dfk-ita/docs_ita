@@ -1,2 +1,0 @@
-# Come funziona DeFi Kingdoms
-
