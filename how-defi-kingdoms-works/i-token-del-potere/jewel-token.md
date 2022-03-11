@@ -1,14 +1,6 @@
 # JEWEL Token
 
-### Che cos'è il JEWEL Token?
-
-Il token JEWEL è molto più di una criptovaluta. Vogliamo che sia la moneta con più valore nel nostro gioco, DeFi Kingdoms. Verrà utilizzata per acquistare oggetti ed NFT unici come Eroi e Lotti nel gioco, oltre a vari vantaggi di gameplay come la velocizzazione dei tempi di costruzione e il recupero della Stamina. JEWEL non viene utilizzato solo per oggetti di gioco ed NFT unici, ma verrà utilizzato anche per il Mining di liquidità, consentendoti di guadagnare ancora di più attraverso lo staking. **JEWEL è anche un token di governance, quindi i possessori avranno voce in capitolo sulla crescita e sull'evoluzione del progetto.**
-
-![The JEWEL logo.](../.gitbook/assets/jewel-icon.png)
-
-Con ogni transazione di JEWEL, i proventi vengono suddivisi in questo modo: alcuni vengono depositati dal Jeweler per premiare i possessori di xJEWEL, alcuni vengono riciclati nel gioco nella Reward Quest Pool, tornando ai giocatori come ricompense per le missioni, ed alcuni vengono incanalati per sostenere i costi di sviluppo per continuare a mantenere forte e sano lo sviluppo di DeFi Kingdoms. JEWEL è la linfa vitale del nostro progetto e consentirà a chi gioca di guadagnare veri e propri token scambiabili, invece di giocare ed investire in un gioco con zero possibilità di recuperare il proprio investimento. In DeFi Kingdoms, il tuo investimento iniziale ha il potenziale per aumentare di valore nel tempo.
-
-I primi utenti riceveranno le ricompense più alte che il token JEWEL vedrà mai! Tutti i premi sono notevolmente moltiplicati all'inizio del progetto per aiutare a stimolare l'interesse e coinvolgere investitori fedeli.
+![JEWEL](<../../.gitbook/assets/image (5).png>)
 
 ### JEWEL Hard Cap (Supply massima)
 

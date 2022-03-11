@@ -1,22 +1,22 @@
-# The Heroes
+# Gli Eroi
 
-Anche se il giardinaggio e la coltivazione di JEWEL sono straordinariamente adorabili di per sé, volevamo aggiungere un po' di "spada e stregoneria" a questo regno fantastico, e quale modo migliore per farlo se non introdurre degli eroi unici in pixel style nel nostro mercato?
+Anche se il giardinaggio e la coltivazione di JEWEL e CRYSTAL sono straordinariamente adorabili di per sé, volevamo aggiungere un po' di "spada e stregoneria" a questo regno fantastico, e quale modo migliore per farlo se non introdurre degli eroi unici in pixel style nel nostro mercato?
 
 ![](<../.gitbook/assets/hero base showcase1.png>)
 
-Stiamo andando un passo oltre rispetto agli NFT standard poiché i nostri Eroi NFT saranno personaggi giocabili con cui potrai salire di livello e guadagnare JEWEL! Questi NFT non sono pensati per sederli su uno scaffale come soprammobili, ma sono una delle caratteristiche chiave del gioco. Man mano che vengono assegnati alle varie missioni, combattere in PVP o vestirsi con equipaggiamenti per massimizzare le loro statistiche, saliranno di livello e guadagneranno JEWEL ed altri oggetti durante l'intera avventura.
+Stiamo aggiungendo una novità rispetto agli standard NFT poiché i nostri Eroi NFT saranno personaggi RPG completi con statistiche, risorse consumabili come HP, MP e Stamina, oltre a un sistema di livellamento! Questi NFT non sono pensati per sedersi su uno scaffale e avere un bell'aspetto, sono una delle caratteristiche chiave del gioco. Gli eroi possono svolgere più professioni per ottenere ricompense (inclusa la cura dei giardini per ricompense aggiuntive e l'estrazione di token bloccati per un accesso anticipato), partecipare a missioni e infine combattere l'un l'altro e una varietà di nemici negli aggiornamenti futuri. Gli eroi sono sia al centro del gioco che strumenti importanti per guadagnare una varietà di ricompense.
 
-### **Evocazioni e Trading**
+### **Geni degli Eroi**
 
-Gli Eroi vengono evocati attraverso un Portale dimensionale ed ogni nuovo Eroe sarà completamente unico. Ci sono combinazioni di parti praticamente infinite che compongono ogni Eroe NFT, quindi non ce ne saranno mai due uguali, nelle statistiche o nell'aspetto.
+Gli eroi hanno due set di geni, uno per l'aspetto e l'altro per i loro attributi giocabili, come professione, classe, sottoclasse, abilità passive e attive e altro ancora. Durante l'evocazione, l'eroe appena evocato acquisirà casualmente i geni da entrambi gli eroi utilizzati nell'evocazione. **C'è anche la possibilità di mutazioni nei geni, che si traducono in nuove abilità e classi rare!**
+
+### **Evocazioni e Scambi**
+
+Gli Eroi vengono evocati attraverso un portale dimensionale combinando i geni di due eroi esistenti e pagando un costo di evocazione. Poiché ci sono così tante parti che compongono un eroe, ogni nuovo NFT ha una combinazione unica di aspetto, classe e statistiche. L'evocazione è un'arte e una scienza, ma con significativi elementi di fortuna. Ogni evocazione ha la possibilità di produrre un eroe estremamente raro e prezioso da giocare o scambiare!
 
 La Tavern è il posto dove comprare e vendere Eroi. I giocatori possono anche offrire i loro Eroi in affitto nella Taverna, per essere usati da altri giocatori per evocare.
 
-Puoi acquistare Eroi nella Tavern, ma puoi anche evocarne di nuovi combinando i geni dei tuoi attuali Eroi! Con le Evocazioni non saprai mai esattamente quale tipo di eroe uscirà dal portale dopo: potresti finire con un NFT estremamente raro e prezioso scambiabile.
-
-### **Genetica degli Eroi**
-
-Gli Eroi hanno due set di geni, uno per l'aspetto e l'altro per i loro attributi giocabili (come Professione, Classe, Sottoclasse, abilità passive e attive e altro ancora). Durante l'Evocazione, l'Eroe appena evocato acquisirà casualmente i geni da entrambi gli Eroi sorgente utilizzati nell'evocazione. C'è anche la possibilità di ottenere mutazioni nei geni, che si traducono in nuove abilità e Classi rare!
+****
 
 ### **Equipaggiamenti**
 
@@ -24,16 +24,20 @@ Gli Eroi potranno trovare ed equipaggiare preziose attrezzature NFT che garantir
 
 ### **Statistiche**
 
-Gli Eroi avranno varie statistiche che determinano l'efficacia con cui possono svolgere le diverse missioni. Queste statistiche possono essere aumentate man mano che gli eroi guadagnano XP e salgono di livello.
+Gli Eroi avranno varie statistiche che determinano l'efficacia con cui possono svolgere le diverse missioni e affrontare il combattimento. Queste statistiche possono essere aumentate man mano che gli eroi guadagnano XP e salgono di livello.
 
-### **Quests**
+### **Missioni**
 
-Gli Eroi possono intraprendere varie missioni all'interno del regno. Le missioni dei mestieri consentono agli eroi di raccogliere risorse e valuta di gioco mentre acquisiscono esperienza ed aumentano la loro resa. Le missioni avventura saranno missioni PVE che riveleranno nuove funzioni, racconteranno storie e ricompenseranno i giocatori con una diversa varietà di bottino.
+Gli eroi possono intraprendere varie missioni all'interno del regno. Le missioni delle professioni consentono agli eroi di raccogliere risorse di gioco, guadagnare token aggiuntivi dai giardini e sbloccare token in anticipo, il tutto acquisendo esperienza e aumentando le proprie abilità di professione. Gli eroi possono anche partecipare a missioni che richiedono loro di utilizzare le loro statistiche per raggiungere determinati obiettivi, dialogare con gli NPC e viaggiare sulla mappa per completate con successo le missioni. Alla fine, anche gli eroi combatteranno contro i nemici. Queste ultime funzionalità sono ancora in fase di sviluppo.
 
-### **Pets**
+### Terre
 
-Gli Eroi a volte possono trovare uova, che possono essere schiuse per ottenere in animali rari, che li accompagneranno nelle loro avventure. Questi animali domestici possono garantire bonus alle statistiche, abilità passive e altro.
+Gli Eroi hanno l'opportunità di competere per il diritto di acquistare la terra, che è un tipo speciale di NFT potenziabile e limitato\*\*.\*\* La terra può essere acquistata e venduta, costruita e visitata dagli eroi itineranti.
+
+### Animali
+
+Gli Eroi a volte possono trovare uova, che possono essere schiuse per ottenere in animali rari, che li accompagneranno nelle loro avventure. Questi animali domestici possono garantire bonus alle statistiche, abilità passive e altro. Questa funzionalità è in fase di sviluppo.
 
 ### **PvP**
 
-Gli Eroi potranno partecipare a tornei periodici in gruppi di 3, per competere contro altri giocatori per i premi in JEWEL. Massimizza le tue statistiche e prendi il posto che ti spetta come campione del regno!
+Gli Eroi potranno partecipare a tornei periodici in gruppi di 3, per competere contro altri giocatori per dei premi. Inoltre, ci saranno tornei periodici che ricompenseranno i team vincenti dal Quest Fund. Massimizza le tue statistiche e prendi il posto che ti spetta come campione del regno! Il PvP è ancora in fase di sviluppo.

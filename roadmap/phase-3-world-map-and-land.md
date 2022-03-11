@@ -1,8 +1,8 @@
 ---
-description: Q4 2021
+description: Prima espansione nel Gennaio 2022
 ---
 
-# Phase 3 - Kingdoms & Lands
+# Phase 3 - Kingdoms & Lands ✔️
 
 Durante la terza fase principale, la nebbia di guerra sulla mappa del mondo inizierà lentamente a ritirarsi per rivelare nuove zone e trame del Regno.
 

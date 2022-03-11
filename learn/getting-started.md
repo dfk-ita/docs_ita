@@ -1,6 +1,6 @@
 # Come Cominciare
 
-![Welcome to DeFI Kingdoms!](../.gitbook/assets/Nolan.JPG)
+![Benvenuto su DeFI Kingdoms!](../.gitbook/assets/Nolan.JPG)
 
 DeFi Kingdoms è un gioco basato su browser, quindi tutto ciò di cui hai bisogno per configurare il tuo sistema è un browser compatibile con l'estensione MetaMask.
 

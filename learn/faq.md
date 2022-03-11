@@ -6,7 +6,7 @@ description: >-
 
 # FAQ - Frequently Asked Questions
 
-## GENERALI
+## ![](../.gitbook/assets/jewel-icon.png)GENERALI
 
 ### Cos'è DeFi Kingdoms?
 
@@ -14,12 +14,15 @@ DeFi Kingdoms (DFK) è un gioco, uno Exchange decentralizzato (DEX), un'opportun
 
 DFK è stato lanciato il 22 agosto 2021 come DEX con opportunità di farming LP ed è in costante sviluppo.
 
-[https://game.defikingdoms.com/](https://game.defikingdoms.com)\
-[https://beta.defikingdoms.com/](https://game.defikingdoms.com)
+DeFi Kingdoms: Crystalvale verrà lanciato il 30 Marzo, 2022. Questa è la prima espansione di DeFi Kingdoms e sarà live sulla nuova DFK Chain.
+
+{% embed url="https://www.defikingdoms.com" %}
 
 ### Che Blockchain utilizza DeFi Kingdoms?
 
 DeFi Kingdoms utilizza la blockchain del protocollo Harmony e la sua moneta nativa ONE. ONE può essere acquistata sulla maggior parte dei principali exchange, inclusi Binance, Kucoin, Crypto.com e altri.
+
+La Blockchain DeFi Kingdoms verrà lanciata il 30 Marzo, 2022 e dospiterà la prima espansione del gioco, chiamata  DeFi Kingdoms: Crystalvale. Sarà disponibile un bridge in-game tra le blockchain.
 
 Per informazioni su come configurare il tuo portafoglio MetaMask, fai riferimento al nostro [tutorial](https://defikingdoms.com/tutorial.html) o alla documentazione di [Harmony](https://docs.harmony.one/home/network/wallets/browser-extensions-wallets/metamask-wallet).
 
@@ -29,7 +32,7 @@ DeFi, o Decentralized Finance, è un ecosistema di applicazioni finanziarie cost
 
 Uno exchange decentralizzato, o DEX, consente agli utenti di scambiare fondi tramite smart contracts senza rinunciare alla custodia fino al completamento dello scambio. La liquidità viene fornita ai DEX da individui che forniscono una coppia di token (ad es. ONE e JEWEL) a un pool di liquidità, che viene quindi utilizzata dal DEX per facilitare le negoziazioni su quella coppia.
 
-Gli utenti che forniscono liquidità in questo modo ricevono gettoni Liquidity Pool (LP), che spesso possono essere utilizzati per guadagnare premi aggiuntivi, come nei [DFK's Gardens](../how-defi-kingdoms-works/the-gardens.md).
+Gli utenti che forniscono liquidità in questo modo ricevono gettoni Liquidity Pool (LP), che spesso possono essere utilizzati per guadagnare premi aggiuntivi, come nei [DFK's Gardens](../how-defi-kingdoms-works/the-gardens/).
 
 Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com/it/articles/the-complete-beginners-guide-to-decentralized-finance-defi) e gli [scambi decentralizzati](https://academy.binance.com/it/articles/what-is-a-decentralized-exchange-dex) su Binance Academy.
 
@@ -37,11 +40,11 @@ Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com
 
 Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md) o JEWEL dal [Jeweler](gameplay/bank.md).
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../how-defi-kingdoms-works/the-gardens/) o JEWEL dal [Jeweler](gameplay/bank.md).
 
 Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
 
-## JEWEL TOKEN
+## ![](../.gitbook/assets/jewel-icon.png)TOKEN DEL POTERE
 
 ### Come posso acquistare JEWEL?
 
@@ -49,63 +52,63 @@ Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.d
 
 Il contratto di JEWEL su Harmony è: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
-### Dove posso trovare il prezzo corrente / market cap di JEWEL?
+### Come posso acquistare `CRYSTAL`?
 
-Puoi vedere il prezzo attuale e la capitalizzazione di mercato di JEWEL nel [gioco](https://game.defikingdoms.com/#/) facendo clic sull'immagine del tuo profilo in alto a sinistra.
+CRYSTAL può essere acquistato in-game su Crystalvale al Marketplace.
 
-Puoi anche vedere grafici e statistiche di JEWEL e di tutti gli altri token e abbinamenti su DeFi Kingdoms DEX su: [https://info.defikingdoms.com/](https://info.defikingdoms.com/home) o su [https://dexscreener.com/harmony/defikingdoms](https://dexscreener.com/harmony/defikingdoms).
+### Dove posso trovare il prezzo corrente / market cap di JEWEL o CRYSTAL?
+
+Puoi vedere il prezzo attuale e la capitalizzazione di mercato di JEWEL o CRYSTAL nel  gioco facendo clic sull'immagine del tuo profilo in alto a sinistra.
 
 ### Cosa posso fare con i miei JEWEL?
 
-JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gioco implicano la ricezione o la spesa di JEWEL, sia che si tratti di acquistare/vendere Eroi, guadagnare tramite Quests, [fornire liquidità al DEX](../how-defi-kingdoms-works/decentralized-exchange.md) e [farmare nei giardini](../how-defi-kingdoms-works/the-gardens.md) o depositare nel caveau della [Bank](gameplay/bank.md).
+JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gioco implicano la ricezione o la spesa di JEWEL, sia che si tratti di acquistare/vendere Eroi, guadagnare tramite Quests, [fornire liquidità al DEX](../how-defi-kingdoms-works/decentralized-exchange.md) e [farmare nei giardini](../how-defi-kingdoms-works/the-gardens/) o depositare nel caveau del Jeweler.
 
-[Qui](faq.md#jewel-token) puoi leggere di più sul token JEWEL e la sua tokenomic.
+[Qui](../how-defi-kingdoms-works/i-token-del-potere/jewel-token.md) puoi leggere di più sul token JEWEL e la sua tokenomic.
 
-## GIOCO & MECCANICHE DEX
+## ![](../.gitbook/assets/jewel-icon.png)GIOCO & MECCANICHE DEX
 
 ### Qual'è la differenza tra Jeweler e Gardens?
 
-Il [Jeweler](gameplay/bank.md) è una pool a partecipazione unica per JEWEL. Quando depositi i tuoi JEWEL dal Jeweler, ricevi un importo proporzionale di xJEWEL. Poiché il rapporto tra JEWEL ed xJEWEL non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL di quello che hai messo!
+Il [Jeweler](gameplay/bank.md) è una pool a partecipazione unica per JEWEL o CRYSTAL. Quando depositi i tuoi JEWEL o CRYSTAL dal Jeweler, ricevi un importo proporzionale di xJEWEL o xCRYSTAL. Poiché il rapporto tra loro non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL o CRYSTAL di quelli che hai messo!
 
-I [Gardens](../how-defi-kingdoms-works/the-gardens.md) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL in cambio dello staking di questi token.
+I [Gardens](../how-defi-kingdoms-works/the-gardens/) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL o CRYSTAL in cambio dello staking di questi token.
 
 Sebbene i Gardens forniscano rendimenti più elevati rispetto al Jeweler, ciò comporta un rischio maggiore, inclusa l'Impermanent Loss (IL) se il valore dei token nella coppia cambia l'uno rispetto all'altro. Puoi saperne di più sulla perdita temporanea da [Binance Academy](https://academy.binance.com/it/articles/impermanent-loss-explained) o [guardando questo video.](https://www.youtube.com/watch?v=qkaBCIpvfIg\&t=1297s)
 
-### Qual'è la differenza tra JEWEL e xJEWEL?
+### Qual'è la differenza tra JEWEL/CRYSTAL e xJEWEL/xCRYSTAL?
 
-JEWEL è il token principale di DFK, utilizzato per molte transazioni in-game. Quando depositi JEWEL dal Jeweler, ricevi xJEWEL, che è il token di governance di DFK. Tenere xJEWEL ti rende anche idoneo a ricevere airdrop per la Community ed altri premi.
+JEWEL e CRYSTAL sono i token principali di DFK, utilizzati per molte transazioni in-game. Quando li depositi dal Jeweler, ricevi la versione "x", che è il token di governance di DFK. Tenere xJEWEL o xCRYSTAL ti rende anche idoneo a ricevere airdrop per la Community ed altri premi.
 
 ### Quanto è l'APR / tasso di interesse del Jeweler?
 
-Poiché i guadagni del Jeweler derivano dalle commissioni di trading che si verificano all'interno del gioco, non è previsto alcun APR o tasso di interesse. Durante i periodi di grande attività di gioco, il rapporto tra JEWEL ed xJEWEL aumenterà un po', mentre è rallentato in altri momenti.
-
-### Che cosa fa il tasto "Claim" del Jeweler?
-
-Il pulsante "**Claim**" raccoglie una parte delle fees accumulate dalle transazioni in-game e, con esse, acquista sul mercato JEWEL, aumentando il rapporto tra JEWEL ed xJEWEL. Quando prelevi i tuoi JEWEL dal Jeweler, avrai più di quello che hai messo! Poiché il "Claiming" viene distribuito immediatamente tra tutti i giocatori, potresti non vedere alcun cambiamento immediato (premendo il pulsante).
+Poiché i guadagni del Jeweler derivano dalle commissioni di trading che si verificano all'interno del gioco, non è previsto alcun APR o tasso di interesse. Durante i periodi di grande attività di gioco, il rapporto tra JEWEL ed xJEWEL o tra CRYSTAL e xCRYSTAL aumenterà un po', mentre è rallentato in altri momenti.
 
 ### Perchè alcuni dei miei token JEWEL sono bloccati?
 
-Al fine di garantire la stabilità di JEWEL nel lungo termine, una parte dei tokens JEWEL guadagnati nei Gardens sono temporaneamente bloccati e non possono essere utilizzati in alcun modo. Questi JEWEL bloccati verranno lentamente sbloccati a partire dall'Epoch 51 (stima nel terzo trimestre del 2022). Il processo di sblocco può essere accelerato tramite le missioni di Mining. Scopri di più sulla tokenomics di DFK [qui](../how-defi-kingdoms-works/the-gardens.md).
+Al fine di garantire la stabilità di JEWEL o CRYSTAL nel lungo termine, una parte dei tokens JEWEL guadagnati nei Gardens sono temporaneamente bloccati e non possono essere utilizzati in alcun modo. Questi JEWEL bloccati verranno lentamente sbloccati a partire dall'Epoch 51 (stima nel terzo trimestre del 2022). Il processo di sblocco può essere accelerato tramite le missioni di Mining. Scopri di più sulla tokenomics di DFK [qui](../how-defi-kingdoms-works/the-gardens/).
 
 ### Quanto è lunga un'Epoch?
 
-Un'Epoch in DFK è di 302.400 blocchi sulla blockchain di Harmony, e la lunghezza di ciascuna Epoch dipende dalla velocità media di elaborazione dei blocchi su Harmony. Le Epoch sono state calcolate a 302.400 blocchi in modo che ognuna equivalesse ad una settimana, ad una velocità di 2 secondi per blocco (non fissa).
+Un' Epoca su Serendale è di 302.400 blocchi della blockchain di Harmony, e la lunghezza di ciascuna Epoca dipende dalla velocità media di elaborazione dei blocchi su Harmony. Le Epoche sono state calcolate a 302.400 blocchi in modo che ognuna equivalesse ad una settimana, ad una velocità di 2 secondi per blocco (non fissa).
 
-### Perchè i JEWEL nei miei giardini vengono riscattati?
+Le Epoche su Crystalvale sono esattamente di una settimana e sono gestite con dei timestamp.
 
-I guadagni in JEWEL dei Gardens vengono automaticamente accreditati ogni volta che depositi o prelevi tokens LP nei [Gardens](../how-defi-kingdoms-works/the-gardens.md).
+### Perchè le ricompense nei miei giardini vengono riscattate?
 
-### Quando inizia / azzera il sistema di fees dei giardini?
+I guadagni dei Gardens vengono automaticamente accreditati ogni volta che depositi o prelevi tokens LP nei [Gardens](../how-defi-kingdoms-works/the-gardens/).
 
-Il [programma delle fees di prelievo](../how-defi-kingdoms-works/the-gardens.md#commissioni-di-deposito-e-prelievo-di-ritiro-dai-gardens) per i Gardens inizia quando depositi per la prima volta i tuoi tokens LP in un giardino specifico, ed è separato per ogni giardino. Le fees si azzerano ogni volta che prelevi gettoni LP da un giardino.
+### Quando inizia / si azzera il sistema di commissioni dei giardini?
 
-## EROI & EVOCAZIONI
+Il [programma delle commissioni di prelievo](../how-defi-kingdoms-works/the-gardens/#commissioni-di-deposito-e-prelievo-di-ritiro-dai-gardens) per i Gardens inizia quando depositi per la prima volta i tuoi token LP in un giardino specifico, ed è separato per ogni giardino. Le commissioni si azzerano ogni volta che prelevi token LP da un giardino.
+
+## ![](../.gitbook/assets/jewel-icon.png)EROI & EVOCAZIONI
 
 ### Che cosa può fare un Eroe? Me ne serve uno?
 
 Gli Eroi sono fondamentali per il gameplay in DeFi Kingdoms. Possono Evocare nuovi Eroi, essere inviati in missioni, impegnarsi in professioni ed infine combattersi tra loro in PVP. Anche se puoi usare il DEX, i Gardens ed il Jeweler senza un Eroe, pensiamo che tutti apprezzeranno le opportunità che hanno da offrire!
 
-Leggi di più riguard gli Eroi [qui](../how-defi-kingdoms-works/the-heroes.md).
+Leggi di più riguardo gli Eroi [qui](../how-defi-kingdoms-works/the-heroes.md).
 
 ### Dove posso acquisire un Eroe?
 
@@ -143,7 +146,7 @@ Dopo aver infuso un Cristallo con l'essenza di due Eroi, deve essere portato al 
 
 Se non vedi il Cristallo Infuso dopo che la transazione di Evocazione è andata a buon fine, prova ad aggiornare la pagina ed aprire MetaMask per alcuni secondi (preferibilmente nella schermata delle risorse). Potrebbe essere necessario provare più volte, ma questo dovrebbe permetterti di visualizzare il Cristallo Infuso.
 
-## STATS EROI, QUESTS, E PROFESSIONI
+## ![](../.gitbook/assets/jewel-icon.png)STATS EROI, QUESTS, E PROFESSIONI
 
 ### Quali sono le diverse Rarità e che cosa comportano?
 
@@ -181,7 +184,7 @@ Per gli Eroi, sono disponibili quattro diverse [Professions](gameplay/profession
 Impegnarsi in una Profession Quest consuma la Stamina del tuo Eroe. Il Mining ed il Gardening drenano la Stamina ad una velocità fissa di 10 minuti, come indicato nel menu delle Quests. Questo consente all'Eroe di svolgere queste missioni per periodi di tempo più lunghi, fino a quando non esaurisce la sua Stamina o fino a quando la missione non viene interrotta manualmente. Le missioni di Foraging e Fishing sono più brevi e consumano una maggiore quantità di Stamina per una durata minima, come mostrato nel menu delle Quests. Le missioni di Fishing e Foraging ti consentono di mettere in coda più tentativi di missioni in una transazione, fino all'importo massimo consentito dalla Stamina del tuo Eroe (in base al consumo di Stamina dato dalla presenza o meno del gene di Professione). Gli Eroi recuperano Stamina ad una velocità fissa di 1 ogni 20 minuti.\
 **Nota: gli Eroi non possono recuperare Stamina mentre sono impegnati in una missione.**
 
-## KINGDOMS / LANDS
+## ![](../.gitbook/assets/jewel-icon.png)KINGDOMS / LANDS
 
 ### Cosa sono i Lotti di terreno?
 
@@ -195,7 +198,7 @@ Altri 25 Kingdom Plots sono stai assegnati a vincitori casuali il 26 Novembre 20
 
 Le Lands saranno disponibili per l'acquisto in futuro. Il modo più affidabile per prepararsi all'acquisizione di terre è rendere i tuoi Eroi il più potenti possibile, ma i meccanismi per acquisire i singoli lotti possono variare.
 
-## VARIE
+## ![](../.gitbook/assets/jewel-icon.png)VARIE
 
 ### DeFi Kindoms ha passato Verifiche di Sicurezza?
 

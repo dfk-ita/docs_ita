@@ -6,11 +6,11 @@ description: >-
 
 # Defi Kingdoms
 
-![Join us in the Kingdoms!](.gitbook/assets/docsgraphic.png)
+![Join us in the Kingdoms!](.gitbook/assets/docs.dfk.graphic.halfnhalf.png)
 
 ## Introduzione
 
-DeFi Kingdoms è un gioco, un DEX, un'opportunità in pool di liquidità, un mercato di NFT, e tutto si svolge nella forma incredibilmente nostalgica della pixel art fantasy. Siamo entusiasti di rilasciare l'universo di DeFi Kingdom al mondo. Vieni a far parte della nostra adorabile community!
+DeFi Kingdoms è un gioco, un DEX, un'opportunità in pool di liquidità, un mercato di NFT, e tutto si svolge nella forma incredibilmente nostalgica della pixel art fantasy. Siamo entusiasti di rilasciare l'universo di DeFi Kingdom al mondo. Vieni a far parte della nostra adorabile [community](https://www.defikingdoms.com/social.html)!
 
 ### La motivazione per la creazione di DeFi Kingdoms
 
@@ -18,4 +18,4 @@ Siamo grandi fan dell'innovazione che sta accadendo nella DeFi e nella tecnologi
 
 ### Un team dedicato e una visione condivisa
 
-Volevamo un DEX che permettesse ai partecipanti di possedere non solo una criptovaluta, ma di detenerne una che fosse utilizzabile, preziosa e che faccesse guadagnare in molti modi divertenti. Abbiamo confezionato elementi DeFi in un gioco divertente e sinergico, fornendo ai possessori di tokens JEWEL un'esperienza coinvolgente e significativa. Siamo qui per restare molto a lungo, e stiamo pianificando le funzionalità per le fasi a venire, per crescere insieme a questa community e proiettarci verso la massima magnificenza. :)
+Volevamo un DEX che permettesse ai partecipanti di possedere non solo una criptovaluta, ma di detenerne una che fosse utilizzabile, preziosa e che faccesse guadagnare in molti modi divertenti. Abbiamo confezionato elementi DeFi in un gioco divertente e sinergico, fornendo ai possessori di tokens JEWEL e CRYSTAL un'esperienza coinvolgente e significativa. Siamo qui per restare molto a lungo, e stiamo pianificando le funzionalità per le fasi a venire, per crescere insieme a questa community e proiettarci verso il massimo successo.

@@ -9,4 +9,4 @@ Una lista di Pool incentivate, l'assegnazione di ricompense e la dimensione dell
 \
 Inoltre, il mercato ospita il **Trader Zada**, che è sempre disposto ad acquistare molti degli oggetti guadagnati tramite le [Profession Quests](professions/), che paga in **Gold**. Vende anche oggetti per Gold, incluso l'**Uovo d'Oro**, uno dei numerosi tipi di Uova che potranno essere schiuse per ottenere **animali NFT da compagnia**. Gli oggetti per i quali Zada ​​paga Gold possono anche essere scambiati con il Trader Matoya, quindi assicurati di scegliere l'opzione che meglio si adatta ai tuoi obiettivi!
 
-Ci sono anche altri due NPC nel Marketplace. **Crier Milo** mostrerà la versione più recente della Newsletter settimanale di DeFi Kingdoms, e la **Stylist Sandra** consentirà presto ai giocatori di cambiare la propria immagine del profilo.
+Ci sono anche altri due NPC nel Marketplace. **Crier Milo** mostrerà la versione più recente della Newsletter settimanale di DeFi Kingdoms, e la **Stylist Sandra** che consente ai giocatori di cambiare la propria immagine del profilo con un'immagine predefinita, il ritratto di un Eroe o un Bored Apes Yacht Club NFT che possiedono.

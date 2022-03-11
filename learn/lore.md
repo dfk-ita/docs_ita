@@ -52,7 +52,7 @@ Le Rune sono pietre semplici che hanno simboli scritti con le ceneri di Irae. Qu
 
 _**Shvās (respiro)**_ - Questa è la Runa più elementare ed è richiesta per tutti i livelli. Può essere ottenuta occasionalmente come ricompensa per il compimento di Quests.
 
-_**Moksha (liberazione)**_ - Effetti sconosciuti
+_**Moksha (liberazione)**_ - Questa Runa è necessaria per superare il livello 10. I proprietari degli Eroi che muoiono nel Perilous Journey potrebbero riceverla, ma, al momento, altri metodi per ottenerla sono sconosciuti...
 
 _**Asha (speranza)**_ - Effetti sconosciuti
 
