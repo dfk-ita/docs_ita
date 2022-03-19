@@ -1,3 +1,7 @@
+---
+description: Informazioni sull'emissione di CRYSTAL e gli Ice Gardens.
+---
+
 # Ice Gardens
 
 ### **Programma di emissione**
@@ -28,6 +32,10 @@ L'emissione di CRYSTAL è programmata per cambiare durante ogni periodo di tempo
 | 20     | 10 Agosto 2022   | 3              | 90             |
 | 21-100 | 17 Agosto 2022   | 2              | 60             |
 | 101+   | 28 Febbraio 2024 | 1              | 30             |
+
+### Staking di JEWEL e allocazioni
+
+Gli Ice Gardens si apriranno con il staking di JEWEL per le emissioni di CRYSTAL. Man mano che gli Ice Gardens verranno costruiti nelle settimane successive, verranno aggiunte nuovi  LP incentivati  e le allocazioni verranno modificate per premiare una più ampia varietà di fornitori di liquidità.
 
 ### Locking
 
