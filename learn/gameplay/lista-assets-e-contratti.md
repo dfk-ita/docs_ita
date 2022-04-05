@@ -110,11 +110,11 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ## ATONEMENT CRYSTAL:
 
-![](https://lh4.googleusercontent.com/0k8Gito10nIIB3OMDVRUjICOaKMYAGd\_CglcWoATPIK4YCxyoVzkii3O4Ah7JkMa\_tzs6r\_SMg-Goxry7anfsPr09ixXKWi8mDTpbnL\_RW6D\_sbDUExJu7FKXbJUAScxC8zriBQ6zLXi)**Greater Atonement Crystal:** `???`
+![](https://lh5.googleusercontent.com/FrhDNY-un\_8mq7-fd4IryWt3w7GAFoZFYYgLttqn3NMAglktdnVctpR1aZNFS87cT-sqIyuWinYT91si8bMXRBwSHmZ3jjYyUSaq9oCab55-p1Srz2tmq8dLjklTEFkGh3vNwfxPpp9M)**Lesser Atonement Crystal:** `0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf`
 
 ![](https://lh5.googleusercontent.com/pR4jEFytgxWh8v1tKkPz34CkTTi3u90mY\_dXe9fQdAq3mTL-ycPH\_1C-58V3\_IusEBDmtZazYs0\_OKYR3jgy3njDDLwB5mW4mlChwfy15H1qJRen4cxJEVCvk4hR4jiViH3xrHxyDFpN)**Atonement Crystal:** `0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d`
 
-![](https://lh5.googleusercontent.com/FrhDNY-un\_8mq7-fd4IryWt3w7GAFoZFYYgLttqn3NMAglktdnVctpR1aZNFS87cT-sqIyuWinYT91si8bMXRBwSHmZ3jjYyUSaq9oCab55-p1Srz2tmq8dLjklTEFkGh3vNwfxPpp9M)**Lesser Atonement Crystal:** `0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf`
+![](https://lh4.googleusercontent.com/0k8Gito10nIIB3OMDVRUjICOaKMYAGd\_CglcWoATPIK4YCxyoVzkii3O4Ah7JkMa\_tzs6r\_SMg-Goxry7anfsPr09ixXKWi8mDTpbnL\_RW6D\_sbDUExJu7FKXbJUAScxC8zriBQ6zLXi)**Greater Atonement Crystal:** `0x17f3B5240C4A71a3BBF379710f6fA66B9b51f224`
 
 ## ATTUNEMENT CRYSTAL:
 
@@ -146,7 +146,7 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ![](https://lh6.googleusercontent.com/UgIlCHNpvLCD92EOAiBpFVqTUFnwMu2dO\_ex8CsBdbfsBAjFLKTkVxCBmfoZR9nezTwQZxlYjkBK80NdrM5Iu0294FB1yCNWt85dn5bUbAlUKo6QDCQPxHY18OsUF-OAUUOWjDdscvNL) **Fortitude Crystal** `0x603919AEB55EB13F9CDE94274fC54ab2Bd2DecE7`
 
-****![](../../.gitbook/assets/ezgif.com-gif-maker.gif) **Greater Fortitude Crystal:** `???`
+****![](../../.gitbook/assets/ezgif.com-gif-maker.gif)   **Greater Fortitude Crystal:** `???`
 
 ![](https://lh3.googleusercontent.com/g5lGmx1awMPTvRRNvRc3cudp2NGV8OT7E\_mrXWPT9KF6MS0zJrJYyTGn7I7SLWwf8i2y5MoUZakZFoYqCLCVq064huSpZhqUdd782UCMr7DMEPs-LdDZ5hVeFx3eZ19tTS6zvBhZHSze) **Lesser Wit Crystal** `0x17ff2016c9ecCFBF4Fc4DA6EF95Fe646D2c9104F`
 
