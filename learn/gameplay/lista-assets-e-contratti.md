@@ -176,7 +176,7 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ![](https://lh6.googleusercontent.com/MQzEVLpS7mg0AgzOfO3ohDpvZJv6jVoh30J1WBNy\_17Sl71GIOZ9ApPxrUqmaEzO8IUGbhGH8N1ffRsH6CBdE7D1dIX-rM9tmPIkJjnmbg9YSRBX7mqrIc3bwNbOAEyiic4Tsic0p5Wm) `` **Lesser Chaos Stone:** `0x6D4f4bC32df561a35C05866051CbE9C92759Da29`
 
-****![](<../../.gitbook/assets/stone concepts new\_standard chaos stone.gif>) **Chaos Stone:** `???`
+****![](<../../.gitbook/assets/stone concepts new\_standard chaos stone.gif>) **Chaos Stone:** `0x3633F956410163A98D58D2D928B38C64A488654e`
 
 ****![](<../../.gitbook/assets/stone concepts new\_greater chaos stone.gif>) **Greater Chaos Stone:** `???`
 
