@@ -10,28 +10,28 @@ L'emissione di CRYSTAL è programmata per cambiare durante ogni periodo di tempo
 
 | Epoca  | Blocco           | CRYSTAL/blocco | CRYSTAL/minuto |
 | ------ | ---------------- | -------------- | -------------- |
-| 1      | 30 Marzo 2022    | 32             | 960            |
-| 2      | 6 Aprile 2022    | 24             | 720            |
-| 3      | 13 Aprile 2022   | 20             | 600            |
-| 4      | 20 Aprile 2022   | 16             | 480            |
-| 5      | 27 Aprile 2022   | 14             | 420            |
-| 6      | 4 Maggio 2022    | 12             | 360            |
-| 7      | 11 Maggio 2022   | 10             | 300            |
-| 8      | 18 Maggio 2022   | 10             | 300            |
-| 9      | 25 Maggio 2022   | 8              | 240            |
-| 10     | 1 Giugno 2022    | 8              | 240            |
-| 11     | 8 Giugno 2022    | 6              | 180            |
-| 13     | 15 Giugno 2022   | 6              | 180            |
-| 13     | 22 Giugno 2022   | 4              | 120            |
-| 14     | 29 Giugno 2022   | 4              | 120            |
-| 15     | 6 Luglio 2022    | 4              | 120            |
-| 16     | 13 Luglio 2022   | 4              | 120            |
-| 17     | 20 Luglio 2022   | 3              | 90             |
-| 18     | 27 Luglio 2022   | 3              | 90             |
-| 19     | 3 Agosto 2022    | 3              | 90             |
-| 20     | 10 Agosto 2022   | 3              | 90             |
-| 21-100 | 17 Agosto 2022   | 2              | 60             |
-| 101+   | 28 Febbraio 2024 | 1              | 30             |
+| 1      | 30 Marzo 2022    | 16             | 960            |
+| 2      | 6 Aprile 2022    | 12             | 720            |
+| 3      | 13 Aprile 2022   | 10             | 600            |
+| 4      | 20 Aprile 2022   | 8              | 480            |
+| 5      | 27 Aprile 2022   | 7              | 420            |
+| 6      | 4 Maggio 2022    | 6              | 360            |
+| 7      | 11 Maggio 2022   | 5              | 300            |
+| 8      | 18 Maggio 2022   | 5              | 300            |
+| 9      | 25 Maggio 2022   | 4              | 240            |
+| 10     | 1 Giugno 2022    | 4              | 240            |
+| 11     | 8 Giugno 2022    | 3              | 180            |
+| 12     | 15 Giugno 2022   | 3              | 180            |
+| 13     | 22 Giugno 2022   | 2              | 120            |
+| 14     | 29 Giugno 2022   | 2              | 120            |
+| 15     | 6 Luglio 2022    | 2              | 120            |
+| 16     | 13 Luglio 2022   | 2              | 120            |
+| 17     | 20 Luglio 2022   | 1.5            | 90             |
+| 18     | 27 Luglio 2022   | 1.5            | 90             |
+| 19     | 3 Agosto 2022    | 1.5            | 90             |
+| 20     | 10 Agosto 2022   | 1.5            | 90             |
+| 21-100 | 17 Agosto 2022   | 1              | 60             |
+| 101+   | 28 Febbraio 2024 | 0.5            | 30             |
 
 ### Staking di JEWEL e allocazioni
 
