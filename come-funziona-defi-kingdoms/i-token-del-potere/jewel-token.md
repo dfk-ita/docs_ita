@@ -23,17 +23,18 @@ Sappiamo che ci sono state preoccupazioni con alcuni altri progetti che vendevan
 
 Puoi vedere gli indirizzi di questi fondi qui.
 
-**Development Fund Multisig Safe:** [**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)\*\*\*\*\
-\*\*\*\*\
+**Development Fund Multisig Safe:** [**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)
+
+\
 **Marketing Fund Multisig Safe:**\
 [**https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances**](https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances)
 
 **Smart Contract Owners Safe:**\
 [**https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances**](https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances)
 
-**Pay Portal Vesting Wallet:** [**https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances**](https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances)\*\*\*\*
+**Pay Portal Vesting Wallet:** [**https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances**](https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances)
 
-\*\*Initial Liquidity Fund: \*\*_\*\*\*\*_ 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
+Initial Liquidity Fund: 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
 
 **Founding Member Addresses:**\
 _**Frisky Fox:**_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
