@@ -12,9 +12,12 @@ Con l' espansione DeFi Kingdoms: Crystalvale sulla DFK Chain, era necessario un 
 
 I JEWEL o CRYSTAL di ogni transazione di gioco sono ripartizionati come segue:
 
-* 25% viene dato ai wallet designati dei validatori. Questo ci consente di attrarre più validatori e decentralizzare ulteriormente la chain.
-* 50% viene bruciato. Ciò aumenterà continuamente il valore di JEWEL implementando una meccanica di burning coerente e sgonfiando il supply.
-* 25% viene inviato al Quest Fund per premiare la nostra Community ed i giocatori.
+* 1% - Bruciati
+* 10% - Inviati alla Banca per ricompensare gli holder di xJEWEL/xCRYSTAL
+* 30% - Inviati al Quest Rewards Fund
+* 25% - Inviati Development Fund, per pagare lo sviluppo futuro del gioco e le taglie
+* 17% - Inviati al Marketing Fund, per pagare pubblicità, airdrops, ecc
+* 17% - Inviati al Founders Fund, utilizzato per pagare bonus per i traguardi del team di sviluppo
 
 JEWEL e CRYSTAL sono la linfa vitale del nostro progetto e consentiranno ai giocatori di guadagnare giocando invece di acquistare giochi e abbonamenti senza alcun potenziale per recuperare tale investimento. In DeFi Kingdoms, buone decisioni di gioco e un po' di fortuna hanno il potenziale per premiare i giocatori con veri token crypto mentre giocano a un gioco che gli piace.
 
