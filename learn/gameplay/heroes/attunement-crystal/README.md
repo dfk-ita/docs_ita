@@ -1,6 +1,6 @@
 # Attunement Crystal
 
-Gli **Attunement Crystal** possono essere utilizzati durante il livellamento al Meditation Circle per fornire una maggiore possibilità di crescita in una statistica specifica. Durante un singolo rituale di livellamento può essere utilizzato un solo **Attunement Crystal**.
+Gli **Attunement Crystal** possono essere utilizzati durante il livellamento al Meditation Circle per fornire una maggiore possibilità di crescita in una statistica specifica. Durante un singolo rituale di livellamento può essere utilizzato un solo **Attunement Crystal,** che viene **consumato nel processo.**
 
 Esiste un sottoinsieme speciale di **Attunement Crystal**, noto come [**Atonement Crystal**](atonement-crystal.md). Sono oggetti a numero limitato distribuiti per rimediare ai bug trovati durante il livellamento.
 
