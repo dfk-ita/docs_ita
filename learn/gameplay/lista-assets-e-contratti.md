@@ -118,59 +118,59 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ## ATTUNEMENT CRYSTAL:
 
-![](https://lh6.googleusercontent.com/GQpBqLlfgnj-Bm-cihvzkReAPU-Noufk9-uhk1sPaJ6NiCK1ASVK70T4tNvEBCo4caqTvfImR5BThz79QfvkIlMFUC5k3Sx\_zbThFB4a\_ba\_WGjWarYZlo8I9j7YyNpWYwAlU-M3cDkn) **Lesser Might Crystal** `0xaB464901AFBc61bAC440a97Fa568aC42885Da58B`
+![](https://lh6.googleusercontent.com/reM2ibZNUAQ-FdPxRe-UlrUp5ePGqF60IaxleSXm8vAtvblSHk5pHhY0ZYwxH1HPWhxtX1sRYQyUMpyByCpq2EgyYJ9wTTtwoSGyIVGnwInRciWjGBGGsHQEtyc-dFdp0FSxEGA-BXVQ) **Lesser Chaos Crystal:** `0xa509c34306AdF6168268A213Cc47D336630bf101`
+
+![](https://lh6.googleusercontent.com/PwAvAtvaNi9xS9XC4SB5p0pVuXZ3iubcyW4qRxnOpdQNXSav\_uCChO1XkhFl2LTS0ckolIAfzl3KUGD1GVWlIlrK\_VDesS8mOWq7bQ5IvBsK2xubNvhIv0Y-MjBdUAUWxRdPL7aqiczH) **Chaos Crystal:** `0x45B53E55b5c0A10fdd4fE2079a562d5702F3A033`
+
+&#x20;                 **Greater Chaos Crystal:** `???`
+
+![](https://lh6.googleusercontent.com/GQpBqLlfgnj-Bm-cihvzkReAPU-Noufk9-uhk1sPaJ6NiCK1ASVK70T4tNvEBCo4caqTvfImR5BThz79QfvkIlMFUC5k3Sx\_zbThFB4a\_ba\_WGjWarYZlo8I9j7YyNpWYwAlU-M3cDkn) **Lesser Might Crystal:** `0xaB464901AFBc61bAC440a97Fa568aC42885Da58B`
 
 ![](https://lh6.googleusercontent.com/vp8sfeiphAYgIdGRUsHpp8wnAGF2X8GwDMDDHWq4fEfupZ-rmumSCVULGGB3LJ3rViZKrh9Nw5Gf0ED4eKI9EglroGWtAtHN5302bn2F5eJgSdkU-Aev3wnBt-zG3zCWG9bM8-hreCSr) **Might Crystal:** `0xb368f69bE6eDa74700763672AEB2Ae63f3d20AE6`
 
 ****![](../../.gitbook/assets/fortitude\_greater\_might\_crystal.gif) **Greater Might Crystal:** `???`
 
-![](https://lh5.googleusercontent.com/pNUMP1Js0-AtL5D793W8t0z8heu-mM3EjsKF0hAymhz1LZuuGhFFnIUKPf4I-39SS5deE5qXMlPeEQN8XXwaEx0ummwFxGfcdBy0Nsva9M4TrSf3HuLRICaBKQg1c8rQpQoGlEC0yL5n) **Lesser Finesse Crystal** `0x39927A2CEE5580d63A163bc402946C7600300373`
+![](https://lh5.googleusercontent.com/pNUMP1Js0-AtL5D793W8t0z8heu-mM3EjsKF0hAymhz1LZuuGhFFnIUKPf4I-39SS5deE5qXMlPeEQN8XXwaEx0ummwFxGfcdBy0Nsva9M4TrSf3HuLRICaBKQg1c8rQpQoGlEC0yL5n) **Lesser Finesse Crystal:** `0x39927A2CEE5580d63A163bc402946C7600300373`
 
-![](https://lh5.googleusercontent.com/\_oEHhnCCofmzy5CYOyaJecv9JuBcepVGNWxzrTCLtSsDqRe9xcQ6SCdaeWbE02KjIaNSxplfew\_GGzoG\_uOGKDW3-utiKG5epSrw1\_0tPms2JxWuneWKx0ILM0hxQkBretxr-KNdfD5x) **Finesse Crystal** `0xc6A58eFc320A7aFDB1cD662eaf6de10Ee17103F2`
+![](https://lh5.googleusercontent.com/\_oEHhnCCofmzy5CYOyaJecv9JuBcepVGNWxzrTCLtSsDqRe9xcQ6SCdaeWbE02KjIaNSxplfew\_GGzoG\_uOGKDW3-utiKG5epSrw1\_0tPms2JxWuneWKx0ILM0hxQkBretxr-KNdfD5x) **Finesse Crystal:** `0xc6A58eFc320A7aFDB1cD662eaf6de10Ee17103F2`
 
 ****![](../../.gitbook/assets/fortitude\_greater\_finesse\_crystal.gif) **Greater Finesse Crystal:** `???`
 
-![](https://lh4.googleusercontent.com/dfoG5mFcu0Hg6o-KfS26T2n-3k-Es7wle2jT3YbGwrDchz33oaXMrtTIuxFIhz17dgqm8IfDQTW8InzcMLgnyfr1PlTxs7cfANwZYEqMboy6TRP\_BG67C\_6GG1cvJznoDitGIOlxopeb) **Lesser Swiftness Crystal** `0xf5c26F2F34E9245C3A9ea0B0e7Ea7B33E6404Da0`
+![](https://lh4.googleusercontent.com/dfoG5mFcu0Hg6o-KfS26T2n-3k-Es7wle2jT3YbGwrDchz33oaXMrtTIuxFIhz17dgqm8IfDQTW8InzcMLgnyfr1PlTxs7cfANwZYEqMboy6TRP\_BG67C\_6GG1cvJznoDitGIOlxopeb) **Lesser Swiftness Crystal:** `0xf5c26F2F34E9245C3A9ea0B0e7Ea7B33E6404Da0`
 
-![](https://lh4.googleusercontent.com/7WW2sHkBvmtXY1uxjTO128osQIKwShYuqfvQM399hsgtS0S-OJhr\_eLWJJhXJ\_wfF5IcGq6guOyipL8uldfGDJxrJg0zTz9T0xhwXoNSSHb1-4SQWXXSYkYcHY2WlvvsHSUq8NnYr6u2) **Swiftness Crystal** `0x5d7f20e3B0f1406Bf038175218eA7e9B4838908c`
+![](https://lh4.googleusercontent.com/7WW2sHkBvmtXY1uxjTO128osQIKwShYuqfvQM399hsgtS0S-OJhr\_eLWJJhXJ\_wfF5IcGq6guOyipL8uldfGDJxrJg0zTz9T0xhwXoNSSHb1-4SQWXXSYkYcHY2WlvvsHSUq8NnYr6u2) **Swiftness Crystal:** `0x5d7f20e3B0f1406Bf038175218eA7e9B4838908c`
 
 ****![](../../.gitbook/assets/fortitude\_greater\_switness\_crystals.gif) **Greater Swiftness Crystal:** `???`
 
-![](https://lh5.googleusercontent.com/U0v4oXw6YvgkmMChgYPH-iL\_nLBiR\_x0P1MA74bI3YejUsCkBS2Q0pPTO\_2ce1GGIrFdP8gUvIxDeVWpu7k2xuUQvIoxwZHoaawybbhxvpLVDE-eeN1fIya8LPLsMIb\_wYP\_nZVNizBu) **Lesser Vigor Crystal** `0x0d8403E47445DB9E316E36F476dacD5827220Bdd`
+![](https://lh5.googleusercontent.com/U0v4oXw6YvgkmMChgYPH-iL\_nLBiR\_x0P1MA74bI3YejUsCkBS2Q0pPTO\_2ce1GGIrFdP8gUvIxDeVWpu7k2xuUQvIoxwZHoaawybbhxvpLVDE-eeN1fIya8LPLsMIb\_wYP\_nZVNizBu) **Lesser Vigor Crystal:** `0x0d8403E47445DB9E316E36F476dacD5827220Bdd`
 
-![](https://lh5.googleusercontent.com/qLmihufLGpXNtViO850sSUC4kS1BDztWmv2EtgN\_Hm3\_WJMLdgsle-LOgUXrn4\_--X4NANaSfKcFpBbTHLh6asEpHgzxD6VfGcfdQEP6f6xBohi5aUi1SdCyWCCoZz-Eut2nQ07dmPqf) **Vigor Crystal** `0xBbA50bD111DC586Fd1f2B1476B6eC505800A3FD0`
+![](https://lh5.googleusercontent.com/qLmihufLGpXNtViO850sSUC4kS1BDztWmv2EtgN\_Hm3\_WJMLdgsle-LOgUXrn4\_--X4NANaSfKcFpBbTHLh6asEpHgzxD6VfGcfdQEP6f6xBohi5aUi1SdCyWCCoZz-Eut2nQ07dmPqf) **Vigor Crystal:** `0xBbA50bD111DC586Fd1f2B1476B6eC505800A3FD0`
 
 ****![](../../.gitbook/assets/fortitude\_greater\_vigor\_crystal.gif) **Greater Vigor Crystal:** `???`
 
-![](https://lh4.googleusercontent.com/Bm\_CJNhhfReZWubpRpftAuKPpTrGVRFw0I7PFmnsFETabmW3dcvp3WoNn\_RLZajfVubsS\_uR0AYf8Hqdf69BOlGggwLcQRTbhTKyld\_mml3RsvlTb7WinAWtf2XkbEUMbU1okUYkI63W) **Lesser Fortitude Crystal** `0x3017609B9A59B77B708D783835B6fF94a3D9E337`
+![](https://lh4.googleusercontent.com/Bm\_CJNhhfReZWubpRpftAuKPpTrGVRFw0I7PFmnsFETabmW3dcvp3WoNn\_RLZajfVubsS\_uR0AYf8Hqdf69BOlGggwLcQRTbhTKyld\_mml3RsvlTb7WinAWtf2XkbEUMbU1okUYkI63W) **Lesser Fortitude Crystal:** `0x3017609B9A59B77B708D783835B6fF94a3D9E337`
 
-![](https://lh6.googleusercontent.com/UgIlCHNpvLCD92EOAiBpFVqTUFnwMu2dO\_ex8CsBdbfsBAjFLKTkVxCBmfoZR9nezTwQZxlYjkBK80NdrM5Iu0294FB1yCNWt85dn5bUbAlUKo6QDCQPxHY18OsUF-OAUUOWjDdscvNL) **Fortitude Crystal** `0x603919AEB55EB13F9CDE94274fC54ab2Bd2DecE7`
+![](https://lh6.googleusercontent.com/UgIlCHNpvLCD92EOAiBpFVqTUFnwMu2dO\_ex8CsBdbfsBAjFLKTkVxCBmfoZR9nezTwQZxlYjkBK80NdrM5Iu0294FB1yCNWt85dn5bUbAlUKo6QDCQPxHY18OsUF-OAUUOWjDdscvNL) **Fortitude Crystal:** `0x603919AEB55EB13F9CDE94274fC54ab2Bd2DecE7`
 
 ****![](../../.gitbook/assets/ezgif.com-gif-maker.gif)   **Greater Fortitude Crystal:** `???`
 
-![](https://lh3.googleusercontent.com/g5lGmx1awMPTvRRNvRc3cudp2NGV8OT7E\_mrXWPT9KF6MS0zJrJYyTGn7I7SLWwf8i2y5MoUZakZFoYqCLCVq064huSpZhqUdd782UCMr7DMEPs-LdDZ5hVeFx3eZ19tTS6zvBhZHSze) **Lesser Wit Crystal** `0x17ff2016c9ecCFBF4Fc4DA6EF95Fe646D2c9104F`
+![](https://lh3.googleusercontent.com/g5lGmx1awMPTvRRNvRc3cudp2NGV8OT7E\_mrXWPT9KF6MS0zJrJYyTGn7I7SLWwf8i2y5MoUZakZFoYqCLCVq064huSpZhqUdd782UCMr7DMEPs-LdDZ5hVeFx3eZ19tTS6zvBhZHSze) **Lesser Wit Crystal:** `0x17ff2016c9ecCFBF4Fc4DA6EF95Fe646D2c9104F`
 
-![](https://lh4.googleusercontent.com/7cH4jWOxP1qQ3lzlcb4caWZ5YYh-OWq6iBfY0zpWgZmwJxFEmEplm-QCsAiqGnMfxY9dkVbXt3TawBT7TAQjZK10PG1voy0fe3ddp3LN5B7oUvqsUArCc9w7YGBKN726HhHH2IIXfWs7) **Wit Crystal** `0x3619fc2386FbBC19DDC39d29A72457e758CFAD69`
+![](https://lh4.googleusercontent.com/7cH4jWOxP1qQ3lzlcb4caWZ5YYh-OWq6iBfY0zpWgZmwJxFEmEplm-QCsAiqGnMfxY9dkVbXt3TawBT7TAQjZK10PG1voy0fe3ddp3LN5B7oUvqsUArCc9w7YGBKN726HhHH2IIXfWs7) **Wit Crystal:** `0x3619fc2386FbBC19DDC39d29A72457e758CFAD69`
 
 ****![](../../.gitbook/assets/fortitude\_greater\_wit\_crystal.gif) **Greater Wit Crystal:** `???`
 
-![](https://lh6.googleusercontent.com/M6ckMpmFCPzPuwet81MdhnkSxOBNuLdODu6Ry1KgSiZer3bYz8hryuVjF6KwsWcNNFvwBVaf-X62OBga3ktsWrjc9MG04I0Jqm83YrhEx3gr2tE7\_s9NcYyX4Pvci6w9DvqA4xju\_Cyt) **Lesser Insight Crystal** `0xc63b76f710e9973b8989678eb16234CfADc8D9DB`
+![](https://lh6.googleusercontent.com/M6ckMpmFCPzPuwet81MdhnkSxOBNuLdODu6Ry1KgSiZer3bYz8hryuVjF6KwsWcNNFvwBVaf-X62OBga3ktsWrjc9MG04I0Jqm83YrhEx3gr2tE7\_s9NcYyX4Pvci6w9DvqA4xju\_Cyt) **Lesser Insight Crystal:** `0xc63b76f710e9973b8989678eb16234CfADc8D9DB`
 
-![](https://lh5.googleusercontent.com/lnE-zPufP\_MIM0TVZ0LsN3NGbmBOgmMo51RsO8avYsy04zEMQeuJUd8DRAjmWI\_Fg8mNGrI9PUyOWzsrlR2r5IqbdNiE40rPDEa4eX87JxSYpiKp8SFaVqATu9J0CPGs1Q06H7eKCEc6) **Insight Crystal** `0x117E60775584CdfA4f414E22b075F31cC9c3207C`
+![](https://lh5.googleusercontent.com/lnE-zPufP\_MIM0TVZ0LsN3NGbmBOgmMo51RsO8avYsy04zEMQeuJUd8DRAjmWI\_Fg8mNGrI9PUyOWzsrlR2r5IqbdNiE40rPDEa4eX87JxSYpiKp8SFaVqATu9J0CPGs1Q06H7eKCEc6) **Insight Crystal:** `0x117E60775584CdfA4f414E22b075F31cC9c3207C`
 
 ****![](../../.gitbook/assets/fortitude\_greater\_insight\_crystal.gif) **Greater Insight Crystal:** `???`
 
-![](https://lh6.googleusercontent.com/B1pi2NZZ7HMsmJFC4epSrfv2ULu-PfUSocgdKLGKAyiGNx3ybLMRsSg1\_xAyVTajTZJeaIbWhr5o3YUDDn-lZLuR9-nsvdA\_8vCQRWpdyvbn6wKYmZ2IQL6ZVwxOlGsXCnIZjybICphy) **Lesser Fortune Crystal** `0x13AF184aEA970Fe79E3BB7A1B0B156B195fB1f40`
+![](https://lh6.googleusercontent.com/B1pi2NZZ7HMsmJFC4epSrfv2ULu-PfUSocgdKLGKAyiGNx3ybLMRsSg1\_xAyVTajTZJeaIbWhr5o3YUDDn-lZLuR9-nsvdA\_8vCQRWpdyvbn6wKYmZ2IQL6ZVwxOlGsXCnIZjybICphy) **Lesser Fortune Crystal:** `0x13AF184aEA970Fe79E3BB7A1B0B156B195fB1f40`
 
-![](https://lh6.googleusercontent.com/vzh6A5J1\_gyW-vlv88t2luMzmot\_GI5JnaA03wIlrk84GiehERm19s3Gbxxz8spjfcUKtMpDY5xmRl6FgBndMwwOmPmM7WagBKJQC2OCJ6p019\_c0NYrZw-wx3CjEYslhAopfSjiwHVq) **Fortune Crystal** `0x6D777C64f0320d8A5b31BE0FdeB694007Fc3ed45`
+![](https://lh6.googleusercontent.com/vzh6A5J1\_gyW-vlv88t2luMzmot\_GI5JnaA03wIlrk84GiehERm19s3Gbxxz8spjfcUKtMpDY5xmRl6FgBndMwwOmPmM7WagBKJQC2OCJ6p019\_c0NYrZw-wx3CjEYslhAopfSjiwHVq) **Fortune Crystal:** `0x6D777C64f0320d8A5b31BE0FdeB694007Fc3ed45`
 
 ****![](../../.gitbook/assets/greater\_fortune\_crystal.gif) **Greater Fortune Crystal:** `???`
-
-![](https://lh6.googleusercontent.com/reM2ibZNUAQ-FdPxRe-UlrUp5ePGqF60IaxleSXm8vAtvblSHk5pHhY0ZYwxH1HPWhxtX1sRYQyUMpyByCpq2EgyYJ9wTTtwoSGyIVGnwInRciWjGBGGsHQEtyc-dFdp0FSxEGA-BXVQ) **Lesser Chaos Crystal** `0xa509c34306AdF6168268A213Cc47D336630bf101`
-
-![](https://lh6.googleusercontent.com/PwAvAtvaNi9xS9XC4SB5p0pVuXZ3iubcyW4qRxnOpdQNXSav\_uCChO1XkhFl2LTS0ckolIAfzl3KUGD1GVWlIlrK\_VDesS8mOWq7bQ5IvBsK2xubNvhIv0Y-MjBdUAUWxRdPL7aqiczH) **Chaos Crystal** `0x45B53E55b5c0A10fdd4fE2079a562d5702F3A033`
-
-**Greater Chaos Crystal:** `???`
 
 ## **ENHANCEMENT STONES:**
 
