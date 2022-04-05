@@ -32,7 +32,7 @@ Puoi vedere gli indirizzi di questi fondi qui.
 **Initial Liquidity Fund:** 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
 
 **Indirizzi membri Multisig:**\
-**Frisky Fox:** 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
-**Dreamer:** 0x4843D7c40D65f7bdb90706255052b714C5bfB78A\
-**Bolon Soron:** 0x2f26B3426504c28C29b6eDecae399D54717526CF\
-**Professor Tango:** 0xca29713bca46e6854d50fe5e6c48b6e763c93f47
+Frisky Fox: 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
+Dreamer: **** 0x4843D7c40D65f7bdb90706255052b714C5bfB78A\
+Bolon Soron: 0x2f26B3426504c28C29b6eDecae399D54717526CF\
+Professor Tango: 0xca29713bca46e6854d50fe5e6c48b6e763c93f47
