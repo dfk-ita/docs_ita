@@ -14,15 +14,23 @@ Infine, la catena DFK gestirà solo le transazioni DeFi Kingdoms, su RPC gestiti
 
 Le commisioni del gas sono collezionate dai smart contract e distribuite come segue:
 
-* Una parte verrà assegnata ai portafogli designati dei validatori. Questo ci consente di attrarre più validatori e decentralizzare ulteriormente la blockchain.
-* Una parte verrà bruciata. Ciò aumenterà continuamente il valore di JEWEL implementando una meccanica di burn coerente e deflazionandone l’emissione.
-* Una parte verrà inviata al Quest Fund per premiare la nostra community e i giocatori.
+* 25% viene assegnata ai portafogli designati dei validatori. Questo ci consente di attrarre più validatori e decentralizzare ulteriormente la blockchain.
+* 50% viene bruciata. Ciò aumenterà continuamente il valore di JEWEL implementando una meccanica di burning coerente e deflazionandone l’emissione.
+* 25% viene inviato al Quest Fund per premiare la nostra Community ed i giocatori.
 
 ### Bridged JEWEL e Gas
 
-Un protocollo scambiarà automaticamente i bridged JEWEL alla catena DFK con il token del gas nativo. Non è necessaria alcuna azione speciale da parte dei giocatori per gestire questa operazione. L'implementazione di DFK Chain non incide sul tetto massimo di JEWEL. C'è anche un'opzione per fare wrap di JEWEL, se necessario, in Crystalvale.
+Un protocollo scambiarà automaticamente i bridged JEWEL alla catena DFK con il token del gas nativo. Non è necessaria alcuna azione speciale da parte dei giocatori per gestire questa operazione. L'implementazione di DFK Chain non incide sul tetto massimo di JEWEL. C'è anche un'opzione di wrap di JEWEL, se necessario, in Crystalvale.
 
 ### Specifiche Tecniche della DFK Chain
 
 La blockchain DFK è costruita sulla piattaforma di subnet di Avalanche. Maggiori informazioni sulle subnet di Avalanche sono disponibili sul loro[ sito web](https://docs.avax.network/build/tutorials/platform/subnets/).
+
+### Informazioni sull'RPC della DFK Chain
+
+Visita [Chainlist](https://chainlist.org/?search=dfk) per informazioni sugli RPC disponibili. Chainlist configurerà automaticamente questi RPC per te, se lo desideri.
+
+### Commissioni Validatore DFK
+
+Le commissioni del validatore ricevute dal validatore di proprietà di DFK utilizzato sulla DFK Chain verranno depositate nel seguente indirizzo di portafoglio: 0xED6dC9FD092190C08e4afF8611496774Ded19D54
 
