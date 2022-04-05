@@ -1,7 +1,3 @@
----
-description: Q1 2022
----
-
 # Phase 5 - Equipaggiamenti
 
 Gli Eroi saranno in grado di creare, equipaggiare e scambiare Equipaggiamenti NFT. Questi Equipaggiamenti variano in rarità da Common a Mythic, e garantiranno nuove abilità passive e attive ai tuoi Eroi, oltre ad aumentare le loro statistiche.
