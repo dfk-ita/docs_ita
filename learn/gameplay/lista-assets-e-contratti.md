@@ -52,7 +52,7 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 **JEWEL (in Avalanche C-Chain):**`0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6`
 
-## **PLANTS:**
+## **PIANTE:**
 
 ![](https://lh4.googleusercontent.com/xv1PAjQjW2c7o5UkvdlP04CgA4dOPxvxTECFVAw9bX\_mxArqAhsd0Ew5\_RwfQVFPpCMOsURVmWnsA4LKp3bA2D9Mth3jzwxcH7Ql9-VBL5jpZOvdJ3WfN4j3giy4KAB6aqfnL07tdoIn)**Ambertaffy:** `0x6e1bC01Cc52D165B357c42042cF608159A2B81c1`
 
@@ -74,7 +74,7 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ![](https://lh5.googleusercontent.com/MMKz-aBj-UgZeSfR2palHGCg4RdxKXhzY7SI003c9KCIHiL\_m24HQS5epYfvBA0lF0GxYiSKUE3ixbz71ng-aKDx3J5Il8ArafMFi8Lp9vqqwYH-DWcwIIdunWLj\_62jZCq8KtcKoz7R)**Swift-Thistle:** `0xCdfFe898E687E941b124dfB7d24983266492eF1d`
 
-## **FISH:**
+## **PESCI:**
 
 ![](https://lh5.googleusercontent.com/sneOzzmOYXHqP06W-L9DBQfm9QrrlORLndMAYtenboaf6eCnGFeeg7PcOhthtGTkDInWMZ8P4CJSNioI3\_otE6g3zS6xy-me2urgJrr-Ds3kVsmQzVoW9WGOQYVOylt0Uk-yV7lcMO5W)**Bloater:** `0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432`
 
@@ -90,7 +90,7 @@ _Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utili
 
 ![](https://lh4.googleusercontent.com/z4n3owHXcYUxrhYod6D6RhKh2qiUFuI9lrJb16kUDJ9DP4lmyuwEEv9vCctJoKi2dgTu0NxxiQiUw7s2UjbxOkzyYbF8oBNvP661rAzxwDAHeT3n5AHNQMoMKU9SPhGVZR5k9FPsa0qd)**Silverfin:** `0x2493cfDAcc0f9c07240B5B1C4BE08c62b8eEff69`
 
-## **RUNES:**
+## **RUNE:**
 
 ![](https://lh3.googleusercontent.com/xw5c9HWp1LXl8R-q9IQPp8GF\_K4JNP4krymhAEhd6Dv4SC7EQZqljkoXgj1WSMtZ8eHkvvIAXNF53aOZXgJuHQCwVSKaKiKcVpsXhYSGvr4Rd1N8U1S\_oIxdyeV8\_E1L36joz\_\_gqZd\_)**Shvas Rune:** `0x66F5BfD910cd83d3766c4B39d13730C911b2D286`
 
