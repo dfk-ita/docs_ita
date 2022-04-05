@@ -1,6 +1,6 @@
 # JEWEL Token
 
-![JEWEL](<../../.gitbook/assets/image (5).png>)
+![JEWEL](<../../.gitbook/assets/image (5) (1).png>)
 
 ### JEWEL Hard Cap (Supply massima)
 
