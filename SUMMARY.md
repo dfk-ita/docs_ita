@@ -56,6 +56,7 @@
   * [Castle](learn/gameplay/castle.md)
   * [Lista Assets e Contratti](learn/gameplay/lista-assets-e-contratti.md)
 * [The Perilous Journey](learn/the-perilous-journey.md)
+* [Vithraven's Reawakening](learn/vithravens-reawakening.md)
 * [Trama](learn/lore.md)
 * [FAQ - Frequently Asked Questions](learn/faq.md)
 

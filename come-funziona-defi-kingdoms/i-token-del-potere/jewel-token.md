@@ -17,24 +17,23 @@ I primi **10,000,000 JEWEL** saranno preconiati e distribuiti come segue:
 
 ### Portafoglio Tesoreria Multi-sig
 
-**I nostri fondi sono protetti in un portafoglio multi-sig su multisig.harmony.one.** Questo portafoglio sarà controllati da 4 membri fondatori del progetto e qualsiasi transazione richiederà 3 firme su 4 per essere eseguita. Questo aiuta a proteggersi dagli hack che prendono di mira le tesorerie, assicurando che non ci sia un singolo margine di errore\*\*.\*\* Inoltre, questo protegge da qualsiasi membro del team che ha il potere di fare qualsiasi cosa da solo, senza che il resto del team ne sia consapevole e sia d'accordo. Offre inoltre il 100% di trasparenza, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita.
+**I nostri fondi sono protetti in un portafoglio multi-sig su multisig.harmony.one.** Questo portafoglio sarà controllati da 4 membri del progetto e qualsiasi transazione richiederà 3 firme su 4 per essere eseguita. Questo aiuta a proteggersi dagli hack che prendono di mira le tesorerie, assicurando che non ci sia un singolo margine di errore\*\*.\*\* Inoltre, questo protegge da qualsiasi membro del team che ha il potere di fare qualsiasi cosa da solo, senza che il resto del team ne sia consapevole e sia d'accordo. Offre inoltre il 100% di trasparenza, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita.
 
 Sappiamo che ci sono state preoccupazioni con alcuni altri progetti che vendevano una grande quantità di token al momento del lancio che hanno suscitato sentimenti di sfiducia nel progetto. Con queste misure cerchiamo di evitare queste preoccupazioni, per aiutare la nostra community ad avere fiducia nel progetto DeFi Kingdoms.
 
 Puoi vedere gli indirizzi di questi fondi qui.
 
-**Development Fund Multisig Safe:** [**https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances**](https://multisig.harmony.one/#/safes/0x1e3B6b278BA3b340d4BE7321e9be6DfeD0121Eac/balances)
-
+**Development Fund Multisig Safe:** 0xa4b9A93013A5590dB92062CF58D4b0ab4F35dBfB\
+****\
+**Marketing Fund Multisig Safe:** 0x3875e5398766a29c1B28cC2068A0396cba36eF99\
 \
-**Marketing Fund Multisig Safe:**\
-[**https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances**](https://multisig.harmony.one/#/safes/0x3875e5398766a29c1B28cC2068A0396cba36eF99/balances)
+**Founders Fund Multisig Safe:** 0x79F0d0670D17a89f509Ad1c16BB6021187964A29\
+\
+**Quest Fund Smart Contract:** 0x5ca5bcd91929c7152ca577e8c001c9b5a185f568\
+\
+**Pay Portal Vesting Contract:** 0x2b12d9a2480d6dd9f71dabaa366c87134195b679
 
-**Smart Contract Owners Safe:**\
-[**https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances**](https://multisig.harmony.one/#/safes/0x79F0d0670D17a89f509Ad1c16BB6021187964A29/balances)
-
-**Pay Portal Vesting Wallet:** [**https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances**](https://multisig.harmony.one/#/safes/0x2b12d9a2480d6dd9f71dabaa366c87134195b679/balances)
-
-Initial Liquidity Fund: 0x0240976CD26Caf288B489bfCADe6b76eE14B5e3F
+**Initial Liquidity Fund:** i token LP della liquidità iniziale sono ora conservati nel Marketing Fund Multisig Safe.
 
 **Founding Member Addresses:**\
 _**Frisky Fox:**_ 0x17D717EB3DD20a202dce9e8e396A444db1Af1D28\
