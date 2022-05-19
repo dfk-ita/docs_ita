@@ -26,11 +26,11 @@ L'emissione di JEWEL come ricompensa per lo staking di token LP nel Garden è pr
 | 18    | 21,491,167 | 10           | 300          |
 | 19    | 21,793,567 | 9            | 270          |
 | 20-35 | 22,095,967 | 8            | 240          |
-| 36+   | 26,631,967 | 4            | 120          |
+| 36+   | 26,934,367 | 4            | 120          |
 
 _\*I moltiplicatori elencati sono distribuiti in tutti i giardini. Puoi vedere il Seed Box per i tassi di emissione specifici per ogni pool._
 
-Visita [Harmony Blockchain Explorer](https://explorer.harmony.one) per vedere qual è il blocco corrente e la velocità del blocco corrente (latenza). Tieni presente che la velocità di blocco varia e dovrebbe essere visualizzata in media (ovvero su base giornaliera o settimanale) quando provi a pianificare le strategie di farming del tuo giardino.
+Visita [Harmony Blockchain Explorer](https://explorer.harmony.one/) per vedere qual è il blocco corrente e la velocità del blocco corrente (latenza). Tieni presente che la velocità di blocco varia e dovrebbe essere visualizzata in media (ovvero su base giornaliera o settimanale) quando provi a pianificare le strategie di farming del tuo giardino.
 
 ### Locking
 

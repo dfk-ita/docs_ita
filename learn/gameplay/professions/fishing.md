@@ -12,6 +12,8 @@ Dopo aver selezionato gli Eroi partecipanti ed aver scelto il numero di tentativ
 
 Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi **AGI, LCK** e **Fishing**, e se **Fishing** è la loro abilità principale.
 
+![](<../../../.gitbook/assets/image (6).png>)
+
 ### **Drop Rates Quest livello 0:**
 
 **Niente** - 50%
@@ -28,6 +30,6 @@ Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi
 
 **Sailfish** - 1.015%
 
-**Shimmerscale** - 0.915%
+**Shimmerskin** - 0.915%
 
 **Uovo Blu** - 0.01%

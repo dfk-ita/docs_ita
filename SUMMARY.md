@@ -14,7 +14,7 @@
 
 * [I Gardens](the-gardens/README.md)
   * [Giardini JEWEL](the-gardens/giardini-jewel.md)
-  * [Ice Gardens](the-gardens/ice-gardens.md)
+  * [Giardini CRYSTAL](the-gardens/ice-gardens.md)
 * [Gli Eroi](the-heroes.md)
 * [DeFi Kingdoms Blockchain](defi-kingdoms-blockchain.md)
 * [Roadmap](roadmap/README.md)
