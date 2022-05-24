@@ -34,7 +34,7 @@ Visita [Harmony Blockchain Explorer](https://explorer.harmony.one/) per vedere q
 
 ### Locking
 
-I JEWEL bloccati prelevati  rimarranno  **bloccati fino al blocco 31,470,366**, che segna la fine dell'Epoca 51. Le ricompense bloccate inizieranno a sbloccarsi linearmente nelle 52 Epoche successive. Attualmente, si stima che lo sblocco inizi nel terzo trimestre del 2022; tuttavia, la latenza di rete ha già esteso la durata della maggior parte delle epoche e non è possibile determinare una data specifica in cui verrà raggiunto questo specifico blocco di Harmony.&#x20;
+I JEWEL bloccati prelevati  rimarranno  **bloccati fino al blocco 31,772,767**, che segna la fine dell'Epoca 51. Le ricompense bloccate inizieranno a sbloccarsi linearmente nelle 52 Epoche successive. Attualmente, si stima che lo sblocco inizi nel terzo trimestre del 2022; tuttavia, la latenza di rete ha già esteso la durata della maggior parte delle epoche e non è possibile determinare una data specifica in cui verrà raggiunto questo specifico blocco di Harmony.&#x20;
 
 La percentuale di JEWEL sbloccati inizia al 5% in Epoch 1 e aumenta del 2% in ogni Epoca. Le ricompense non riscosse continuano a essere sbloccate in questo modo fino al loro prelievo, momento in cui le ricompense sbloccate vanno direttamente nel portafoglio del giocatore e le ricompense bloccate diventano completamente bloccate fino alla fine dell'Epoca 51.
 
