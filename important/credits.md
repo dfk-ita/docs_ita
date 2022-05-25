@@ -7,6 +7,6 @@
 | Offerto Da           | Traduzioni di   | Crediti         |
 | -------------------- | --------------- | --------------- |
 | DeFi Kingdoms ITALIA | easymoneysniper | easymoneysniper |
-|                      | KryptoSan       | brbrbr          |
-|                      |                 | funboy          |
-|                      |                 | KryptoSan       |
+|                      |                 | brbrbr          |
+|                      |                 |                 |
+|                      |                 |                 |
