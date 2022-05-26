@@ -22,6 +22,14 @@ Ogni tentativo di addestramento **consuma 5 Stamina**. Puoi eseguire fino a **5 
 
 La schermata di completamento della missione mostrerà tutte le ricompense guadagnate ([Runa Shvās](heroes/leveling.md), [Lesser Attunement Crystal](heroes/attunement-crystal/#lesser-attunement-crystal), una Pagina della Storia Eterna, Gold ed XP per [Eroe](heroes/)) e quanti dei tuoi tentativi ha superato o fallito, indicati da una X o da un segno di spunta.
 
+
+
+Le ricompense delle Missioni di Addestramento hanno una probabilità fissa di essere rilasciate, ma solo se un tentativo ha successo. Di seguito sono riportate le possibilità che ogni oggetto venga rilasciato:
+
+* **Shvas Runes** - 1%
+* **Lesser Attunement Crystals** - 0.5%
+* **Page of the Eternal Story** - 0.75%
+
 ## Gli Allenatori
 
 ### Orvin - Puzzle Solving&#x20;

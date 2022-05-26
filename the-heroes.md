@@ -2,7 +2,7 @@
 
 Anche se il giardinaggio e la coltivazione di JEWEL e CRYSTAL sono straordinariamente adorabili di per sé, volevamo aggiungere un po' di "spada e stregoneria" a questo regno fantastico, e quale modo migliore per farlo se non introdurre degli eroi unici in pixel style nel nostro mercato?
 
-![](<../.gitbook/assets/hero base showcase1.png>)
+![](<.gitbook/assets/hero base showcase1.png>)
 
 Stiamo aggiungendo una novità rispetto agli standard NFT poiché i nostri Eroi NFT saranno personaggi RPG completi con statistiche, risorse consumabili come HP, MP e Stamina, oltre a un sistema di livellamento! Questi NFT non sono pensati per sedersi su uno scaffale e avere un bell'aspetto, sono una delle caratteristiche chiave del gioco. Gli eroi possono svolgere più professioni per ottenere ricompense (inclusa la cura dei giardini per ricompense aggiuntive e l'estrazione di token bloccati per un accesso anticipato), partecipare a missioni e infine combattere l'un l'altro e una varietà di nemici negli aggiornamenti futuri. Gli eroi sono sia al centro del gioco che strumenti importanti per guadagnare una varietà di ricompense.
 
@@ -34,9 +34,9 @@ Gli eroi possono intraprendere varie missioni all'interno del regno. Le missioni
 
 Gli Eroi hanno l'opportunità di competere per il diritto di acquistare la terra, che è un tipo speciale di NFT potenziabile e limitato\*\*.\*\* La terra può essere acquistata e venduta, costruita e visitata dagli eroi itineranti.
 
-### Animali
+### Pets
 
-Gli Eroi a volte possono trovare uova, che possono essere schiuse per ottenere in animali rari, che li accompagneranno nelle loro avventure. Questi animali domestici possono garantire bonus alle statistiche, abilità passive e altro. Questa funzionalità è in fase di sviluppo.
+Gli Eroi a volte possono trovare uova, che possono essere schiuse per ottenere in animali rari, che li accompagneranno nelle loro avventure. Questi Animali Domestici garantiscono bonus alle statistiche, alle abilità passive, ed altro. Ogni Pet che viene schiuso ha la possibilità di essere di rarità diverse simili agli Eroi, ed il numero e l'entità dei bonus che ricevono si basano su quella rarità e casualità.
 
 ### **PvP**
 
