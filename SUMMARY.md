@@ -36,6 +36,7 @@
     * [Rarity](learn/gameplay/heroes/rarity.md)
     * [Leveling](learn/gameplay/heroes/leveling.md)
     * [Quests](learn/gameplay/heroes/quests.md)
+    * [Pets](learn/gameplay/heroes/pets.md)
     * [Enhancement Stones](learn/gameplay/heroes/enhancement-stones.md)
     * [Attunement Crystal](learn/gameplay/heroes/attunement-crystal/README.md)
       * [Atonement Crystal](learn/gameplay/heroes/attunement-crystal/atonement-crystal.md)
