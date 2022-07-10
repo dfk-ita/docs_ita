@@ -40,16 +40,16 @@ La percentuale di JEWEL sbloccati inizia al 5% in Epoch 1 e aumenta del 2% in og
 
 ### Modello di Locking - Esempi semplificati
 
-Di seguito sono riportati due esempi semplificati che mostrano come funziona il modello di blocco. Per semplicità, **gli esempi presuppongono che non venga fatto il compound delle ricompense sbloccate** in posizioni LP aggiuntive e che un giocatore abbia guadagnato 100 JEWEL in ricompense dai Giardini durante l'Epoca 1, 50 JEWEL nell'Epoca 2 e così via per riflettere la ridotta emissione di JEWEL per Epoca. In entrambi gli scenari, si guadagnano 301,6 JEWEL, ma l'importo sbloccato rispetto a quello bloccato è diverso. Questo modello di blocco offre ai giocatori l'opportunità di scegliere una strategia adatta al loro stile e alla loro propensione al rischio.&#x20;
+Di seguito sono riportati due esempi semplificati che mostrano come funziona il modello di blocco. Per semplicità, **gli esempi presuppongono che non vengano reinvestite le ricompense sbloccate** in posizioni LP aggiuntive e che un giocatore abbia guadagnato 100 JEWEL in ricompense dai Giardini durante l'Epoca 1, 50 JEWEL nell'Epoca 2 e così via per riflettere la ridotta emissione di JEWEL per Epoca. In entrambi gli scenari, si guadagnano 301,6 JEWEL, ma l'importo sbloccato rispetto a quello bloccato è diverso. Questo modello di blocco offre ai giocatori l'opportunità di scegliere una strategia adatta al loro stile e alla loro propensione al rischio.&#x20;
 
-**Esempio illustrativo A**: I premi guadagnati durante ogni Epoca vengono prelevati durante ogni Epoca (e non utilizzati in compound).
+**Esempio illustrativo A**: I premi guadagnati durante ogni Epoca vengono prelevati durante ogni Epoca (e non reinvestiti).
 
 *   Riassunto di 10 Epoche:
 
     * Totale JEWEL sbloccati: **29.8** JEWEL
     * Totale JEWEL bloccati: **271.8** JEWEL ( inaccessibili fino a dopo l'Epoca 51 a meno che non siano sbloccati in anticipo tramite gli Eroi)
     * Ricompense totali: **301.6** JEWEL
-    * _Riduce i JEWEL sbloccati durante il periodo in esame, ma consente l'uso e il potenziale compound dei JEWEL sbloccati, il che potrebbe comportare più JEWEL sbloccati rispetto al mancata prelievo nello stesso periodo. A voi la scelta!_
+    * _Riduce i JEWEL sbloccati durante il periodo in esame, ma consente l'uso e il potenziale reinvestimento dei JEWEL sbloccati, il che potrebbe comportare più JEWEL sbloccati rispetto al mancata prelievo nello stesso periodo. A voi la scelta!_
 
 
 
@@ -74,15 +74,30 @@ Di seguito sono riportati due esempi semplificati che mostrano come funziona il 
   * Ricompense totali: **301.6** JEWEL
   * _Numero di JEWEL sbloccati più alto entro la fine del periodo in esame, ma non è possibile utilizzare o reinvestire i JEWEL sbloccati durante il periodo._
 
-| Epoca        | Sbloccati al prelievo | Bloccati al prelievo | JEWEL guadagnati per Epoca nell'Esempio A | Jewel sbloccati cumulativi | JEWEL sbloccati e non prelevati cumulativi | JEWEL bloccati e non prelevati cumulativi | JEWEL sbloccati e prelevati cumulativi | JEWEL bloccati e prelevati cumulativi |
-| ------------ | --------------------- | -------------------- | ----------------------------------------- | -------------------------- | ------------------------------------------ | ----------------------------------------- | -------------------------------------- | ------------------------------------- |
-| <p>1<br></p> | 5%                    | 95%                  | 100.0                                     | 5.0                        | 5.0                                        | 95.0                                      | 0.0                                    | 0.0                                   |
-| 2            | 7%                    | 93%                  | 50.0                                      | 3.5                        | 10.5                                       | 139.5                                     | 0.0                                    | 0.0                                   |
-| 3            | 9%                    | 91%                  | 37.5                                      | 3.4                        | 16.9                                       | 170.6                                     | 0.0                                    | 0.0                                   |
-| 4            | 11%                   | 89%                  | 25.0                                      | 2.8                        | 23.4                                       | 189.1                                     | 0.0                                    | 0.0                                   |
-| 5            | 13%                   | 87%                  | 21.9                                      | 2.8                        | 30.5                                       | 203.9                                     | 0.0                                    | 0.0                                   |
-| 6            | 15%                   | 85%                  | 18.8                                      | 2.8                        | 38.0                                       | 215.2                                     | 0.0                                    | 0.0                                   |
-| 7            | 17%                   | 83%                  | 15.6                                      | 2.7                        | 45.7                                       | 223.1                                     | 0.0                                    | 0.0                                   |
-| 8            | 19%                   | 81%                  | 12.5                                      | 2.4                        | 53.4                                       | 227.8                                     | 0.0                                    | 0.0                                   |
-| 9            | 21%                   | 79%                  | 10.9                                      | 2.3                        | 61.4                                       | 230.8                                     | 0.0                                    | 0.0                                   |
-| 10           | 23%                   | 77%                  | 9.4                                       | 2.2                        | 69.4                                       | 232.2                                     | 69.4                                   | 232.2                                 |
+| Epoca | Sbloccati al prelievo | Bloccati al prelievo | JEWEL guadagnati per Epoca nell'Esempio A | Jewel sbloccati cumulativi | JEWEL sbloccati e non prelevati cumulativi | JEWEL bloccati e non prelevati cumulativi | JEWEL sbloccati e prelevati cumulativi | JEWEL bloccati e prelevati cumulativi |
+| ----- | --------------------- | -------------------- | ----------------------------------------- | -------------------------- | ------------------------------------------ | ----------------------------------------- | -------------------------------------- | ------------------------------------- |
+| 1     | 5%                    | 95%                  | 100.0                                     | 5.0                        | 5.0                                        | 95.0                                      | 0.0                                    | 0.0                                   |
+| 2     | 7%                    | 93%                  | 50.0                                      | 3.5                        | 10.5                                       | 139.5                                     | 0.0                                    | 0.0                                   |
+| 3     | 9%                    | 91%                  | 37.5                                      | 3.4                        | 16.9                                       | 170.6                                     | 0.0                                    | 0.0                                   |
+| 4     | 11%                   | 89%                  | 25.0                                      | 2.8                        | 23.4                                       | 189.1                                     | 0.0                                    | 0.0                                   |
+| 5     | 13%                   | 87%                  | 21.9                                      | 2.8                        | 30.5                                       | 203.9                                     | 0.0                                    | 0.0                                   |
+| 6     | 15%                   | 85%                  | 18.8                                      | 2.8                        | 38.0                                       | 215.2                                     | 0.0                                    | 0.0                                   |
+| 7     | 17%                   | 83%                  | 15.6                                      | 2.7                        | 45.7                                       | 223.1                                     | 0.0                                    | 0.0                                   |
+| 8     | 19%                   | 81%                  | 12.5                                      | 2.4                        | 53.4                                       | 227.8                                     | 0.0                                    | 0.0                                   |
+| 9     | 21%                   | 79%                  | 10.9                                      | 2.3                        | 61.4                                       | 230.8                                     | 0.0                                    | 0.0                                   |
+| 10    | 23%                   | 77%                  | 9.4                                       | 2.2                        | 69.4                                       | 232.2                                     | 69.4                                   | 232.2                                 |
+
+### Commissioni di deposito e prelievo dei Gardens
+
+**Non ci sono commissioni di deposito per lo staking di token LP nei Giardini**. Per proteggerci da prestiti flash e pump and dump, abbiamo implementato commissioni di prelievo per il ritiro di token LP in staking. Ogni prelievo azzera il timer della commissione. Le commissioni di prelievo sono elencate di seguito:
+
+* **0.01%** se un utente preleva dopo **4 Epoche**
+* **0.25%** se un utente preleva dopo  **2 Epoche ma prima di 4 Epoche**
+* **0.5%** se un utente preleva dopo **5 giorni ma prima di 2 Epoche**
+* **1%** se un utente preleva prima di **5 giorni. \***
+* **2%** se un utente preleva prima di **3 giorni. \***
+* **4%** se un utente preleva prima di **24 ore. \***
+* **8%** se un utente preleva prima di **1 ora. \***
+* **25%** se un utente preleva **durante lo stesso blocco.**
+
+_\*I giorni e le ore elencati presuppongono una velocità di blocco di 2 secondi durante tale periodo e dipenderanno dalla velocità della blockchain di Harmony_.\
