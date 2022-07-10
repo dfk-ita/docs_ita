@@ -1,8 +1,8 @@
 # Exchange Decentralizzato
 
-DeFi Kingdoms ha attualmente due scambi decentralizzati che utilizzano il collaudato protocollo UniswapV2. DeFi Kingdoms: DEX di Serendale scambia JEWEL, ONE e una varietà di token su Harmony, mentre DeFi Kingdoms: DEX di Crystalvale scambia CRYSTAL, AVAX e una varietà di token su DFK Chain, la nostra sottorete Avalanche. Il trading è uno dei motivi principali per cui siamo attratti dalla tecnologia blockchain e vogliamo rendere l'esperienza divertente e piacevole per tutti all'interno dei regni.
+Al suo centro, DeFi Kingdoms ha due exchange decentralizzati che utilizzano il collaudato protocollo UniswapV2. Il DEX di DeFi Kingdoms: Serendale scambia JEWEL, ONE e una serie di token su Harmony, mentre il DEX di DeFi Kingdoms: Crystalvale scambia CRYSTAL, AVAX e una varietà di token su Avalanche. Investire è uno dei motivi principali per cui siamo attratti dalla tecnologia blockchain e vogliamo rendere l'esperienza di investimento divertente e piacevole per tutti nel Regno.
 
 ![](../.gitbook/assets/Marketplace.jpg)
 
-Dal Marketplace, puoi scambiare i token ai tassi di cambio correnti. Puoi anche diventare un fornitore di liquidità aggiungendo liquidità a qualsiasi pool di token che desideri. Questi ti faranno guadagnare commissioni ogni volta che qualcuno scambia quei token. Inoltre, i token LP per determinati abbinamenti di token incentivati ​​possono anche guadagnare premi JEWEL o CRYSTAL quando sono puntati nei Gardens.
+Nel Marketplace, puoi scambiare i tokens ai tassi di cambio correnti. Puoi anche diventare un fornitore di liquidità aggiungendo liquidità (LP) a qualsiasi pool che desideri. Questi ti farà guadagnare commissioni ogni volta che qualcuno scambia quei token. Inoltre, questi token LP possono anche essere depositati nei Gardens per guadagnare premi in JEWEL o CRYSTAL.
 
