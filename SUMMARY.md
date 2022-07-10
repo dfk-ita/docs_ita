@@ -9,6 +9,7 @@
   * [CRYSTAL Token](come-funziona-defi-kingdoms/i-token-del-potere/crystal-token.md)
 * [Exchange Decentralizzato](come-funziona-defi-kingdoms/decentralized-exchange.md)
 * [Il Jeweler](come-funziona-defi-kingdoms/il-jeweler.md)
+* [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain.md)
 
 ***
 
