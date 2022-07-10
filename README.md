@@ -1,7 +1,7 @@
 ---
 description: >-
-  Official DeFi Kingdoms Whitepaper, last updated Mar 8, 2022 - Traduzioni DeFi
-  Kingdoms ITALIA, ultimo aggiornamento 27 Gennaio 2022
+  Official DeFi Kingdoms Whitepaper, last updated Jun 16, 2022 - Traduzioni DeFi
+  Kingdoms ITALIA, ultimo aggiornamento 10 Luglio 2022
 ---
 
 # Defi Kingdoms
