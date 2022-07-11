@@ -28,9 +28,8 @@ La DFK Chain è costruita sulla piattaforma di sottorete di Avalanche. Maggiori 
 
 ### DFK Chain RPC Information
 
-Please visit [Chainlist](https://chainlist.org/?search=dfk) for information on available RPCs. Chainlist will also configure these RPCs for you automatically if you choose.
+Visita [Chainlist](https://chainlist.org/?search=dfk) per informazioni sugli RPC disponibili. Chainlist configurerà automaticamente questi RPC per te, se lo desideri.
 
 ### DFK Validator Fees
 
-Validator fees that are received from the DFK-owned validator being used on DFK chain will be deposited into the following wallet address:\
-0xED6dC9FD092190C08e4afF8611496774Ded19D54
+Le commissioni del validatore ricevute dal validatore di proprietà di DFK utilizzato sulla DFK Chain verranno depositate nel seguente indirizzo di portafoglio: `0xED6dC9FD092190C08e4afF8611496774Ded19D54`
