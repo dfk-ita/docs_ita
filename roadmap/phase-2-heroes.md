@@ -2,15 +2,15 @@
 description: Q4 2021
 ---
 
-# Phase 2 - Heroes & Quests
+# Phase 2 - Eroi & Quests ✔️
 
-La seconda fase principale vedrà gli Eroi entrare nel mondo di Defi Kingdoms, insieme ad una serie di cose eccitanti da fare per loro.
+La seconda fase principale ha visto gli Eroi entrare nel mondo di DeFi Kingdoms, insieme ad una serie di cose eccitanti da fare per loro.
 
 * Hero NFTs
   * Stats
   * Tradabili
   * Possono guadagnare EXP (esperienza)
-  * 50 Eroi di generazione 0 (Gen0) sono stati assegnati a vincitori casuali, persone che avevano almeno 5.000 xJEWEL nel proprio bilancio presso il Jeweler entro il 15 settembre 2021 (ad ogni giocatore sono stati richiesti almeno 5.000 xJEWEL per ottenere un ticket per l'estrazione casuale dei vincitori. I partecipanti hanno ricevuto 2 ticket in più per ogni multiplo di 5.000 xJEWEL che avevano oltre il primo.)
+  * 51 Eroi di generazione 0 (Gen0) sono stati assegnati a vincitori casuali, persone che avevano almeno 5.000 xJEWEL nel proprio bilancio presso il Jeweler entro il 15 settembre 2021 (ad ogni giocatore sono stati richiesti almeno 5.000 xJEWEL per ottenere un ticket per l'estrazione casuale dei vincitori. I partecipanti hanno ricevuto 2 ticket in più per ogni multiplo di 5.000 xJEWEL che avevano oltre il primo.)
 * Quests
   * Gli Eroi possono essere assegnati a missioni che faranno guadagnare loro esperienza e ricompense.
   * Tipi di Quests:
