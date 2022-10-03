@@ -50,7 +50,7 @@ Si trova nella bottega dell'[Alchimista Herbert](alchemist.md) impegnato nel leg
 
 ### Farmer Quill - Helping the Farm
 
-Lo si trova nei [Giardini](../../the-gardens/), e gli serve aiuto!
+Lo si trova nei [Giardini](../../come-funziona-defi-kingdoms/the-gardens/), e gli serve aiuto!
 
 ![Stat di Riferimento: VIT](<../../.gitbook/assets/Quill 1.png>)
 

@@ -32,7 +32,7 @@ DeFi, o Decentralized Finance, è un ecosistema di applicazioni finanziarie cost
 
 Uno exchange decentralizzato, o DEX, consente agli utenti di scambiare fondi tramite smart contracts senza rinunciare alla custodia fino al completamento dello scambio. La liquidità viene fornita ai DEX da individui che forniscono una coppia di token (ad es. ONE e JEWEL) a un pool di liquidità, che viene quindi utilizzata dal DEX per facilitare le negoziazioni su quella coppia.
 
-Gli utenti che forniscono liquidità in questo modo ricevono gettoni Liquidity Pool (LP), che spesso possono essere utilizzati per guadagnare premi aggiuntivi, come nei [DFK's Gardens](../the-gardens/).
+Gli utenti che forniscono liquidità in questo modo ricevono gettoni Liquidity Pool (LP), che spesso possono essere utilizzati per guadagnare premi aggiuntivi, come nei [DFK's Gardens](../come-funziona-defi-kingdoms/the-gardens/).
 
 Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com/it/articles/the-complete-beginners-guide-to-decentralized-finance-defi) e gli [scambi decentralizzati](https://academy.binance.com/it/articles/what-is-a-decentralized-exchange-dex) su Binance Academy.
 
@@ -40,7 +40,7 @@ Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com
 
 Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../the-gardens/) o JEWEL dal [Jeweler](gameplay/bank.md).
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../come-funziona-defi-kingdoms/the-gardens/) o JEWEL dal [Jeweler](gameplay/bank.md).
 
 Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
 
@@ -62,7 +62,7 @@ Puoi vedere il prezzo attuale e la capitalizzazione di mercato di JEWEL o CRYSTA
 
 ### Cosa posso fare con i miei JEWEL?
 
-JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gioco implicano la ricezione o la spesa di JEWEL, sia che si tratti di acquistare/vendere Eroi, guadagnare tramite Quests, [fornire liquidità al DEX](../come-funziona-defi-kingdoms/decentralized-exchange.md) e [farmare nei giardini](../the-gardens/) o depositare nel caveau del Jeweler.
+JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gioco implicano la ricezione o la spesa di JEWEL, sia che si tratti di acquistare/vendere Eroi, guadagnare tramite Quests, [fornire liquidità al DEX](../come-funziona-defi-kingdoms/decentralized-exchange.md) e [farmare nei giardini](../come-funziona-defi-kingdoms/the-gardens/) o depositare nel caveau del Jeweler.
 
 [Qui](../come-funziona-defi-kingdoms/i-token-del-potere/jewel-token.md) puoi leggere di più sul token JEWEL e la sua tokenomic.
 
@@ -72,7 +72,7 @@ JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gi
 
 Il [Jeweler](gameplay/bank.md) è una pool a partecipazione unica per JEWEL o CRYSTAL. Quando depositi i tuoi JEWEL o CRYSTAL dal Jeweler, ricevi un importo proporzionale di xJEWEL o xCRYSTAL. Poiché il rapporto tra loro non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL o CRYSTAL di quelli che hai messo!
 
-I [Gardens](../the-gardens/) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL o CRYSTAL in cambio dello staking di questi token.
+I [Gardens](../come-funziona-defi-kingdoms/the-gardens/) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL o CRYSTAL in cambio dello staking di questi token.
 
 Sebbene i Gardens forniscano rendimenti più elevati rispetto al Jeweler, ciò comporta un rischio maggiore, inclusa l'Impermanent Loss (IL) se il valore dei token nella coppia cambia l'uno rispetto all'altro. Puoi saperne di più sulla perdita temporanea da [Binance Academy](https://academy.binance.com/it/articles/impermanent-loss-explained) o [guardando questo video.](https://www.youtube.com/watch?v=qkaBCIpvfIg\&t=1297s)
 
@@ -86,7 +86,7 @@ Poiché i guadagni del Jeweler derivano dalle commissioni di trading che si veri
 
 ### Perchè alcuni dei miei token JEWEL sono bloccati?
 
-Al fine di garantire la stabilità di JEWEL o CRYSTAL nel lungo termine, una parte dei tokens JEWEL guadagnati nei Gardens sono temporaneamente bloccati e non possono essere utilizzati in alcun modo. Questi JEWEL bloccati verranno lentamente sbloccati a partire dall'Epoch 51 (stima nel terzo trimestre del 2022). Il processo di sblocco può essere accelerato tramite le missioni di Mining. Scopri di più sulla tokenomics di DFK [qui](../the-gardens/).
+Al fine di garantire la stabilità di JEWEL o CRYSTAL nel lungo termine, una parte dei tokens JEWEL guadagnati nei Gardens sono temporaneamente bloccati e non possono essere utilizzati in alcun modo. Questi JEWEL bloccati verranno lentamente sbloccati a partire dall'Epoch 51 (stima nel terzo trimestre del 2022). Il processo di sblocco può essere accelerato tramite le missioni di Mining. Scopri di più sulla tokenomics di DFK [qui](../come-funziona-defi-kingdoms/the-gardens/).
 
 ### Quanto è lunga un'Epoch?
 
@@ -96,11 +96,11 @@ Le Epoche su Crystalvale sono esattamente di una settimana e sono gestite con de
 
 ### Perchè le ricompense nei miei giardini vengono riscattate?
 
-I guadagni dei Gardens vengono automaticamente accreditati ogni volta che depositi o prelevi tokens LP nei [Gardens](../the-gardens/).
+I guadagni dei Gardens vengono automaticamente accreditati ogni volta che depositi o prelevi tokens LP nei [Gardens](../come-funziona-defi-kingdoms/the-gardens/).
 
 ### Quando inizia / si azzera il sistema di commissioni dei giardini?
 
-Il [programma delle commissioni di prelievo](../the-gardens/#commissioni-di-deposito-e-prelievo-di-ritiro-dai-gardens) per i Gardens inizia quando depositi per la prima volta i tuoi token LP in un giardino specifico, ed è separato per ogni giardino. Le commissioni si azzerano ogni volta che prelevi token LP da un giardino.
+Il [programma delle commissioni di prelievo](../come-funziona-defi-kingdoms/the-gardens/#commissioni-di-deposito-e-prelievo-di-ritiro-dai-gardens) per i Gardens inizia quando depositi per la prima volta i tuoi token LP in un giardino specifico, ed è separato per ogni giardino. Le commissioni si azzerano ogni volta che prelevi token LP da un giardino.
 
 ## ![](../.gitbook/assets/jewel-icon.png)EROI & EVOCAZIONI
 
@@ -108,7 +108,7 @@ Il [programma delle commissioni di prelievo](../the-gardens/#commissioni-di-depo
 
 Gli Eroi sono fondamentali per il gameplay in DeFi Kingdoms. Possono Evocare nuovi Eroi, essere inviati in missioni, impegnarsi in professioni ed infine combattersi tra loro in PVP. Anche se puoi usare il DEX, i Gardens ed il Jeweler senza un Eroe, pensiamo che tutti apprezzeranno le opportunità che hanno da offrire!
 
-Leggi di più riguardo gli Eroi [qui](../the-heroes.md).
+Leggi di più riguardo gli Eroi [qui](../come-funziona-defi-kingdoms/the-heroes.md).
 
 ### Dove posso acquisire un Eroe?
 

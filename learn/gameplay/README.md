@@ -4,6 +4,6 @@ Gran parte del Gameplay di DeFi Kingdoms è incentrato sugli [Heroes](heroes/), 
 
 ![The Tavern](<../../.gitbook/assets/Tavern (1).JPG>)
 
-Se non hai ancora abbastanza JEWEL per acquistare un Eroe, va bene lo stesso! Puoi investire ciò che hai tramite il [Jeweler](bank.md) (commissionin DEX) o nei [Gardens](../../the-gardens/) (pooling di liquidità) per iniziare a guadagnare più JEWEL. Ovviamente, in primo luogo, dovrai visitare il [Marketplace](marketplace.md) per fare trading con JEWEL.
+Se non hai ancora abbastanza JEWEL per acquistare un Eroe, va bene lo stesso! Puoi investire ciò che hai tramite il [Jeweler](bank.md) (commissionin DEX) o nei [Gardens](../../come-funziona-defi-kingdoms/the-gardens/) (pooling di liquidità) per iniziare a guadagnare più JEWEL. Ovviamente, in primo luogo, dovrai visitare il [Marketplace](marketplace.md) per fare trading con JEWEL.
 
 Le possibilità di gioco e di guadagno in DeFi Kingdoms sono molte e varie, quindi non esitare a esplorare ulteriormente questa guida per saperne di più sulle opzioni a tua disposizione!

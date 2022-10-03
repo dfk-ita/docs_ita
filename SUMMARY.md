@@ -10,14 +10,14 @@
 * [Exchange Decentralizzato](come-funziona-defi-kingdoms/decentralized-exchange.md)
 * [Il Jeweler](come-funziona-defi-kingdoms/il-jeweler.md)
 * [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain.md)
+* [I Gardens](come-funziona-defi-kingdoms/the-gardens/README.md)
+  * [Giardini JEWEL](come-funziona-defi-kingdoms/the-gardens/giardini-jewel.md)
+  * [Giardini CRYSTAL](come-funziona-defi-kingdoms/the-gardens/ice-gardens.md)
+* [Gli Eroi](come-funziona-defi-kingdoms/the-heroes.md)
+* [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain-1.md)
 
 ***
 
-* [I Gardens](the-gardens/README.md)
-  * [Giardini JEWEL](the-gardens/giardini-jewel.md)
-  * [Giardini CRYSTAL](the-gardens/ice-gardens.md)
-* [Gli Eroi](the-heroes.md)
-* [DeFi Kingdoms Blockchain](defi-kingdoms-blockchain.md)
 * [Roadmap](roadmap/README.md)
   * [Phase 0.5 - Community ✔️](roadmap/phase-0.5-community.md)
   * [Phase 1 - Serendale & JEWEL ✔️](roadmap/phase-1-dex.md)
