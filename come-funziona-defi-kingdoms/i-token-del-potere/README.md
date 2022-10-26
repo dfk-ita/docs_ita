@@ -25,7 +25,7 @@ JEWEL e CRYSTAL sono la linfa vitale del nostro progetto ed hanno funzionalità 
 
 Poiché sia ​​JEWEL che CRYSTAL condividono gran parte della stessa utilità (ad esempio, possono essere entrambi utilizzati per coniare nuovi NFT), il valore dei token è collegato. Ciò offre interessanti opportunità di arbitraggio tra blockchains e garantisce che l'espansione cross-chain non comporti una perdita di valore per i token più vecchi. Le future espansioni dovrebbero seguire la stessa strategia.
 
-Inoltre, JEWEL viene utilizzato per le commissioni del gas sulla [DFK Chain](../defi-kingdoms-blockchain-1.md), dove si svolgono le transazioni di gioco per Crystalvale.
+Inoltre, JEWEL viene utilizzato per le commissioni del gas sulla [DFK Chain](broken-reference), dove si svolgono le transazioni di gioco per Crystalvale.
 
 Informazioni specifiche su ciascun token possono essere trovate sulle pagine [JEWEL Token](jewel-token.md) e [CRYSTAL Token](crystal-token.md) e l' emissione per ciascun token è disponibile rispettivamente nelle pagine dei  [JEWEL Gardens](../the-gardens/giardini-jewel.md) e [Ice Gardens](../the-gardens/ice-gardens.md).
 

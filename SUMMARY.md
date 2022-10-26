@@ -1,20 +1,24 @@
 # Table of contents
 
 * [Defi Kingdoms](README.md)
+* [Regni](regni/README.md)
+  * [Serendale 1.0](regni/serendale-1.0.md)
+  * [Crystalvale](regni/crystalvale.md)
+  * [Serendale 2.0](regni/serendale-2.0.md)
 
 ## COME FUNZIONA DEFI KINGDOMS
 
 * [I Token del potere](come-funziona-defi-kingdoms/i-token-del-potere/README.md)
   * [JEWEL Token](come-funziona-defi-kingdoms/i-token-del-potere/jewel-token.md)
   * [CRYSTAL Token](come-funziona-defi-kingdoms/i-token-del-potere/crystal-token.md)
+  * [JADE Token](come-funziona-defi-kingdoms/i-token-del-potere/jade-token.md)
 * [Exchange Decentralizzato](come-funziona-defi-kingdoms/decentralized-exchange.md)
 * [Il Jeweler](come-funziona-defi-kingdoms/il-jeweler.md)
-* [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain.md)
 * [I Gardens](come-funziona-defi-kingdoms/the-gardens/README.md)
   * [Giardini JEWEL](come-funziona-defi-kingdoms/the-gardens/giardini-jewel.md)
   * [Giardini CRYSTAL](come-funziona-defi-kingdoms/the-gardens/ice-gardens.md)
 * [Gli Eroi](come-funziona-defi-kingdoms/the-heroes.md)
-* [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain-1.md)
+* [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain.md)
 
 ***
 

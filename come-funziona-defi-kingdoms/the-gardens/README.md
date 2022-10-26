@@ -1,6 +1,6 @@
 # I Gardens
 
-In ogni regno, i Gardens sono il luogo dove depositare i tuoi token di liquidità per "coltivare" (farming) i token del potere. Nei giardini JEWEL di Serendale, i giocatori possono depositare LP per ricevere le emissioni di JEWEL, mentre negli Ice Gardens di Crystalvale ricevono le emissioni di CRYSTAL.
+In ogni Regno, i Gardens sono il luogo dove depositare i tuoi token di liquidità per "coltivare" (farming) i token del potere. Nei giardini JEWEL di Serendale, i giocatori possono depositare LP per ricevere le emissioni di JEWEL, mentre negli Ice Gardens di Crystalvale ricevono le emissioni di CRYSTAL.
 
 ![](<../../.gitbook/assets/Cute Henry.gif>)
 

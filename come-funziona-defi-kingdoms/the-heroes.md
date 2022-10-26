@@ -16,12 +16,6 @@ Gli Eroi vengono evocati attraverso un portale dimensionale combinando i geni di
 
 La Tavern è il posto dove comprare e vendere Eroi. I giocatori possono anche offrire i loro Eroi in affitto nella Taverna, per essere usati da altri giocatori per evocare.
 
-****
-
-### **Equipaggiamenti**
-
-Gli Eroi potranno trovare ed equipaggiare preziose attrezzature NFT che garantiranno loro abilità passive e attive speciali e aumenteranno le loro statistiche.
-
 ### **Statistiche**
 
 Gli Eroi avranno varie statistiche che determinano l'efficacia con cui possono svolgere le diverse missioni e affrontare il combattimento. Queste statistiche possono essere aumentate man mano che gli eroi guadagnano XP e salgono di livello.
@@ -36,11 +30,11 @@ Gli Eroi potranno trovare ed indossare preziosi Equipaggiamenti NFT che garantir
 
 ### Terre
 
-Gli Eroi hanno l'opportunità di competere per il diritto di acquistare la terra, che è un tipo speciale di NFT potenziabile e limitato\*\*.\*\* La terra può essere acquistata e venduta, costruita e visitata dagli eroi itineranti.
+Gli Eroi hanno l'opportunità di competere per il diritto di acquistare la terra, che è un tipo speciale di NFT potenziabile e limitato\*\*.\*\* La Terra può essere acquistata e venduta, costruita e visitata dagli eroi itineranti.
 
 ### Pets
 
-Gli Eroi a volte possono trovare uova che possono schiudere in rari Pets NFT che li accompagneranno nelle loro avventure. Questi Animali Domestici possono garantire bonus alle statistiche, alle abilità ed altro ancora. Ogni animaletto che viene schiuso ha la possibilità di essere di una rarità diversa, simile agli Eroi, ed il numero e l'entità dei bonus che ricevono si basano su quella rarità e casualità.
+Gli Eroi a volte possono trovare uova che possono essere schiuse in rari Pets NFT che li accompagneranno nelle loro avventure. Questi Animali Domestici possono garantire bonus alle statistiche, alle abilità ed altro ancora. Ogni animaletto che viene schiuso ha la possibilità di essere di una rarità diversa, simile agli Eroi, ed il numero e l'entità dei bonus che ricevono si basano su quella rarità e casualità.
 
 ### **PvP**
 
