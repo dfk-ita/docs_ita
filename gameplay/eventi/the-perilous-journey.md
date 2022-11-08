@@ -31,7 +31,7 @@ La Rarità è indicata dal colore della carta Eroe e dall'icona al centro della 
 
 Il Grado si riferisce a che categoria appartengono gli Eroi nella tabella delle Evocazioni:
 
-![Tabella delle Evocazioni](<../.gitbook/assets/Albus Class Tree.png>)
+![Tabella delle Evocazioni](<../../.gitbook/assets/Albus Class Tree.png>)
 
 La formula di sopravvivenza per singolo Eroe è:
 
@@ -47,7 +47,7 @@ In aggiunta, i giocatori avranno la possibilità di raggruppare i propri Eroi, s
 
 La possibilità di sopravvivenza per ogni Eroe viene calcolata individualmente. I seguenti grafici non tengono conto di ogni Eroe, ma possono essere utilizzati come guida rapida per comprendere la variabilità tra gli Eroi in base al loro Livello, Grado e Rarità.
 
-![Possibilità di sopravvivenza](../.gitbook/assets/survchance.png)
+![Possibilità di sopravvivenza](../../.gitbook/assets/survchance.png)
 
 ### Ricompense per Sopravvivenza
 
@@ -72,7 +72,7 @@ Per scoraggiare il multi-walleting, i gruppi che hanno più di un Eroe sopravvis
 
 Le quantità di airdrop di CRYSTAL sono influenzate da Livello, Rarità e Grado. La tabella seguente di riferimento mostra che la crescita per Livello è lineare: 1 CRYSTAL per Livello. Quindi, è possibile calcolare le ricompense per ogni singolo Eroe trovando il più "vicino" sulla tabella, ed aggiungendo o sottraendo 1 CRYSTAL per Livello, in modo che corrisponda alle statistiche del tuo Eroe.
 
-![CRYSTAL Rewards](../.gitbook/assets/crystreward.png)
+![CRYSTAL Rewards](../../.gitbook/assets/crystreward.png)
 
 ### Ricompense per Morte
 
@@ -85,15 +85,15 @@ I proprietari degli Eroi che moriranno, riceveranno:
 
 Il pagamento in JEWEL è calcolato in base alla tabella seguente. Noterai che la crescita per Livello è lineare: 0.2 JEWEL per Livello. Quindi, è possibile calcolare le ricompense per ogni singolo Eroe, trovando il più "vicino" sulla tabella ed aggiungendo o sottraendo 0,2 JEWEL per Livello, in modo che corrisponda alle statistiche del tuo Eroe.
 
-![JEWEL Reward](../.gitbook/assets/jewelreward.png)
+![JEWEL Reward](../../.gitbook/assets/jewelreward.png)
 
 Le ricompense delle Rune sono determinate in base alla tabella seguente. Bisogna notare che questa è la prima opportunità per ricevere le rune Moksha.
 
-![Runes Reward](../.gitbook/assets/runereward.png)
+![Runes Reward](../../.gitbook/assets/runereward.png)
 
-Le [Enhancement Stones](gameplay/heroes/enhancement-stones.md) e gli [Attunement Crystals](gameplay/heroes/attunement-crystal/) vengono assegnati in base al Grado ed alla Rarità dell'Eroe, come mostrato nella tabella seguente. Il tipo di Enhancement Stones e gli Attunement Crystals  ricevuti sono determinati in base ad una o due statistiche più alte (a seconda del Grado) dell'Eroe bruciato. In caso di parità per la statistica più alta, le percentuali di crescita primarie e secondarie vengono utilizzate per gli spareggi.
+Le [Enhancement Stones](../items/enhancement-stones.md) e gli [Attunement Crystals](../items/attunement-crystal/) vengono assegnati in base al Grado ed alla Rarità dell'Eroe, come mostrato nella tabella seguente. Il tipo di Enhancement Stones e gli Attunement Crystals  ricevuti sono determinati in base ad una o due statistiche più alte (a seconda del Grado) dell'Eroe bruciato. In caso di parità per la statistica più alta, le percentuali di crescita primarie e secondarie vengono utilizzate per gli spareggi.
 
-![Enhancement Stone and Attunement Crystal Rewards](../.gitbook/assets/death-enhancement-attunement-reward.png)
+![Enhancement Stone and Attunement Crystal Rewards](../../.gitbook/assets/death-enhancement-attunement-reward.png)
 
 I tickets per il raffle sono calcolati con la formula seguente:
 

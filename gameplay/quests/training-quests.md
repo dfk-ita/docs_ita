@@ -12,7 +12,7 @@ Ci sono otto Missioni di Addestramento disponibili, ciascuna corrispondente ad u
 
 Ogni NPC Allenatore è specializzato in una disciplina specifica (Stat). L'Eroe gareggia contro l'Allenatore nella loro disciplina specifica. Una volta che l'Eroe diventa troppo forte in quella specifica statistica, può superare il suo Allenatore e sarà incoraggiato a cercare un avversario più forte altrove (Missione di Addestramento di livello 2).
 
-Quando un tentativo di addestramento ha successo, l'Eroe riceve una quantità fissa di Gold e un "tiro di dado" per una [Runa Shvās](heroes/leveling.md), un [Lesser Attunement Crystal](heroes/attunement-crystal/#lesser-attunement-crystal) (Cristallo minore di Sintonia), ed una Page of Eternal Story (Pagina della Storia Eterna). NOTA: i tentativi falliti non ricevono nessuna di queste ricompense.
+Quando un tentativo di addestramento ha successo, l'Eroe riceve una quantità fissa di Gold e un "tiro di dado" per una [Runa Shvās](../heroes/leveling.md), un [Lesser Attunement Crystal](../items/attunement-crystal/#lesser-attunement-crystal) (Cristallo minore di Sintonia), ed una Page of Eternal Story (Pagina della Storia Eterna). NOTA: i tentativi falliti non ricevono nessuna di queste ricompense.
 
 Ogni tentativo di addestramento **consuma 5 Stamina**. Puoi eseguire fino a **5 tentativi per transazione** e selezionare fino a **6 Eroi per transazione**. Ogni Eroe deve essere in grado di eseguire lo stesso numero di tentativi quando è raggruppato ad altri.
 
@@ -20,7 +20,7 @@ Ogni tentativo di addestramento **consuma 5 Stamina**. Puoi eseguire fino a **5 
 
 ![Schermata di completamento delle missioni, ricompense e prestazioni](<../../.gitbook/assets/training quest completion screen reward.png>)
 
-La schermata di completamento della missione mostrerà tutte le ricompense guadagnate ([Runa Shvās](heroes/leveling.md), [Lesser Attunement Crystal](heroes/attunement-crystal/#lesser-attunement-crystal), una Pagina della Storia Eterna, Gold ed XP per [Eroe](heroes/)) e quanti dei tuoi tentativi ha superato o fallito, indicati da una X o da un segno di spunta.
+La schermata di completamento della missione mostrerà tutte le ricompense guadagnate ([Runa Shvās](../heroes/leveling.md), [Lesser Attunement Crystal](../items/attunement-crystal/#lesser-attunement-crystal), una Pagina della Storia Eterna, Gold ed XP per [Eroe](../heroes/)) e quanti dei tuoi tentativi ha superato o fallito, indicati da una X o da un segno di spunta.
 
 
 
@@ -34,7 +34,7 @@ Le ricompense delle Missioni di Addestramento hanno una probabilità fissa di es
 
 ### Orvin - Puzzle Solving&#x20;
 
-Lo possiamo trovare seduto nel salone del [Castello](castle.md)
+Lo possiamo trovare seduto nel salone del [Castello](../locations/castle.md)
 
 ![Stat di Riferimento: WIS](<../../.gitbook/assets/Orvin 1 (1).png>)
 
@@ -42,7 +42,7 @@ Lo possiamo trovare seduto nel salone del [Castello](castle.md)
 
 ### Arnold - Alchemist Assistance
 
-Si trova nella bottega dell'[Alchimista Herbert](alchemist.md) impegnato nel leggere le varie ricette.
+Si trova nella bottega dell'[Alchimista Herbert](../locations/alchemist.md) impegnato nel leggere le varie ricette.
 
 ![Stat di Riferimento: INT](<../../.gitbook/assets/Arnold 1.png>)
 
@@ -58,7 +58,7 @@ Lo si trova nei [Giardini](../../come-funziona-defi-kingdoms/the-gardens/), e gl
 
 ### Layla - Darts
 
-Si trova nella [Taverna](tavern.md), in cerca di un avversario per una partita!
+Si trova nella [Taverna](../locations/tavern.md), in cerca di un avversario per una partita!
 
 ![Stat di Riferimento: DEX](<../../.gitbook/assets/Layla 1.png>)
 
@@ -66,7 +66,7 @@ Si trova nella [Taverna](tavern.md), in cerca di un avversario per una partita!
 
 ### Lucky Moe - Card Game
 
-Anche lui nella [Taverna](tavern.md), seduto al tavolo centrale.
+Anche lui nella [Taverna](../locations/tavern.md), seduto al tavolo centrale.
 
 ![Stat di Riferimento: LCK](<../../.gitbook/assets/Moe 1.png>)
 
@@ -74,7 +74,7 @@ Anche lui nella [Taverna](tavern.md), seduto al tavolo centrale.
 
 ### Ice Reaver Zaine - Arm Wrestling
 
-E' seduto al tavolo con Lucky Moe, nella [Taverna](tavern.md).
+E' seduto al tavolo con Lucky Moe, nella [Taverna](../locations/tavern.md).
 
 ![Stat di Riferimento: STR](<../../.gitbook/assets/Zaine 1.png>)
 
@@ -82,7 +82,7 @@ E' seduto al tavolo con Lucky Moe, nella [Taverna](tavern.md).
 
 ### Isabelle - Dancing
 
-Nel [Marketplace](marketplace.md), mentre fa ciò che preferisce di più..Balla!
+Nel [Marketplace](../locations/marketplace.md), mentre fa ciò che preferisce di più..Balla!
 
 ![Stat di Riferimento: END](<../../.gitbook/assets/Isabelle 1.png>)
 
@@ -90,7 +90,7 @@ Nel [Marketplace](marketplace.md), mentre fa ciò che preferisce di più..Balla!
 
 ### Street Kid Carlin - Game of Ball
 
-Anche lui si trova nel [Marketplace](marketplace.md), e cerca un valido avversario per giocare...
+Anche lui si trova nel [Marketplace](../locations/marketplace.md), e cerca un valido avversario per giocare...
 
 ![Stat di Riferimento: AGI](<../../.gitbook/assets/Street Kid Carlin 1.png>)
 

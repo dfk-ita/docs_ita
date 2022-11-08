@@ -1,10 +1,10 @@
-# I Gardens
+# I Giardini
 
 In ogni Regno, i Gardens sono il luogo dove depositare i tuoi token di liquidità per "coltivare" (farming) i token del potere. Nei giardini JEWEL di Serendale, i giocatori possono depositare LP per ricevere le emissioni di JEWEL, mentre negli Ice Gardens di Crystalvale ricevono le emissioni di CRYSTAL.
 
 ![](<../../.gitbook/assets/Cute Henry.gif>)
 
-Inoltre, i giocatori possono assegnare i loro Eroi NFT a lavorare nei loro giardini attraverso [Missioni di Gardening](../../learn/gameplay/professions/gardening.md). Quegli Eroi guadagnano ricompense aggiuntive in JEWEL o CRYSTAL in base all'abilità dell'Eroe e alla quantità di tokens LP depositti nel giardino che stanno curando, quindi i giocatori che puntano gettoni LP nei Gardens ed assegnano Eroi in quegli stessi giardini hanno un'utilità sinergica tramite per i loro NFT.
+Inoltre, i giocatori possono assegnare i loro Eroi NFT a lavorare nei loro giardini attraverso [Missioni di Gardening](../../gameplay/quests/professions/gardening.md). Quegli Eroi guadagnano ricompense aggiuntive in JEWEL o CRYSTAL in base all'abilità dell'Eroe e alla quantità di tokens LP depositti nel giardino che stanno curando, quindi i giocatori che puntano gettoni LP nei Gardens ed assegnano Eroi in quegli stessi giardini hanno un'utilità sinergica tramite per i loro NFT.
 
 ### Epoche ed Emissioni
 
@@ -26,13 +26,13 @@ Per bilanciare gli elevati tassi di emissioni nelle epoche precedenti e per forn
 
 Per ogni token, a partire dall'Epoca 1, il 5% delle ricompense richieste viene sbloccato mentre il 95% è bloccato. Ogni Epoca, la percentuale di ricompense che vengono sbloccate aumenta del 2%, quindi nella Epoca 2, il 7% è sbloccato e il 93% è bloccato, e così via. È importante notare che queste percentuali si basano sull'Epoca nel momento in cui il giocatore sceglie di ritirare le ricompense, non quando sono state assegnate. Se un giocatore sceglie di non prelevarle subito, la percentuale che potrà ritirare aumenta del 2% ogni Epoca. Una volta che un giocatore ha prelevato, il resto delle ricompense bloccate smette di essere sbloccato fino all'Epoca 51, a quel punto iniziano a sbloccarsi linearmente nelle 52 Epoche successive. Dopo l'Epoca 51, non si verificheranno ulteriori blocchi e tutte le ricompense appena generate verranno completamente sbloccate subito.
 
-Per ogni token, a partire dall'Epoca 1, il 5% delle ricompense richieste viene sbloccato mentre il 95% viene bloccato. Ogni Epoca, la percentuale di ricompense che vengono sbloccate aumenta del 2%, quindi in Epoca 2, il 7% è sbloccato e il 93% è bloccato, e così via. È importante notare che queste percentuali si basano sull'Epoca nel momento in cui il giocatore sceglie di ritirare i premi e non quando sono state assegnate le ricompense. Se un giocatore sceglie di non rivendicare subito, la percentuale di tokens che verranno sbloccati che potranno richiedere aumenta del 2% ogni Epoca. Una volta che un giocatore ha rivendicato, tuttavia, il resto delle ricompense rivendicate che sono bloccate, rimangono bloccate fino alla fine dell'Epoca 51, a quel punto iniziano a sbloccarsi in modo lineare nelle 52 Epoche successive, a meno che non vengano sbloccate con altri mezzi, come le Missioni di [JEWEL Mining](../../learn/gameplay/professions/jewel-mining.md) . Dopo l'Epoca 51, non si verificheranno ulteriori blocchi e tutte le ricompense generate verranno completamente sbloccate immediatamente.
+Per ogni token, a partire dall'Epoca 1, il 5% delle ricompense richieste viene sbloccato mentre il 95% viene bloccato. Ogni Epoca, la percentuale di ricompense che vengono sbloccate aumenta del 2%, quindi in Epoca 2, il 7% è sbloccato e il 93% è bloccato, e così via. È importante notare che queste percentuali si basano sull'Epoca nel momento in cui il giocatore sceglie di ritirare i premi e non quando sono state assegnate le ricompense. Se un giocatore sceglie di non rivendicare subito, la percentuale di tokens che verranno sbloccati che potranno richiedere aumenta del 2% ogni Epoca. Una volta che un giocatore ha rivendicato, tuttavia, il resto delle ricompense rivendicate che sono bloccate, rimangono bloccate fino alla fine dell'Epoca 51, a quel punto iniziano a sbloccarsi in modo lineare nelle 52 Epoche successive, a meno che non vengano sbloccate con altri mezzi, come le Missioni di [JEWEL Mining](../../gameplay/quests/professions/jewel-mining.md) . Dopo l'Epoca 51, non si verificheranno ulteriori blocchi e tutte le ricompense generate verranno completamente sbloccate immediatamente.
 
 ### Modello di Locking  - Sblocco anticipato con gli Eroi NFT
 
 Una delle caratteristiche più uniche di DeFi Kingdoms sono i nostri Eroi NFT che forniscono una vera utilità in-game. La professione Mining è uno di questi casi d'uso. I giocatori che hanno ricompense bloccate possono inviare i loro Eroi in missioni di JEWEL Mining per sbloccare alcuni di quei tokens in anticipo, garantendo l'accesso alle ricompense bloccate prima del loro sblocco naturale.
 
-Non tutti gli Eroi avranno lo stesso livello di competenza nel Mining, quindi è importante conoscere le varie statistiche utilizzate dagli Eroi e come funziona ogni Professione quando si cerca di acquistarle e usarle. Puoi trovare maggiori dettagli a riguardo nella sezione [Profession Quest](../../learn/gameplay/professions/) dei documenti.
+Non tutti gli Eroi avranno lo stesso livello di competenza nel Mining, quindi è importante conoscere le varie statistiche utilizzate dagli Eroi e come funziona ogni Professione quando si cerca di acquistarle e usarle. Puoi trovare maggiori dettagli a riguardo nella sezione [Profession Quest](../../gameplay/quests/professions/) dei documenti.
 
 ### Commissioni di deposito e prelievo dei Gardens
 
