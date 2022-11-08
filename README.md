@@ -2,6 +2,8 @@
 description: >-
   Official DeFi Kingdoms Whitepaper, last updated Jun 16, 2022 - Traduzioni DeFi
   Kingdoms ITALIA, ultimo aggiornamento 10 Luglio 2022
+cover: .gitbook/assets/banner-discord.png
+coverY: 0
 ---
 
 # Defi Kingdoms

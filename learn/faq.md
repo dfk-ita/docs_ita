@@ -40,15 +40,15 @@ Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com
 
 Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../come-funziona-defi-kingdoms/the-gardens/) o JEWEL dal [Jeweler](locations/bank.md).
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../come-funziona-defi-kingdoms/the-gardens/) o JEWEL dal [Jeweler](gameplay/bank.md).
 
-Puoi anche spendere JEWEL per acquistare [Eroi NFT](heroes/) nella [Tavern](locations/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](quests/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](heroes/summoning/) nuovi Eroi dal [Portal](locations/portal.md).
+Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
 
 ## ![](../.gitbook/assets/jewel-icon.png)TOKEN DEL POTERE
 
 ### Come posso acquistare JEWEL?
 
-Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.defikingdoms.com/#/) potrai acquistare JEWEL al [Marketplace](locations/marketplace.md) dal commerciante, il Trader Matoya. Potrai scambiare i tuoi ONE, o la maggior parte degli altri token di Harmony.
+Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.defikingdoms.com/#/) potrai acquistare JEWEL al [Marketplace](gameplay/marketplace.md) dal commerciante, il Trader Matoya. Potrai scambiare i tuoi ONE, o la maggior parte degli altri token di Harmony.
 
 Il contratto di JEWEL su Harmony è: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
@@ -70,7 +70,7 @@ JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gi
 
 ### Qual'è la differenza tra Jeweler e Gardens?
 
-Il [Jeweler](locations/bank.md) è una pool a partecipazione unica per JEWEL o CRYSTAL. Quando depositi i tuoi JEWEL o CRYSTAL dal Jeweler, ricevi un importo proporzionale di xJEWEL o xCRYSTAL. Poiché il rapporto tra loro non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL o CRYSTAL di quelli che hai messo!
+Il [Jeweler](gameplay/bank.md) è una pool a partecipazione unica per JEWEL o CRYSTAL. Quando depositi i tuoi JEWEL o CRYSTAL dal Jeweler, ricevi un importo proporzionale di xJEWEL o xCRYSTAL. Poiché il rapporto tra loro non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL o CRYSTAL di quelli che hai messo!
 
 I [Gardens](../come-funziona-defi-kingdoms/the-gardens/) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL o CRYSTAL in cambio dello staking di questi token.
 
@@ -112,7 +112,7 @@ Leggi di più riguardo gli Eroi [qui](../come-funziona-defi-kingdoms/the-heroes.
 
 ### Dove posso acquisire un Eroe?
 
-Gli Eroi possono essere acquistati da altri giocatori nella [Tavern](locations/tavern.md) e possono anche essere noleggiati dal [Portal](locations/portal.md), per assistere nel processo di [Evocazione](heroes/summoning/).
+Gli Eroi possono essere acquistati da altri giocatori nella [Tavern](gameplay/tavern.md) e possono anche essere noleggiati dal [Portal](gameplay/portal.md), per assistere nel processo di [Evocazione](gameplay/heroes/summoning.md).
 
 ### Qual'è la differenza tra Eroi Gen0 e Generazioni successive?
 
@@ -130,11 +130,11 @@ Se hai due Eroi, puoi andare al Portal ed evocarne un altro. Avrai bisogno di al
 
 Se hai un solo Eroe, puoi noleggiarne uno da un altro giocatore per assisterlo nel processo di Evocazione.
 
-Leggi di più sule Evocazioni [qui](heroes/summoning/).
+Leggi di più sule Evocazioni [qui](gameplay/heroes/summoning.md).
 
 ### Dove posso ottenere le Gaia's Tears per evocare un nuovo Eroe?
 
-Le Gaia's Tears sono disponibili come bottino dalle [Profession Quests](quests/professions/). La [Pesca](quests/professions/fishing.md), la [Raccolta](quests/professions/foraging.md), il [Giardinaggio](quests/professions/gardening.md) e l'Estrazione Mineraria ([Gold](quests/professions/gold-mining.md) e [JEWEL](quests/professions/jewel-mining.md)), tutte hanno la possibilità di ricompensare con Gaia's Tears.
+Le Gaia's Tears sono disponibili come bottino dalle [Profession Quests](gameplay/professions/). La [Pesca](gameplay/professions/fishing.md), la [Raccolta](gameplay/professions/foraging.md), il [Giardinaggio](gameplay/professions/gardening.md) e l'Estrazione Mineraria ([Gold](gameplay/professions/gold-mining.md) e [JEWEL](gameplay/professions/jewel-mining.md)), tutte hanno la possibilità di ricompensare con Gaia's Tears.
 
 Inoltre, le Gaia's Tears possono essere guadagnate nella mini-quest del Pozzo dei Desideri (Whishing Well), a cui è possibile accedere vicino al Castello nella schermata della mappa del mondo o all'interno della zona del Circolo di Meditazione (Meditation Circle). Se possiedi un Eroe, puoi inviarlo in una missione del Pozzo dei Desideri, che esaurirà la sua Stamina e ti darà la possibilità di ricevere alcune Gaia's Tears. C'è la possibilità di non ricevere Tears per la missione.
 
@@ -150,7 +150,7 @@ Se non vedi il Cristallo Infuso dopo che la transazione di Evocazione è andata 
 
 ### Quali sono le diverse Rarità e che cosa comportano?
 
-Gli Eroi evocati possono essere delle seguenti [Rarità](heroes/rarity.md), indicate dal colore del bordo della carta:
+Gli Eroi evocati possono essere delle seguenti [Rarità](gameplay/heroes/rarity.md), indicate dal colore del bordo della carta:
 
 * **Mythic (Viola)**
 * **Legendary (Arancione)**
@@ -158,7 +158,7 @@ Gli Eroi evocati possono essere delle seguenti [Rarità](heroes/rarity.md), indi
 * **Uncommon (Verde)**
 * **Common (Grigio)**
 
-Gli Eroi di Rarità superiore vengono evocati con valori delle [Statistiche](heroes/stats.md) aumentati. Anche gli Eroi rari o superiori ricevono bonus aggiuntivi alle Stats ogni 5 livelli.
+Gli Eroi di Rarità superiore vengono evocati con valori delle [Statistiche](gameplay/heroes/stats.md) aumentati. Anche gli Eroi rari o superiori ricevono bonus aggiuntivi alle Stats ogni 5 livelli.
 
 ### Come posso sapere se il mio Eroe è forte?
 
@@ -179,7 +179,7 @@ Gli Eroi riceveranno un bonus quando effettuano Profession Quests che corrispond
 
 ### Come funzionano le Professioni?
 
-Per gli Eroi, sono disponibili quattro diverse [Professions](quests/professions/): Gardening, Mining, Fishing e Foraging. Ogni Professione ha un'abilità (skill) ad essa associata che ha la possibilità di aumentare ogni volta che un Eroe esegue una missione di Professione associata. Man mano che queste abilità aumenteranno, aumenterà anche la capacità dell'Eroe di guadagnare ricompense da quella Professione. Inoltre, ciascuna di queste Professioni ha un gene ad essa associato (in **verde** sulla tua carta Eroe). Gli Eroi ricevono vantaggi aggiuntivi quando svolgono missioni di Professione che corrispondono al loro gene di Professione.
+Per gli Eroi, sono disponibili quattro diverse [Professions](gameplay/professions/): Gardening, Mining, Fishing e Foraging. Ogni Professione ha un'abilità (skill) ad essa associata che ha la possibilità di aumentare ogni volta che un Eroe esegue una missione di Professione associata. Man mano che queste abilità aumenteranno, aumenterà anche la capacità dell'Eroe di guadagnare ricompense da quella Professione. Inoltre, ciascuna di queste Professioni ha un gene ad essa associato (in **verde** sulla tua carta Eroe). Gli Eroi ricevono vantaggi aggiuntivi quando svolgono missioni di Professione che corrispondono al loro gene di Professione.
 
 Impegnarsi in una Profession Quest consuma la Stamina del tuo Eroe. Il Mining ed il Gardening drenano la Stamina ad una velocità fissa di 10 minuti, come indicato nel menu delle Quests. Questo consente all'Eroe di svolgere queste missioni per periodi di tempo più lunghi, fino a quando non esaurisce la sua Stamina o fino a quando la missione non viene interrotta manualmente. Le missioni di Foraging e Fishing sono più brevi e consumano una maggiore quantità di Stamina per una durata minima, come mostrato nel menu delle Quests. Le missioni di Fishing e Foraging ti consentono di mettere in coda più tentativi di missioni in una transazione, fino all'importo massimo consentito dalla Stamina del tuo Eroe (in base al consumo di Stamina dato dalla presenza o meno del gene di Professione). Gli Eroi recuperano Stamina ad una velocità fissa di 1 ogni 20 minuti.\
 **Nota: gli Eroi non possono recuperare Stamina mentre sono impegnati in una missione.**

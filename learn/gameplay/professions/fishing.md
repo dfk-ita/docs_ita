@@ -4,7 +4,7 @@ description: Informazioni riguardanti le Fishing Quests di livello 0
 
 # Fishing
 
-**Le missioni di Fishing** possono produrre **pesce, Gaia's Tears, rune Shvās, Uova Blu, EXP** per il livello successivo dell' Eroe e nel mentre **l'abilità Fishing cresce di livello**. Tutti i pesci possono essere venduti nel [Marketplace](../../locations/marketplace.md) al Vendor Zada ​​per **Gold** o scambiati con il Trader Matoya per **JEWEL**. Alcuni pesci sono ingredienti di Pozioni, che possono essere create con l'Alchimista Herbert. Tutti i pesci possono avere usi ancora sconosciuti.
+**Le missioni di Fishing** possono produrre **pesce, Gaia's Tears, rune Shvās, Uova Blu, EXP** per il livello successivo dell' Eroe e nel mentre **l'abilità Fishing cresce di livello**. Tutti i pesci possono essere venduti nel [Marketplace](../marketplace.md) al Vendor Zada ​​per **Gold** o scambiati con il Trader Matoya per **JEWEL**. Alcuni pesci sono ingredienti di Pozioni, che possono essere create con l'Alchimista Herbert. Tutti i pesci possono avere usi ancora sconosciuti.
 
 Le missioni di Fishing costano 7 Stamina per tentativo, 5 Stamina per gli Eroi con **Fishing** come Professione principale. Possono essere mandati a pescare contemporaneamente gruppi di massimo 6 Eroi, ed il numero di tentativi che ciascun Eroe farà viene scelto nella finestra della Quest. Ogni membro del gruppo è limitato al numero più alto di tentativi che un dato membro del gruppo può affrontare, quindi è più efficiente raggruppare saggiamente gli Eroi.
 
@@ -12,7 +12,7 @@ Dopo aver selezionato gli Eroi partecipanti ed aver scelto il numero di tentativ
 
 Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi **AGI, LCK** e **Fishing**, e se **Fishing** è la loro abilità principale.
 
-![](<../../../.gitbook/assets/image (6) (2).png>)
+![](<../../../.gitbook/assets/image (6).png>)
 
 ### **Drop Rates Quest livello 0:**
 

@@ -38,12 +38,12 @@ Solo una di queste azioni può essere selezionata per ogni Eroe Gen0. I seguenti
 * Geni dominanti e recessivi dell'accessorio posteriore
 * Geni dominanti e recessivi del colore dell'accessorio posteriore
 
-![](../../.gitbook/assets/Serendale\_Gen0\_Reroll\_5-9-22.png)
+![](../.gitbook/assets/Serendale\_Gen0\_Reroll\_5-9-22.png)
 
 ### Ricompense
 
 Ognuna delle tre opzioni di rilancio fornisce una serie di ricompense, con le ricompense maggiori derivanti dal rilancio di entrambi i geni del gioco e dell'aspetto. Le ricompense includono bonus di esperienza, bonus statistici, oggetti bonus, un efficace ripristino dell'evocazione e ricompense per i risultati. I premi in relazione alle tre opzioni disponibili sono dettagliati nella tabella seguente:
 
-![Ricompense del Risveglio di Vithraven](../../.gitbook/assets/C9B74EE0-7106-400E-98A6-98A59DDCCDE1.jpeg)
+![Ricompense del Risveglio di Vithraven](../.gitbook/assets/C9B74EE0-7106-400E-98A6-98A59DDCCDE1.jpeg)
 
 Rilanciare i geni degli Eroi Gen0 aiuterà a bilanciare il pool genetico e a dare il via alla comparsa di nuovi geni a Gaia.

@@ -2,7 +2,7 @@
 
 ![The Summoning Portal](../../../.gitbook/assets/Capture.JPG)
 
-Per Evocare, due Eroi devono visitare l'**Arch Druid** ed infondere un **Cristallo Evocativo** con la loro essenza combinata. I Cristalli Infusi vengono quindi utilizzati al [Portale](../../locations/portal.md) per cercare Eroi da terre lontane che sono in sintonia con gli Eroi che hanno infuso il cristallo.
+Per Evocare, due Eroi devono visitare l'**Arch Druid** ed infondere un **Cristallo Evocativo** con la loro essenza combinata. I Cristalli Infusi vengono quindi utilizzati al [Portale](../portal.md) per cercare Eroi da terre lontane che sono in sintonia con gli Eroi che hanno infuso il cristallo.
 
 ![Infused Crystal](https://dfk-hv.b-cdn.net/art-assets/crystal-yellow.gif)
 
@@ -67,4 +67,4 @@ Il livello di Rarità di un Eroe evocato è influenzato dalla Rarità dei due Er
 
 ![Summoning Rarity](<../../../.gitbook/assets/Summoner Combo.png>)
 
-La tabella sopra illustra le probabilità che l'abbinamento di Eroi di determinate Rarità si traduca in un Eroe evocato di una determinata Rarità. Per ulteriori informazioni su questo argomento, visitare la pagina dell'argomento [Rarity](../rarity.md).
+La tabella sopra illustra le probabilità che l'abbinamento di Eroi di determinate Rarità si traduca in un Eroe evocato di una determinata Rarità. Per ulteriori informazioni su questo argomento, visitare la pagina dell'argomento [Rarity](rarity.md).

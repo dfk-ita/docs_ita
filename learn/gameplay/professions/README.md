@@ -1,4 +1,4 @@
-# Professions
+# Professions Quests
 
 ![The Professions zone.](<../../../.gitbook/assets/professions scene anim\_Animation 1\_0.png>)
 

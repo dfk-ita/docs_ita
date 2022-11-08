@@ -23,7 +23,7 @@ E' possibile controllare la ripartizione qui di seguito:
 | Blu          | Latern-Eye  | 50       | Ironscale    | 50       |
 | Grigio       | Rockroot    | 45       | Darkweed     | 35       |
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (2).png>)
 
 Una volta che un Pet viene schiuso, la sua scheda ti mostrerà tutte le informazioni che devi sapere sul tuo nuovo Animale Domestico. Assicurati di notare:
 

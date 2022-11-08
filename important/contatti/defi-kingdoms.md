@@ -1,12 +1,12 @@
 ---
 description: I contatti ufficiali!
+cover: ../../.gitbook/assets/banner-discord.png
+coverY: 0
 ---
 
 # DeFi Kingdoms
 
-![](../../.gitbook/assets/DFKBANNERLOGO.jpeg)
-
-#### **WEBSITE:** [**https://defikingdoms.com/**](https://defikingdoms.com)
+**WEBSITE:** [**https://defikingdoms.com/**](https://defikingdoms.com)
 
 **DISCORD:** [**https://discord.gg/defikingdoms**](https://discord.gg/defikingdoms)
 

@@ -1,10 +1,10 @@
 ---
 description: I contatti ufficiali della Community Italiana!
+cover: ../../.gitbook/assets/dfkbanner pixel-ITALIA.jpeg
+coverY: 30.771493212669686
 ---
 
 # DeFi Kingdoms ITALIA
-
-![](../../.gitbook/assets/DFKITALIAbanner.jpeg)
 
 #### DISCORD: [**https://discord.gg/Fh3H7CMdbS**](https://discord.gg/Fh3H7CMdbS)
 
