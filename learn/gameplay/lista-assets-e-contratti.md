@@ -1,253 +1,395 @@
+---
+description: D
+---
+
 # Lista Assets e Contratti
 
-## **DeFi Kingdoms Serendale (Harmony)**
+## **DeFi Kingdoms Crystalvale (DFK Chain)**
 
-_Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utilizzando gli assets giusti!_
+{% hint style="warning" %}
+_**Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utilizzando gli assets giusti!**_
+{% endhint %}
 
-**UniswapV2Factory:** `0x9014B937069918bd319f80e8B3BB4A2cf6FAA5F7`
+{% tabs %}
+{% tab title="General" %}
+**CRYSTAL** `0x04b9dA42306B023f3572e106B11D82aAd9D32EBb`
 
-**UniswapV2Router02:** `0x24ad62502d1C652Cc7684081169D04896aC20f30`
+**xCRYSTAL** `0x6e7185872bcdf3f7a6cbbe81356e50daffb002d2`
 
-**JEWEL token:** `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
+**Heroes** `0xEb9B61B145D6489Be575D3603F4a704810e143dF`
 
-**xJEWEL:** `0xA9cE83507D872C5e1273E745aBcfDa849DAA654F`
+**Fishing Quest** `0x407ab39B3675f29A719476af6eb3B9E5d93969E6`
 
-**Bank:** `0xA9cE83507D872C5e1273E745aBcfDa849DAA654F`
+**Foraging Quest** `0xAd51199B453075C73FA106aFcAAD59f705EF7872`
 
-**Jeweler:** `0x3685Ec75Ea531424Bbe67dB11e07013ABeB95f1e`
+**WJEWEL** `0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260`
 
-**MasterGardener:** `0xDB30643c71aC9e2122cA0341ED77d09D5f99F924`
+**xJEWEL** `0x77f2656d04E158f915bC22f07B779D94c1DC47Ff`
 
-**Airdrop:** `0xa678d193fEcC677e137a00FEFb43a9ccffA53210`
+**AVAX** `0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a`
 
-**Profiles:** `0xabD4741948374b1f5DD5Dd7599AC1f85A34cAcDD`
+**ETH** `0xfBDF0E31808d0aa7b9509AA6aBC9754E48C58852`
 
-**Hero:** `0x5F753dcDf9b1AD9AabC1346614D1f4746fd6Ce5C`
+**DFK CHAIN USDC** `0x3AD9DFE640E1A9Cc1D9B0948620820D975c3803a`
 
-**Gaia's Tears:** `0x24eA0D436d3c2602fbfEfBe6a16bBc304C963D04`
+**JEWEL-xJEWEL LP** `0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d`
 
-**DFK Gold:** `0x3a4edcf3312f44ef027acfd8c21382a5259936e7`
+**JEWEL-CRYSTAL LP** `0x48658E69D741024b4686C8f7b236D3F1D291f386`
 
-**Gardening Quest:** `0xe4154B6E5D240507F9699C730a496790A722DF19`
+**JEWEL-AVAX LP** `0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98`
 
-## DeFi Kingdoms Crystalvale (DFK Chain)
+**CRYSTAL-AVAX LP** `0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E`
 
-**CRYSTAL:** `0x04b9dA42306B023f3572e106B11D82aAd9D32EBb`
+**CRYSTAL-USDC LP** `0x04Dec678825b8DfD2D0d9bD83B538bE3fbDA2926`
 
-**xCRYSTAL:** `0x6e7185872bcdf3f7a6cbbe81356e50daffb002d2`
+**ETH-USDC LP** `0x7d4daa9eB74264b082A92F3f559ff167224484aC`
 
-**xJEWEL:** `0x77f2656d04E158f915bC22f07B779D94c1DC47Ff`
+**wJEWEL-USDC LP** `0xCF329b34049033dE26e4449aeBCb41f1992724D3`
 
-**WJEWEL:** `0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260`
+**CRYSTAL-ETH LP** `0x78C893E262e2681Dbd6B6eBA6CCA2AaD45de19AD`
 
-**AVAX:** `0xB57B60DeBDB0b8172bb6316a9164bd3C695F133a`
+**JEWEL (Avalanche C-Chain)** `0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6`
 
-**JEWEL-xJEWEL LP:** `0x6AC38A4C112F125eac0eBDbaDBed0BC8F4575d0d`
+**DFK Gold** `0x576C260513204392F0eC0bc865450872025CB1cA`
 
-**JEWEL-CRYSTAL LP:** `0x48658E69D741024b4686C8f7b236D3F1D291f386`
+**Gaia's Tears (depreciated)** `0x58E63A9bbb2047cd9Ba7E6bB4490C238d271c278`
 
-**JEWEL-AVAX LP:** `0xF3EabeD6Bd905e0FcD68FC3dBCd6e3A4aEE55E98`
+**Gaia's Tears v2** `0x79fE1fCF16Cc0F7E28b4d7B97387452E3084b6dA`
+{% endtab %}
 
-**CRYSTAL-AVAX LP:** `0x9f378F48d0c1328fd0C80d7Ae544C6CadB5Ba99E`
+{% tab title="Plants" %}
+**Ambertaffy** ![:Ambertaffy:](https://cdn.discordapp.com/emojis/916019656760918047.webp?size=96\&quality=lossless) `0xB78d5580d6D897DE60E1A942A5C1dc07Bc716943`
 
-**JEWEL (in Avalanche C-Chain):**`0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6`
+**Milkweed** ![:Milkweed:](https://cdn.discordapp.com/emojis/923508569133961217.webp?size=96\&quality=lossless) `0xA2cef1763e59198025259d76Ce8F9E60d27B17B5`
 
-## **PIANTE:**
+**Darkweed** ![:Darkweed:](https://cdn.discordapp.com/emojis/916019657134202930.webp?size=96\&quality=lossless) `0x848Ac8ddC199221Be3dD4e4124c462B806B6C4Fd`
 
-![](https://lh4.googleusercontent.com/xv1PAjQjW2c7o5UkvdlP04CgA4dOPxvxTECFVAw9bX\_mxArqAhsd0Ew5\_RwfQVFPpCMOsURVmWnsA4LKp3bA2D9Mth3jzwxcH7Ql9-VBL5jpZOvdJ3WfN4j3giy4KAB6aqfnL07tdoIn)**Ambertaffy:** `0x6e1bC01Cc52D165B357c42042cF608159A2B81c1`
+**Goldvein** ![:Goldvein:](https://cdn.discordapp.com/emojis/916019657134194759.webp?size=96\&quality=lossless) `0x0096ffda7A8f8E00e9F8Bbd1cF082c14FA9d642e`
 
-![](https://lh6.googleusercontent.com/nh\_HuGnyFPUexakZAZMB8fBUPMUcF0PV\_Dzzo2Gnbg6F4ygLPbFwzpbubyKIBZhQzQGKs2j0qgFE3cfJnqy0U9vWeQMq64LRIWRyrqSVTnpCkT\_E0nOUGjrxKaciOrG-8-3k5Z\_sXFOv)**Milkweed:** `0xc0214b37FCD01511E6283Af5423CF24C96BB9808`
+**SpiderFruit** ![:Spiderfruit:](https://cdn.discordapp.com/emojis/923508569406574622.webp?size=96\&quality=lossless) `0x3E022D84D397F18743a90155934aBAC421D5FA4C`
 
-![](https://lh6.googleusercontent.com/c8-91Y0jQ-Vz0VYKvXJCxKLBoudB61dGT7NzalzdTlcbtt1GPJLUDhxz2rUJJ3rZvvR9UmHwUc1qXzvh71XRtR8eDQ2rsUCapyhXMhGML58ENq7p6GrPMLwURuzCWNFACU8YjEv7K2LH)**Darkweed:** `0x68EA4640C5ce6cC0c9A1F17B7b882cB1cBEACcd7`
+**Ragweed** ![:Ragweed:](https://cdn.discordapp.com/emojis/916019656874156163.webp?size=96\&quality=lossless) `0x137995beEEec688296B0118131C1052546475fF3`
 
-![](https://lh6.googleusercontent.com/mRKKhrLLxaEBl81jkDihxAmyOCvc\_LA\_a780LmPbqvcacUkDisavA45s-Wr4nT9127gAeOrACT5Lo\_okHxwpH0kSf3ThQ2FPPcW7rYeGBbtaNDHAgGfSkfFXNTV81Oyh2BnI3iwUFjmV)**Goldvein:** `0x600541aD6Ce0a8b5dae68f086D46361534D20E80`
+**Redleaf** ![:Redleaf:](https://cdn.discordapp.com/emojis/916019657176121424.webp?size=96\&quality=lossless) `0x473A41e71618dD0709Ba56518256793371427d79`
 
-![](https://lh3.googleusercontent.com/2XW\_YIkqh655mjHZ851qT6h9JrkyCzXuGiG6lO7rTB8cPGtrk\_hbLbu3D36IXUenD\_jskixOGqpb5QVcT-KF2ye9gHo6kBXqnGpdpDY8ayYHLkgDgdC9RZNITwxG39lhvLRpMZzOAcCJ)**SpiderFruit:** `0x19B9F05cdE7A61ab7aae5b0ed91aA62FF51CF881`
+**Rockroot** ![:Rockroot:](https://cdn.discordapp.com/emojis/916019657335533618.webp?size=96\&quality=lossless) `0x60170664b52c035Fcb32CF5c9694b22b47882e5F`
 
-![](https://lh4.googleusercontent.com/C57L6sVTjXIIgfDbppNgzmS2WaiEalDa8tKbviY-UJq-4uceSCH4oG5xDyl6U5TvKaPDbkHXVFRY84JVZUdBu3SXcOiKCgEXTYyurp5LdCO2\_-xDdPJef1RgrhEUFPxowLS\_iYWG7tqE)**Ragweed:** `0x043F9bd9Bb17dFc90dE3D416422695Dd8fa44486`
+**Blue Stem** ![:Bluestem:](https://cdn.discordapp.com/emojis/923508569444339732.webp?size=96\&quality=lossless) `0x0776b936344DE7bd58A4738306a6c76835ce5D3F`
 
-![](https://lh6.googleusercontent.com/54Bl9Ygs9qwGUg5azekV6sRVUR9II0zn2YyNUQGiZet3ipon8MravEiVmjZuat5m8ssDmoKjAX631WEf-a4Dy2bUqNjJqkHQU85FKUN2N9Y1n8D1UPHt5ItIysCU\_EhqIjnmWBojFK04)**Redleaf:** `0x094243DfABfBB3E6F71814618ace53f07362a84c`
+**Swift-Thistle** ![:SwiftThistle:](https://cdn.discordapp.com/emojis/916019656760905749.webp?size=96\&quality=lossless) `0x97b25DE9F61BBBA2aD51F1b706D4D7C04257f33A`
 
-![](https://lh5.googleusercontent.com/aFZx1hqP2rZMdHG1rjpVtKCRWP\_bkKSJf-aYwjvNphKf9KRNFgw0Zs9s0e0CF8w\_ZRS22ddjd0S3VCghjnLLRjPdBb-2BRXscKaIW2pckpGXyn97k\_aIYDPmtnhYqzy0pajytX08Jc7E)**Rockroot:** `0x6B10Ad6E3b99090De20bF9f95F960addC35eF3E2`
+**Frost Drum** ![:FrostDrum:](https://cdn.discordapp.com/emojis/995161204823703613.webp?size=96\&quality=lossless) `0xe7a1B580942148451E47b92e95aEB8d31B0acA37`
 
-![](https://lh4.googleusercontent.com/CGj\_WfOvwiXZD34K-Gc\_dwpEwFS8dyLR3sln4oRCGqHZ1jPBFeqNfJM-vMlcSznXcFAvuG2yg1-fPCszH\_YGAdHuuCjiCz8R6ha0NF6hforou6zspyhAxqNHuIwJSCuJXEFD75euAmaD)**Blue Stem:** `0xAC5c49Ff7E813dE1947DC74bbb1720c353079ac9`
+**Knaproot** ![:Knaproot:](https://cdn.discordapp.com/emojis/995161208510488638.webp?size=96\&quality=lossless) `0xBcdD90034eB73e7Aec2598ea9082d381a285f63b`
 
-![](https://lh5.googleusercontent.com/MMKz-aBj-UgZeSfR2palHGCg4RdxKXhzY7SI003c9KCIHiL\_m24HQS5epYfvBA0lF0GxYiSKUE3ixbz71ng-aKDx3J5Il8ArafMFi8Lp9vqqwYH-DWcwIIdunWLj\_62jZCq8KtcKoz7R)**Swift-Thistle:** `0xCdfFe898E687E941b124dfB7d24983266492eF1d`
+**Shaggy Caps** ![:ShaggyCaps:](https://cdn.discordapp.com/emojis/995161211069014056.webp?size=96\&quality=lossless) `0x80A42Dc2909C0873294c5E359e8DF49cf21c74E4`
 
-## **PESCI:**
+**Skunk Shade** ![:SkunkShade:](https://cdn.discordapp.com/emojis/995161212813840385.webp?size=96\&quality=lossless) `0xc6030Afa09EDec1fd8e63a1dE10fC00E0146DaF3`
+{% endtab %}
 
-![](https://lh5.googleusercontent.com/sneOzzmOYXHqP06W-L9DBQfm9QrrlORLndMAYtenboaf6eCnGFeeg7PcOhthtGTkDInWMZ8P4CJSNioI3\_otE6g3zS6xy-me2urgJrr-Ds3kVsmQzVoW9WGOQYVOylt0Uk-yV7lcMO5W)**Bloater:** `0x78aED65A2Cc40C7D8B0dF1554Da60b38AD351432`
+{% tab title="Fishes" %}
+**Bloater** ![:bloater\~1:](https://cdn.discordapp.com/emojis/924393317985292358.webp?size=96\&quality=lossless) `0x268CC8248FFB72Cd5F3e73A9a20Fa2FF40EfbA61`
 
-![](https://lh3.googleusercontent.com/krRDBDvJiZtq-5UZqreEp0hvyQ\_xaQfefLydDrHjmdxmDv2Fs1Ffb9MZKFctd8snIiMiFTKqejQh38P2Bq0eLwKZCL4dNfaHoH6xaiU8cGEjZ9eygfSBHCmPDNVWGsz3vrbuTU\_DiNpp)**Ironscale:** `0xe4Cfee5bF05CeF3418DA74CFB89727D8E4fEE9FA`
+**Ironscale** ![:Ironscale:](https://cdn.discordapp.com/emojis/916019657280999464.webp?size=96\&quality=lossless) `0x04B43D632F34ba4D4D72B0Dc2DC4B30402e5Cf88`
 
-![](https://lh3.googleusercontent.com/pyf3HMxCKSfUyAIA3LQX1z3xbJqw7b\_eZIzrGYP2\_qdxvST9IAti8oLVAWdH7DesgJKV2PntA6\_AoBLgmCPYBH\_hfXh2t3VUMhqS5i9mlXMqpQEUCiKsM8yjMPC5qXF6C-yLCRHnPqcV)**Lanterneye:** `0x8Bf4A0888451C6b5412bCaD3D9dA3DCf5c6CA7BE`
+**Lanterneye** ![:Lanterneye:](https://cdn.discordapp.com/emojis/916019657129996308.webp?size=96\&quality=lossless) `0xc2Ff93228441Ff4DD904c60Ecbc1CfA2886C76eB`
 
-![](https://lh3.googleusercontent.com/x93YYm6LNuO7zq6cJ\_Ylv-7oOVcoNW5D4b-TsgX\_JtVBbmGh75rguGOoiLS\_tAFGiWE3cFfxIF6b7o4q9X8OUPTI5IZxt3lWMp4GQePCrxDLMxX0jkOAAlEOM2PlCN9c0wESn1CvpQMc)**Redgill:** `0xc5891912718ccFFcC9732D1942cCD98d5934C2e1`
+**Redgill** ![:Redgill:](https://cdn.discordapp.com/emojis/916019656920285185.webp?size=96\&quality=lossless) `0x68eE50dD7F1573423EE0Ed9c66Fc1A696f937e81`
 
-![](https://lh3.googleusercontent.com/6hLdFFVNthZ91qyGh2MrgcmCyEqqhmk3z0P0\_I2\_Pmwh693WhJzADwYm7fNi0kK3sVN5CvHHqHXv4jWdAYBQSHLtNKq0GCzWAGhkde6sbxiUsfRMpuBhWX7kbrj87Ck2xEJEZzcPaIgo)**Sailfish:** `0xb80A07e13240C31ec6dc0B5D72Af79d461dA3A70`
+**Sailfish** ![:Sailfish:](https://cdn.discordapp.com/emojis/916019656966410332.webp?size=96\&quality=lossless) `0x7f46E45f6e0361e7B9304f338404DA85CB94E33D`
 
-![](https://lh5.googleusercontent.com/ofM3ppi\_zpRtg2Qx-rIG16xl9QlUZCf7usc1mqrxt4YzGENCxSiMpwSKpzBoqCxXTFjLMAJfy0TY24S0bIuziF4UExgvsN-s7zGWpAUk5eVM963u4WyJI\_1ycLPpw8K0Z3q3kuvxoP1Y)**Shimmerskin:** `0x372CaF681353758f985597A35266f7b330a2A44D`
+**Shimmerskin** ![:Shimmerfish:](https://cdn.discordapp.com/emojis/916019657268412456.webp?size=96\&quality=lossless) `0xd44ee492889C078934662cfeEc790883DCe245f3`
 
-![](https://lh4.googleusercontent.com/z4n3owHXcYUxrhYod6D6RhKh2qiUFuI9lrJb16kUDJ9DP4lmyuwEEv9vCctJoKi2dgTu0NxxiQiUw7s2UjbxOkzyYbF8oBNvP661rAzxwDAHeT3n5AHNQMoMKU9SPhGVZR5k9FPsa0qd)**Silverfin:** `0x2493cfDAcc0f9c07240B5B1C4BE08c62b8eEff69`
+**Silverfin** ![:Silverfin:](https://cdn.discordapp.com/emojis/916019657201295440.webp?size=96\&quality=lossless) `0xA7CFd21223151700FB82684Cd9c693596267375D`
 
-## **RUNE:**
+**Frost Bloater** ![:FrostBloater:](https://cdn.discordapp.com/emojis/995161202860761178.webp?size=96\&quality=lossless) `0x3bcb9A3DaB194C6D8D44B424AF383E7Db51C82BD`
 
-![](https://lh3.googleusercontent.com/xw5c9HWp1LXl8R-q9IQPp8GF\_K4JNP4krymhAEhd6Dv4SC7EQZqljkoXgj1WSMtZ8eHkvvIAXNF53aOZXgJuHQCwVSKaKiKcVpsXhYSGvr4Rd1N8U1S\_oIxdyeV8\_E1L36joz\_\_gqZd\_)**Shvas Rune:** `0x66F5BfD910cd83d3766c4B39d13730C911b2D286`
+**Speckle Tail** ![:SpeckleTail:](https://cdn.discordapp.com/emojis/995161215095541780.webp?size=96\&quality=lossless) `0xE7CB27ad646C49dC1671Cb9207176D864922C431`
 
-![:MokshaRune:](https://cdn.discordapp.com/emojis/954554495126355978.gif?size=96\&quality=lossless) **Moksha Rune:** `0x8F655142104478724bbC72664042EA09EBbF7B38`
+**King Pincer** ![:KingPincer:](https://cdn.discordapp.com/emojis/995161207172497498.webp?size=96\&quality=lossless) `0x60A3810a3963f23Fa70591435bbe93BF8786E202`
 
-## **PETS:**
+**Three Eyed Eel** ![:ThreeEyedEel:](https://cdn.discordapp.com/emojis/995161217108820041.webp?size=96\&quality=lossless) `0x6513757978E89e822772c16B60AE033781A29A4F`
+{% endtab %}
 
-![](https://lh3.googleusercontent.com/DXjVk7BIrJEG5TIt-dwYjW5QWZ6oKZqHkFBcd8gnql0FpV3zeoWV565g7uPYigNW9H4g2yui0n7dL5itLz9HGyx6DELjgzJPsBaEM0ja-k8fZljHNXMRYen6AUL6uZJI4qZaI8bThcvH)**Blue Pet Egg- Fishing:** `0x9678518e04Fe02FB30b55e2D0e554E26306d0892`
+{% tab title="Runes" %}
+**Shvas Rune** ![:ShvasRune:](https://cdn.discordapp.com/emojis/916019657515864085.gif?size=96\&quality=lossless) `0x75E8D8676d774C9429FbB148b30E304b5542aC3d`
 
-![](https://lh4.googleusercontent.com/kg\_3vB3wBI2tFvC18CgLlXAbQRXosykF0M5wJ59Ptdy1zVdXV1TfQc5Ya2ggwfsDtQU5DKIAZnMbqGiJpvcsDxuCfYRirZKEuNuqRpb5QR73DT84-BeDQJxCyYQjj9qn9jsngJvDfZlH)**Green Pet Egg-Gardening:** `0x6d605303e9Ac53C59A3Da1ecE36C9660c7A71da5`
+**Moksha Rune** ![:MokshaRune:](https://cdn.discordapp.com/emojis/954554495126355978.gif?size=96\&quality=lossless) `0xCd2192521BD8e33559b0CA24f3260fE6A26C28e4`
+{% endtab %}
 
-![](https://lh5.googleusercontent.com/RED-2jB1xSSZZRtQKrGPztD-lFTG3Qk\_gyfmoLr7bSL-nVIYX7xtlEbV4Yl20CTKfz32Sqa1lJrY52LJhjvYw7mqSLj8c\_e5bJujHL7X7YqKOjtvgY6JrC3qnSZ1ZY0UChl9jIYGNP10)**Grey Pet Egg-Foraging:** `0x95d02C1Dc58F05A015275eB49E107137D9Ee81Dc`
+{% tab title="Pet Eggs" %}
+**PETS** **Blue Pet Egg - Fishing** ![:BluePetEgg:](https://cdn.discordapp.com/emojis/916019657096441907.webp?size=96\&quality=lossless) `0xa61Bac689AD6867a605633520D70C49e1dCce853`
 
-![](https://lh4.googleusercontent.com/5ufO6QFvBptAg650gqWkf92O54Qa\_Osv9ViCCfHOS0Zzph0bW85Wepjl9DIyz6pPW3CeN7nfalLW6VIsop0XMIgrlhfR9OqSP3VVoRvB6Hhmy7jixJlCPEo7M5aJDDKlB9dz3usN6vdT)**Yellow Pet Egg- Mining:** `0x3dB1fd0Ad479A46216919758144FD15A21C3e93c`
+**Green Pet Egg - Gardening** ![:GreenPetEgg:](https://cdn.discordapp.com/emojis/923546053653954570.webp?size=96\&quality=lossless)`0x8D2bC53106063A37bb3DDFCa8CfC1D262a9BDCeB`
 
-![](https://lh3.googleusercontent.com/MYMUAAyJDII94AsYRWbrktqbDmiRJEdzB4zXIXIfQCpNY6Vr4KK7csKkJHXQzfCJ-xWrApFKf3yqcAlUL30VlwXAnDABV1JKh2U-c9Z-SeVVWlDwcZdo88bWBqLdDwYq0SjPDGZ0yO1V)**Golden Egg- Vendor Zada:** `0x9edb3Da18be4B03857f3d39F83e5C6AAD67bc148`
+**Grey Pet Egg - Foraging** ![:GreyPetEgg:](https://cdn.discordapp.com/emojis/916019657444585482.webp?size=96\&quality=lossless) \
+****`0x7E121418cC5080C96d967cf6A033B0E541935097`
 
-## ATONEMENT CRYSTAL:
+**Yellow Pet Egg - Mining** ![:YellowPetEgg:](https://cdn.discordapp.com/emojis/926938656554516491.webp?size=96\&quality=lossless)\
+`0x72F860bF73ffa3FC42B97BbcF43Ae80280CFcdc3`
 
-![](https://lh5.googleusercontent.com/FrhDNY-un\_8mq7-fd4IryWt3w7GAFoZFYYgLttqn3NMAglktdnVctpR1aZNFS87cT-sqIyuWinYT91si8bMXRBwSHmZ3jjYyUSaq9oCab55-p1Srz2tmq8dLjklTEFkGh3vNwfxPpp9M)**Lesser Atonement Crystal:** `0x1f3F655079b70190cb79cE5bc5AE5F19dAf2A6Cf`
+**Golden Egg - Vendor Zada** ![:GoldenPetEgg:](https://cdn.discordapp.com/emojis/926937960753033268.webp?size=96\&quality=lossless) `0xf2D479DaEdE7F9e270a90615F8b1C52F3C487bC7`
+{% endtab %}
 
-![](https://lh5.googleusercontent.com/pR4jEFytgxWh8v1tKkPz34CkTTi3u90mY\_dXe9fQdAq3mTL-ycPH\_1C-58V3\_IusEBDmtZazYs0\_OKYR3jgy3njDDLwB5mW4mlChwfy15H1qJRen4cxJEVCvk4hR4jiViH3xrHxyDFpN)**Atonement Crystal:** `0x27dC6AaaD95580EdF25F8B9676f1B984e09e413d`
+{% tab title="Attunement Crystals" %}
+**ATTUNEMENT CRYSTALS** **Lesser Might Crystal** ![:LesserMightCrystal:](https://cdn.discordapp.com/emojis/954554495071830057.gif?size=96\&quality=lossless) `0x5bAC3cAd961B01Ef9510C8e6c5402A2bB1542831`
 
-![](https://lh4.googleusercontent.com/0k8Gito10nIIB3OMDVRUjICOaKMYAGd\_CglcWoATPIK4YCxyoVzkii3O4Ah7JkMa\_tzs6r\_SMg-Goxry7anfsPr09ixXKWi8mDTpbnL\_RW6D\_sbDUExJu7FKXbJUAScxC8zriBQ6zLXi)**Greater Atonement Crystal:** `0x17f3B5240C4A71a3BBF379710f6fA66B9b51f224`
+**Might Crystal** ![:MightCrystal:](https://cdn.discordapp.com/emojis/954554495130538074.gif?size=96\&quality=lossless)
 
-## ATTUNEMENT CRYSTAL:
+`0x234dCf10Db6817185F5A3b430a8CAF2B4a35e9E9`
 
-![](https://lh6.googleusercontent.com/reM2ibZNUAQ-FdPxRe-UlrUp5ePGqF60IaxleSXm8vAtvblSHk5pHhY0ZYwxH1HPWhxtX1sRYQyUMpyByCpq2EgyYJ9wTTtwoSGyIVGnwInRciWjGBGGsHQEtyc-dFdp0FSxEGA-BXVQ) **Lesser Chaos Crystal:** `0xa509c34306AdF6168268A213Cc47D336630bf101`
+**Greater Might Crystal** ![:GreaterMightCrystal:](https://cdn.discordapp.com/emojis/973975331792879766.gif?size=96\&quality=lossless)
 
-![](https://lh6.googleusercontent.com/PwAvAtvaNi9xS9XC4SB5p0pVuXZ3iubcyW4qRxnOpdQNXSav\_uCChO1XkhFl2LTS0ckolIAfzl3KUGD1GVWlIlrK\_VDesS8mOWq7bQ5IvBsK2xubNvhIv0Y-MjBdUAUWxRdPL7aqiczH) **Chaos Crystal:** `0x45B53E55b5c0A10fdd4fE2079a562d5702F3A033`
+`0x438A4e0673b7084D6b2379a362627789D845399c`
 
-&#x20;                 **Greater Chaos Crystal:** `???`
+**Lesser Finesse Crystal** ![:LesserFinesseCrystal:](https://cdn.discordapp.com/emojis/954554494828548146.gif?size=96\&quality=lossless)
 
-![](https://lh6.googleusercontent.com/GQpBqLlfgnj-Bm-cihvzkReAPU-Noufk9-uhk1sPaJ6NiCK1ASVK70T4tNvEBCo4caqTvfImR5BThz79QfvkIlMFUC5k3Sx\_zbThFB4a\_ba\_WGjWarYZlo8I9j7YyNpWYwAlU-M3cDkn) **Lesser Might Crystal:** `0xaB464901AFBc61bAC440a97Fa568aC42885Da58B`
+`0x9d9ef1Bf6A46b8413bf6b1b54F6A7aAb53c6b1b6`
 
-![](https://lh6.googleusercontent.com/vp8sfeiphAYgIdGRUsHpp8wnAGF2X8GwDMDDHWq4fEfupZ-rmumSCVULGGB3LJ3rViZKrh9Nw5Gf0ED4eKI9EglroGWtAtHN5302bn2F5eJgSdkU-Aev3wnBt-zG3zCWG9bM8-hreCSr) **Might Crystal:** `0xb368f69bE6eDa74700763672AEB2Ae63f3d20AE6`
+**Finesse Crystal** ![:FinesseCrystal:](https://cdn.discordapp.com/emojis/954554494367182892.gif?size=96\&quality=lossless)****
 
-****![](../../.gitbook/assets/fortitude\_greater\_might\_crystal.gif) **Greater Might Crystal:** `???`
+`0xA9A8cc1AC7e7505a69cAca2E068716395CebE562`
 
-![](https://lh5.googleusercontent.com/pNUMP1Js0-AtL5D793W8t0z8heu-mM3EjsKF0hAymhz1LZuuGhFFnIUKPf4I-39SS5deE5qXMlPeEQN8XXwaEx0ummwFxGfcdBy0Nsva9M4TrSf3HuLRICaBKQg1c8rQpQoGlEC0yL5n) **Lesser Finesse Crystal:** `0x39927A2CEE5580d63A163bc402946C7600300373`
+**Greater Finesse Crystal** ![:GreaterFinesseCrystal:](https://cdn.discordapp.com/emojis/973975331574804490.gif?size=96\&quality=lossless)****
 
-![](https://lh5.googleusercontent.com/\_oEHhnCCofmzy5CYOyaJecv9JuBcepVGNWxzrTCLtSsDqRe9xcQ6SCdaeWbE02KjIaNSxplfew\_GGzoG\_uOGKDW3-utiKG5epSrw1\_0tPms2JxWuneWKx0ILM0hxQkBretxr-KNdfD5x) **Finesse Crystal:** `0xc6A58eFc320A7aFDB1cD662eaf6de10Ee17103F2`
+`0xdA16b191D1431746b6661D428A223b72c178765A`
 
-****![](../../.gitbook/assets/fortitude\_greater\_finesse\_crystal.gif) **Greater Finesse Crystal:** `???`
+**Lesser Swiftness Crystal** ![:LesserSwiftnessCrystal:](https://cdn.discordapp.com/emojis/954554494941802567.gif?size=96\&quality=lossless)`0x6BCA53314dADdA7f4De30A95413f75a93bfAfecF`
 
-![](https://lh4.googleusercontent.com/dfoG5mFcu0Hg6o-KfS26T2n-3k-Es7wle2jT3YbGwrDchz33oaXMrtTIuxFIhz17dgqm8IfDQTW8InzcMLgnyfr1PlTxs7cfANwZYEqMboy6TRP\_BG67C\_6GG1cvJznoDitGIOlxopeb) **Lesser Swiftness Crystal:** `0xf5c26F2F34E9245C3A9ea0B0e7Ea7B33E6404Da0`
+**Swiftness Crystal** ![:SwiftnessCrystal:](https://cdn.discordapp.com/emojis/954554495117983744.gif?size=96\&quality=lossless)****
 
-![](https://lh4.googleusercontent.com/7WW2sHkBvmtXY1uxjTO128osQIKwShYuqfvQM399hsgtS0S-OJhr\_eLWJJhXJ\_wfF5IcGq6guOyipL8uldfGDJxrJg0zTz9T0xhwXoNSSHb1-4SQWXXSYkYcHY2WlvvsHSUq8NnYr6u2) **Swiftness Crystal:** `0x5d7f20e3B0f1406Bf038175218eA7e9B4838908c`
+`0x3e664eB15b35783B9D3EF06702044820F08bB45B`
 
-****![](../../.gitbook/assets/fortitude\_greater\_switness\_crystals.gif) **Greater Swiftness Crystal:** `???`
+**Greater Swiftness Crystal** ![:GreaterSwiftnessCrystal:](https://cdn.discordapp.com/emojis/973975331977449472.webp?size=96\&quality=lossless) `0x1459c662F516D63216491DC34F7d9d35b00dF25A`
 
-![](https://lh5.googleusercontent.com/U0v4oXw6YvgkmMChgYPH-iL\_nLBiR\_x0P1MA74bI3YejUsCkBS2Q0pPTO\_2ce1GGIrFdP8gUvIxDeVWpu7k2xuUQvIoxwZHoaawybbhxvpLVDE-eeN1fIya8LPLsMIb\_wYP\_nZVNizBu) **Lesser Vigor Crystal:** `0x0d8403E47445DB9E316E36F476dacD5827220Bdd`
+**Lesser Vigor Crystal** ![:LesserVigorCrystal:](https://cdn.discordapp.com/emojis/954554495050850315.webp?size=96\&quality=lossless)****
 
-![](https://lh5.googleusercontent.com/qLmihufLGpXNtViO850sSUC4kS1BDztWmv2EtgN\_Hm3\_WJMLdgsle-LOgUXrn4\_--X4NANaSfKcFpBbTHLh6asEpHgzxD6VfGcfdQEP6f6xBohi5aUi1SdCyWCCoZz-Eut2nQ07dmPqf) **Vigor Crystal:** `0xBbA50bD111DC586Fd1f2B1476B6eC505800A3FD0`
+`0x5e4Cf6907CB5fBe2F642E399F6d07E567155d1F8`
 
-****![](../../.gitbook/assets/fortitude\_greater\_vigor\_crystal.gif) **Greater Vigor Crystal:** `???`
+**Vigor Crystal** ![:VigorCrystal:](https://cdn.discordapp.com/emojis/954554495164092476.webp?size=96\&quality=lossless)****
 
-![](https://lh4.googleusercontent.com/Bm\_CJNhhfReZWubpRpftAuKPpTrGVRFw0I7PFmnsFETabmW3dcvp3WoNn\_RLZajfVubsS\_uR0AYf8Hqdf69BOlGggwLcQRTbhTKyld\_mml3RsvlTb7WinAWtf2XkbEUMbU1okUYkI63W) **Lesser Fortitude Crystal:** `0x3017609B9A59B77B708D783835B6fF94a3D9E337`
+`0xcD9201F50e5Be84ECE3D8F603dcd3e9DD5e88ea2`
 
-![](https://lh6.googleusercontent.com/UgIlCHNpvLCD92EOAiBpFVqTUFnwMu2dO\_ex8CsBdbfsBAjFLKTkVxCBmfoZR9nezTwQZxlYjkBK80NdrM5Iu0294FB1yCNWt85dn5bUbAlUKo6QDCQPxHY18OsUF-OAUUOWjDdscvNL) **Fortitude Crystal:** `0x603919AEB55EB13F9CDE94274fC54ab2Bd2DecE7`
+**Greater Vigor Crystal** ![:GreaterVigorCrystal:](https://cdn.discordapp.com/emojis/973975332069707776.webp?size=96\&quality=lossless)****
 
-****![](../../.gitbook/assets/ezgif.com-gif-maker.gif)   **Greater Fortitude Crystal:** `???`
+`0x8780c4aa8bd0D15493D63C884bd9D427199Cf2cf`
 
-![](https://lh3.googleusercontent.com/g5lGmx1awMPTvRRNvRc3cudp2NGV8OT7E\_mrXWPT9KF6MS0zJrJYyTGn7I7SLWwf8i2y5MoUZakZFoYqCLCVq064huSpZhqUdd782UCMr7DMEPs-LdDZ5hVeFx3eZ19tTS6zvBhZHSze) **Lesser Wit Crystal:** `0x17ff2016c9ecCFBF4Fc4DA6EF95Fe646D2c9104F`
+**Lesser Fortitude Crystal** ![:LesserFortitudeCrystal:](https://cdn.discordapp.com/emojis/954554494740467804.webp?size=96\&quality=lossless)****
 
-![](https://lh4.googleusercontent.com/7cH4jWOxP1qQ3lzlcb4caWZ5YYh-OWq6iBfY0zpWgZmwJxFEmEplm-QCsAiqGnMfxY9dkVbXt3TawBT7TAQjZK10PG1voy0fe3ddp3LN5B7oUvqsUArCc9w7YGBKN726HhHH2IIXfWs7) **Wit Crystal:** `0x3619fc2386FbBC19DDC39d29A72457e758CFAD69`
+`0xbd2677c06C9448534A851bdD25dF045872b87cb1`
 
-****![](../../.gitbook/assets/fortitude\_greater\_wit\_crystal.gif) **Greater Wit Crystal:** `???`
+**Fortitude Crystal** ![:FortitudeCrystal:](https://cdn.discordapp.com/emojis/954554494774046770.webp?size=96\&quality=lossless)****
 
-![](https://lh6.googleusercontent.com/M6ckMpmFCPzPuwet81MdhnkSxOBNuLdODu6Ry1KgSiZer3bYz8hryuVjF6KwsWcNNFvwBVaf-X62OBga3ktsWrjc9MG04I0Jqm83YrhEx3gr2tE7\_s9NcYyX4Pvci6w9DvqA4xju\_Cyt) **Lesser Insight Crystal:** `0xc63b76f710e9973b8989678eb16234CfADc8D9DB`
+`0xdbEE8C336B06f2d30a6d2bB3817a3Ae0E34f4900`
 
-![](https://lh5.googleusercontent.com/lnE-zPufP\_MIM0TVZ0LsN3NGbmBOgmMo51RsO8avYsy04zEMQeuJUd8DRAjmWI\_Fg8mNGrI9PUyOWzsrlR2r5IqbdNiE40rPDEa4eX87JxSYpiKp8SFaVqATu9J0CPGs1Q06H7eKCEc6) **Insight Crystal:** `0x117E60775584CdfA4f414E22b075F31cC9c3207C`
+**Greater Fortitude Crystal** ![:GreaterFortitudeCrystal:](https://cdn.discordapp.com/emojis/973975331704815668.webp?size=96\&quality=lossless) `0x3e1c80c3B916C93748Ae642c885d4BFb5D6a6BFe`
 
-****![](../../.gitbook/assets/fortitude\_greater\_insight\_crystal.gif) **Greater Insight Crystal:** `???`
+**Lesser Wit Crystal** ![:LesserWitCrystal:](https://cdn.discordapp.com/emojis/954554495004717057.webp?size=96\&quality=lossless)****
 
-![](https://lh6.googleusercontent.com/B1pi2NZZ7HMsmJFC4epSrfv2ULu-PfUSocgdKLGKAyiGNx3ybLMRsSg1\_xAyVTajTZJeaIbWhr5o3YUDDn-lZLuR9-nsvdA\_8vCQRWpdyvbn6wKYmZ2IQL6ZVwxOlGsXCnIZjybICphy) **Lesser Fortune Crystal:** `0x13AF184aEA970Fe79E3BB7A1B0B156B195fB1f40`
+`0xC989c916F189D2A2BE0322c020942d7c43aEa830`
 
-![](https://lh6.googleusercontent.com/vzh6A5J1\_gyW-vlv88t2luMzmot\_GI5JnaA03wIlrk84GiehERm19s3Gbxxz8spjfcUKtMpDY5xmRl6FgBndMwwOmPmM7WagBKJQC2OCJ6p019\_c0NYrZw-wx3CjEYslhAopfSjiwHVq) **Fortune Crystal:** `0x6D777C64f0320d8A5b31BE0FdeB694007Fc3ed45`
+**Wit Crystal** ![:WitCrystal:](https://cdn.discordapp.com/emojis/954554495256395776.webp?size=96\&quality=lossless)****
 
-****![](../../.gitbook/assets/greater\_fortune\_crystal.gif) **Greater Fortune Crystal:** `???`
+`0xAeb5b59c8B90D4F078046550Cc8F9f08dC127253`
 
-## **ENHANCEMENT STONES:**
+**Greater Wit Crystal** ![:GreaterWitCrystal:](https://cdn.discordapp.com/emojis/973975331566407702.webp?size=96\&quality=lossless)****
 
-![](https://lh6.googleusercontent.com/MQzEVLpS7mg0AgzOfO3ohDpvZJv6jVoh30J1WBNy\_17Sl71GIOZ9ApPxrUqmaEzO8IUGbhGH8N1ffRsH6CBdE7D1dIX-rM9tmPIkJjnmbg9YSRBX7mqrIc3bwNbOAEyiic4Tsic0p5Wm) `` **Lesser Chaos Stone:** `0x6D4f4bC32df561a35C05866051CbE9C92759Da29`
+`0x9d1f44b0EC7BB80656FC8Fcd65152513f29a606D`
 
-****![](<../../.gitbook/assets/stone concepts new\_standard chaos stone.gif>) **Chaos Stone:** `0x3633F956410163A98D58D2D928B38C64A488654e`
+**Lesser Insight Crystal** ![:LesserInsightCrystal:](https://cdn.discordapp.com/emojis/954554494946009088.webp?size=96\&quality=lossless)****
 
-****![](<../../.gitbook/assets/stone concepts new\_greater chaos stone.gif>) **Greater Chaos Stone:** `???`
+`0xbb5F97358F60cCBa262883A3Ff0C637393FE3aB8`
 
-****![](<../../.gitbook/assets/image (5).png>) **Lesser Might Stone:** `0xe4E7C0c693d8A7FC159776a993495378705464A7`
+**Insight Crystal** ![:InsightCrystal:](https://cdn.discordapp.com/emojis/954554494946013224.webp?size=96\&quality=lossless)****
 
-****![](<../../.gitbook/assets/stone concepts new\_standard might stone.gif>) **Might Stone:** `0x6382781FE94CAadC71027c0457c9CbEff06e204c`
+`0x03e56Ded72C3a974295773355EadB38c0A85cF9D`
 
-****![](<../../.gitbook/assets/stone concepts new\_greater might stone.gif>) **Greater Might Stone:** `???`
+**Greater Insight Crystal** ![:GreaterInsightCrystal:](https://cdn.discordapp.com/emojis/973975331511861280.webp?size=96\&quality=lossless)****
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser finesse stone (1).gif>) **Lesser Finesse Stone:** `0xbb5614D466b77d50DdEd994892DFe6F0ACA4eEbb`
+`0xB3F5867E277798b50ba7A71C0b24FDcA03045eDF`
 
-****![](<../../.gitbook/assets/stone concepts new\_standard finesse stone.gif>) **Finesse Stone:** `0xD0B689Cb5DE0c15792Aa456C89D64038C1F2EedC`
+**Lesser Fortune Crystal** ![:LesserFortuneCrystal:](https://cdn.discordapp.com/emojis/954554494639808524.webp?size=96\&quality=lossless)****
 
-****![](<../../.gitbook/assets/stone concepts new\_greater finesse stone.gif>) **Greater Finesse Stone:** `???`
+`0xE410b2BE2Ce1508E15009118567d02C6d7A7038e`
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser swift stone (1).gif>) **Lesser Swiftness Stone:** `0xd9A8abC0Ce1ADC23F1c1813986c9a9C21C9e7510`
+**Fortune Crystal** ![:FortuneCrystal:](https://cdn.discordapp.com/emojis/954554494820171796.webp?size=96\&quality=lossless)****
 
-****![](<../../.gitbook/assets/stone concepts new\_standard swift stone.gif>) **Swiftness Stone:** `0x08f362517aD4119d93bBCd20825c2E4119abB495`
+`0xe9BfCc80800EB77a1eAF6881825936770aF83Eb6`
 
-****![](<../../.gitbook/assets/stone concepts new\_greater swift stone.gif>) **Greater Swiftness Stone:** `???`
+**Greater Fortune Crystal** ![:GreaterFortuneCrystal:](https://cdn.discordapp.com/emojis/973975331570593903.webp?size=96\&quality=lossless)&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser vigor stone (1).gif>) **Lesser Vigor Stone:** `0xB00CbF5Cd5e7b321436C2D3d8078773522D2F073`
+`0x64C7D12D85050F5F0DcD075f038E5D616f30a404`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_standard vigor stone.gif>) **Vigor Stone:** `0x9df75917aC9747B4A70fa033E4b0182d85B62857`
+**Lesser Chaos Crystal** ![:LesserChaosCrystal:](https://cdn.discordapp.com/emojis/954554494832762900.webp?size=96\&quality=lossless)&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_greater vigor stone.gif>) **Greater Vigor Stone:** `???`
+`0xeEe5b16Cc49e7cef65391Fe7325cea17f787e245`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser fortitude stone.gif>) **Lesser Fortitude Stone:** `0x1f57eb682377f5Ad6276b9315412920BdF9530f6`
+**Chaos Crystal** ![:ChaosCrystal:](https://cdn.discordapp.com/emojis/954554494639824966.webp?size=96\&quality=lossless)&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_standard fortitude stone.gif>) **Fortitude Stone:** `0x17Fa96ba9d9C29e4B96d29A7e89a4E7B240E3343`
+`0xC6b00B4005883C1Ff09fa1351B0f49027bCAB71a`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_greater fortitude stone.gif>) **Greater Fortitude Stone:** `???`
+**Greater Chaos Crystal** ![:GreaterChaosCrystal:](https://cdn.discordapp.com/emojis/973975331671253072.webp?size=96\&quality=lossless)&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser wit stone.gif>) **Lesser Wit Stone:** `0x4Ff7A020ec1100D36d5C81F3D4815F2e9C704b59`
+`0xb0155Fdb7B6972717C4774Fa2AEAEe9D6c0040b9`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_standard wit stone.gif>) **Wit Stone:** `0x939Ea05C81aAC48F7C10BdB08615082B82C80c63`
+**Lesser Atonement Crystal** ![:LesserAtonementCrystal:](https://cdn.discordapp.com/emojis/954554494878896218.webp?size=96\&quality=lossless) `0xbFa812214a16EcA7814e5F5c270d7f8F37A110B5`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_greater wit stone.gif>) **Greater Wit Stone:** `???`
+**Atonement Crystal** ![:AtonementCrystal:](https://cdn.discordapp.com/emojis/954554494585299065.webp?size=96\&quality=lossless)&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser insight stone.gif>) **Lesser Insight Stone:** `0x762b98B3758d0A5Eb95B3E4A1E2914Ce0A80D99c`
+`0xab2B495902f9A6652c382e5f289423929FFF2E65`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_standard insight stone.gif>) **Insight Stone:** `0x9D71Bb9C781FC2eBdD3d6cb709438e3c71200149`
+**Greater Atonement Crystal** ![:GreaterAtonementCrystal:](https://cdn.discordapp.com/emojis/954554494572691478.webp?size=96\&quality=lossless) `0x3A28E0D4eCF7558e1ba7357070032C5A6105B0C2`
+{% endtab %}
 
-****![](<../../.gitbook/assets/stone concepts new\_greater insight stone.gif>) **Greater Insight Stone:** `???`
+{% tab title="Misc" %}
+**Pages of the Eternal Story HRC-1155** ![:eternalstorypage:](https://cdn.discordapp.com/emojis/967231187636588574.webp?size=96\&quality=lossless) `0x909EF175d58d0e17d3Ceb005EeCF24C1E5C6F390`
+{% endtab %}
 
-****![](<../../.gitbook/assets/stone concepts new\_lesser fortune stone.gif>) **Lesser Fortune Stone:** `0x6D6eA1D2Dc1Df6Eaa2153f212d25Cf92d13Be628`
+{% tab title="Potions" %}
+**Health Vial** ![:HealthPotion:](https://cdn.discordapp.com/emojis/926968100434366536.webp?size=96\&quality=lossless)&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_standard fortune stone (1).gif>) **Fortune Stone:** `0x5da2EffE9857DcEcB786E13566Ff37B92e1E6862`
+`0x591853e01EcFDcF1Bdc9f093423C197BfBBd1A4f`&#x20;
 
-****![](<../../.gitbook/assets/stone concepts new\_greater fortune stone.gif>) **Greater Fortune Stone:** `???`
+**Full Health Potion** ![:HealthPotionLarge:](https://cdn.discordapp.com/emojis/954554494505590856.webp?size=96\&quality=lossless)&#x20;
 
-## **POZIONI:**
+`0x5948dd8Df6afEFE05B033AD8f3ae513a9Cd4F1Dc`&#x20;
 
-![](https://lh5.googleusercontent.com/CfIX09-ntABfEU0QZbrkdAVOvGjN75QT9C9KG97cXEU8O3uiyeVJUa4MdiF2mRKrUWSuDK85UqGuAFnd9DANh76kCpZslqrTrf7BPx7XS3-KVwqqDbLR3QmeteyBs4QEM0s3EtSxmRVk)**Health Vial:** `0x2789F04d22a845dC854145d3c289240517f2BcF0`
+**Mana Vial** ![:ManaPotion:](https://cdn.discordapp.com/emojis/926968101164163083.webp?size=96\&quality=lossless)&#x20;
 
-![](https://lh4.googleusercontent.com/Z3Df-DzlO6Jr4L07aIznqOG38wkcd8yvl4Zn02UYLkD3ogq3uD48hs0uOA1li8UGZt8IZqqClq7BQtOQtnAeUKT0ygy4m26zZiriRnQZe1AiTgKkJZVjaqT28TSTTTSm5wwmpFZjKa4A)**Full Health Potion:** `0x87361363A75c9A6303ce813D0B2656c34B68FF52`
+`0x240da5314B05E84392e868aC8f2b80ad6becadd4`&#x20;
 
-![](https://lh4.googleusercontent.com/nLV44VRAnmjV84ciQV4\_8daI7T0YvQt2JGURHoE\_YPgoOqrDAd7WhDY1dWRUqpH8zDmH2HXTLixOXVXHQWfRX8f7l5aF6KhEtDwMvUlk\_XLuCgbFKfZLFO\_ZOZAv1EhPRE-j2qYS25JM)**Mana Vial:** `0x19b020001AB0C12Ffa93e1FDeF90c7C37C8C71ef`
+**Full Mana Potion** ![:ManaPotionLarge:](https://cdn.discordapp.com/emojis/954554495134748682.webp?size=96\&quality=lossless)
 
-![](https://lh5.googleusercontent.com/lmOwp1yoTBBFuVEVIw8MgtfOwZ8AlGSAVnzWHIvrUFYj6RK5LIwY7dLSYwhHLKP8j7aPUqgQe0fzUvIqLEZWDyIsRV2gDpUj\_AoIURZApkpy5aPc\_ECnuOUDqtQ3hf5b4lpENPbSUNkO)**Full Mana Potion:** `0xDc2C698aF26Ff935cD1c50Eef3a4A933C62AF18D`
+&#x20;`0xf17FD21bDF6713a1Dfed668b97835b21e32651e8`&#x20;
 
-![](https://lh3.googleusercontent.com/Tlz45Uo1033DjusTWGEXUoV2eUNHHR8c6Ri8E\_uRa8czuP5vnkOrQYvYUfjE8jzX\_CbaYOGzZsdJXznNJkATrTXMSCEfdvh4o\_JUwqI\_vn6dAsTENjZCKrtQkftaR9K832nx5PpXXoOZ)**Stamina Vial:** `0x959ba19508827d1ed2333B1b503Bd5ab006C710e`
+**Stamina Vial** ![:StaminaPotion:](https://cdn.discordapp.com/emojis/935306868430110740.webp?size=96\&quality=lossless)&#x20;
 
-![](https://lh6.googleusercontent.com/-FZ\_gy6awzVbtP6EzSZjMftDcT8CImZbJIcVJcGl7xCZthtT79C1k08pkBENJ1UaNEwMXn81eVD2j70bQzRBgJ5EQMs6hl8XfOdMc4OVC5-gRHBXr0oVlXmKcoanSk7meJXYcMHYG4td)**Anti-Poison Potion:** `0xA1f8b0E88c51a45E152934686270DDF4E3356278`
+`0x242078edFDca25ef2A497C8D9f256Fd641472E5F`&#x20;
 
-![](https://lh4.googleusercontent.com/Qw934tY\_XmTPkMePr\_4KeV-GMBCtBCzZjJpls\_Mf9q423gC5cviVRM\_Av\_LomyzVfyUn5c7ev\_JMzgxOeYkDsRbCC5-5C3pQ6UWb-ZYjYVaKBS55zCb2wxVIVHzW1SncsIdv5KG-s8xN)**Anti-blinding Potion:** `0x1771dEc8D9A29F30d82443dE0a69e7b6824e2F53`
+**Anti-Poison Potion** ![:AntiPoisonPotion:](https://cdn.discordapp.com/emojis/926968099465490462.webp?size=96\&quality=lossless)&#x20;
 
-![](https://lh3.googleusercontent.com/Jywsp1w3RojqxLzgfow9VKy3DzWxFaPY1-Oxd9TnV-0C\_wiJbA4kMuwn9etjnvDvohYs91DR1JkDaVu57KkY-2rlU1sBhVwjkhdWBKbNq4rh\_cFakgW-dbq9lIo8JEullr6f7f6Jc3yy)**Magic Resistance Potion:** `0x7e120334D9AFFc0982719A4eacC045F78BF41C68`
+`0x449eB718e351a86718A090A1a8Db3FD561306d9b`&#x20;
 
-![](https://lh4.googleusercontent.com/fpdNlLkft-EqnWgqPmSrwlcAXW9NTpf5snSBPOvjSYd1UwaYpbbZ2Fw\_TKND7UgQbbH5jrAQqCKV\_BESnYERBircSJloMiFGC4fB3gcIX7xGZvYPPdlntAmETM5eToxRCUo8tEb8ycr-)**Toughness Potion:** `0xFb03c364969a0bB572Ce62b8Cd616A7DDEb4c09A`
+**Anti-blinding Potion** ![:AntiBlindingPotion:](https://cdn.discordapp.com/emojis/926968098085543947.webp?size=96\&quality=lossless)&#x20;
 
-![](https://lh6.googleusercontent.com/3g3IcfYZ1spCrVX5vKgrfrE2NNCKWSbB7zxIPcmx5Vk6KjCf\_ArtIMtIVz6VCkzbfBPEjYuu3RR5hxRi0tgZbxxDZfRhl1BW6t2LUR4uw8WpI4a\_lsF9BEjORlMOjiKXgud9xJoUg9gl)**Swiftness Potion:** `0x872dD1595544CE22ad1e0174449C7ECE6F0bb01b`
+`0x5986045e7c221c8AD40A736B6434D82E29687aeB`&#x20;
 
-_Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai utilizzando gli assets giusti!_
+**Magic Resistance Potion** ![:MagicResistancePotion:](https://cdn.discordapp.com/emojis/954554495155712040.webp?size=96\&quality=lossless) `0xFADCb72aAE2713975a890b59FF47231D1A552De3`&#x20;
+
+**Toughness Potion** ![:ToughnessPotion:](https://cdn.discordapp.com/emojis/954554495176695808.webp?size=96\&quality=lossless)&#x20;
+
+`0x2dfFf745d2c7ddCAD4E97b80DF33705B1a95A172`&#x20;
+
+**Swiftness Potion** ![:SwiftnessPotion:](https://cdn.discordapp.com/emojis/954554495231205406.webp?size=96\&quality=lossless)&#x20;
+
+`0x84246Ce3988742D46fC00d9b8b2AFb5CDBDaE660`
+{% endtab %}
+
+{% tab title="Enhancement Stones" %}
+**Lesser Might Stone** ![:LesserMightStone:](https://cdn.discordapp.com/emojis/954554495029886986.gif?size=96\&quality=lossless)&#x20;
+
+`0xf345b884eA45aEcb3E46CeEaEDB9CE993Ba3615a`&#x20;
+
+**Might Stone** ![:MightStone:](https://cdn.discordapp.com/emojis/954554494836965387.gif?size=96\&quality=lossless)&#x20;
+
+`0x37bAa710391c1D6e22396E4B7F78477F0fF2fFA7`&#x20;
+
+**Greater Might Stone** ![:GreaterMightStone:](https://cdn.discordapp.com/emojis/973975334070419477.gif?size=96\&quality=lossless)&#x20;
+
+`0xA0851F6368AfA693a6654e9fdaf76CB6F160B837`
+
+&#x20;**Lesser Finesse Stone** ![:LesserFinesseStone:](https://cdn.discordapp.com/emojis/954554495013122098.gif?size=96\&quality=lossless)&#x20;
+
+`0xF1D53fa23C562246B9d8EC591eEa12Ec0288a888`
+
+&#x20;**Finesse Stone** ![:FinesseStone:](https://cdn.discordapp.com/emojis/954554494774042715.gif?size=96\&quality=lossless)&#x20;
+
+`0xe2C357ECB698C5ee97c49CCCfA8117c4b943C7B9`&#x20;
+
+**Greater Finesse Stone** ![:GreaterFinesseStone:](https://cdn.discordapp.com/emojis/973975331750965338.gif?size=96\&quality=lossless)
+
+&#x20;`0xF35D4f749C6ADCd4AEfE1720C5890cD38129d128`
+
+&#x20;**Lesser Swiftness Stone** ![:LesserSwiftnessStone:](https://cdn.discordapp.com/emojis/954554494983753829.gif?size=96\&quality=lossless)&#x20;
+
+`0xd37aCbAC3C25a543B30aa16208637cfa6EB97eDd`&#x20;
+
+**Swiftness Stone** ![:SwiftnessStone:](https://cdn.discordapp.com/emojis/954554495143120936.webp?size=96\&quality=lossless)&#x20;
+
+`0x4F95D51fB8eF93704aF8C39A080c794cdA08f853`
+
+&#x20;**Greater Swiftness Stone** ![:GreaterSwiftnessStone:](https://cdn.discordapp.com/emojis/973975331834822726.webp?size=96\&quality=lossless) `0x40D2c135a3E5a6f6546626795DEc67f818f0352a`&#x20;
+
+**Lesser Vigor Stone** ![:LesserVigorStone:](https://cdn.discordapp.com/emojis/954554494639804457.webp?size=96\&quality=lossless)&#x20;
+
+`0x63891e0fcfEe0cEB12dE5fb96F43ADf9DbEC20a3`&#x20;
+
+**Vigor Stone** ![:VigorStone:](https://cdn.discordapp.com/emojis/954554495218642944.webp?size=96\&quality=lossless)&#x20;
+
+`0xA71a120931526fC98f1AcC9f769b6b0d690fB8f0`&#x20;
+
+**Greater Vigor Stone** ![:GreaterVigorStone:](https://cdn.discordapp.com/emojis/973975331855826965.webp?size=96\&quality=lossless)&#x20;
+
+`0x0A5985574369EDE9Bd871fbdad61613D4C11Dac4`&#x20;
+
+**Lesser Fortitude Stone** ![:LesserFortitudeStone:](https://cdn.discordapp.com/emojis/954554494962774026.webp?size=96\&quality=lossless)&#x20;
+
+`0xf599Ae2c925D3287a7fF64DC1b55C7Ea6EE3AA8f`&#x20;
+
+**Fortitude Stone** ![:FortitudeStone:](https://cdn.discordapp.com/emojis/954554494602068039.webp?size=96\&quality=lossless)&#x20;
+
+`0x05305c97e9A2FDC0F5Ea23824c1348DEeD9Aff04`&#x20;
+
+**Greater Fortitude Stone** ![:GreaterFortitudeStone:](https://cdn.discordapp.com/emojis/973975331511877723.webp?size=96\&quality=lossless)&#x20;
+
+`0xc2eF7E4f659272ca2DaE9d3df05680783b299Cd0`&#x20;
+
+**Lesser Wit Stone** ![:LesserWitStone:](https://cdn.discordapp.com/emojis/954554495059243008.webp?size=96\&quality=lossless)&#x20;
+
+`0xFC943eBd19112D6c6098412238E4E8319641B3d8`&#x20;
+
+**Wit Stone** ![:WitStone:](https://cdn.discordapp.com/emojis/954554495147331624.webp?size=96\&quality=lossless)&#x20;
+
+`0x3971212Ec22147EE8808cB84F743DD852Be92f9C`&#x20;
+
+**Greater Wit Stone** ![:GreaterWitStone:](https://cdn.discordapp.com/emojis/973975331855814656.webp?size=96\&quality=lossless)&#x20;
+
+`0xa1BD7683fA348e256a2de8a9dDB55E5ea01eB048`&#x20;
+
+**Lesser Insight Stone** ![:LesserInsightStone:](https://cdn.discordapp.com/emojis/954554494551724121.webp?size=96\&quality=lossless)&#x20;
+
+`0x3D112747ff2463802Afa240B62ade8F1cc4a5c7d`
+
+&#x20;**Insight Stone** ![:InsightStone:](https://cdn.discordapp.com/emojis/954554494920847380.webp?size=96\&quality=lossless)&#x20;
+
+`0x74CFf096C9B027104fb1a0C2E0e265D123eA47De`&#x20;
+
+**Greater Insight Stone** ![:GreaterInsightStone:](https://cdn.discordapp.com/emojis/973975331922931742.webp?size=96\&quality=lossless)&#x20;
+
+`0x3198f51A1c8cFC5f1FeaD58feaa19E6dFc8e9737`&#x20;
+
+**Lesser Fortune Stone** ![:LesserFortuneStone:](https://cdn.discordapp.com/emojis/954554494501400597.webp?size=96\&quality=lossless)&#x20;
+
+`0x934e3e2a433F37cC2D02855A43fD7Ed475EA7451`&#x20;
+
+**Fortune Stone** ![:FortuneStone:](https://cdn.discordapp.com/emojis/954554494925037608.webp?size=96\&quality=lossless)&#x20;
+
+`0xd647D8b52981eDE13ac6a5B7Ad04e212Ac38fdFb`
+
+&#x20;**Greater Fortune Stone** ![:GreaterFortuneStone:](https://cdn.discordapp.com/emojis/973975331683844128.webp?size=96\&quality=lossless)&#x20;
+
+`0x8FfF0f5A660b4D38441DDF6127bca42D7a2755a9`
+
+&#x20;**Lesser Chaos Stone** ![:LesserChaosStone:](https://cdn.discordapp.com/emojis/954554494551748659.webp?size=96\&quality=lossless)&#x20;
+
+`0x7643ADB5AaF129A424390CB055d6e23231fFd690`&#x20;
+
+**Chaos Stone** ![:ChaosStone:](https://cdn.discordapp.com/emojis/954554494723698798.webp?size=96\&quality=lossless)&#x20;
+
+`0x1ED1a6Ed588945C59227f7a0c622Ad564229d3d6`&#x20;
+
+**Greater Chaos Stone** ![:GreaterChaosStone:](https://cdn.discordapp.com/emojis/973975331767730276.webp?size=96\&quality=lossless)&#x20;
+
+`0xEd4Bf3008afE47FE01CcC7a6648a24E326667eee`
+{% endtab %}
+{% endtabs %}
