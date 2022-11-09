@@ -1,7 +1,3 @@
----
-description: D
----
-
 # Lista Assets e Contratti
 
 ## **DeFi Kingdoms Crystalvale (DFK Chain)**
