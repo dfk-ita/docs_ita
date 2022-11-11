@@ -17,7 +17,7 @@ Queste percentuali sono state modificate l'ultima volta il 4/11/2022, aumentando
 {% endhint %}
 
 * 5% - Bruciati
-* 15% - Ricompense Jeweler (cJEWEL / sJEWEL)
+* 15% - [Ricompense Jeweler](../il-jeweler.md#jeweler-2.0) (cJEWEL / sJEWEL)
 * 30% - Fondo Ricompense Quest
 * 50% - Fondi per lo Sviluppo
 

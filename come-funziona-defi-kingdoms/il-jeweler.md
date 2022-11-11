@@ -21,9 +21,9 @@ I token cJEWEL/sJEWEL sono **legati all'anima del portafoglio che li genera (sou
 
 I quattro principali vantaggi del detenere cJEWEL sono: governance, distribuzione delle commissioni, miglioramenti in-game e accesso a funzionalità premium (Power-Up), e blocco dei token.
 
-* La governance utilizzerà l'equilibrio cJEWEL/sJEWEL degli utenti per votare le proposte.
-* I premi arriveranno attraverso la distribuzione delle commissioni, ma anche aidrops regolari possono essere implementati grazie alla natura timelock più sicura di cJEWEL/sJEWEL.
-* I potenziamenti in-game consentiranno ai giocatori di allocare una certa quantità di cJEWEL/sJEWEL per ottenere l'accesso ai bonus, miglioramenti e funzionalità premium.
+* La [governance](il-jeweler.md#votazioni-governance) utilizzerà l'equilibrio cJEWEL/sJEWEL degli utenti per votare le proposte.
+* I premi arriveranno attraverso la [distribuzione delle commissioni](il-jeweler.md#benefici-del-detenere-cjewel), ma anche aidrops regolari possono essere implementati grazie alla natura timelock più sicura di cJEWEL/sJEWEL.
+* I [potenziamenti in-game (Power Ups)](il-jeweler.md#power-ups) consentiranno ai giocatori di allocare una certa quantità di cJEWEL/sJEWEL per ottenere l'accesso ai bonus, miglioramenti e funzionalità premium.
 * A causa del fatto che cJEWEL e sJEWEL richiedono un certo periodo di blocco del token **JEWEL** per essere creati, il risultato atteso di questo sistema è una riduzione complessiva del supply liquido disponibile di JEWEL (a seconda del coinvolgimento dell'utente con il sistema).
 
 ## Meccanismo di Blocco
@@ -35,9 +35,9 @@ I giocatori possono bloccare i propri JEWEL nello smart contract del Jeweler per
 {% hint style="info" %}
 **Esempio:**
 
-****![](<../.gitbook/assets/image (3).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
+****![](<../.gitbook/assets/image (10).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
 
-![](<../.gitbook/assets/image (2).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
+![](<../.gitbook/assets/image (11).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
 
 **Resoconto:**
 

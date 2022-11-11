@@ -7,7 +7,7 @@ In conformità con la [tokenomic aggiornata](https://medium.com/@defikingdomsita
 
 I token Locked JEWEL esistenti verranno automaticamente ridistribuiti come CRYSTAL, JADE e JEWEL su Crystalvale e Serendale 2.0. Questo airdrop avrà luogo insieme al lancio di Serendale 2.0. I token acquisiti si sbloccheranno retroattivamente all'inizio del programma di sblocco originale di Locked JEWEL.
 
-<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original">
 
 Seguendo l'immagine sopra, ad esempio, se un utente ha 100 Locked JEWEL, riceverà circa:
 
