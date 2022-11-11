@@ -29,7 +29,7 @@ Per informazioni complete sull'Evocazione, visita la pagina principale dell'argo
 Ogni qualvolta che l’Eroe cresce di 5 livelli, riceve dei bonus aggiuntivi alle statistiche in base alla sua **Rarità**:
 
 \
-![](<../../../.gitbook/assets/image (1).png>)      **Common:** purtroppo non guadagnano bonus particolare
+![](<../../../.gitbook/assets/image (1) (3).png>)      **Common:** purtroppo non guadagnano bonus particolare
 
 ![](<../../../.gitbook/assets/image (2) (1) (1) (1).png>)     **Uncommon:** **+1** a due stats diverse\
 **(tot stats +2)**

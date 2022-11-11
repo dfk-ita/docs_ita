@@ -8,16 +8,18 @@ DeFi Kingdoms: Serendale è stato lanciato su Harmony insieme al token JEWEL. A 
 
 Con l'espansione di DeFi Kingdoms: Crystalvale sulla DFK Chain, abbiamo creato un nuovo power token, CRYSTAL. CRYSTAL ricopre gli stessi ruoli di JEWEL in Serendale, ma all'interno di Crystalvale. Può essere speso per acquistare e coniare Eroi NFT, scambiato sul DEX in-game, depositato per la condivisione delle commissioni, unito per liquidità e applicato ai [voti di governance](../il-jeweler.md#voti-di-governance) applicabili. La fornitura totale di CRYSTAL è un quarto di quella di JEWEL e il programma di emissione viene adeguato di conseguenza.&#x20;
 
-### Transazioni e Ricompense
+### Transazioni e Distribuzione delle Commissioni
 
 Salvo diversamente specificato in questi documenti, le commissioni JEWEL o CRYSTAL, a seconda dei casi, da ogni transazione in-game, sono ripartite ai portafogli applicabili per ciascun reame come segue:
 
-* 1% - Bruciati
-* 10% - Inviati al Jeweler per ricompensare gli holder di xJEWEL/xCRYSTAL
-* 30% - Inviati al Quest Rewards Fund
-* 25% - Inviati Development Fund, per pagare lo sviluppo futuro del gioco e le taglie
-* 17% - Inviati al Marketing Fund, per pagare pubblicità, airdrops, ecc
-* 17% - Inviati al Founders Fund, per pagare bonus per i traguardi del team di sviluppo
+{% hint style="info" %}
+Queste percentuali sono state modificate l'ultima volta il 4/11/2022, aumentando gli importi assegnati al token burn e alla distribuzione delle commissioni.
+{% endhint %}
+
+* 5% - Bruciati
+* 15% - Ricompense Jeweler (cJEWEL / sJEWEL)
+* 30% - Fondo Ricompense Quest
+* 50% - Fondi per lo Sviluppo
 
 JEWEL e CRYSTAL sono la linfa vitale del nostro progetto ed hanno funzionalità che offrono ai giocatori l'opportunità di guadagnare giocando piuttosto che acquistare giochi e abbonamenti senza possibilità di recuperare i costi spesi. In DeFi Kingdoms, buone decisioni di gioco e un po' di fortuna hanno il potenziale per premiare i giocatori con veri token crypto mentre giocano ad un gioco che gli piace.
 

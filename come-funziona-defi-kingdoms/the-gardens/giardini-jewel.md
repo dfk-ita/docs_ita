@@ -1,5 +1,27 @@
 # Giardini JEWEL
 
+{% hint style="danger" %}
+In conformità con la [tokenomic aggiornata](https://medium.com/@defikingdomsitalia/serendale-2-0-a3787cbeb04a) adottata dal [voto governance della Community il 9/1/2022](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6), **le emissioni di JEWEL su Harmony sono terminate, ed i Locked JEWEL non si sbloccheranno secondo il programma originale.**
+
+
+
+I token Locked JEWEL esistenti verranno automaticamente ridistribuiti come CRYSTAL, JADE e JEWEL su Crystalvale e Serendale 2.0. Questo airdrop avrà luogo insieme al lancio di Serendale 2.0. I token acquisiti si sbloccheranno retroattivamente all'inizio del programma di sblocco originale di Locked JEWEL.
+
+<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+Seguendo l'immagine sopra, ad esempio, se un utente ha 100 Locked JEWEL, riceverà circa:
+
+* 44 Locked Crystal (CV)&#x20;
+* 44 Locked Jade (SD 2.0)&#x20;
+* 5.4 Vested Locked Jewel (CV)&#x20;
+* 5.04 Vested Locked Jade (SD 2.0)&#x20;
+* 1.56 Unlocked Jade (SD 2.0)
+{% endhint %}
+
+{% hint style="info" %}
+A causa di quanto sopra, le informazioni di seguito sull'originale Serendale JEWEL Gardens non sono più applicabili, ma sono state lasciate qui come riferimento.
+{% endhint %}
+
 ### **Programma di emissione**
 
 L'emissione di JEWEL come ricompensa per lo staking di token LP nel Garden è programmata per cambiare durante ogni periodo di tempo consecutivo, che chiamiamo Epoca. Ogni Epoca è di 302,400 blocchi su Harmony Blockchain e la lunghezza di ogni Epoca dipende dalla velocità media dei blocchi su Harmony. Le Epoche sono state calcolate a 302.400 blocchi in modo che ogni Epoca equivalga a una settimana assumendo una velocità di 2 secondi per blocco su Harmony Blockchain. Tuttavia, se le velocità dei blocchi sono in media più lunghe di 2 secondi per blocco, un'Epoca durerà più di una settimana .
