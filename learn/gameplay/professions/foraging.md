@@ -12,7 +12,7 @@ Dopo aver selezionato gli Eroi partecipanti ed aver scelto il numero di tentativ
 
 Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi **DEX, INT** e **Foraging**, e se **Foraging** è la loro abilità principale.
 
-![](<../../../.gitbook/assets/image (7).png>)
+![](<../../../.gitbook/assets/image (7) (1).png>)
 
 ### **Drop Rates Quest livello 0:**
 

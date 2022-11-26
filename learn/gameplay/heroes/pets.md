@@ -4,7 +4,7 @@ Gli Eroi a volte possono trovare uova nelle loro missioni. Gli Animali Domestici
 
 Per schiudere un Pet, i giocatori devono portare le loro uova all'Incubatoio. I costi per schiudere un uovo si traducono in tempo, alcune risorse di gioco, e JEWEL. Ai giocatori verranno offerte tre diverse opzioni di prezzo. Le opzioni forniscono un tempo di incubazione ridotto e migliori possibilità di ottenere Pets lucenti e di maggiore rarità. Alcuni costi dipendono dal tipo di uovo.
 
-![](<../../../.gitbook/assets/image (8).png>)
+![](<../../../.gitbook/assets/image (8) (1).png>)
 
 E' possibile controllare la ripartizione qui di seguito:
 

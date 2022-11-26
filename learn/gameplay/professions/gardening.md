@@ -1,41 +1,81 @@
 ---
-description: Informazioni riguardanti le Gardening Quests di livello 0
+description: Informazioni riguardanti la Quest Gardening di livello 0
+cover: ../../../.gitbook/assets/gardener-splash.428a0e2f.gif
+coverY: 0
 ---
 
 # Gardening
 
-**Le missioni di Gardening** possono essere eseguite da un Eroe alla volta in ciascuna delle Liquidity Pool incentivate elencate nella **Seed Box** nei **Gardens**. La Quest inizia nell'**area Professions** parlando con il giardiniere, Druid Lam. Gli Eroi possono fare Gardening in uno dei giardini disponibili (LP), ma le ricompense in JEWEL sono disponibili solo dai giardini in cui il giocatore ha semi piantati (LP token depositati). La resa in JEWEL aumenta con il numero di semi piantati da quel giocatore in quel particolare giardino. Tuttavia,  la missione di Gardening dà una somma minima in JEWEL, un possibile jackpot disponibile ogni 15 stamina spesi, ed ha la possibilità di premiare gli Eroi con **piante, Gaia's Tears, Rune Shvās e Uova Verdi, EXP**, indipendentemente dal fatto che il giocatore abbia semi nel giardino o meno. Tutte le piante possono essere vendute nel [Marketplace](../marketplace.md) al Vendor Zada ​​per **Gold** o scambiate con il Trader Matoya per **JEWEL**. Alcune piante sono ingredienti di **Pozioni**, che possono essere create con l'Alchimista Herbert. Tutte le piante possono avere usi ancora sconosciuti.
+Le **Missioni di Gardening** possono essere svolte da un massimo di due Eroi alla volta in ciascuna delle pool di liquidità incentivate elencate nella **Seed Box** situata nella zona **Gardens**. Queste missioni assegnano **Power Tokens** e **JEWEL**, oltre a **Piante** ed altri oggetti rari.
 
-**La missione Gardening di livello 0** **è stata lanciata con uno speciale moltiplicatore per aumentare la resa delle ricompense per un periodo di tempo limitato.** Il lancio della Quest è avvenuto il 22/12/21. Questo moltiplicatore diminuirà in un periodo di 16 settimane, fino a quando la Quest non si stabilizzerà sulla formula di rendimento prevista. I rendimenti del Gardening dipendono fortemente dalla quota del giocatore dei Pool di Liquidità in cui lavoreranno i loro Eroi sia dal saldo generale del portafoglio Quest Rewards, quindi ci sarà una grande variazione nei rendimenti tra giocatori e Pool, ed una variazione nei rendimenti rispetto al tempo, mentre la Quest Rewards Pool cresce o si riduce.
+> Un amico dei giardini è un mio amico. Ti prego, lascia che ti mostri le nostre strade. Insieme, possiamo coltivare un bellissimo campo.
 
-### **Formula dei Reward per Quest livello 0:**
+Le Missioni di Gardening si iniziano nella zona **Professions** e parlando con il **Greenskeeper**. Gli Eroi possono dedicarsi al Gardening in tutti i giardini disponibili, ma le ricompense in **Power Tokens** e **JEWEL** aumentano solo in quelli in cui il giocatore ha piantato i semi (depositato tokens LP nelle pool incentivate), e la resa in tokens aumenta insiem al numero di semi piantati dal giocatore in quel particolare giardino.
 
-**Rate di Guadagno per tick (ogni 1 Stamina speso)** = launchBonus\*(rewardPool\*poolAllocation\*LPowned\*(0.1+(**WIS**+**VIT**)/1222.22+(**GrdSkl**)/244.44))/(43,200-(7200\***geneBonus**))
+Le Missioni di Gardening hanno anche la possibilità di ricompensare gli Eroi con **Piante**, **Gaia's Tears**, **Rune** e **Uova Verdi**, indipendentemente dal fatto che il giocatore abbia o meno semi nel giardino dove si svolge la missione. Tutte le Piante possono essere vendute presso il Vendor nel [Marketplace](../marketplace.md) in cambio di **Gold** o scambiate grazie al Trader con altri tokens o oggetti. Alcune Piante sono reagenti per **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), mentre altre sono usate per far nascere Pets. Tutte le Piante possono avere usi ancora sconosciuti.
 
-**rewardPool** - Bilancio della Quest Reward Pool
+## **Le Basi del Gardening**
 
-**poolAllocation** - Questa è la percentuale di assegnazione di un giardino specifico (l'assegnazione per la distribuzione di JEWEL).
+#### Durata per punto Stamina
 
-**LPowned** - La percentuale di share della Liquidity Pool che il giocatore possiede nel giardino selezionato.
+12 minuti (10 con **Gardening come gene di professione**)
 
-**GrdSkl** - L'abilità Gardening di un Eroe (conta solo il valore intero (1,9 GrdSkl avrà lo stesso risultato di 1,0 GrdSkl).
+#### Stamina Necessaria
 
-**geneBonus** - Fornisce un bonus del 20% ai ritorni in JEWEL, aumenta le possibilità di trovare Tears e Rune e riduce il tempo per tick da 12 minuti a 10 minuti. Questi bonus sono presenti solo se l'Eroe ha il gene Gardening. Se hanno il gene, geneBonus = 1, in caso contrario, geneBonus = 0.
+1 punto Stamina minimo
 
-**launchBonus** - Uno speciale moltiplicatore applicato al lancio che inizierà con valore 5 e diminuirà di 0,5 ogni due settimane fino a raggiungere 1.
+#### Eroi Richiesti per Missione
 
-\*\*I JEWEL rewards minimi guadagnati per punto Stamina speso è .0002 JEWEL.
+1-2 Eroe per Giardino
 
-Inoltre, per ogni 15 Stamina spesi, c'è una probabilità del 9,9% di ricevere 0,1 JEWEL bonus ed una probabilità dello 0,1% di ricevere 1 JEWEL bonus. Questo bonus viene dimezzato se l'Eroe non ha Gardening come professione principale. Il bonus viene calcolato con un "tiro", quindi un Eroe non può ricevere entrambi i bonus. Questo bonus è stato implementato nella versione beta il 2 Febbraio 2022.
+## **Token Rewards**
 
-### **Drop Rates Quest livello 0:**
+Il primo Eroe inviato a fare una missione in ogni Giardino sarà ricompensato in **Power Tokens** del Regno, mentre il secondo Eroe guadagnerà **JEWEL**. Queste ricompense sono finanziate dal portafoglio [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) di ogni Regno. I rendimenti dei Giardini dipendono in larga misura sia dalla quota posseduta della **Pool di Liquidità** in cui lavoreranno i loro Eroi, sia dall'equilibrio complessivo del Quest Fund. Di conseguenza, ci sarà una grande variazione nei rendimenti tra i giocatori e le pool, nonché una variazione nei rendimenti nel tempo, man mano che il Quest Fund cresce o si riduce.
 
-**Bluestem** - 9% (per 5 Stamina spesi)
+### Formula
 
-**Spiderfruit** - 6% (per 5 Stamina spesi)
+Le ricompense tokens delle Missioni di Gardening utilizzano la seguente formula, che si applica sia alle ricompense in Power Tokens che a quelle in JEWEL, quando applicabili.
 
-**Milkweed** - 4% (per 5 Stamina spesi)
+`earnRate (per stamina spent) =`**`annealingFactor`**`* (`**`rewardPool`**`*`**`poolAllocation`**` `_`*`_**`LPowned`**`* (0.1 + (`**`WIS`**`+`**`VIT`**`) / 1222.22 +`**`GrdSkl`**`/ 244.44)) / (43,200 - (7200 *`**`geneBonus`**`))`
 
-**Uovo Verde** - .02% (per 10 Stamina spesi)
+Calcolato da queste variabili:
 
-**I Drop Rates base degli oggetti aumentano grazie al punteggio WIS, VIT, Gardening, ed il gene Gardening dell''Eroe.**
+* **`annealingFactor` ** - Un moltiplicatore applicato al momento del lancio che diminuisce gradualmente nel tempo, permettendo al Quest Fund di continuare a crescere. **`annealingFactor`** inizia a `50` e diminuisce ogni due settimane fino ad un  minimo di `1` dopo 26 settimane.
+  * **`annealingFactor`**` ``= (9100 - 49 * (`**`daysSinceLaunch`**`/ 14) * 14) / 182`
+  * Ai fini del calcolo **`daysSinceLaunch`**, le Missioni di Gardening su Crystalvale sono state rilasciate il 15/09/2022.
+* **`rewardPool` ** - Il relativo saldo dei tokens nel [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
+* **`poolAllocation` ** - La percentuale di emissioni di tokens assegnata al Giardino specifico (in decimali, ad esempio 0,1 per il 10%).
+* **`LPowned` ** - La percentuale della Pool di liquidità che il giocatore possiede nel Giardino selezionato (in decimali, ad esempio 0,0015 per 0,15%).
+* **`WIS`** / **`VIT`** - Il valore delle statistiche di **Wisdom** e **Vitality** dell'Eroe.
+* **`GrdSkl` ** - Il livello professionale di Gardening dell'Eroe (arrotondata per difetto, ad esempio 16 per 16,9).
+* **`geneBonus` ** - Se un Eroe possiede il gene della professione Gardening, questo fornisce un bonus del 20% ai rendimenti dei tokens, aumenta le possibilità di trovare Gaia's Tears e Rune, e diminuisce il tempo di missione per punto Stamina da 12 a 10 minuti. Se l'Eroe possiede questo gene, **`geneBonus = 1`**, altrimenti **`geneBonus = 0`**.
+
+### Ricompense Minime
+
+La Ricompensa Minima in tokens guadagnata per ogni punto Stamina speso è di 0.0002. Se **`earnRate`** è inferiore a questa soglia, verrà aumentato a 0.0002.
+
+Le Ricompense Minime sono attive solo quando nel Quest Reward Fund sono disponibili almeno 420.000 tokens del tipo appropriato.
+
+### Gardening Jackpots
+
+Per ogni 15 punti Stamina spesi durante la missione, il giocatore riceverà un tiro bonus con una probabilità del 9,9% di ricevere 0.1 token bonus ed una probabilità del 0.1% di ricevere un ulteriore token bonus. Questo bonus si dimezza se l'Eroe non ha il **gene della professione Gardening.** I giocatori non possono ricevere entrambi i bonus contemporaneamente.
+
+I premi Jackpot sono attivi solo quando nel Quest Reward Fund sono disponibili almeno 950.000 tokens del tipo appropriato.
+
+### **Ricompense Oggetti**
+
+{% hint style="info" %}
+Le percentuali di drop degli oggetti riportate di seguito aumentano in base a diverse combinazioni delle statistiche di Saggezza (WIS) e Vitalità (VIT) dell'Eroe, del suo livello di Gardening e della presenza del gene della professione Gardening.
+{% endhint %}
+
+|                          Oggetto                         |      Drop Rate Base      |   Ricompensa XP   |                 Consumo Stamina                 |
+| :------------------------------------------------------: | :----------------------: | :---------------: | :---------------------------------------------: |
+|   ![](<../../../.gitbook/assets/image (6).png>)Bluestem  |       <p><br>9%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+| ![](<../../../.gitbook/assets/image (5).png>)Spiderfruit |       <p><br>6%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|   ![](<../../../.gitbook/assets/image (2).png>)Milkweed  |       <p><br>4%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|    ![](../../../.gitbook/assets/image.png)Gaia's Tear    | <p><br>7% - 11.25% *</p> |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+| ![](<../../../.gitbook/assets/image (3).png>) Runa Shvās | <p><br>0.3% - 1.5% *</p> |  <p><br>30 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+| ![](<../../../.gitbook/assets/image (4).png>)runa Moksha |    0.009% - 0.045% \*    | <p><br>100 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|  ![](<../../../.gitbook/assets/image (8).png>)Uovo Verde |     <p><br>0.02%</p>     | <p><br>100 XP</p> |      Possibilità Drop ogni 10 punti Stamina     |
+
+* La percentuale più alta si applica agli Eroi con il **gene della professione Gardening**.
