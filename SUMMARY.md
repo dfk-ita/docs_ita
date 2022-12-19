@@ -4,10 +4,7 @@
 
 ## COME FUNZIONA DEFI KINGDOMS
 
-* [Regni](come-funziona-defi-kingdoms/regni/README.md)
-  * [Serendale 1.0](come-funziona-defi-kingdoms/regni/serendale-1.0.md)
-  * [Crystalvale](come-funziona-defi-kingdoms/regni/crystalvale.md)
-  * [Serendale 2.0](come-funziona-defi-kingdoms/regni/serendale-2.0.md)
+* [Regni](come-funziona-defi-kingdoms/regni.md)
 * [Ecosistema & Power Tokens](come-funziona-defi-kingdoms/i-token-del-potere/README.md)
   * [JEWEL Token](come-funziona-defi-kingdoms/i-token-del-potere/jewel-token.md)
   * [CRYSTAL Token](come-funziona-defi-kingdoms/i-token-del-potere/crystal-token.md)
@@ -65,7 +62,7 @@
 * [Pets](learn/gameplay/heroes/pets.md)
 * [Eventi](gameplay/eventi/README.md)
   * [The Perilous Journey](learn/the-perilous-journey.md)
-  * [Adelyn's Reawakening](gameplay/eventi/adelyns-reawakening.md)
+  * [Adelyn's Reawakening](learn/vithravens-reawakening.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 

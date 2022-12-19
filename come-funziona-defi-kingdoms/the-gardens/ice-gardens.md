@@ -1,10 +1,10 @@
 ---
-description: Informazioni sull'emissione di CRYSTAL e gli Ice Gardens.
+description: Informazioni sull'emissione di CRYSTAL ed i Giardini CRYSTAL.
 ---
 
 # Giardini CRYSTAL
 
-### **Programma di emissione**
+### **Programma di Emissione**
 
 L'emissione di CRYSTAL è programmata per cambiare durante ogni periodo di tempo consecutivo, che chiamiamo Epoca. Ogni Epoca dura esattamente una settimana e inizia alle 20:00 EST della data elencata nella tabella seguente:
 
@@ -33,7 +33,7 @@ L'emissione di CRYSTAL è programmata per cambiare durante ogni periodo di tempo
 | 21-100 | 17 Agosto 2022   | 1               | 60             |
 | 101+   | 28 Febbraio 2024 | 0.5             | 30             |
 
-### Locking
+### Meccanismo di Blocco
 
 I CRYSTAL bloccati prelevati  rimarranno  **bloccati fino al 22 Marzo 2023,\*\*,\*\*** che segna la fine dell'Epoca 51. Le ricompense bloccate inizieranno a sbloccarsi linearmente nelle 52 Epoche successive. &#x20;
 
