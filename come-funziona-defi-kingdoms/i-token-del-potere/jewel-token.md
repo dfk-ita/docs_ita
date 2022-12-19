@@ -4,7 +4,11 @@
 
 ### JEWEL Hard Cap (Supply massima)
 
-JEWEL ha un tetto massimo di 500,000,000 token.
+{% hint style="info" %}
+Il supply massimo di JEWEL è stato ridotto da 500 milioni come parte della [tokenomic aggiornata del progetto](https://defikingdomsitalia.medium.com/serendale-2-0-a3787cbeb04a). I restanti 375 milioni di JEWEL sono stati ridistribuiti come JEWEL, CRYSTAL e JADE, bloccati, acquisiti e sbloccati.
+{% endhint %}
+
+JEWEL ha un tetto massimo di **125,000,000** token.
 
 ### Pre-minting (pre-conio)
 
@@ -17,7 +21,7 @@ I primi **10,000,000 JEWEL** saranno preconiati e distribuiti come segue:
 
 ### Portafoglio Tesoreria Multi-sig
 
-**I nostri fondi sono protetti in un portafoglio multi-sig su multisig.harmony.one.** Questo portafoglio sarà controllati da 4 membri del progetto e qualsiasi transazione richiederà 3 firme su 4 per essere eseguita. Questo aiuta a proteggersi dagli hack che prendono di mira le tesorerie, assicurando che non ci sia un singolo margine di errore\*\*.\*\* Inoltre, questo protegge da qualsiasi membro del team che ha il potere di fare qualsiasi cosa da solo, senza che il resto del team ne sia consapevole e sia d'accordo. Offre inoltre il 100% di trasparenza, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita.
+**I nostri fondi sono protetti in un portafoglio multi-sig su** [**multisig.harmony.one**](https://multisig.harmony.one/)**.** Questo portafoglio sarà controllati da 4 membri del progetto e qualsiasi transazione richiederà 3 firme su 4 per essere eseguita. Questo aiuta a proteggersi dagli hack che prendono di mira le tesorerie, assicurando che non ci sia un singolo margine di errore\*\*.\*\* Inoltre, questo protegge da qualsiasi membro del team che ha il potere di fare qualsiasi cosa da solo, senza che il resto del team ne sia consapevole e sia d'accordo. Offre inoltre il 100% di trasparenza, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita.
 
 **I nostri fondi sono protetti in portafogli multi-sig su multisig.harmony.one**. Questi portafogli saranno controllati da 4 membri del Team principale, che potrebbero cambiare di volta in volta. Qualsiasi transazione richiederà 3 firme su 4 per essere eseguita. Questo aiuta a proteggersi dagli hack che prenderebbero di mira i tesori, assicurando che non ci sia un singolo punto di errore. Inoltre, questo protegge dal fatto che qualsiasi membro del Team abbia il potere di apportare modifiche da solo, senza che il resto del Team ne sia a conoscenza e ne sia d'accordo. Offre inoltre una trasparenza del 100%, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita, inclusi i portafogli in esecuzione.
 

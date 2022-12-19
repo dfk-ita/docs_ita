@@ -68,14 +68,14 @@ I premi Jackpot sono attivi solo quando nel Quest Reward Fund sono disponibili a
 Le percentuali di drop degli oggetti riportate di seguito aumentano in base a diverse combinazioni delle statistiche di Saggezza (WIS) e Vitalità (VIT) dell'Eroe, del suo livello di Gardening e della presenza del gene della professione Gardening.
 {% endhint %}
 
-|                          Oggetto                         |      Drop Rate Base      |   Ricompensa XP   |                 Consumo Stamina                 |
-| :------------------------------------------------------: | :----------------------: | :---------------: | :---------------------------------------------: |
-|   ![](<../../../.gitbook/assets/image (6).png>)Bluestem  |       <p><br>9%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
-| ![](<../../../.gitbook/assets/image (5).png>)Spiderfruit |       <p><br>6%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
-|   ![](<../../../.gitbook/assets/image (2).png>)Milkweed  |       <p><br>4%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
-|    ![](../../../.gitbook/assets/image.png)Gaia's Tear    | <p><br>7% - 11.25% *</p> |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
-| ![](<../../../.gitbook/assets/image (3).png>) Runa Shvās | <p><br>0.3% - 1.5% *</p> |  <p><br>30 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
-| ![](<../../../.gitbook/assets/image (4).png>)runa Moksha |    0.009% - 0.045% \*    | <p><br>100 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
-|  ![](<../../../.gitbook/assets/image (8).png>)Uovo Verde |     <p><br>0.02%</p>     | <p><br>100 XP</p> |      Possibilità Drop ogni 10 punti Stamina     |
+|                            Oggetto                           |      Drop Rate Base      |   Ricompensa XP   |                 Consumo Stamina                 |
+| :----------------------------------------------------------: | :----------------------: | :---------------: | :---------------------------------------------: |
+|     ![](<../../../.gitbook/assets/image (6).png>)Bluestem    |       <p><br>9%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+| ![](<../../../.gitbook/assets/image (5) (2).png>)Spiderfruit |       <p><br>6%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|   ![](<../../../.gitbook/assets/image (2) (1).png>)Milkweed  |       <p><br>4%</p>      |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|   ![](<../../../.gitbook/assets/image (1).png>)Gaia's Tear   | <p><br>7% - 11.25% *</p> |  <p><br>10 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+| ![](<../../../.gitbook/assets/image (3) (1).png>) Runa Shvās | <p><br>0.3% - 1.5% *</p> |  <p><br>30 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|   ![](<../../../.gitbook/assets/image (4).png>)runa Moksha   |    0.009% - 0.045% \*    | <p><br>100 XP</p> | <p>Possibilità Drop ogni<br>5 punti Stamina</p> |
+|    ![](<../../../.gitbook/assets/image (8).png>)Uovo Verde   |     <p><br>0.02%</p>     | <p><br>100 XP</p> |      Possibilità Drop ogni 10 punti Stamina     |
 
 * La percentuale più alta si applica agli Eroi con il **gene della professione Gardening**.

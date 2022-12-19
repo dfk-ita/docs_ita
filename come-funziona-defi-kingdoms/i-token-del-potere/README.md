@@ -1,12 +1,16 @@
-# I Token del potere
+# Ecosistema & Power Tokens
 
-### JEWEL
+### Token dell'Ecosistema
 
-DeFi Kingdoms: Serendale è stato lanciato su Harmony insieme al token JEWEL. A differenza dei soliti token crypto, JEWEL agisce come il principale token di valore nel gioco metaverse, dandogli un'utilità al di sopra e al di là di una normale moneta. JEWEL può essere usato per comprare degli Eroi NFT, che possono essere utilizzati per guadagnare JEWEL e altri premi. JEWEL può anche essere combinato con Eroi esistenti e altri oggetti per creare nuovi Eroi ed essere scambiato tramite il DEX con altri tokens o oggetti di gioco. Tutto ciò in aggiunta alle opportunità di condivisione delle commissioni, pool di liquidità e [diritti di governance](../il-jeweler.md#voti-di-governance).&#x20;
+Quando DeFi Kingdoms: Serendale è stato lanciato su Harmony, è stato insieme al token JEWEL. A differenza di una criptovaluta media, JEWEL funge da token di valore principale in un gioco metaverso, conferendogli un'utilità superiore a quella di un normale token.
 
-### CRYSTAL
+Con le recenti modifiche alla tokenomic di DeFi Kingdoms, JEWEL è ora il Token dell'Ecosistema utilizzato in tutti i Regni. Oltre ad essere il token nativo del gas sulla DFK Chain, JEWEL è usato per i Power-Up di gioco, le opportunità di distribuzione delle commissioni, la condivisione della liquidità ed i [diritti di governance](../il-jeweler.md#votazioni-governance).
 
-Con l'espansione di DeFi Kingdoms: Crystalvale sulla DFK Chain, abbiamo creato un nuovo power token, CRYSTAL. CRYSTAL ricopre gli stessi ruoli di JEWEL in Serendale, ma all'interno di Crystalvale. Può essere speso per acquistare e coniare Eroi NFT, scambiato sul DEX in-game, depositato per la condivisione delle commissioni, unito per liquidità e applicato ai [voti di governance](../il-jeweler.md#voti-di-governance) applicabili. La fornitura totale di CRYSTAL è un quarto di quella di JEWEL e il programma di emissione viene adeguato di conseguenza.&#x20;
+### Power Tokens
+
+Con l'espansione di DeFi Kingdoms: Crystalvale sulla DFK Chain, ogni Regno ha ora il suo Power Token dedicato, che viene utilizzato per tutte le transazioni di gioco, come l'acquisto di Eroi e Pets NFT, l'Evocazione di nuovi Eroi e la schiusa di Animali Domestici, il livellamento degli Eroi ed altro ancora. I Power Tokens possono essere scambiati nel DEX con altri tokens ed oggetti di gioco, possono essere accoppiati ad altri tokens per ottenere LP e vengono emessi dai Giardini di ogni Regno.
+
+Il Power Token a Crystalvale è CRYSTAL, mentre il Power Token a Serendale è JADE.
 
 ### Transazioni e Distribuzione delle Commissioni
 
@@ -29,6 +33,4 @@ Poiché sia ​​JEWEL che CRYSTAL condividono gran parte della stessa utilità
 
 Inoltre, JEWEL viene utilizzato per le commissioni del gas sulla [DFK Chain](broken-reference), dove si svolgono le transazioni di gioco per Crystalvale.
 
-Informazioni specifiche su ciascun token possono essere trovate sulle pagine [JEWEL Token](jewel-token.md) e [CRYSTAL Token](crystal-token.md) e l' emissione per ciascun token è disponibile rispettivamente nelle pagine dei  [JEWEL Gardens](../the-gardens/giardini-jewel.md) e [Ice Gardens](../the-gardens/ice-gardens.md).
-
-Inoltre, ogni token può essere messo in staking dal Jeweler per token di governance ed utilizzato per esprimere voti su decisioni importanti quando vengono convocati tali voti. Maggiori informazioni sui voti di governance possono essere trovate sulla pagina del [Jeweler](../il-jeweler.md).
+Informazioni specifiche su ciascun token possono essere trovate sulle pagine [JEWEL Token](jewel-token.md), [CRYSTAL Token](crystal-token.md) e [JADE token](jade-token.md), e l' emissione per ciascun token è disponibile rispettivamente nelle pagine dei [Giardini CRYSTAL](../the-gardens/ice-gardens.md) e [Giardini JADE](../the-gardens/giardini-jade.md).

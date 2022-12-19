@@ -17,7 +17,7 @@ I giocatori ricevono tokens cJEWEL o sJEWEL **bloccando i loro JEWEL** nel Jewel
 
 I token cJEWEL/sJEWEL sono **legati all'anima del portafoglio che li genera (soulbound)** e non possono essere trasferiti o scambiati. I giocatori possono tenere i loro cJEWEL/sJEWEL dopo la scadenza del periodo di blocco e continuare a ricevere ricompense e potere di governance.
 
-## Benefici del detenere cJEWEL
+## Benefici del detenere
 
 I quattro principali vantaggi del detenere cJEWEL sono: governance, distribuzione delle commissioni, miglioramenti in-game e accesso a funzionalità premium (Power-Up), e blocco dei token.
 
@@ -37,7 +37,7 @@ I giocatori possono bloccare i propri JEWEL nello smart contract del Jeweler per
 
 ****![](<../.gitbook/assets/image (10).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
 
-![](<../.gitbook/assets/image (11).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
+![](<../.gitbook/assets/image (11) (1).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
 
 **Resoconto:**
 
@@ -105,7 +105,7 @@ I premi Power-Up possono includere bonus all'esperienza dell'Eroe, commissioni d
 ### Contract Addresses
 
 * cJEWEL (DFK Chain): [`0x9ed2c155632C042CB8bC20634571fF1CA26f5742`](https://subnets.avax.network/defi-kingdoms/address/0x9ed2c155632C042CB8bC20634571fF1CA26f5742)
-* sJEWEL (Klaytn): Coming Soon
+* sJEWEL (Klaytn): [`0xaA8548665bCC12C202d5d0C700093123F2463EA6`](https://scope.klaytn.com/token/0xaa8548665bcc12c202d5d0c700093123f2463ea6)
 
 
 

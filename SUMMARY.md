@@ -1,14 +1,14 @@
 # Table of contents
 
 * [Defi Kingdoms](README.md)
-* [Regni](regni/README.md)
-  * [Serendale 1.0](regni/serendale-1.0.md)
-  * [Crystalvale](regni/crystalvale.md)
-  * [Serendale 2.0](regni/serendale-2.0.md)
 
 ## COME FUNZIONA DEFI KINGDOMS
 
-* [I Token del potere](come-funziona-defi-kingdoms/i-token-del-potere/README.md)
+* [Regni](come-funziona-defi-kingdoms/regni/README.md)
+  * [Serendale 1.0](come-funziona-defi-kingdoms/regni/serendale-1.0.md)
+  * [Crystalvale](come-funziona-defi-kingdoms/regni/crystalvale.md)
+  * [Serendale 2.0](come-funziona-defi-kingdoms/regni/serendale-2.0.md)
+* [Ecosistema & Power Tokens](come-funziona-defi-kingdoms/i-token-del-potere/README.md)
   * [JEWEL Token](come-funziona-defi-kingdoms/i-token-del-potere/jewel-token.md)
   * [CRYSTAL Token](come-funziona-defi-kingdoms/i-token-del-potere/crystal-token.md)
   * [JADE Token](come-funziona-defi-kingdoms/i-token-del-potere/jade-token.md)
@@ -17,6 +17,7 @@
 * [I Giardini](come-funziona-defi-kingdoms/the-gardens/README.md)
   * [Giardini JEWEL](come-funziona-defi-kingdoms/the-gardens/giardini-jewel.md)
   * [Giardini CRYSTAL](come-funziona-defi-kingdoms/the-gardens/ice-gardens.md)
+  * [Giardini JADE](come-funziona-defi-kingdoms/the-gardens/giardini-jade.md)
 * [Gli Eroi](come-funziona-defi-kingdoms/the-heroes.md)
 * [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain.md)
 
@@ -64,7 +65,7 @@
 * [Pets](learn/gameplay/heroes/pets.md)
 * [Eventi](gameplay/eventi/README.md)
   * [The Perilous Journey](learn/the-perilous-journey.md)
-  * [Vithraven's Reawakening](learn/vithravens-reawakening.md)
+  * [Adelyn's Reawakening](gameplay/eventi/adelyns-reawakening.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 
