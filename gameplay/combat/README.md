@@ -1,6 +1,6 @@
 ---
 description: Dettagli sul Sistema di Combattimento degli Eroi in DeFi Kingdoms
-cover: ../.gitbook/assets/archer_volley.gif
+cover: ../../.gitbook/assets/archer_volley.gif
 coverY: 0
 ---
 

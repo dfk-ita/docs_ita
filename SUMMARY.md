@@ -63,7 +63,8 @@
 * [Eventi](gameplay/eventi/README.md)
   * [The Perilous Journey](learn/the-perilous-journey.md)
   * [Adelyn's Reawakening](learn/vithravens-reawakening.md)
-* [Combat](gameplay/combat.md)
+* [Combat](gameplay/combat/README.md)
+  * [Arciere](gameplay/combat/arciere.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 
