@@ -1,10 +1,15 @@
+---
+cover: ../.gitbook/assets/DFK Chain Announcement Twitter.png
+coverY: 0
+---
+
 # DeFi Kingdoms Blockchain
 
-Con l'espansione DeFi Kingdoms: Crystalvale, DeFi Kingdoms ha introdotto la propria blockchain, che gestisce le transazioni di gioco in Crystalvale e ospita il Crystalvale DEX. La Blockchain di DeFi Kingdoms, o DFK Chain, è stata realizzata in collaborazione con Avalanche utilizzando la loro tecnologia di sottorete.
+Con l'espansione DeFi Kingdoms: Crystalvale, DeFi Kingdoms ha introdotto la propria blockchain, che gestisce le transazioni di gioco in Crystalvale e ospita il Crystalvale DEX. La Blockchain di DeFi Kingdoms, o **DFK Chain**, è stata realizzata in collaborazione con Avalanche utilizzando la loro [tecnologia di sottorete](https://docs.avax.network/subnets).
 
 ### I Vantaggi della DFK Chain
 
-DFK Chain utilizza JEWEL per il gas. Ciò aggiunge ulteriore utilità ai tokens JEWEL e semplifica la vita dei giocatori in modo che non debbano tenere un secondo token solo da utilizzare per le commissioni del gas.
+DFK Chain utilizza [JEWEL](i-token-del-potere/jewel-token.md) per il gas. Ciò aggiunge ulteriore utilità ai tokens JEWEL e semplifica la vita dei giocatori in modo che non debbano tenere un secondo token solo da utilizzare per le commissioni del gas.
 
 Usare JEWEL per il gas significa che possiamo controllare meglio i prezzi delle transazioni. Questo meccanismo ci consentirà di garantire una maggiore stabilità nella rete e mantenere le tariffe più basse possibili per i nostri utenti.
 
@@ -16,7 +21,7 @@ Le gas fees sono riscosse da uno smart contract e quindi distribuite come segue:
 
 * Il 25% viene dato ai portafogli designati dei validatori. Questo ci consente di attrarre più validatori e decentralizzare ulteriormente la chain.
 * Il 50% viene bruciato. Ciò aumenterà continuamente il valore di JEWEL implementando una meccanica di combustione coerente e sgonfiando la fornitura.
-* Il 25% verrà inviato al Quest Fund per premiare la nostra Community ed i giocatori.
+* Il 25% verrà inviato al [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) per premiare la nostra Community ed i giocatori.
 
 ### JEWEL Bridgiati e Gas
 
@@ -26,10 +31,12 @@ Le gas fees sono riscosse da uno smart contract e quindi distribuite come segue:
 
 La DFK Chain è costruita sulla piattaforma di sottorete di Avalanche. Maggiori informazioni sulle sottoreti Avalanche sono disponibili sul loro [sito web](https://docs.avax.network/subnets).
 
+Ulteriori informazioni tecniche specifiche sulla DFK Chain possono essere trovate nei documenti per gli sviluppatori di DeFi Kingdoms all'indirizzo: [https://devs.defikingdoms.com/dfk-chain](https://devs.defikingdoms.com/dfk-chain/getting-started).
+
 ### DFK Chain RPC Information
 
 Visita [Chainlist](https://chainlist.org/?search=dfk) per informazioni sugli RPC disponibili. Chainlist configurerà automaticamente questi RPC per te, se lo desideri.
 
 ### DFK Validator Fees
 
-Le commissioni del validatore ricevute dal validatore di proprietà di DFK utilizzato sulla DFK Chain verranno depositate nel seguente indirizzo di portafoglio: `0xED6dC9FD092190C08e4afF8611496774Ded19D54`
+Le commissioni del validatore ricevute dal validatore di proprietà di DFK utilizzato sulla DFK Chain verranno depositate nel seguente indirizzo di portafoglio: [`0xED6dC9FD092190C08e4afF8611496774Ded19D54`](https://subnets.avax.network/defi-kingdoms/address/0xED6dC9FD092190C08e4afF8611496774Ded19D54)``

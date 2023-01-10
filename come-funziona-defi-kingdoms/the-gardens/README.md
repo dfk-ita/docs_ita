@@ -18,6 +18,15 @@ Le epoche si basano sui timestamp e durano esattamente una settimana.
 
 La quantità totale di ogni Power Token emesso al minuto può essere determinata dall'Epoca, ma quei tokens devono andare da qualche parte! A ogni singolo Giardino (che rappresenta una specifica coppia di LP incentivati) viene assegnata una quota del totale dei tokens coniati. L'assegnazione per ogni pool incentivata può essere visualizzata nella Seed Box di ogni Regno. In base all'Epoca corrente, al suo tasso di emissione e all'allocazione per una specifica pool, i giocatori possono determinare quanti tokens saranno emessi in quella pool ogni secondo, minuto o giorno. Da qui, la pool divide i tokens tra tutti i giocatori che hanno depositato tokens LP in quella pool in proporzione alla loro quota totale di quella pool e li distribuisce come ricompensa. Quando si effettuano questi calcoli, è indispensabile ricordare che i giocatori possono entrare o uscire liberamente dalle pool di liquidità, per cui la quota di ciascun giocatore è costantemente in movimento, in quanto la liquidità viene aggiunta o rimossa.
 
+#### Allocationi del Progetto
+
+Per finanziare il progetto e sostenere le ricompense per i giocatori, e per evitare di trasferire costi aggiuntivi, ogni volta che un giocatore reclama le proprie ricompense nei Giardini, il contratto MasterGardener conia una percentuale aggiuntiva (dettagliata nelle informazioni sull'allocazione di ciascun token) del token richiesto ai portafogli del progetto, compreso il Jeweler. Queste allocazioni non escono dalle emissioni del Giardino per ogni epoca, come specificato nella pagina dei Giardini di ogni regno, ma contano per la fornitura totale del token. Questi fondi sono soggetti a tassi di blocco separati, come segue:
+
+* Development Fund, Marketing Fund, Jeweler - 45% locked
+* Founders Fund - 95% locked
+
+Questi tassi di blocco consentono la stabilità e lo sviluppo del progetto nel tempo, continuando a incentivarne la crescita ed il successo a lungo termine. Inoltre, forniscono ricompense garantite per un lungo periodo di tempo ai giocatori che [depositano sul Jeweler](../il-jeweler.md) in ogni regno.
+
 ### Modello di Locking ( Blocco )
 
 Per bilanciare gli elevati tassi di emissioni nelle epoche precedenti e per fornire stabilità dei prezzi, la nostra tokenomic include un modello di blocco sui premi dei Gardens. Fino a un certo punto in ogni programma di emissione, viene sbloccata solo una parte dei gettoni farmati, raccolti e distribuiti come ricompense dei giardini agli staker di tokens LP. Una volta richiesti, questi tokens premio sbloccati vengono trasferiti direttamente nel portafoglio del giocatore e sono immediatamente utilizzabili. Tuttavia, anche una parte delle ricompense dei Gardens è bloccata. Questi premi vengono assegnati al portafoglio del giocatore, ma non è possibile accedervi o utilizzarli in alcun modo fino a quando non vengono sbloccati.

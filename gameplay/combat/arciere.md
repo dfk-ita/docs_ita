@@ -4,6 +4,8 @@ description: Combat Skills della Classe Archer
 
 # Arciere
 
+<figure><img src="../../.gitbook/assets/spaces_-MfUam-1n-JpNfAIQQey_uploads_PQIZgeySKRlwHjz3JgwD_archers3.webp" alt=""><figcaption></figcaption></figure>
+
 Questa pagina contiene informazioni dettagliate sulle abilità di combattimento della classe Arciere che verranno utilizzate negli ambienti di combattimento Giocatore-vs-Giocatore (PVP) e Giocatore-vs-Ambiente (PVE).
 
 {% hint style="warning" %}

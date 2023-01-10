@@ -4,11 +4,24 @@
 
 ### CRYSTAL Hard Cap (Supply massima)
 
+CRYSTAL ha un tetto massimo di **250,000,000** token.
+
 {% hint style="info" %}
 Il supply massimo di CRYSTAL è stato aumentato di 125 milioni nell'ambito dell'[aggiornamento della tokenomic del progetto](https://defikingdomsitalia.medium.com/serendale-2-0-a3787cbeb04a). Gli ulteriori 125 milioni di CRYSTAL sono stati convertiti da Locked JEWEL in Locked CRYSTAL.
 {% endhint %}
 
-CRYSTAL ha un tetto massimo di **250,000,000** token.
+### Allocazione dei Tokens
+
+CRYSTAL ha le seguenti allocazioni:
+
+* **3,000,000 CRYSTAL** - Il Pre-mint è descritto sotto.
+* **125,000,000 CRYSTAL** - Bloccati e consegnato ai possessori di Locked JEWEL su Harmony, si sbloccherà in modo lineare nel corso di un anno, a partire dal 22 Marzo 2023 circa.
+* **\~101,666,667 CRYSTAL** - Emessi dai Giardini per ricompensare i fornitori di liquidità e bloccati/sbloccati in base al [programma di emissione](../the-gardens/ice-gardens.md#programma-di-emissione).
+* **20.333.333 CRYSTAL** - Emessi dai Giardini per finanziare il progetto e ricompensare i giocatori. Queste emissioni non vengono conteggiate con quelle descritte nei [Giardini CRYSTAL](../the-gardens/ice-gardens.md) e sono soggette a [tassi di blocco](../the-gardens/#modello-di-locking-blocco) separati. Queste assegnazioni sono suddivise come segue:
+  * 3.355m unlocked CRYSTAL / 2.745m locked CRYSTAL - Development Fund Multisig
+  * 3.355m unlocked CRYSTAL / 2.745m locked CRYSTAL - Marketing Fund Multisig
+  * \~0.21m unlocked CRYSTAL / \~3.86m locked CRYSTAL - Founders Fund Multisig
+  * \~2.24m unlocked CRYSTAL / 1.83m locked CRYSTAL - Jeweler (to reward xCRYSTAL/cJEWEL stakers)
 
 ### Pre-minting (pre-conio)
 
@@ -26,9 +39,9 @@ Puoi vedere gli indirizzi di questi fondi qui:
 L'originale [CRYSTAL Quest Fund Multisig](https://subnets.avax.network/defi-kingdoms/address/0x64a3dc745806d9d6e88ea5555F8fdA65B147A31D) è stato gradualmente eliminato e sostituito con un nuovo smart contract [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).
 {% endhint %}
 
-* **CRYSTAL Development Fund Multisig:**[`0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD`](https://subnets.avax.network/defi-kingdoms/address/0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD)  **** &#x20;
-* **CRYSTAL Marketing Fund Multisig:** [`0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9`](https://subnets.avax.network/defi-kingdoms/address/0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9)****
-* **CRYSTAL Founders Fund Multisig:** [`0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8`](https://subnets.avax.network/defi-kingdoms/address/0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8)****
+* **Development Fund Multisig:**[`0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD`](https://subnets.avax.network/defi-kingdoms/address/0x33Bb4C3393082245Ea993Bf808b66F90F63dDBBD)  **** &#x20;
+* **Marketing Fund Multisig:** [`0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9`](https://subnets.avax.network/defi-kingdoms/address/0x249CACA3b06c507aA55A56a9E6D3D3f6F3EBadb9)****
+* **Founders Fund Multisig:** [`0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8`](https://subnets.avax.network/defi-kingdoms/address/0x4f28c8C3c81fB2aE79d09595EDf2C194a0f309B8)****
 * **Bridge Supply Fund:** [`0x0B608dE616aeC05df2da2BA3179f48e318060E2c`](https://subnets.avax.network/defi-kingdoms/address/0x0B608dE616aeC05df2da2BA3179f48e318060E2c)&#x20;
 
 I token di Liquidità Iniziale LP sono detenuti nel Marketing Fund Multisig.
