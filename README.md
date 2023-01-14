@@ -1,5 +1,5 @@
 ---
-description: 'Data dell''ultimo aggiornamento: 10 Gennaio'
+description: 'Data dell''ultimo aggiornamento: 10 Gennaio 2024'
 cover: .gitbook/assets/banner-discord.png
 coverY: 0
 ---
