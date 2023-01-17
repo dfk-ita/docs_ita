@@ -1,12 +1,12 @@
 ---
-description: Combat Skills della Classe Knight
+description: Combat Skills della Classe Cavaliere
 ---
 
-# Cavaliere
+# Knight
 
 <figure><img src="../../.gitbook/assets/spaces_-MfUam-1n-JpNfAIQQey_uploads_DQPVjiMdWocMtp8PM149_knights2.webp" alt=""><figcaption></figcaption></figure>
 
-Questa pagina contiene informazioni dettagliate sulle abilità di combattimento della classe Arciere che verranno utilizzate negli ambienti di combattimento Giocatore-vs-Giocatore (PVP) e Giocatore-vs-Ambiente (PVE).
+Questa pagina contiene informazioni dettagliate sulle abilità di combattimento della classe Cavaliere che verranno utilizzate negli ambienti di combattimento Giocatore-vs-Giocatore (PVP) e Giocatore-vs-Ambiente (PVE).
 
 {% hint style="warning" %}
 Tutte le informazioni contenute in questa pagina sono considerate "Pre-Alpha" e preliminari, e sono pertanto soggette a modifiche.

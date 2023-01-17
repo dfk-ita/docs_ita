@@ -64,8 +64,9 @@
   * [The Perilous Journey](learn/the-perilous-journey.md)
   * [Adelyn's Reawakening](learn/vithravens-reawakening.md)
 * [Combat](gameplay/combat.md)
-  * [Arciere](gameplay/combat/arciere.md)
-  * [Cavaliere](gameplay/combat/cavaliere.md)
+  * [Archer](gameplay/combat/archer.md)
+  * [Knight](gameplay/combat/knight.md)
+  * [Priest](gameplay/combat/priest.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 

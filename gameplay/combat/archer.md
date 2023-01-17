@@ -1,8 +1,8 @@
 ---
-description: Combat Skills della Classe Archer
+description: Combat Skills della Classe Arciere
 ---
 
-# Arciere
+# Archer
 
 <figure><img src="../../.gitbook/assets/spaces_-MfUam-1n-JpNfAIQQey_uploads_PQIZgeySKRlwHjz3JgwD_archers3.webp" alt=""><figcaption></figcaption></figure>
 
