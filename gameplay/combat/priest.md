@@ -11,7 +11,7 @@ Questa pagina contiene informazioni dettagliate sulle abilità di combattimento 
 {% hint style="warning" %}
 Tutte le informazioni contenute in questa pagina sono considerate "Pre-Alpha" e preliminari, e sono pertanto soggette a modifiche.
 
-Ultimo aggiornamento: 1/2/2023
+Ultimo aggiornamento: 16/1/2023
 {% endhint %}
 
 ## Descrizione della Classe
