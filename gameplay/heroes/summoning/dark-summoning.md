@@ -54,7 +54,7 @@ Gli Eroi evocati attraverso il Dark Summoning possono [salire immediatamente di 
 
 Le probabilità di rarità di base per gli Eroi evocati attraverso il Dark Summoning sono aumentate rispetto alle Evocazioni standard, come segue:
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Probabilità di rarità base per gli Eroi Evocati attraverso il Dark Suummoning</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>Probabilità di rarità base per gli Eroi Evocati attraverso il Dark Suummoning</p></figcaption></figure>
 
 #### Floor di Rarità
 

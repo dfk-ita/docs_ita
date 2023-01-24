@@ -4,7 +4,7 @@ DeFi Kingdoms è sempre stato concepito come un gioco **cross-chain** con **più
 
 ## Serendale 1.0 (Harmony)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 DeFi Kingdoms: Serendale è stato lanciato originariamente sulla chain Harmony il 22 Agosto 2021 come DEX con possibilità di farming in  LP. Gli Eroi e le Missioni sono arrivati poco dopo. Serendale su Harmony ha chiuso ufficialmente il 12 Ottobre 2022 ed è stato convertito in un Avamposto.
 
