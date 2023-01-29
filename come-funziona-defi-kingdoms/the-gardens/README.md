@@ -25,7 +25,7 @@ Per finanziare il progetto e sostenere le ricompense per i giocatori, e per evit
 * Development Fund, Marketing Fund, Jeweler - 45% locked
 * Founders Fund - 95% locked
 
-Questi tassi di blocco consentono la stabilità e lo sviluppo del progetto nel tempo, continuando a incentivarne la crescita ed il successo a lungo termine. Inoltre, forniscono ricompense garantite per un lungo periodo di tempo ai giocatori che [depositano sul Jeweler](../il-jeweler.md) in ogni regno.
+Questi tassi di blocco consentono la stabilità e lo sviluppo del progetto nel tempo, continuando a incentivarne la crescita ed il successo a lungo termine. Inoltre, forniscono ricompense garantite per un lungo periodo di tempo ai giocatori che [depositano sul Jeweler](../il-jeweler/) in ogni regno.
 
 ### Modello di Locking ( Blocco )
 

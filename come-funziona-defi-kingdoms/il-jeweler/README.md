@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Screen Shot 2022-11-04 at 9.09.48 AM.png
+cover: ../../.gitbook/assets/Screen Shot 2022-11-04 at 9.09.48 AM.png
 coverY: 0
 ---
 
@@ -7,10 +7,10 @@ coverY: 0
 
 ## Jeweler 2.0
 
-Il **Jeweler 2.0** adotta i vantaggi ottenuti dal modello di governance **veToken** sviluppato da [Curve](https://curve.fi/#/ethereum/swap) e li combina con un metodo per la distribuzione delle commissioni, i premi airdrop ed i potenziamenti in-game. **cJEWEL** è il nome del token di **governance** in Crystalvale e **sJEWEL** è l'equivalente di Serendale (entrambi funzionalmente sono uguali, anche se questi documenti utilizzeranno cJEWEL per comodità).
+Il **Jeweler 2.0** adotta i vantaggi ottenuti dal modello di governance **veToken** sviluppato da [Curve](https://curve.fi/#/ethereum/swap) e li combina con un metodo per la distribuzione delle commissioni, i premi airdrop ed i [Power-Ups](power-ups.md) in-game. **cJEWEL** è il nome del token di **governance** in Crystalvale e **sJEWEL** è l'equivalente di Serendale (entrambi funzionalmente sono uguali, anche se questi documenti utilizzeranno cJEWEL per comodità).
 
 {% hint style="info" %}
-Il modello Jeweler 2.0 è stato adottato con una [votazione governance della Community](https://vote.defikingdoms.com/#/proposal/0x8b74fefcfbd5b6751c190361577fd65ff79084b5250ed3265a14a16140d67fba) tenuta il 14/10/2022 ed è entrata in vigore il 4/11/2022. Ha sostituito il modello [Jeweler 1.0](il-jeweler.md#jeweler-1.0) che utilizzava xJEWEL e xCRYSTAL.
+Il modello Jeweler 2.0 è stato adottato con una [votazione governance della Community](https://vote.defikingdoms.com/#/proposal/0x8b74fefcfbd5b6751c190361577fd65ff79084b5250ed3265a14a16140d67fba) tenuta il 14/10/2022 ed è entrata in vigore il 4/11/2022. Ha sostituito il modello [Jeweler 1.0](./#jeweler-1.0) che utilizzava xJEWEL e xCRYSTAL.
 {% endhint %}
 
 I giocatori ricevono tokens cJEWEL o sJEWEL **bloccando i loro JEWEL** nel Jeweler del reame applicabile per un periodo di tempo a loro scelta. Questo meccanismo di blocco incoraggia lo staking nel protocollo e consente a coloro che desiderano supportare il progetto a lungo termine di avere più voce in capitolo e ricevere una quota maggiore dei premi. Scoraggia inoltre le terze parti dal voto di gioco e dagli snapshot acquistando grandi quantità di JEWEL subito prima, solo per venderli subito dopo.
@@ -19,25 +19,25 @@ I token cJEWEL/sJEWEL sono **legati all'anima del portafoglio che li genera (sou
 
 ## Benefici del detenere
 
-I quattro principali vantaggi del detenere cJEWEL sono: governance, distribuzione delle commissioni, miglioramenti in-game e accesso a funzionalità premium (Power-Up), e blocco dei token.
+I quattro principali vantaggi del detenere cJEWEL sono: governance, distribuzione delle commissioni, miglioramenti in-game e accesso a funzionalità premium [(Power-Up)](power-ups.md), e blocco dei token.
 
-* La [governance](il-jeweler.md#votazioni-governance) utilizzerà l'equilibrio cJEWEL/sJEWEL degli utenti per votare le proposte.
-* I premi arriveranno attraverso la [distribuzione delle commissioni](il-jeweler.md#benefici-del-detenere-cjewel), ma anche aidrops regolari possono essere implementati grazie alla natura timelock più sicura di cJEWEL/sJEWEL.
-* I [potenziamenti in-game (Power Ups)](il-jeweler.md#power-ups) consentiranno ai giocatori di allocare una certa quantità di cJEWEL/sJEWEL per ottenere l'accesso ai bonus, miglioramenti e funzionalità premium.
+* La [governance](./#votazioni-governance) utilizzerà l'equilibrio cJEWEL/sJEWEL degli utenti per votare le proposte.
+* I premi arriveranno attraverso la [distribuzione delle commissioni](./#benefici-del-detenere-cjewel), ma anche aidrops regolari possono essere implementati grazie alla natura timelock più sicura di cJEWEL/sJEWEL.
+* I [potenziamenti in-game (Power Ups)](./#power-ups) consentiranno ai giocatori di allocare una certa quantità di cJEWEL/sJEWEL per ottenere l'accesso ai bonus, miglioramenti e funzionalità premium.
 * A causa del fatto che cJEWEL e sJEWEL richiedono un certo periodo di blocco del token **JEWEL** per essere creati, il risultato atteso di questo sistema è una riduzione complessiva del supply liquido disponibile di JEWEL (a seconda del coinvolgimento dell'utente con il sistema).
 
 ## Meccanismo di Blocco
 
 I giocatori possono bloccare i propri JEWEL nello smart contract del Jeweler per un periodo di tempo compreso tra 7 giorni e 1095 giorni (3 anni). In cambio riceveranno un importo di cJEWEL/sJEWEL relativo alla quantità di token bloccati e alla durata del tempo di blocco scelto, secondo questa formula, dove MAX DAYS è pari a 1095 e daysLocked è un minimo di 7:
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-11-11 alle 17.59.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-11-11 alle 17.59.24.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Esempio:**
 
-****![](<../.gitbook/assets/image (10).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
+****![](<../../.gitbook/assets/image (10).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
 
-![](<../.gitbook/assets/image (11) (1).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
+![](<../../.gitbook/assets/image (11) (1).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
 
 **Resoconto:**
 
@@ -84,9 +84,9 @@ Gli Eroi NFT hanno un potere di voto di 10 cJEWEL/sJEWEL come risultato di una [
 
 ## Distribuzione delle Commissioni
 
-Una parte delle commissioni di transazione raccolte nel gioco viene inviata al Jeweler come ricompensa per i depositanti. Ciò include 1/6 delle commissioni raccolte dal DEX ed il [15% delle commissioni Power Token dalle transazioni in-game](i-token-del-potere/#transazioni-e-ricompense), incluse evocazioni di Eroi, incubazioni di Pets, vendita di Eroi, Pets e Lands, e livellaggio di Eroi.
+Una parte delle commissioni di transazione raccolte nel gioco viene inviata al Jeweler come ricompensa per i depositanti. Ciò include 1/6 delle commissioni raccolte dal DEX ed il [15% delle commissioni Power Token dalle transazioni in-game](../i-token-del-potere/#transazioni-e-ricompense), incluse evocazioni di Eroi, incubazioni di Pets, vendita di Eroi, Pets e Lands, e livellaggio di Eroi.
 
-Queste commissioni sono vendute per JEWEL e matureranno per il giocatore in base alla loro quota del totale di cJEWEL/sJEWEL in circolazione e saranno richiedibili in qualsiasi momento, in modo simile a come funzionano i [Gardens](the-gardens/). Poiché la quantità di tokens che entrano in questo montepremi oscilla in base al volume delle transazioni e poiché la quota di ogni giocatore oscilla con depositi e prelievi, il Jeweler non ha un APR fisso.
+Queste commissioni sono vendute per JEWEL e matureranno per il giocatore in base alla loro quota del totale di cJEWEL/sJEWEL in circolazione e saranno richiedibili in qualsiasi momento, in modo simile a come funzionano i [Gardens](../the-gardens/). Poiché la quantità di tokens che entrano in questo montepremi oscilla in base al volume delle transazioni e poiché la quota di ogni giocatore oscilla con depositi e prelievi, il Jeweler non ha un APR fisso.
 
 {% hint style="info" %}
 Poiché le commissioni maturano e vengono distribuite separatamente su ciascun reame, i premi cJEWEL e sJEWEL differiranno in base al volume delle transazioni in Crystalvale e Serendale. I giocatori dovrebbero scegliere con attenzione dove e per quanto tempo puntare i loro JEWEL.
@@ -96,9 +96,9 @@ La richiesta delle ricompense può essere effettuata manualmente in qualsiasi mo
 
 Per maggiori dettagli su come queste commissioni vengono ripartite tra i titolari di token, vedere [questo articolo](https://dev.to/heymarkkop/understanding-sushiswaps-masterchef-staking-rewards-1m6f).
 
-## Power Ups
+## Power-Ups
 
-I possessori di cJEWEL/sJEWEL potranno attivare **miglioramenti di gioco e ricompense** destinando una parte dei loro possedimenti all'attivazione. I Power Ups utilizzano il tuo "saldo di potenziamento disponibile", che è la quantità totale di cJEWEL che detieni meno i requisiti cJEWEL di ciascuno dei tuoi potenziamenti attivi. L'attivazione dei Power-Up non consuma cJEWEL o i JEWEL utilizzato per produrli. I potenziamenti possono essere disattivati ​​in qualsiasi momento, o automaticamente, se il saldo cJEWEL del giocatore scende al di sotto del minimo necessario per mantenerli attivi.
+I possessori di cJEWEL/sJEWEL potranno attivare **miglioramenti di gioco e ricompense** destinando una parte dei loro possedimenti all'attivazione. I [Power-Ups](power-ups.md) utilizzano il tuo "saldo di potenziamento disponibile", che è la quantità totale di cJEWEL che detieni meno i requisiti cJEWEL di ciascuno dei tuoi potenziamenti attivi. L'attivazione dei Power-Up non consuma cJEWEL o i JEWEL utilizzato per produrli. I potenziamenti possono essere disattivati ​​in qualsiasi momento, o automaticamente, se il saldo cJEWEL del giocatore scende al di sotto del minimo necessario per mantenerli attivi.
 
 I premi Power-Up possono includere bonus all'esperienza dell'Eroe, commissioni di gioco ridotte e accesso a funzionalità premium. Questi potenziamenti verranno implementati nel tempo dopo il rilascio di cJEWEL.
 

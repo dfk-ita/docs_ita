@@ -4,9 +4,9 @@
 
 Quando DeFi Kingdoms: Serendale è stato lanciato su Harmony, è stato insieme al token [JEWEL](jewel-token.md). A differenza di una criptovaluta media, JEWEL funge da token di valore principale in un gioco metaverso, conferendogli un'utilità superiore a quella di un normale token.
 
-Con le recenti modifiche alla tokenomic di DeFi Kingdoms, JEWEL è ora il Token dell'Ecosistema utilizzato in tutti i Regni. Oltre ad essere il token nativo del gas sulla [DFK Chain](../defi-kingdoms-blockchain.md), JEWEL può essere depositato presso il [Jeweler](../il-jeweler.md) per i Power-Up di gioco, le opportunità di distribuzione delle commissioni, la [condivisione della liquidità](../the-gardens/) ed i [diritti di governance](../il-jeweler.md#votazioni-governance).
+Con le recenti modifiche alla tokenomic di DeFi Kingdoms, JEWEL è ora il Token dell'Ecosistema utilizzato in tutti i Regni. Oltre ad essere il token nativo del gas sulla [DFK Chain](../defi-kingdoms-blockchain.md), JEWEL può essere depositato presso il [Jeweler](../il-jeweler/) per i Power-Up di gioco, le opportunità di distribuzione delle commissioni, la [condivisione della liquidità](../the-gardens/) ed i [diritti di governance](../il-jeweler/#votazioni-governance).
 
-I giocatori che [depositano in staking](../il-jeweler.md) tokens JEWEL ricevono cJEWEL e sJEWEL rispettivamente su Crystalvale e Serendale.
+I giocatori che [depositano in staking](../il-jeweler/) tokens JEWEL ricevono cJEWEL e sJEWEL rispettivamente su Crystalvale e Serendale.
 
 ### Power Tokens
 
@@ -23,7 +23,7 @@ Queste percentuali sono state modificate l'ultima volta il 4/11/2022, aumentando
 {% endhint %}
 
 * 5% - Bruciati
-* 15% - [Ricompense Jeweler](../il-jeweler.md#jeweler-2.0) (cJEWEL / sJEWEL)
+* 15% - [Ricompense Jeweler](../il-jeweler/#jeweler-2.0) (cJEWEL / sJEWEL)
 * 30% - Fondo Ricompense Quest ([DFK Chain](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316) / [Klaytn](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049))
 * 50% - Fondi per lo Sviluppo
 
