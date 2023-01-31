@@ -69,6 +69,7 @@
   * [Knight](gameplay/combat/knight.md)
   * [Priest](gameplay/combat/priest.md)
   * [Warrior](gameplay/combat/warrior.md)
+  * [Seer](gameplay/combat/seer.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 
