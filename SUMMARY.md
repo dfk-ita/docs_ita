@@ -70,6 +70,7 @@
   * [Priest](gameplay/combat/priest.md)
   * [Warrior](gameplay/combat/warrior.md)
   * [Seer](gameplay/combat/seer.md)
+  * [Pirate](gameplay/combat/pirate.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 
