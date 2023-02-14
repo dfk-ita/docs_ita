@@ -26,7 +26,7 @@ Tre archetipi guidano la fantasia di classe dell’Arciere, tutti in grado di te
 
 Per padroneggiare la classe Arciere sono necessarie abilità e astuzia, sia che si preferisca colpire rapidamente sia che si aspetti l’occasione perfetta.
 
-## Abilità di Combattimento
+## Abilità da Combattimento
 
 | SKILL POINTS | RAGGIO DI AZIONE | MANA        | TIPO DI DANNO | TIPO DI COMBO           | ABILITA’          | DESCRIZIONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | ------------ | ---------------- | ----------- | ------------- | ----------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -16,6 +16,6 @@ DeFi Kingdoms: Crystalvale è stato lanciato il 30 Marzo 2022. È la prima espan
 
 ## Serendale 2.0 (Klaytn)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 DeFi Kingdoms: Serendale è stato rilanciato sulla blockchain Klaytn il 7 Dicembre 2022, utilizzando il nuovo Power Token, JADE, e portando classi di Eroi aggiuntive ed un sapore aggiornato per adattarsi alla sua nuova casa.

@@ -30,7 +30,7 @@ Infine, il percorso della **Sete di Sangue (Bloodthirst)** conferisce al Guerrie
 
 Attenzione, perché il cammino del Guerriero non è facile. Richiede determinazione e coraggio incrollabili, anche quando si affrontano i nemici più letali. Ma per coloro che sono disposti ad affrontare queste sfide a testa alta, la ricompensa è grande.
 
-## Abilità di Combattimento
+## Abilità da Combattimento
 
 | SKILL POINTS | RAGGIO DI AZIONE | TIPO DI COMBO                | ABILITA’           | DoD\* | DURATA  | DESCRIZIONE                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | ------------ | ---------------- | ---------------------------- | ------------------ | ----- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

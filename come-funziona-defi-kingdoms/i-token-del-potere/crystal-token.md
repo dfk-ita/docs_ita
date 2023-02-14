@@ -2,7 +2,7 @@
 
 ![CRYSTAL](<../../.gitbook/assets/image (2) (2).png>)
 
-### CRYSTAL Hard Cap (Supply massima)
+### Supply massima
 
 CRYSTAL ha un tetto massimo di **250,000,000** token.
 
@@ -27,7 +27,7 @@ CRYSTAL ha le seguenti allocazioni:
 
 Un pre-mint di **3.000.000** di CRYSTAL è stato effettuato prima del lancio di Crystalvale. Questi token sono stati utilizzati in parte per la liquidità iniziale ed il resto per finanziare una varietà di premi per i giocatori.
 
-### Portafoglio Tesoreria Multi-sig
+### Tesoreria Multi-sig DFK Chain
 
 **I nostri fondi sono protetti in un portafoglio multi-sig.** Questi portafogli saranno controllati da 5 membri del progetto, che potrebbero cambiare di volta in volta. Qualsiasi transazione richiederà 3 firme su 5 per essere eseguita. Questo aiuta a proteggersi dagli hack che prenderebbero di mira i tesori, assicurando che non ci sia un singolo punto di errore. Inoltre, questo protegge dal fatto che qualsiasi membro del Team abbia il potere di apportare modifiche da solo, senza che il resto del Team ne sia a conoscenza e ne sia d'accordo. Offre inoltre una trasparenza del 100%, poiché chiunque può visualizzare tutte le transazioni proposte prima che vengano eseguite, nonché una cronologia di ogni transazione passata eseguita, inclusi i portafogli in esecuzione.
 

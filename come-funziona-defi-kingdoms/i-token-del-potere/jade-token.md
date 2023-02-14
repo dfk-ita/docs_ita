@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Jade</p></figcaption></figure>
 
-### JADE Hard Cap (Supply Massima)
+### Supply Massima
 
 CRYSTAL ha un tetto massimo di **250,000,000** token.
 
@@ -35,7 +35,7 @@ Una piccola quantità di JADE è stata pre-coniata prima del lancio e distribuit
 
 Oltre al pre-mint di 37.500 JADE, altri 300.000 JADE (provenienti dalla distribuzione di JADE liquidi al Dev Fund) più l'equivalente di JEWEL dai fondi del progetto saranno destinati alla liquidità iniziale per la coppia di liquidità JADE-JEWEL. **I tokens LP creati dal progetto saranno conservati nei portafogli del progetto e non saranno mai collocati nei Giardini.**
 
-### **Multisig Wallet Treasury**
+### **Tesoreria Multi-sig Klaytn**
 
 I fondi per lo sviluppo su Klaytn sono conservati in un **unico portafoglio multisig** che richiede 3 firme su 4 per l'esecuzione di qualsiasi transazione. [Una parte delle commissioni delle transazioni di gioco viene inviata a questo indirizzo](./#transazioni-e-distribuzione-delle-commissioni). Altri multisig sono utilizzati per altri scopi, come la custodia dei tokens LP.
 

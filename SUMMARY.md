@@ -71,6 +71,7 @@
   * [Warrior](gameplay/combat/warrior.md)
   * [Seer](gameplay/combat/seer.md)
   * [Pirate](gameplay/combat/pirate.md)
+  * [Berserker](gameplay/combat/berserker.md)
 * [Trama](learn/lore.md)
 * [FAQ](learn/faq.md)
 

@@ -30,7 +30,7 @@ Infine, il sentiero della **Benedizione** permette al Prete di purificare e conf
 
 La vita è un dono sacro e ogni membro del party rischia tutto per sconfiggere il proprio nemico. Un Prete è un faro di speranza nelle battaglie più oscure e i suoi poteri sono una testimonianza della forza del divino. Con un Prete tra le proprie fila, la strada verso la vittoria è molto più sicura. Fatevi coraggio, un Prete non va mai sottovalutato in quanto porta sempre con sé la purificazione.
 
-## Abilità di Combattimento
+## Abilità da Combattimento
 
 | SKILL POINTS | RAGGIO DI AZIONE | MANA        | TIPO DI DANNO | TIPO DI COMBO          | ABILITA’                | DESCRIZIONE                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | ------------ | ---------------- | ----------- | ------------- | ---------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,25 +1,14 @@
 # Giardini JEWEL
 
 {% hint style="danger" %}
-In conformità con la [tokenomic aggiornata](https://medium.com/@defikingdomsitalia/serendale-2-0-a3787cbeb04a) adottata dal [voto governance della Community il 9/1/2022](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6), **le emissioni di JEWEL su Harmony sono terminate, ed i Locked JEWEL non si sbloccheranno secondo il programma originale.**
+In conformità con il [voto governance della Community](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6) adottato il 9/1/2022, **le emissioni JEWEL su Harmony sono terminate ed i JEWEL bloccati non si sbloccheranno mai.**\
+****
 
-
-
-I Locked JEWEL esistenti verranno automaticamente ridistribuiti come CRYSTAL, JADE e JEWEL su Crystalvale e Serendale 2.0. Questo airdrop è avvenuto in concomitanza con il lancio di Serendale 2.0. I tokens acquisiti si sbloccheranno retroattivamente all'inizio del programma originale di sblocco dei Locked JEWEL, il 24 Settembre 2022. ([Harmony Block #31,772,767](https://explorer.harmony.one/block/31772767)).
-
-<img src="../../.gitbook/assets/image (9).png" alt="" data-size="original">
-
-Le percentuali finali di questa ridistribuzione sono le seguenti:
-
-* **Locked CRYSTAL**: 44.07342236579% (DFK Chain)
-* **Locked JADE**: 44.07342236579% (Klaytn)
-* **Vested JADE**: 5.806824466532% (Klaytn)
-* **Vested JEWEL**: 4.283393907257% (DFK Chain)
-* **Liquid JADE**: 1.762936894631% (Klaytn)
+Per maggiori dettagli su queste modifiche, leggere la [tokenomic aggiornata](../i-token-del-potere/jewel-token.md#tokenomic-aggiornata) del progetto.
 {% endhint %}
 
 {% hint style="info" %}
-A causa di quanto sopra, le informazioni di seguito sull'originale Serendale JEWEL Gardens non sono più applicabili, ma sono state lasciate qui come riferimento.
+Per quanto sopra, le informazioni riportate di seguito sui Giardini JEWEL su Serendale non sono più applicabili, ma sono state lasciate qui come riferimento.
 {% endhint %}
 
 ### **Programma di emissione**

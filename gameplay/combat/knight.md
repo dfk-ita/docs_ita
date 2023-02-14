@@ -28,7 +28,7 @@ Tre sentieri portano uno scudiero al cavalierato: il sentiero dell’**Onore**, 
 
 Sul campo di battaglia, il Cavaliere è una forza formidabile, che ispira i suoi alleati a combattere al suo fianco con coraggio e determinazione. Rispettato e ammirato da tutti coloro che lo conoscono, il suo nome è sinonimo di onore e dovere, nessuno più di Sir Robby Footly, il più cavaliere dei cavalieri.
 
-## Abilità di Combattimento
+## Abilità da Combattimento
 
 | SKILL POINTS | RAGGIO DI AZIONE | MANA        | TIPO DI DANNO | TIPO DI COMBO   | ABILITA’             | DESCRIZIONE                                                                                                                                                                                                                                                                                                                                                      |
 | ------------ | ---------------- | ----------- | ------------- | --------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
