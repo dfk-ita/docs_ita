@@ -4,8 +4,6 @@ description: Combat Skills della Classe Stregone
 
 # Wizard
 
-<figure><img src="../../.gitbook/assets/wiz.png" alt=""><figcaption></figcaption></figure>
-
 Questa pagina contiene informazioni dettagliate sulle abilità di combattimento della classe Stregone che verranno utilizzate negli ambienti di combattimento Giocatore-vs-Giocatore (PVP) e Giocatore-vs-Ambiente (PVE).
 
 {% hint style="warning" %}
@@ -72,9 +70,7 @@ Gli Stregoni sono maestri della conoscenza arcana e detentori di un grande poter
 
 ### Discussione <a href="#97f2" id="97f2"></a>
 
-{% embed url="https://0xworkhorse.substack.com/p/wizards-arcane-power-unlock-burn" %}
-Presto in italiano!
-{% endembed %}
+{% embed url="https://defikingdomsitalia.medium.com/wizards-potere-arcano-ap-sblocchi-ustione-burn-e-congelamento-chill-42221b52f3b7" %}
 
 ### Note <a href="#97f2" id="97f2"></a>
 
