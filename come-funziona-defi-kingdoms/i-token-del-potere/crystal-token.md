@@ -1,6 +1,6 @@
 # CRYSTAL Token
 
-![CRYSTAL](<../../.gitbook/assets/image (2) (2) (1).png>)
+![CRYSTAL](<../../.gitbook/assets/image (2) (2).png>)
 
 ### Supply massima
 
