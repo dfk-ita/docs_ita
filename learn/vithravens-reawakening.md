@@ -42,7 +42,7 @@ Solo una di queste azioni può essere selezionata per ogni Eroe Gen0. I seguenti
 * Geni dominanti e recessivi dell'accessorio posteriore
 *   Geni dominanti e recessivi del colore dell'accessorio posteriore
 
-    <figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Le possibilità genetiche estetiche</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Le possibilità genetiche estetiche</p></figcaption></figure>
 
 ### Ricompense
 

@@ -1,6 +1,6 @@
 # JADE Token
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Jade</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Jade</p></figcaption></figure>
 
 ### Supply Massima
 
