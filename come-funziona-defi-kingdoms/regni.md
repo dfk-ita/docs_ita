@@ -10,7 +10,7 @@ DeFi Kingdoms: Serendale è stato lanciato originariamente sulla chain Harmony i
 
 ## Crystalvale (DFK Chain)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 DeFi Kingdoms: Crystalvale è stato lanciato il 30 Marzo 2022. È la prima espansione di DeFi Kingdoms e vive su [DFK Chain](defi-kingdoms-blockchain.md), una subnet di Avalanche. Crystalvale ha introdotto il nuovo Power Token, [CRYSTAL](i-token-del-potere/crystal-token.md), insieme a nuove classi di Eroi ed un mondo nuovo da esplorare.
 

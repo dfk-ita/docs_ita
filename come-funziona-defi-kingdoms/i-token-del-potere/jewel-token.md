@@ -1,6 +1,6 @@
 # JEWEL Token
 
-![JEWEL](<../../.gitbook/assets/image (5) (1).png>)
+![JEWEL](<../../.gitbook/assets/image (5) (1) (2).png>)
 
 ## Tokenomic Aggiornata
 
@@ -22,7 +22,7 @@ Per tenere conto della riduzione del supply massimo e dell'esistente JEWEL blocc
 
 Al 12/8/2022, tutte queste distribuzioni, tranne quella di Locked CRYSTAL, sono state effettuate.
 
-<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 Le percentuali finali della ridistribuzione dei JEWEL bloccati erano le seguenti:
 

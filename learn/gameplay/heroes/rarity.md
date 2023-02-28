@@ -29,7 +29,7 @@ Per informazioni complete sull'Evocazione, visita la pagina principale dell'argo
 Ogni qualvolta che l’Eroe cresce di 5 livelli, riceve dei bonus aggiuntivi alle statistiche in base alla sua **Rarità**:
 
 \
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)      **Common:** purtroppo non guadagnano bonus particolare
+![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)      **Common:** purtroppo non guadagnano bonus particolare
 
 ![](<../../../.gitbook/assets/image (2) (1) (1) (1) (1).png>)     **Uncommon:** **+1** a due stats diverse\
 **(tot stats +2)**
@@ -40,7 +40,7 @@ Ogni qualvolta che l’Eroe cresce di 5 livelli, riceve dei bonus aggiuntivi all
 ****![](<../../../.gitbook/assets/image (4) (1).png>)     **Legendary: +1** a tre stats diverse, +1 a due stats qualsiasi, +2 ad una stat qualsiasi\
 **(tot stats +7)**
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)     **Mythic:** **+2** a tre stats diverse, +1 a tre stats qualsiasi e diverse, +1 ad una stat qualsiasi **** \
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png>)     **Mythic:** **+2** a tre stats diverse, +1 a tre stats qualsiasi e diverse, +1 ad una stat qualsiasi **** \
 **(tot stats +10)**
 
 ## Shiny - Brillante

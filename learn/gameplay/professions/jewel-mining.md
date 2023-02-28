@@ -1,49 +1,76 @@
 ---
-description: Informazioni riguardanti le JEWEL Mining Quests di livello 0
+description: Informazioni riguardanti le missioni di Token Mining
 ---
 
-# JEWEL Mining
+# Token Mining
 
-**Le seguenti informazioni sono corrette per la versione della Quest rilasciata sul sito** [**Beta**](https://beta.defikingdoms.com/#/)**. Qualsiasi informazione contenuta in questo documento è soggetta a modifiche.**
+Le missioni di Token Mining possono essere svolte da un massimo di sei Eroi alla volta in ogni regno. Queste missioni sbloccano [Power Tokens](../../../come-funziona-defi-kingdoms/i-token-del-potere/#power-tokens) dal saldo bloccato e possono assegnare altri oggetti rari.
 
-**le missioni JEWEL Mining** possono essere eseguite da un gruppo di un numero compreso tra 1 e 6 Eroi alla volta. Gli Eroi possono essere messi in coda per iniziare la Quest non appena la Stamina degli Eroi attualmente in missione viene consumata totalmente; tuttavia, il gruppo di Eroi interromperà la Quest non appena la Stamina di un Eroe raggiungerà lo zero. Inoltre, una volta che un gruppo di qualsiasi dimensione entra nella miniera, non è possibile aggiungere ulteriori minatori al gruppo. Quegli Eroi verranno messi in coda e non inizieranno la loro Quest fino a quando un Eroe nel gruppo precedente non raggiunge 0 Stamina, causando l'interruzione della missione dell'intero gruppo, o finché il giocatore non termina la Quest in anticipo.
+> _Siete pronti ad iniziare a scavare per trovare un vero tesoro? Andiamo! Ti offro un po' di birra se torniamo vivi!_
 
-**Le missioni JEWEL Mining** richiedono al giocatore di selezionare un **Lead Miner**. La quantità massima di JEWEL che può essere sbloccata nella Quest è determinata dalle **Statistiche del Lead Miner**: i punteggi **STR** ed **END** dell'Eroe, il livello di **Mining** e se ha il **Mining** come professione principale, influiscono sulla quantità massima che può essere sbloccata. Quando viene selezionato un **Lead Miner**, verranno visualizzati i ​​JEWEL sbloccabili massimi per il party e la quantità di JEWEL che può essere sbloccata dal **Lead Miner**.
+Le missioni di Token Mining si iniziano nella Zona delle **Professioni** parlando con il **Miner** o il **Pickman**, a seconda del regno. Gli Eroi possono iniziare le missioni di Token Mining solo se il giocatore ha un saldo bloccato di Power Tokens del regno. Il rendimento dei tokens aumenta con il saldo bloccato del giocatore fino ad un limite specifico, e con le statistiche degli Eroi inviati alla missione.
 
-È possibile aggiungere fino a cinque altri Eroi al gruppo di Mining per assistere il **Lead Miner**. Il loro contributo si baserà sui punteggi **STR** ed **END**, sul punteggio di **Mining** e sul fatto che gli Eroi abbiano o meno il **Mining** come Professione principale. Man mano che i singoli Eroi vengono aggiunti al gruppo, la quantità totale di JEWEL che il gruppo può sbloccare si aggiornerà aumentando. Una volta che l'importo totale sbloccabile del gruppo raggiunge l'importo massimo sbloccabile, l'aggiunta di altri Eroi non aumenterà ulteriormente i JEWEL sbloccabili, sebbene quegli Eroi possano comunque ricevere le **Gaia's Tears, Rune Shvās** e le **Uova Gialle**.
+Le missioni di Token Mining hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Uova Pets Gialle**. Tutti questi oggetti possono essere scambiati dal Trader con altri tokens o oggetti. Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** ed [Enhancement Stones](../heroes/enhancement-stones.md), per far nascere gli [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
 
-Gli Eroi con **Mining** come Professione principale consumano 1 Stamina ogni 10 minuti, tutti gli altri Eroi consumano 1 Stamina ogni 12 minuti. Tuttavia, se un gruppo di minatori contiene Eroi che non hanno **Mining** come Professione principale, tutti gli Eroi in quel gruppo consumeranno Stamina al tasso di 1 ogni 12 minuti. È importante raggruppare strategicamente i minatori per ottenere le massime ricompense.
+### Basi delle missioni di Mining
 
-Le missioni Mining hanno anche la possibilità di premiare gli Eroi con le **Gaia's Tears**, **Rune Shvās** e le **Uova Gialle**.\
-**I Drop Rates base degli oggetti aumentano grazie al punteggio STR, END, Mining, ed il gene Mining dell''Eroe.**
+#### Durata per Stamina
 
-### **Formula dei Reward per Quest livello 0:**
+12 minuti (10 con il **gene della professione Mining**)
 
-**Formula Max unlock rate:**\
-maxUnlockRate = (1000 \* (0.25 + (**STR** + **END**) \* 0.000625 + (**MinSkl**) \* 0.0025)) / lockedRatio
+#### Stamina Richiesta
 
-**Formula LockedRatio:**\
-se lockedJWL > minLocked {\
-lockedRatio = (1000 - 166 \* geneBonus)\
-gli altri:\
-lockedRatio = ((1000-166 \* geneBonus) \* minLocked) / lockedJWL
+1 Stamina minimo
 
-**Formula Hero unlock rate:**\
-heroUnlockRate = (1000 \* (0.25 + (**STR** + **END**) \*0.000625 +(**MinSkl**) \* 0.0025)) / (6 \* (1000 -\
-166 \* geneBonus))
+#### Numero di Eroi Richiesti
 
-**minLocked** = 20,000 JEWEL (si riduce linearmente se il portafoglio ha meno di 20.000 JEWEL bloccati)
+1-6 Eroi
 
-**minSkill** = il valore intero dell'abilità Mining dell'Eroe
+### Ricompense Tokens
 
-**geneBonus** = 1 se l'Eroe ha Mining come Professione principale, altrimenti 0
+Le **missioni di Token Mining** richiedono che il giocatore selezioni un **Miner Leader** per ogni missione, le cui statistiche determinano la quantità massima di Power Tokens che possono essere sbloccati durante la missione. Queste statistiche includono i punteggi di **Forza(STR)** e **Resistenza(END)** dell'Eroe, la sua abilità nel **Mining** ed il possesso del **gene della professione Mining**. È possibile aggiungere fino a cinque Eroi per assistere il minatore leader, le cui statistiche determinano la ricompensa finale della missione. Se la somma totale sbloccabile del gruppo raggiunge il massimo, l'aggiunta di altri Eroi non aumenterà ulteriormente le ricompense in tokens, anche se questi Eroi potranno comunque ricevere ricom**pense in oggetti**.
 
-Inoltre, per ogni 15 Stamina consumati dal **Lead Miner**, c'è una probabilità del 10% di ricevere JEWEL bonus. Il bonus massimo è di 10 JEWEL, se il portafoglio ha almeno 5.000 JEWEL bloccati. Il bonus si riduce linearmente se il portafoglio ha meno di 5.000 JEWEL bloccati. Questo bonus viene dimezzato se il **Lead Miner** non ha il **Mining** come Professione principale.
+#### Formula
 
-### **Drop Rates Quest livello 0:**
+La ricompensa in Power Tokens sbloccati per il Mining per ogni stamina spesa è pari al **`MaxUnlockRate`** o alla somma del **`HeroUnlockRate`** per ogni Eroe inviato nella missione, a seconda di quale valore sia minore.
 
-**Gaia's Tears** - 7% per 5 Stamina spesi, aumentato a 10.75% con **Mining** come Professione principale
+Questi valori sono calcolati in base alle seguenti formule e variabili:
 
-**Shvās rune** - 0.3% per 5 Stamina spesi, aumentato a 1.5% con **Mining** come Professione principale
+* **`maxUnlockRate`** - La quantità massima di Power Tokens che possono essere sbloccati per ogni Stamina spesa. Questa quantità viene impostata in base alle statistiche del **Miner Leader**:\
+  `maxUnlockRate = (1000 * (0.25 + (`**`STR`**`+`**`END`**`) * 0.000625 + (`**`MinSkl`**`) * 0.0025)) /`` `**`lockedRatio`**
+* **`heroUnlockRate` -** La quantità di Power Tokens che vengono sbloccati per ogni Stamina spesa. Questa quantità è calcolata in base alle statistiche di **ogni minatore**:\
+  `heroUnlockRate = (1000 * (0.25 + (`**`STR`**`+`**`END`**`) * 0.000625 + (`**`MinSkl`**`) * 0.0025)) / (6 * (1000 - 166 *`` `**`geneBonus`**`))`
+* **`lockedRatio`** - Il ratio tra **`minLocked`** e **`lockedPT`**:
 
-**Uovo Giallo** - 0.02% (per 10 Stamina spesi)
+```javascript
+if lockedPT > minLocked {
+    lockedRatio = (1000 - 166 * geneBonus)
+else
+    lockedRatio = ((1000 - 166 * geneBonus) * minLocked) / lockedPT
+}
+```
+
+* **`lockedPT`** - Il numero di Power Tokens bloccati nel portafoglio del giocatore.
+* **`minLocked`** - La quantità minima di Power Tokens bloccati che un giocatore deve possedere per ottenere la massima ricompensa mineraria. Impostato a `5000` Power Tokens.
+* **`STR`** / **`END`** - I valori delle Statistiche STR e END dell'Eroe
+* **`MinSkill`** - **L'abilità di Mining dell'Eroe**, arrotondata per difetto (ad esempio, usare 15 per 15,9 Mining).
+* **`geneBonus`** - Se un Eroe possiede il **gene della professione Mining**, questo fornisce un bonus del 20% ai rendimenti in Power Tokens, aumenta le possibilità di trovare Gaia's Tears e le Rune, e diminuisce il tempo speso per la missione di Token Mining da 12 minuti a 10 minuti per punto Stamina speso. Se l'Eroe ha questo gene, **`geneBonus`**`= 1`, atrimenti, **`geneBonus`**`= 0`.
+
+#### Jackpot Mining
+
+Per ogni 15 Stamina spesi dal **Miner Leader**, il giocatore riceverà un tiro bonus con una probabilità del 10% di sbloccare Power Tokens bonus. Il bonus massimo è di 10PT se il portafoglio ha almeno 1.250 Power Tokens bloccati. Il bonus diminuisce linearmente se il portafoglio ha meno di 1.250 Power Tokens bloccati e si dimezza se il **Miner Leader** non ha il **gene della professione Mining**.
+
+### Ricompense Oggetti
+
+{% hint style="info" %}
+Le percentuali di caduta degli oggetti riportate di seguito aumentano in base a diverse combinazioni delle statistiche di Forza(STR) e Resistenza(END) dell'Eroe, della sua abilità di Mining e della presenza del gene della professione Mining.
+{% endhint %}
+
+<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>7.5% / 11.25% *</td><td>10 XP</td><td>per <strong>5</strong> Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shvas-rune.gif" alt=""> Shvās Rune</td><td>0.3% / 1.5% *</td><td>30 XP</td><td>per <strong>5</strong> Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt=""> Moksha Rune</td><td>0.009% / 0.045% *</td><td>100 XP</td><td>per <strong>5</strong> Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-yellow.png" alt="Green Pet Egg"> Pet Egg Giallo</td><td>0.02%</td><td>100 XP</td><td>per <strong>10</strong> Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr></tbody></table>
+
+_\*La percentuale più alta si applica agli Eroi con il **gene della professione Mining**_.
+
+
+
+
+

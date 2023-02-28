@@ -4,19 +4,18 @@ description: Informazioni riguardanti le Gold Mining Quests di livello 0
 
 # Gold Mining
 
-**Le missioni di Gold Mining** possono essere eseguite da un gruppo di un numero compreso tra 1 e 6 Eroi alla volta. Gli Eroi possono essere messi in coda per iniziare la Quest non appena la Stamina degli Eroi attualmente in missione viene consumata totalmente; tuttavia, il gruppo di Eroi interromperà la Quest non appena la Stamina di un Eroe raggiungerà lo zero. Inoltre, una volta che un gruppo di qualsiasi dimensione entra nella miniera, non è possibile aggiungere ulteriori minatori al gruppo. Quegli Eroi verranno messi in coda e non inizieranno la loro Quest fino a quando un Eroe nel gruppo precedente non raggiunge 0 Stamina, causando l'interruzione della missione dell'intero gruppo, o finché il giocatore non termina la Quest in anticipo.
+Le missioni di **Gold Mining** possono essere svolte da gruppi di 1-6 Eroi alla volta. Gli Eroi possono essere messi in coda per iniziare le missioni non appena la Stamina degli Eroi attualmente in missione si esaurisce; Tuttavia, tutti gli Eroi del gruppo smetteranno di estrarre non appena la Stamina di un Eroe raggiunge lo zero. Una volta che un gruppo di qualsiasi dimensione entra nella miniera, non è possibile aggiungere altri minatori al gruppo. Altri Eroi saranno messi in coda e non inizieranno la loro missione finché un Eroe del gruppo precedente non raggiungerà lo 0 di Stamina, causando l'interruzione dell'attività dell'intero gruppo, o finché il giocatore non terminerà la missione di Gold Mining in anticipo.
 
-La quantità di **Gold** generata da un minatore si basa sui punteggi **STR** ed **END** di ciascun Eroe, sul punteggio **Mining** e sul fatto che l'Eroe abbia o meno il **Mining** come Professione principale. Ogni Eroe calcola le ricompense separatamente, anche durante le missioni in gruppo.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Gli Eroi con **Mining** come Professione principale consumano 1 Stamina ogni 10 minuti, mentre tutti gli altri Eroi consumano 1 Stamina ogni 12 minuti. Tuttavia, se un gruppo di minatori contiene Eroi che non hanno Mining come Professione principale, tutti gli Eroi in quel gruppo consumeranno Stamina al tasso di 1 ogni 12 minuti. È importante raggruppare strategicamente i minatori per ottenere le massime ricompense.
+La quantità di **Gold** generata da un minatore si basa sui punteggi **STR** ed **END** di ogni Eroe, sul punteggio dell'abilità **Mining** e sul fatto che l'Eroe abbia o meno il **gene della professione Mining**. Ogni Eroe calcola le ricompense separatamente, anche quando fa una quest di gruppo.
 
-Le missioni Mining hanno anche la possibilità di premiare gli Eroi con le **Gaia's Tears, le rune Shvās e le Uova Gialle**.\
-**I Drop Rates base degli oggetti aumentano grazie al punteggio STR, END, Mining, ed il gene Mining dell''Eroe.**
+Gli Eroi che hanno come il **gene della professione Mining** spendono 1 Stamina ogni 10 minuti, mentre tutti gli altri Eroi spendono 1 Stamina ogni 12 minuti. Tuttavia, se un gruppo di minatori contiene Eroi che _non_ hanno il **gene della professione Mining**, tutti gli Eroi di quel gruppo consumeranno 1 Stamina ogni 12 minuti. È importante raggruppare strategicamente i minatori per ottenere le massime ricompense.
 
-### **Drop Rates Quest livello 0:**
+Le missioni di Mining hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tear**, **Rune Shvās** e **Uova Pets Gialle**. Le Percentuali di caduta degli oggetti aumentano in base a diverse combinazioni di **STR**, **END**, l'abilità di **Mining** dell'Eroe ed il **gene della professione Mining**.
 
-**Gaia's Tears** - 7% per 5 Stamina spesi, aumentato a 10.75% con **Mining** come Professione principale
+### Drop Rate Base - Gold Mining livello 0:  **** &#x20;
 
-**Shvās rune** - 0.3% per 5 Stamina spesi, aumentato a 1.5% con **Mining** come Professione principale
-
-**Uovo Giallo** - 0.02% (per 10 Stamina spesi)
+* ****![](<../../../.gitbook/assets/image (5).png>)**Shvās rune** - 0.3% per 5 Stamina spesa, incrementato a 1.5% con il **gene della professione Mining**
+* ****![](<../../../.gitbook/assets/image (7).png>)**Gaia's Tears** - 7%  per 5 Stamina spesa, incrementato a 10.75% con il **gene della professione Mining**
+* ****![](<../../../.gitbook/assets/image (2).png>)**Uova Pets Gialle** - 0.02% (per 10 Stamina spesa)
