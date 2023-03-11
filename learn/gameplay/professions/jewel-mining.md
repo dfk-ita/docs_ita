@@ -1,5 +1,7 @@
 ---
 description: Informazioni riguardanti le missioni di Token Mining
+cover: ../../../.gitbook/assets/pickmankhudmire (1).webp
+coverY: 0
 ---
 
 # Token Mining
@@ -8,11 +10,13 @@ Le missioni di Token Mining possono essere svolte da un massimo di sei Eroi alla
 
 > _Siete pronti ad iniziare a scavare per trovare un vero tesoro? Andiamo! Ti offro un po' di birra se torniamo vivi!_
 
-Le missioni di Token Mining si iniziano nella Zona delle **Professioni** parlando con il **Miner** o il **Pickman**, a seconda del regno. Gli Eroi possono iniziare le missioni di Token Mining solo se il giocatore ha un saldo bloccato di Power Tokens del regno. Il rendimento dei tokens aumenta con il saldo bloccato del giocatore fino ad un limite specifico, e con le statistiche degli Eroi inviati alla missione.
+Le missioni di Token Mining si iniziano nella Zona delle **Professioni** parlando con il **Miner** o il **Pickman**, a seconda del regno. Gli Eroi possono iniziare le missioni di Token Mining solo se il giocatore ha un saldo bloccato di Power Tokens del regno. Il rendimento dei tokens aumenta con il saldo bloccato del giocatore fino ad un limite specifico.
 
-Le missioni di Token Mining hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Uova Pets Gialle**. Tutti questi oggetti possono essere scambiati dal Trader con altri tokens o oggetti. Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** ed [Enhancement Stones](../heroes/enhancement-stones.md), per far nascere gli [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
+Tutti gli Eroi possono tentare le Missioni di Token Mining, ma gli Eroi con il **gene della professione Mining** useranno la loro Stamina in modo più efficiente ed avranno maggiori possibilità di ottenere le ricompense degli oggetti. Completare con successo una Missione di Token Mining garantirà ad ogni Eroe una piccola quantità di XP ed una possibilità di aumentare la propria **abilità nella professione Mining**.
 
-### Basi delle missioni di Mining
+Queste missioni hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Yellow Pet Eggs**. Tutti questi oggetti possono essere scambiati con altri tokens o oggetti presso il Trader nel [Marketplace](../marketplace.md). Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), per far nascere [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
+
+### Le Basi delle missioni di Mining
 
 #### Durata per Stamina
 
@@ -66,7 +70,7 @@ Per ogni 15 Stamina spesi dal **Miner Leader**, il giocatore riceverà un tiro b
 Le percentuali di caduta degli oggetti riportate di seguito aumentano in base a diverse combinazioni delle statistiche di Forza(STR) e Resistenza(END) dell'Eroe, della sua abilità di Mining e della presenza del gene della professione Mining.
 {% endhint %}
 
-<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>7.5% / 11.25% *</td><td>10 XP</td><td>per <strong>5</strong> Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shvas-rune.gif" alt=""> Shvās Rune</td><td>0.3% / 1.5% *</td><td>30 XP</td><td>per <strong>5</strong> Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt=""> Moksha Rune</td><td>0.009% / 0.045% *</td><td>100 XP</td><td>per <strong>5</strong> Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-yellow.png" alt="Green Pet Egg"> Pet Egg Giallo</td><td>0.02%</td><td>100 XP</td><td>per <strong>10</strong> Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr></tbody></table>
+<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>7.5% / 11.25% *</td><td>10 XP</td><td>Possibilità Drop ogni <strong>5</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shvas-rune.gif" alt=""> Shvās Rune</td><td>0.3% / 1.5% *</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt=""> Moksha Rune</td><td>0.009% / 0.045% *</td><td>100 XP</td><td>Possibilità Drop ogni <strong>5</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-yellow.png" alt="Green Pet Egg"> Pet Egg Giallo</td><td>0.02%</td><td>100 XP</td><td>Possibilità Drop ogni <strong>10</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr></tbody></table>
 
 _\*La percentuale più alta si applica agli Eroi con il **gene della professione Mining**_.
 

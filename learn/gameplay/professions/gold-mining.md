@@ -1,21 +1,47 @@
 ---
-description: Informazioni riguardanti le Gold Mining Quests di livello 0
+description: Informazioni riguardanti le missioni di Gold Mining
+cover: ../../../.gitbook/assets/pickmankhudmire.webp
+coverY: 0
 ---
 
 # Gold Mining
 
-Le missioni di **Gold Mining** possono essere svolte da gruppi di 1-6 Eroi alla volta. Gli Eroi possono essere messi in coda per iniziare le missioni non appena la Stamina degli Eroi attualmente in missione si esaurisce; Tuttavia, tutti gli Eroi del gruppo smetteranno di estrarre non appena la Stamina di un Eroe raggiunge lo zero. Una volta che un gruppo di qualsiasi dimensione entra nella miniera, non è possibile aggiungere altri minatori al gruppo. Altri Eroi saranno messi in coda e non inizieranno la loro missione finché un Eroe del gruppo precedente non raggiungerà lo 0 di Stamina, causando l'interruzione dell'attività dell'intero gruppo, o finché il giocatore non terminerà la missione di Gold Mining in anticipo.
+Le **missioni di Gold Mining** possono essere svolte da un massimo di sei Eroi alla volta in ogni regno. Queste missioni assegnano Gold e possono assegnare altri oggetti rari.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+> Oi! Vuoi far lavorare quelle piccole braccia che hai? Prendi un piccone! Ci sono un sacco di luccichii che aspettano mani desiderose!
 
-La quantità di **Gold** generata da un minatore si basa sui punteggi **STR** ed **END** di ogni Eroe, sul punteggio dell'abilità **Mining** e sul fatto che l'Eroe abbia o meno il **gene della professione Mining**. Ogni Eroe calcola le ricompense separatamente, anche quando fa una quest di gruppo.
+Le missioni di Gold Mining si iniziano nella zona **Professions** parlando con il **Miner** o il **Picker**, a seconda del regno. Tutti gli Eroi possono tentare le missioni di Gold Mining, ma gli Eroi con il **gene della professione Mining** useranno la loro Stamina in modo più efficiente e avranno maggiori possibilità di ottenere oggetti in premio. Completare con successo una missione di Gold Mining garantirà ad ogni Eroe una piccola quantità di XP ed una possibilità di aumentare la propria **abilità nella professione Mining**.
 
-Gli Eroi che hanno come il **gene della professione Mining** spendono 1 Stamina ogni 10 minuti, mentre tutti gli altri Eroi spendono 1 Stamina ogni 12 minuti. Tuttavia, se un gruppo di minatori contiene Eroi che _non_ hanno il **gene della professione Mining**, tutti gli Eroi di quel gruppo consumeranno 1 Stamina ogni 12 minuti. È importante raggruppare strategicamente i minatori per ottenere le massime ricompense.
+Queste missioni hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Yellow Pet Eggs**. Tutti questi oggetti possono essere scambiati con altri tokens o oggetti presso il Trader nel [Marketplace](../marketplace.md). Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), per far nascere [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
 
-Le missioni di Mining hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tear**, **Rune Shvās** e **Uova Pets Gialle**. Le Percentuali di caduta degli oggetti aumentano in base a diverse combinazioni di **STR**, **END**, l'abilità di **Mining** dell'Eroe ed il **gene della professione Mining**.
+### Le Basi delle missioni di Mining
 
-### Drop Rate Base - Gold Mining livello 0:  **** &#x20;
+#### Durata per Stamina
 
-* ****![](<../../../.gitbook/assets/image (13).png>)**Shvās rune** - 0.3% per 5 Stamina spesa, incrementato a 1.5% con il **gene della professione Mining**
-* ****![](<../../../.gitbook/assets/image (2).png>)**Gaia's Tears** - 7%  per 5 Stamina spesa, incrementato a 10.75% con il **gene della professione Mining**
-* ****![](<../../../.gitbook/assets/image (1).png>)**Uova Pets Gialle** - 0.02% (per 10 Stamina spesa)
+12 minuti (10 con il **gene della professione Mining**)
+
+#### Stamina Richiesta
+
+1 Stamina minimo
+
+#### Numero di Eroi Richiesti
+
+1-6 Eroi
+
+#### Ricompensa Minima XP
+
+4 XP per punto Stamina consumato + 8 XP per 5 punti Stamina consumati
+
+### **Ricompense Gold**
+
+La quantità di **Gold** ottenuta dalle missioni di Gold Mining per ogni punto Stamina speso si basa sulle statistiche di **Forza(STR)** e **Resistenza(END)** dell'Eroe, sulla sua **abilità nella professione Mining** e sulla presenza del **gene della professione Mining**. Ogni Eroe calcola le ricompense in Gold in modo indipendente, anche quando fa una missione di gruppo.
+
+### Ricompense Oggetti
+
+{% hint style="info" %}
+Le percentuali di drop degli oggetti riportate di seguito aumentano in base a diverse combinazioni delle statistiche di **Forza(STR)** e **Resistenza(END)** dell'Eroe, della sua **abilità nella professione Mining** e della presenza del **gene della professione Mining**.
+{% endhint %}
+
+<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>7.5% / 11.25% *</td><td>10 XP</td><td>Possibilità Drop ogni <strong>5</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shvas-rune.gif" alt=""> Shvās Rune</td><td>0.3% / 1.5% *</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt=""> Moksha Rune</td><td>0.009% / 0.045% *</td><td>100 XP</td><td>Possibilità Drop ogni <strong>5</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-yellow.png" alt="Green Pet Egg"> Yellow Pet Egg</td><td>0.02%</td><td>100 XP</td><td>Possibilità Drop ogni <strong>10</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr></tbody></table>
+
+\*La percentuale più alta si applica agli Eroi con il **gene della professione Mining**.

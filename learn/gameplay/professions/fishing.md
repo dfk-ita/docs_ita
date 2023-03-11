@@ -1,37 +1,55 @@
 ---
-description: Informazioni riguardanti le Fishing Quests di livello 0
+description: Informazioni riguardanti le missioni di Fishing
+cover: ../../../.gitbook/assets/fisher-splash.webp
+coverY: 0
 ---
 
 # Fishing
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Le **missioni di Fishing** possono essere svolte da un massimo di cinque o sei Eroi alla volta in ogni regno. Queste missioni producono **Pesci** ed altri oggetti rari.
 
-**Le missioni di Fishing** possono produrre **pesce, Gaia's Tears, rune Shvās, Uova Blu, EXP** per il livello successivo dell' Eroe e nel mentre **l'abilità Fishing cresce di livello**. Tutti i pesci possono essere venduti nel [Marketplace](../marketplace.md) al Vendor Zada ​​per **Gold** o scambiati con il Trader Matoya per **JEWEL**. Alcuni pesci sono ingredienti di Pozioni, che possono essere create con l'Alchimista Herbert. Tutti i pesci possono avere usi ancora sconosciuti.
+> Bellissimo questo lago, vero? Guardare l'acqua fa miracoli per l'anima. Quando mia moglie e i miei figli vengono a trovarmi qui, non c'è altro posto in cui vorrei essere.
+>
+> _Ti va di unirti a me per un pò di pesca?_
 
-Le missioni di Fishing costano 7 Stamina per tentativo, 5 Stamina per gli Eroi con **Fishing** come Professione principale. Possono essere mandati a pescare contemporaneamente gruppi di massimo 6 Eroi, ed il numero di tentativi che ciascun Eroe farà viene scelto nella finestra della Quest. Ogni membro del gruppo è limitato al numero più alto di tentativi che un dato membro del gruppo può affrontare, quindi è più efficiente raggruppare saggiamente gli Eroi.
+Le missioni di Fishing si iniziano nella zona **Professions** parlando con il **Fisher**. Tutti gli Eroi possono tentare le missioni di Fishing, ma gli Eroi con il **gene della professione Fishing** useranno la loro Stamina in modo più efficiente ed avranno maggiori possibilità di ottenere oggetti in premio. Completare con successo una missione di Fishing garantirà ad ogni Eroe una piccola quantità di XP ed una possibilità di aumentare la propria **abilità nella professione Fishing**.
 
-Dopo aver selezionato gli Eroi partecipanti ed aver scelto il numero di tentativi di missione, la finestra della Quest mostrerà il tempo necessario al gruppo per completare tutti i suoi tentativi di pesca. E' possibile mettere in coda altri gruppi di Eroi per iniziare le loro missioni non appena il gruppo precedente ha terminato.
+Queste missioni hanno la possibilità di ricompensare gli Eroi con **Pesci**, **Gaia's Tears**, **Rune** e **Blue Pet Eggs**. Tutti i pesci possono essere venduti al **Vendor** nel [Marketplace](../marketplace.md) in cambio di **Gold** o scambiati presso il Trader con altri tokens o oggetti. Alcuni oggetti sono utilizzati anche come reagenti per la creazione di **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), per la schiusa di [Pets](../heroes/pets.md) e per il[ livellamento degli Eroi](../heroes/leveling.md).
 
-Gli Eroi ricevono bonus al Drop Rate base degli oggetti in base ai loro punteggi **AGI, LCK** e **Fishing**, e se **Fishing** è la loro abilità principale.
+### Le Basi delle missioni Fishing
 
-![](<../../../.gitbook/assets/image (6) (2).png>)
+#### Durata per Tentativo
 
-### **Drop Rates Quest livello 0:**
+Tra **20 secondi** (1 Eroe / 1 Tentativo) e **1090 secondi** (6 Eroi / 5 Tentativi)
 
-**Niente** - 50%
+#### Stamina Richiesta per Tentativo
 
-**Bloater** - 23%
+7 Stamina (5 con il **gene della professione Fishing**)
 
-**Ironscale** - 9.015%
+#### Eroi Richiesti per Missione
 
-**Lantern-eye** - 9.015%
+1-6 Eroi (al moemtno 1-5 a Serendale)
 
-**Redgill** - 6.015%
+#### Ricompensa Minima XP
 
-**Silverfin** - 1.015%
+15 XP per Tentativo di missione
 
-**Sailfish** - 1.015%
+### **Ricompense Oggetti**
 
-**Shimmerskin** - 0.915%
+{% hint style="info" %}
+Le percentuali di drop degli oggetti riportate di seguito aumentano in base a diverse combinazioni delle statistiche di **Agilità(AGI)** e **Fortuna(LCK)** dell'Eroe, della sua **abilità nella professione Fishing** e della presenza del **gene della professione Fishing**.
+{% endhint %}
 
-**Uovo Blu** - 0.01%
+#### Serendale
+
+<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td>Niente</td><td>50%</td><td>0 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/bluestem.png" alt="Bluestem"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/bloater.png" alt="Milkweed"> Bloater</td><td>23%</td><td>1 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/ironscale.png" alt="" data-size="original"> Ironscale</td><td>9.015%</td><td>7 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/lanterneye.png" alt="" data-size="original"> Lantern-Eye</td><td>9.015%</td><td>7 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/redgill.png" alt="" data-size="original"> Redgill</td><td>6.015%</td><td>5 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/silverfin.png" alt="Green Pet Egg"> Silverfin</td><td>1.015%</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/sailfish.png" alt="Green Pet Egg" data-size="original"> Sailfish</td><td>1.015%</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shimmerskin.png" alt=""> Shimmerskin</td><td>0.915%</td><td>35 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr></tbody></table>
+
+#### Crystalvale
+
+<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td>Niente</td><td>50%</td><td>0 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/bluestem.png" alt="Bluestem"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/frost-bloater.png" alt="Milkweed"> Frost Bloater</td><td>23%</td><td>1 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/ironscale.png" alt="" data-size="original"> Ironscale</td><td>9.015%</td><td>7 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/lanterneye.png" alt="" data-size="original"> Lantern-Eye</td><td>9.015%</td><td>7 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/speckle-tail.png" alt="" data-size="original"> Speckle Tail</td><td>6.015%</td><td>5 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/threeEyedEel.png" alt="Green Pet Egg"> Three-Eyed Eel</td><td>1.015%</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/king-pincer.png" alt="Green Pet Egg" data-size="original"> King Pincer</td><td>1.015%</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shimmerskin.png" alt=""> Shimmerskin</td><td>0.915%</td><td>35 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr></tbody></table>
+
+#### Tutti i  Regni
+
+<table><thead><tr><th>Nome</th><th>Drop Rate Base</th><th>Ricompensa XP</th><th>Stamina Richiesta</th><th data-hidden align="center"> </th></tr></thead><tbody><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/gaias-tear.png" alt="" data-size="original"> Gaia's Tear</td><td>5% / 7.5% *</td><td>10 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/shvas-rune.gif" alt=""> Shvās Rune</td><td>0.2% / 1% *</td><td>30 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/moksha-rune.gif" alt=""> Moksha Rune</td><td>0.006% / 0.03% *</td><td>100 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"></td></tr><tr><td><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-blue.png" alt="Green Pet Egg"> Blue Pet Egg</td><td>0.01%</td><td>100 XP</td><td>Possibilità Drop ogni <strong>5-7</strong> punti Stamina</td><td align="center"><img src="https://defi-kingdoms.b-cdn.net/art-assets/items/pet-egg-green.png" alt="Green Pet Egg"></td></tr></tbody></table>
+
+\*La percentuale più alta si applica agli Eroi con il **gene della professione Fishing**.

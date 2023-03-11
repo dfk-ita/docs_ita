@@ -21,14 +21,7 @@
 
 ***
 
-* [Roadmap](roadmap/README.md)
-  * [Phase 0.5 - Community ✔️](roadmap/phase-0.5-community.md)
-  * [Phase 1 - Serendale & JEWEL ✔️](roadmap/phase-1-dex.md)
-  * [Phase 2 - Eroi & Quests ✔️](roadmap/phase-2-heroes.md)
-  * [Phase 3 - Kingdoms & Lands ✔️](roadmap/phase-3-world-map-and-land.md)
-  * [Phase 4 - Edifici](roadmap/phase-4-buildings.md)
-  * [Phase 5 - Equipaggiamenti](roadmap/phase-5-equipment.md)
-  * [Phase 6 - Battle System, PVE & PVP](roadmap/phase-6-battle-system-pve-and-pvp.md)
+* [Roadmap](roadmap.md)
 
 ## Gameplay
 
