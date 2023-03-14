@@ -4,6 +4,8 @@ description: Combat Skills della Classe Ladro
 
 # Thief
 
+<figure><img src="../../.gitbook/assets/thief2 (1).png" alt=""><figcaption></figcaption></figure>
+
 Questa pagina contiene informazioni dettagliate sulle abilità di combattimento della classe Ladro che verranno utilizzate negli ambienti di combattimento Giocatore-vs-Giocatore (PVP) e Giocatore-vs-Ambiente (PVE).
 
 {% hint style="warning" %}
