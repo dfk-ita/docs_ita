@@ -4,8 +4,6 @@ description: Combat Skills della Classe Ladro
 
 # Thief
 
-<figure><img src="../../.gitbook/assets/thief2 (1).png" alt=""><figcaption></figcaption></figure>
-
 Questa pagina contiene informazioni dettagliate sulle abilità di combattimento della classe Ladro che verranno utilizzate negli ambienti di combattimento Giocatore-vs-Giocatore (PVP) e Giocatore-vs-Ambiente (PVE).
 
 {% hint style="warning" %}
@@ -66,7 +64,7 @@ In un modo o nell’altro, il Ladro avrà la sua strada. O vi piegherete consape
 
 ### Discussione <a href="#97f2" id="97f2"></a>
 
-{% embed url="https://0xworkhorse.substack.com/p/thief-battle-inventory-battle-budget" %}
+{% embed url="https://defikingdomsitalia.medium.com/thief-inventario-di-battaglia-budget-di-battaglia-sabotare-e-utilizzo-oggetti-81865a87024e" %}
 
 ### Note <a href="#97f2" id="97f2"></a>
 
