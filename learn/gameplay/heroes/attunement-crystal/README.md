@@ -51,21 +51,21 @@ Cristalli che, se usati durante il livellamento, forniscono **+10%** alla possib
 
 Cristalli che, se usati durante il livellamento, forniscono **+15%** alla possibilità di crescita della statistica primaria ed **+45%** alla possibilità di crescita della statistica secondaria della statistica associata al Cristallo.
 
-****![](../../../../.gitbook/assets/fortitude\_greater\_might\_crystal.gif) **Greater Might Crystal:** Associato con STR.&#x20;
+![](../../../../.gitbook/assets/fortitude\_greater\_might\_crystal.gif) **Greater Might Crystal:** Associato con STR.&#x20;
 
-****![](../../../../.gitbook/assets/fortitude\_greater\_finesse\_crystal.gif) **Greater Finesse Crystal:** Associato con DEX.
+![](../../../../.gitbook/assets/fortitude\_greater\_finesse\_crystal.gif) **Greater Finesse Crystal:** Associato con DEX.
 
-****![](../../../../.gitbook/assets/fortitude\_greater\_switness\_crystals.gif) **Greater Swiftness Crystal:** Associato con AGI.
+![](../../../../.gitbook/assets/fortitude\_greater\_switness\_crystals.gif) **Greater Swiftness Crystal:** Associato con AGI.
 
-****![](<../../../../.gitbook/assets/fortitude\_greater\_vigor\_crystal (1).gif>) **Greater Vigor Crystal:** Associato con VIT.
+![](<../../../../.gitbook/assets/fortitude\_greater\_vigor\_crystal (1).gif>) **Greater Vigor Crystal:** Associato con VIT.
 
-****![](../../../../.gitbook/assets/ezgif.com-gif-maker.gif) **Greater Fortitude Crystal:** Associato con END.
+![](../../../../.gitbook/assets/ezgif.com-gif-maker.gif) **Greater Fortitude Crystal:** Associato con END.
 
-****![](../../../../.gitbook/assets/fortitude\_greater\_wit\_crystal.gif) **Greater Wit Crystal:** Associato con INT.
+![](../../../../.gitbook/assets/fortitude\_greater\_wit\_crystal.gif) **Greater Wit Crystal:** Associato con INT.
 
-****![](../../../../.gitbook/assets/fortitude\_greater\_insight\_crystal.gif) **Greater Insight Crystal:** Associato con WIS.
+![](../../../../.gitbook/assets/fortitude\_greater\_insight\_crystal.gif) **Greater Insight Crystal:** Associato con WIS.
 
-****![](../../../../.gitbook/assets/greater\_fortune\_crystal.gif) **Greater Fortune Crystal:** Associato con LCK.
+![](../../../../.gitbook/assets/greater\_fortune\_crystal.gif) **Greater Fortune Crystal:** Associato con LCK.
 
 **Greater Chaos Crystal:** Applica bonus ad una statistica casuale.
 

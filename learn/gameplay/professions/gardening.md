@@ -40,15 +40,15 @@ Le ricompense tokens delle Missioni di Gardening utilizzano la seguente formula,
 
 Calcolato da queste variabili:
 
-* **`annealingFactor` ** - Un moltiplicatore applicato al momento del lancio che diminuisce gradualmente nel tempo, permettendo al Quest Fund di continuare a crescere. **`annealingFactor`** inizia a `50` e diminuisce ogni due settimane fino ad un  minimo di `1` dopo 26 settimane.
+* **`annealingFactor`** - Un moltiplicatore applicato al momento del lancio che diminuisce gradualmente nel tempo, permettendo al Quest Fund di continuare a crescere. **`annealingFactor`** inizia a `50` e diminuisce ogni due settimane fino ad un  minimo di `1` dopo 26 settimane.
   * **`annealingFactor`**` ``= (9100 - 49 * (`**`daysSinceLaunch`**`/ 14) * 14) / 182`
   * Ai fini del calcolo **`daysSinceLaunch`**, le Missioni di Gardening su Crystalvale e Serendale sono state rilasciate il 15/09/2022.
-* **`rewardPool` ** - Il relativo saldo dei tokens nel [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
-* **`poolAllocation` ** - La percentuale di emissioni di tokens assegnata al Giardino specifico (in decimali, ad esempio 0,1 per il 10%).
-* **`LPowned` ** - La percentuale della Pool di liquidità che il giocatore possiede nel Giardino selezionato (in decimali, ad esempio 0,0015 per 0,15%).
+* **`rewardPool`** - Il relativo saldo dei tokens nel [Quest Reward Fund](https://subnets.avax.network/defi-kingdoms/address/0x1137643FE14b032966a59Acd68EBf3c1271Df316).&#x20;
+* **`poolAllocation`** - La percentuale di emissioni di tokens assegnata al Giardino specifico (in decimali, ad esempio 0,1 per il 10%).
+* **`LPowned`** - La percentuale della Pool di liquidità che il giocatore possiede nel Giardino selezionato (in decimali, ad esempio 0,0015 per 0,15%).
 * **`WIS`** / **`VIT`** - Il valore delle statistiche di **Wisdom** e **Vitality** dell'Eroe.
-* **`GrdSkl` ** -  Il livello professionale di **Gardening** dell'Eroe, arrotondata per difetto (ad esempio usa 15 per 15,9).
-* **`geneBonus` ** - Se un Eroe possiede il gene della professione Gardening, questo fornisce un bonus del 20% ai rendimenti dei tokens, aumenta le possibilità di trovare Gaia's Tears e Rune e diminuisce il tempo trascorso a fare Gardening per Stamina da 12 minuti a 10 minuti. Se l'Eroe possiede questo gene, **`geneBonus=1`**, altrimenti **`geneBonus=0`**.
+* **`GrdSkl`** -  Il livello professionale di **Gardening** dell'Eroe, arrotondata per difetto (ad esempio usa 15 per 15,9).
+* **`geneBonus`** - Se un Eroe possiede il gene della professione Gardening, questo fornisce un bonus del 20% ai rendimenti dei tokens, aumenta le possibilità di trovare Gaia's Tears e Rune e diminuisce il tempo trascorso a fare Gardening per Stamina da 12 minuti a 10 minuti. Se l'Eroe possiede questo gene, **`geneBonus=1`**, altrimenti **`geneBonus=0`**.
 
 ### Ricompense Minime
 

@@ -2,7 +2,7 @@
 
 {% hint style="danger" %}
 In conformità con il [voto governance della Community](https://vote.defikingdoms.com/#/proposal/0x2a83ec79bf88a5d8170b831b4c941a934e47ca0c569a40bb8d240666978b73e6) adottato il 9/1/2022, **le emissioni JEWEL su Harmony sono terminate ed i JEWEL bloccati non si sbloccheranno mai.**\
-****
+
 
 Per maggiori dettagli su queste modifiche, leggere la [tokenomic aggiornata](../i-token-del-potere/jewel-token.md#tokenomic-aggiornata) del progetto.
 {% endhint %}

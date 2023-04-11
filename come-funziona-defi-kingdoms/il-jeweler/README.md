@@ -5,7 +5,7 @@ coverY: 0
 
 # Il Jeweler
 
-## Jeweler 2.0
+Jeweler 2.0
 
 Il **Jeweler 2.0** adotta i vantaggi ottenuti dal modello di governance **veToken** sviluppato da [Curve](https://curve.fi/#/ethereum/swap) e li combina con un metodo per la distribuzione delle commissioni, i premi airdrop ed i [Power-Ups](power-ups.md) in-game. **cJEWEL** è il nome del token di **governance** in Crystalvale e **sJEWEL** è l'equivalente di Serendale (entrambi funzionalmente sono uguali, anche se questi documenti utilizzeranno cJEWEL per comodità).
 
@@ -35,7 +35,7 @@ I giocatori possono bloccare i propri JEWEL nello smart contract del Jeweler per
 {% hint style="info" %}
 **Esempio:**
 
-****![](<../../.gitbook/assets/image (10).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
+![](<../../.gitbook/assets/image (10).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
 
 ![](<../../.gitbook/assets/image (11) (1).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
 
@@ -66,7 +66,7 @@ Questo modello cambia il modo in cui i giocatori interagiranno con il Jeweler, c
 * **`ClaimReward (Reclama Ricompense)`** — Consente di reclamare eventuali premi di compartecipazione alle commissioni del Jeweler.
 * **`UpdatePool (Aggiorna Pool)`**— Aggiorna i premi disponibili derivanti da cJEWEL per tutti prelevando le commissioni dal contratto _FeeCollector_ (questo viene anche utilizzato ogni volta che qualcuno deposita, estende i periodi di sblocco, reclama premi o preleva).
 * **`Withdraw (Prelievo)`**— Consente di prelevare l’intero saldo JEWEL dal Jeweler se il periodo di blocco è terminato.
-* **`EmergencyWithdraw`**` ```` `**`(Prelievo d’Emergenza)`**— Consente di prelevare prima della scadenza del periodo di blocco, ma con una penale del 50% (che viene bruciata).
+* **`EmergencyWithdraw`** **`(Prelievo d’Emergenza)`**— Consente di prelevare prima della scadenza del periodo di blocco, ma con una penale del 50% (che viene bruciata).
 
 ## Votazioni Governance
 
@@ -102,6 +102,10 @@ I possessori di cJEWEL/sJEWEL potranno attivare **miglioramenti di gioco e ricom
 
 I premi Power-Up possono includere bonus all'esperienza dell'Eroe, commissioni di gioco ridotte e accesso a funzionalità premium. Questi potenziamenti verranno implementati nel tempo dopo il rilascio di cJEWEL.
 
+{% content-ref url="power-ups.md" %}
+[power-ups.md](power-ups.md)
+{% endcontent-ref %}
+
 ### Contract Addresses
 
 * cJEWEL (DFK Chain): [`0x9ed2c155632C042CB8bC20634571fF1CA26f5742`](https://subnets.avax.network/defi-kingdoms/address/0x9ed2c155632C042CB8bC20634571fF1CA26f5742)
@@ -124,4 +128,4 @@ Quando il giocatore prelevava, scambiava il proprio xToken con il Power Token. P
 #### DFK Chain&#x20;
 
 * xCRYSTAL: [`0x6e7185872bcdf3f7a6cbbe81356e50daffb002d2`](https://subnets.avax.network/defi-kingdoms/address/0x6e7185872bcdf3f7a6cbbe81356e50daffb002d2)
-* xJEWEL: [`0x77f2656d04E158f915bC22f07B779D94c1DC47Ff`](https://subnets.avax.network/defi-kingdoms/token/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff)``
+* xJEWEL: [`0x77f2656d04E158f915bC22f07B779D94c1DC47Ff`](https://subnets.avax.network/defi-kingdoms/token/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff)

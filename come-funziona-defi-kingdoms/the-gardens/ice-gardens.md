@@ -39,4 +39,3 @@ I CRYSTAL bloccati prelevati  rimarranno  **bloccati fino al 22 Marzo 2023,\*\*,
 
 La percentuale di CRYSTAL sbloccati inizia al 5% in Epoch 1 e aumenta del 2% in ogni Epoca. Le ricompense non riscosse continuano a essere sbloccate in questo modo fino al loro prelievo, momento in cui le ricompense sbloccate vanno direttamente nel portafoglio del giocatore e le ricompense bloccate diventano completamente bloccate fino alla fine dell'Epoca 51.
 
-__

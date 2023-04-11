@@ -119,7 +119,7 @@ _**Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai uti
 **Green Pet Egg - Gardening** ![:GreenPetEgg:](https://cdn.discordapp.com/emojis/923546053653954570.webp?size=96\&quality=lossless)`0x8D2bC53106063A37bb3DDFCa8CfC1D262a9BDCeB`
 
 **Grey Pet Egg - Foraging** ![:GreyPetEgg:](https://cdn.discordapp.com/emojis/916019657444585482.webp?size=96\&quality=lossless) \
-****`0x7E121418cC5080C96d967cf6A033B0E541935097`
+`0x7E121418cC5080C96d967cf6A033B0E541935097`
 
 **Yellow Pet Egg - Mining** ![:YellowPetEgg:](https://cdn.discordapp.com/emojis/926938656554516491.webp?size=96\&quality=lossless)\
 `0x72F860bF73ffa3FC42B97BbcF43Ae80280CFcdc3`
@@ -142,73 +142,73 @@ _**Questi sono i Tokens Ufficiali di DeFi Kingdoms, controlla sempre se stai uti
 
 `0x9d9ef1Bf6A46b8413bf6b1b54F6A7aAb53c6b1b6`
 
-**Finesse Crystal** ![:FinesseCrystal:](https://cdn.discordapp.com/emojis/954554494367182892.gif?size=96\&quality=lossless)****
+**Finesse Crystal** ![:FinesseCrystal:](https://cdn.discordapp.com/emojis/954554494367182892.gif?size=96\&quality=lossless)
 
 `0xA9A8cc1AC7e7505a69cAca2E068716395CebE562`
 
-**Greater Finesse Crystal** ![:GreaterFinesseCrystal:](https://cdn.discordapp.com/emojis/973975331574804490.gif?size=96\&quality=lossless)****
+**Greater Finesse Crystal** ![:GreaterFinesseCrystal:](https://cdn.discordapp.com/emojis/973975331574804490.gif?size=96\&quality=lossless)
 
 `0xdA16b191D1431746b6661D428A223b72c178765A`
 
 **Lesser Swiftness Crystal** ![:LesserSwiftnessCrystal:](https://cdn.discordapp.com/emojis/954554494941802567.gif?size=96\&quality=lossless)`0x6BCA53314dADdA7f4De30A95413f75a93bfAfecF`
 
-**Swiftness Crystal** ![:SwiftnessCrystal:](https://cdn.discordapp.com/emojis/954554495117983744.gif?size=96\&quality=lossless)****
+**Swiftness Crystal** ![:SwiftnessCrystal:](https://cdn.discordapp.com/emojis/954554495117983744.gif?size=96\&quality=lossless)
 
 `0x3e664eB15b35783B9D3EF06702044820F08bB45B`
 
 **Greater Swiftness Crystal** ![:GreaterSwiftnessCrystal:](https://cdn.discordapp.com/emojis/973975331977449472.webp?size=96\&quality=lossless) `0x1459c662F516D63216491DC34F7d9d35b00dF25A`
 
-**Lesser Vigor Crystal** ![:LesserVigorCrystal:](https://cdn.discordapp.com/emojis/954554495050850315.webp?size=96\&quality=lossless)****
+**Lesser Vigor Crystal** ![:LesserVigorCrystal:](https://cdn.discordapp.com/emojis/954554495050850315.webp?size=96\&quality=lossless)
 
 `0x5e4Cf6907CB5fBe2F642E399F6d07E567155d1F8`
 
-**Vigor Crystal** ![:VigorCrystal:](https://cdn.discordapp.com/emojis/954554495164092476.webp?size=96\&quality=lossless)****
+**Vigor Crystal** ![:VigorCrystal:](https://cdn.discordapp.com/emojis/954554495164092476.webp?size=96\&quality=lossless)
 
 `0xcD9201F50e5Be84ECE3D8F603dcd3e9DD5e88ea2`
 
-**Greater Vigor Crystal** ![:GreaterVigorCrystal:](https://cdn.discordapp.com/emojis/973975332069707776.webp?size=96\&quality=lossless)****
+**Greater Vigor Crystal** ![:GreaterVigorCrystal:](https://cdn.discordapp.com/emojis/973975332069707776.webp?size=96\&quality=lossless)
 
 `0x8780c4aa8bd0D15493D63C884bd9D427199Cf2cf`
 
-**Lesser Fortitude Crystal** ![:LesserFortitudeCrystal:](https://cdn.discordapp.com/emojis/954554494740467804.webp?size=96\&quality=lossless)****
+**Lesser Fortitude Crystal** ![:LesserFortitudeCrystal:](https://cdn.discordapp.com/emojis/954554494740467804.webp?size=96\&quality=lossless)
 
 `0xbd2677c06C9448534A851bdD25dF045872b87cb1`
 
-**Fortitude Crystal** ![:FortitudeCrystal:](https://cdn.discordapp.com/emojis/954554494774046770.webp?size=96\&quality=lossless)****
+**Fortitude Crystal** ![:FortitudeCrystal:](https://cdn.discordapp.com/emojis/954554494774046770.webp?size=96\&quality=lossless)
 
 `0xdbEE8C336B06f2d30a6d2bB3817a3Ae0E34f4900`
 
 **Greater Fortitude Crystal** ![:GreaterFortitudeCrystal:](https://cdn.discordapp.com/emojis/973975331704815668.webp?size=96\&quality=lossless) `0x3e1c80c3B916C93748Ae642c885d4BFb5D6a6BFe`
 
-**Lesser Wit Crystal** ![:LesserWitCrystal:](https://cdn.discordapp.com/emojis/954554495004717057.webp?size=96\&quality=lossless)****
+**Lesser Wit Crystal** ![:LesserWitCrystal:](https://cdn.discordapp.com/emojis/954554495004717057.webp?size=96\&quality=lossless)
 
 `0xC989c916F189D2A2BE0322c020942d7c43aEa830`
 
-**Wit Crystal** ![:WitCrystal:](https://cdn.discordapp.com/emojis/954554495256395776.webp?size=96\&quality=lossless)****
+**Wit Crystal** ![:WitCrystal:](https://cdn.discordapp.com/emojis/954554495256395776.webp?size=96\&quality=lossless)
 
 `0xAeb5b59c8B90D4F078046550Cc8F9f08dC127253`
 
-**Greater Wit Crystal** ![:GreaterWitCrystal:](https://cdn.discordapp.com/emojis/973975331566407702.webp?size=96\&quality=lossless)****
+**Greater Wit Crystal** ![:GreaterWitCrystal:](https://cdn.discordapp.com/emojis/973975331566407702.webp?size=96\&quality=lossless)
 
 `0x9d1f44b0EC7BB80656FC8Fcd65152513f29a606D`
 
-**Lesser Insight Crystal** ![:LesserInsightCrystal:](https://cdn.discordapp.com/emojis/954554494946009088.webp?size=96\&quality=lossless)****
+**Lesser Insight Crystal** ![:LesserInsightCrystal:](https://cdn.discordapp.com/emojis/954554494946009088.webp?size=96\&quality=lossless)
 
 `0xbb5F97358F60cCBa262883A3Ff0C637393FE3aB8`
 
-**Insight Crystal** ![:InsightCrystal:](https://cdn.discordapp.com/emojis/954554494946013224.webp?size=96\&quality=lossless)****
+**Insight Crystal** ![:InsightCrystal:](https://cdn.discordapp.com/emojis/954554494946013224.webp?size=96\&quality=lossless)
 
 `0x03e56Ded72C3a974295773355EadB38c0A85cF9D`
 
-**Greater Insight Crystal** ![:GreaterInsightCrystal:](https://cdn.discordapp.com/emojis/973975331511861280.webp?size=96\&quality=lossless)****
+**Greater Insight Crystal** ![:GreaterInsightCrystal:](https://cdn.discordapp.com/emojis/973975331511861280.webp?size=96\&quality=lossless)
 
 `0xB3F5867E277798b50ba7A71C0b24FDcA03045eDF`
 
-**Lesser Fortune Crystal** ![:LesserFortuneCrystal:](https://cdn.discordapp.com/emojis/954554494639808524.webp?size=96\&quality=lossless)****
+**Lesser Fortune Crystal** ![:LesserFortuneCrystal:](https://cdn.discordapp.com/emojis/954554494639808524.webp?size=96\&quality=lossless)
 
 `0xE410b2BE2Ce1508E15009118567d02C6d7A7038e`
 
-**Fortune Crystal** ![:FortuneCrystal:](https://cdn.discordapp.com/emojis/954554494820171796.webp?size=96\&quality=lossless)****
+**Fortune Crystal** ![:FortuneCrystal:](https://cdn.discordapp.com/emojis/954554494820171796.webp?size=96\&quality=lossless)
 
 `0xe9BfCc80800EB77a1eAF6881825936770aF83Eb6`
 

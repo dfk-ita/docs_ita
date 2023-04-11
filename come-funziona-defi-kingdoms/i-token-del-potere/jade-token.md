@@ -26,8 +26,8 @@ _(Nota: le assegnazioni al Development Fund, Marketing Fund, and Founders Fund s
 
 Una piccola quantità di JADE è stata pre-coniata prima del lancio e distribuita come segue:
 
-* ****[**Klaytn Utility Wallet**](https://scope.klaytn.com/account/0xfECBd8Dd13fB958594Ad5d22d477786622A58Bca)**: 37,500  JADE**— per Liquidità LP Iniziale
-* ****[**Klaytn Quest Reward Fund**](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049)**: 750,000 JADE** —per le ricompense delle Missioni di Gardening
+* [**Klaytn Utility Wallet**](https://scope.klaytn.com/account/0xfECBd8Dd13fB958594Ad5d22d477786622A58Bca)**: 37,500  JADE**— per Liquidità LP Iniziale
+* [**Klaytn Quest Reward Fund**](https://scope.klaytn.com/account/0x24D557a1C580ec8B78E6e0de910df5E0CE090049)**: 750,000 JADE** —per le ricompense delle Missioni di Gardening
 
 
 
@@ -39,8 +39,8 @@ Oltre al pre-mint di 37.500 JADE, altri 300.000 JADE (provenienti dalla distribu
 
 I fondi per lo sviluppo su Klaytn sono conservati in un **unico portafoglio multisig** che richiede 3 firme su 4 per l'esecuzione di qualsiasi transazione. [Una parte delle commissioni delle transazioni di gioco viene inviata a questo indirizzo](./#transazioni-e-distribuzione-delle-commissioni). Altri multisig sono utilizzati per altri scopi, come la custodia dei tokens LP.
 
-* **Development Fund Multisig:** [`0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D`](https://scope.klaytn.com/account/0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D)****
-* **Liquidity Fund Multisig:** [`0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0`](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0)****
+* **Development Fund Multisig:** [`0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D`](https://scope.klaytn.com/account/0xa03990511B6ee8BDb24C1693f9f8BD90DDfFd19D)
+* **Liquidity Fund Multisig:** [`0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0`](https://scope.klaytn.com/account/0x65b8131cb67c7f17e60b9114bcc0ae9755ae89a0)
 
 #### **Multisig Signer Addresses:**
 

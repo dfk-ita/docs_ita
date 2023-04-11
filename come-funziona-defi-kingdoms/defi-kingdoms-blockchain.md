@@ -39,4 +39,4 @@ Visita [Chainlist](https://chainlist.org/?search=dfk) per informazioni sugli RPC
 
 ### DFK Validator Fees
 
-Le commissioni del validatore ricevute dal validatore di proprietà di DFK utilizzato sulla DFK Chain verranno depositate nel seguente indirizzo di portafoglio: [`0xED6dC9FD092190C08e4afF8611496774Ded19D54`](https://subnets.avax.network/defi-kingdoms/address/0xED6dC9FD092190C08e4afF8611496774Ded19D54)``
+Le commissioni del validatore ricevute dal validatore di proprietà di DFK utilizzato sulla DFK Chain verranno depositate nel seguente indirizzo di portafoglio: [`0xED6dC9FD092190C08e4afF8611496774Ded19D54`](https://subnets.avax.network/defi-kingdoms/address/0xED6dC9FD092190C08e4afF8611496774Ded19D54)

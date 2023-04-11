@@ -45,6 +45,16 @@ L'elenco che segue è da intendersi come riferimento per gli utenti vecchi e nuo
 
 ### 2023
 
+
+
+#### Marzo
+
+* :white\_check\_mark: **Combat Testing Grounds**: Accesso Pre-Alpha alla nostra imminente funzione di combattimento PVP, sviluppata in collaborazione con [Wisdom Gaming](https://www.wisdom.gg/). Provate le abilità e le capacità degli Eroi e fornite preziosi test e feedback, il tutto mentre combattete contro un branco di famelici blub! Nuove classi di Eroi e funzionalità aggiuntive saranno aggiunte costantemente a questa versione iniziale.
+
+#### Febbraio
+
+* :white\_check\_mark: **Commissioni Differite & Offerte di Tokens**: La nuova Struttura delle Commissioni Differite consente ai giocatori di differire le spese di gioco utilizzando i Tokens Bloccati. Le Offerte di Tokens danno ai giocatori la possibilità di vincere oggetti rari in cambio di Offerte di Tokens bloccati o sbloccati.
+
 #### Gennaio
 
 * :white\_check\_mark: **Power-Ups**: Utilizza i tuoi cJEWEL e sJEWEL per sbloccare altre caratteristiche! I primi due potenziamenti permettono ai tuoi Eroi di guadagnare più esperienza e di recuperare più velocemente la loro Stamina, e molti altri potenziamenti verranno lanciati in futuro.
@@ -131,31 +141,31 @@ L'elenco che segue è da intendersi come riferimento per gli utenti vecchi e nuo
 
 #### Dicembre
 
-* ****:white\_check\_mark: **Missioni di Gold Mining**: Il Mining, la quarta ed ultima missione delle Professioni, inizia con il Gold Mining, che consente ai giocatori di far estrarre ai loro Eroi Gold.
-* ****:white\_check\_mark: **Zona Alchimista**: Visitate l'Alchimista per creare potenti pozioni che aiuteranno il vostro Eroe in battaglia o ricaricheranno la sua Stamina.
-* ****:white\_check\_mark: **Missioni di Gardening**: La nostra terza missione di professione, Gardening, è disponibile e permette ai giocatori di guadagnare ricompense in base alla quantità di semi (tokens LP) che hanno piantato nei Gardens.
-* ****:white\_check\_mark: **Livellaggio Eroi**: Una volta che la barra dell'esperienza del vostro Eroe è piena, può visitare la zona del **Meditation Circle** per salire di livello e migliorare le sue statistiche.
-* ****:white\_check\_mark: **Vendor**: Il Venditore di oggetti apre il suo negozio e permette di vendere le ricompense delle missioni in cambio di Gold. Ha anche alcuni oggetti preziosi in magazzino che il giocatore può acquistare!
-* ****:white\_check\_mark: **Zona Meditation Circle**: È stata scoperta una nuova zona: il Meditation Circle è ancora in carica, ma presto i vostri Eroi potranno usare questa zona per salire di livello.
-* ****:white\_check\_mark: **Missioni di Fishing e Foraging**: La nostra prima serie di Missioni di Professione inizia con Fishing e Foraging! Inviate i vostri Eroi in missione per guadagnare esperienza, preziose ricompense e materiali.
+* :white\_check\_mark: **Missioni di Gold Mining**: Il Mining, la quarta ed ultima missione delle Professioni, inizia con il Gold Mining, che consente ai giocatori di far estrarre ai loro Eroi Gold.
+* :white\_check\_mark: **Zona Alchimista**: Visitate l'Alchimista per creare potenti pozioni che aiuteranno il vostro Eroe in battaglia o ricaricheranno la sua Stamina.
+* :white\_check\_mark: **Missioni di Gardening**: La nostra terza missione di professione, Gardening, è disponibile e permette ai giocatori di guadagnare ricompense in base alla quantità di semi (tokens LP) che hanno piantato nei Gardens.
+* :white\_check\_mark: **Livellaggio Eroi**: Una volta che la barra dell'esperienza del vostro Eroe è piena, può visitare la zona del **Meditation Circle** per salire di livello e migliorare le sue statistiche.
+* :white\_check\_mark: **Vendor**: Il Venditore di oggetti apre il suo negozio e permette di vendere le ricompense delle missioni in cambio di Gold. Ha anche alcuni oggetti preziosi in magazzino che il giocatore può acquistare!
+* :white\_check\_mark: **Zona Meditation Circle**: È stata scoperta una nuova zona: il Meditation Circle è ancora in carica, ma presto i vostri Eroi potranno usare questa zona per salire di livello.
+* :white\_check\_mark: **Missioni di Fishing e Foraging**: La nostra prima serie di Missioni di Professione inizia con Fishing e Foraging! Inviate i vostri Eroi in missione per guadagnare esperienza, preziose ricompense e materiali.
 
 #### Novembre
 
-* ****:white\_check\_mark: **Zona Docks**: I Moli sono aperti - in futuro le navi permetteranno di viaggiare in altre regioni su altre blockchain.
-* ****:white\_check\_mark: **Rilascio della Mappa del Mondo**: I giocatori possono ora esplorare la Mappa del Mondo e navigare direttamente tra le zone.
-* ****:white\_check\_mark: **Rework #1 Marketplace**: La nostra zona Marketplace ha ricevuto la sua prima rielaborazione visiva!
+* :white\_check\_mark: **Zona Docks**: I Moli sono aperti - in futuro le navi permetteranno di viaggiare in altre regioni su altre blockchain.
+* :white\_check\_mark: **Rilascio della Mappa del Mondo**: I giocatori possono ora esplorare la Mappa del Mondo e navigare direttamente tra le zone.
+* :white\_check\_mark: **Rework #1 Marketplace**: La nostra zona Marketplace ha ricevuto la sua prima rielaborazione visiva!
 
 #### Ottobre
 
-* ****:white\_check\_mark: **Taverna & Vendite Eroi**: La **Taverna del Focolare Scarlatto** apre le sue porte, consentendo l'acquisto, la vendita e l'affitto di Eroi.
-* ****:white\_check\_mark: **Zona Portale & Evocazione Eroi**: I giocatori possono ora utilizzare due Eroi per evocare un nuovo Eroe, caratterizzato dai tratti genetici dei Eroi genitori nella nuova zona del Portale.
+* :white\_check\_mark: **Taverna & Vendite Eroi**: La **Taverna del Focolare Scarlatto** apre le sue porte, consentendo l'acquisto, la vendita e l'affitto di Eroi.
+* :white\_check\_mark: **Zona Portale & Evocazione Eroi**: I giocatori possono ora utilizzare due Eroi per evocare un nuovo Eroe, caratterizzato dai tratti genetici dei Eroi genitori nella nuova zona del Portale.
 
 #### Settembre
 
-* ****:white\_check\_mark: **Vendita dei Genesis Gen0**: La creazione degli Eroi Genesis Gen0 ha segnato il lancio dei nostri Eroi NFT. I 2000 Eroi Gen0 limitati, esauriti in pochi minuti, erano gli antenati genetici di tutti i futuri Eroi Serendale.
+* :white\_check\_mark: **Vendita dei Genesis Gen0**: La creazione degli Eroi Genesis Gen0 ha segnato il lancio dei nostri Eroi NFT. I 2000 Eroi Gen0 limitati, esauriti in pochi minuti, erano gli antenati genetici di tutti i futuri Eroi Serendale.
 
 #### **Agosto**
 
 <figure><img src=".gitbook/assets/dfkse1.png" alt=""><figcaption></figcaption></figure>
 
-* ****:white\_check\_mark: **Lancio di DeFi Kingdoms**: Il 22 Agosto 2021 è stato lanciato ufficialmente DeFi Kingdoms, caratterizzato da un'interfaccia in pixel art, da uno scambio decentralizzato tramite il **Trader** e dai **Gardens**, che consentono di depositare tokens LP e di guadagnare **JEWEL**.
+* :white\_check\_mark: **Lancio di DeFi Kingdoms**: Il 22 Agosto 2021 è stato lanciato ufficialmente DeFi Kingdoms, caratterizzato da un'interfaccia in pixel art, da uno scambio decentralizzato tramite il **Trader** e dai **Gardens**, che consentono di depositare tokens LP e di guadagnare **JEWEL**.

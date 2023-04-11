@@ -20,7 +20,7 @@ Al momento della cessazione delle emissioni Harmony, circolavano circa 112.851.5
 
 Per tenere conto della riduzione del supply massimo e dell'esistente JEWEL bloccato, questa differenza è stata ridistribuita come CRYSTAL, JADE e JEWEL su Crystalvale e Serendale 2.0. Questo airdrop ha avuto luogo in concomitanza con il lancio di Serendale 2.0. I tokens acquisiti si sbloccano retroattivamente all'inizio del programma originale di sblocco dei JEWEL bloccati, il 24 Settembre 2022 ([blocco Harmony #31.772.767](https://explorer.harmony.one/block/31772767)).
 
-Al 12/8/2022, tutte queste distribuzioni, tranne quella di Locked CRYSTAL, sono state effettuate.
+Al 20/03/2023, tutte queste distribuzioni sono state effettuate.
 
 <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
@@ -75,7 +75,7 @@ Queste assegnazioni erano basate sul programma di emissioni originale e sul supp
 * **5,000,000 JEWEL**: Assegnati al Development Fund Multisig Safe per finanziare il futuro sviluppo del gioco. Questi tokens sono stati bloccati nel tempo e rilasciati secondo un calendario prestabilito, man mano che le funzionalità vengono completate.
 * **2,000,000 JEWEL**: Assegnati al Marketing Fund Multisig Safe per la promozione del progetto, compreso il marketing, airdrops, ecc. Questi tokens sono stati bloccati per essere rilasciati lentamente nel corso dei prossimi anni, per garantire che ci siano sempre fondi disponibili per commercializzare il gioco e acquisire nuovi giocatori e commercianti.
 * **2,000,000 JEWEL**: Assegnati per la liquidità iniziale. Questi tokens sono stati abbinati ai tokens ONE per formare la pool di liquidità iniziale e non saranno ritirati o venduti.
-  * **Initial Liquidity Fund: **_****_ I token LP provenienti dalla liquidità iniziale sono conservati nel [Marketing Fund Multsig Safe](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99).
+  * **Initial Liquidity Fund:** I token LP provenienti dalla liquidità iniziale sono conservati nel [Marketing Fund Multsig Safe](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99).
 * **1,000,000 JEWEL**: Assegnati al Founders Fund Multisig Safe per bounties ed ore per il Team dei fondatori in base al loro lavoro per il lancio. Metà di questi token sono stati assegnati al momento del lancio, mentre l'altra metà maturerà nel tempo.
 
 #### Tesoreria Multi-sig Harmony
@@ -90,14 +90,14 @@ Sappiamo che ci sono state preoccupazioni per alcuni altri progetti che hanno ve
 
 Potete vedere gli indirizzi di questi fondi qui:
 
-* **Development Fund Multisig Safe:** [`0xa4b9A93013A5590dB92062CF58D4b0ab4F35dBfB`](https://explorer.harmony.one/address/0xa4b9a93013a5590db92062cf58d4b0ab4f35dbfb)****
-* **Marketing Fund Multisig Safe:** [`0x3875e5398766a29c1B28cC2068A0396cba36eF99`](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99)****
-* **Founders Fund Multisig Safe:** [`0x79F0d0670D17a89f509Ad1c16BB6021187964A29`](https://explorer.harmony.one/address/0x79f0d0670d17a89f509ad1c16bb6021187964a29)****
+* **Development Fund Multisig Safe:** [`0xa4b9A93013A5590dB92062CF58D4b0ab4F35dBfB`](https://explorer.harmony.one/address/0xa4b9a93013a5590db92062cf58d4b0ab4f35dbfb)
+* **Marketing Fund Multisig Safe:** [`0x3875e5398766a29c1B28cC2068A0396cba36eF99`](https://explorer.harmony.one/address/0x3875e5398766a29c1b28cc2068a0396cba36ef99)
+* **Founders Fund Multisig Safe:** [`0x79F0d0670D17a89f509Ad1c16BB6021187964A29`](https://explorer.harmony.one/address/0x79f0d0670d17a89f509ad1c16bb6021187964a29)
 
 Altri smart contracts del progetto degni di nota su Harmony includono:
 
-* **Quest Fund Smart Contract:** [`0x5ca5bcd91929c7152ca577e8c001c9b5a185f568`](https://explorer.harmony.one/address/0x5ca5bcd91929c7152ca577e8c001c9b5a185f568)****
-* **Pay Portal Vesting Contract:** [`0x2b12d9a2480d6dd9f71dabaa366c87134195b679`](https://explorer.harmony.one/address/0x2b12d9a2480d6dd9f71dabaa366c87134195b679)__
+* **Quest Fund Smart Contract:** [`0x5ca5bcd91929c7152ca577e8c001c9b5a185f568`](https://explorer.harmony.one/address/0x5ca5bcd91929c7152ca577e8c001c9b5a185f568)
+* **Pay Portal Vesting Contract:** [`0x2b12d9a2480d6dd9f71dabaa366c87134195b679`](https://explorer.harmony.one/address/0x2b12d9a2480d6dd9f71dabaa366c87134195b679)
 
 #### **Multisig Signer Addresses**&#x20;
 

@@ -54,4 +54,4 @@ Non tutti gli Eroi avranno lo stesso livello di competenza nel Mining, quindi è
 * **8%** se un utente preleva prima di **1 ora. \***
 * **25%** se un utente preleva **durante lo stesso blocco.**
 
-## ****
+##
