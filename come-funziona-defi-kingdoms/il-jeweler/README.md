@@ -35,7 +35,7 @@ I giocatori possono bloccare i propri JEWEL nello smart contract del Jeweler per
 {% hint style="info" %}
 **Esempio:**
 
-![](<../../.gitbook/assets/image (10) (1) (1).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
+![](<../../.gitbook/assets/image (10) (1).png>)Keal ha 50.000 JEWEL e vuole depositarli nel Jeweler. Decide di depositare con il periodo di blocco minimo di 7 giorni e riceve \~320 cJEWEL.
 
 ![](<../../.gitbook/assets/image (11) (1).png>)Rolando non ha gli stessi mezzi di Keal, ma decide di rimediare depositando e bloccando più a lungo i suoi JEWEL. Non volendo essere superato da Keal, acquisisce 320 cJEWEL depositando \~960 JEWEL per un anno.
 

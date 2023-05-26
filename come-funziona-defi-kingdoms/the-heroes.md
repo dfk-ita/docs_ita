@@ -44,7 +44,7 @@ A volte gli Eroi possono trovare uova che possono schiudere in rari [Pet NFTs](.
 
 ## **Terreni**
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Gli Eroi avranno l'opportunità di competere per il diritto di acquistare terreni, che sono un tipo speciale di NFT migliorabile e limitato. I terreni potranno essere acquistati e venduti, potranno essere edificati e visitati dagli Eroi in viaggio. Queste ultime caratteristiche sono attualmente in fase di sviluppo.
 

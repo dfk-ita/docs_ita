@@ -33,7 +33,7 @@
     * [Dark Summoning](gameplay/heroes/summoning/dark-summoning.md)
   * [Leveling](learn/gameplay/heroes/leveling.md)
 * [Quests](learn/gameplay/heroes/quests.md)
-  * [Professions Quests](learn/gameplay/professions/README.md)
+  * [Missioni di Professione](learn/gameplay/professions/README.md)
     * [Fishing](learn/gameplay/professions/fishing.md)
     * [Foraging](learn/gameplay/professions/foraging.md)
     * [Gardening](learn/gameplay/professions/gardening.md)
