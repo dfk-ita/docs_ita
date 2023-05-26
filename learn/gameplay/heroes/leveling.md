@@ -1,8 +1,8 @@
 # Leveling
 
-Gli Eroi possono aumentare le loro Statistiche salendo di livello. Per salire di livello, un Eroe deve prima aver accumulato abbastanza EXP dalle sue avventure. Dopo averlo fatto, possono visitare il Circolo di Meditazione (Meditation Circle) e, spendono un certo numero di Rune e JEWEL in base al loro livello, passare a quello successivo. Hanno anche la possibilità di utilizzare un Cristallo di Sintonizzazione (Attunement Crystal) mentre salgono di livello, il che aumenterà la percentuale di successo per determinati aumenti delle Statistiche.
+Gli Eroi possono aumentare le loro Statistiche salendo di livello. Per salire di livello, un Eroe deve prima aver accumulato abbastanza EXP dalle sue avventure. Dopo averlo fatto, possono visitare il Circolo di Meditazione (**Meditation Circle**) e, spendono un certo numero di Rune e JEWEL in base al loro livello, passare a quello successivo. Hanno anche la possibilità di utilizzare un Cristallo di Sintonizzazione ([Attunement Crystal](attunement-crystal/)) mentre salgono di livello, il che aumenterà la percentuale di successo per determinati aumenti delle Statistiche.
 
-![The Meditation Circle](<../../../.gitbook/assets/mediation circle.png>)
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 Ogni set di 10 livelli ha una Runa di concentrazione ad esso associata. Per i livelli da 1 a 10, quella runa è la **Runa Shvās**.
 
@@ -24,7 +24,7 @@ Consulta i pratici [grafici di ripartizione della crescita delle Statistiche](ht
 
 Oltre ai due tiri per le Statistiche, al giocatore verrà data la possibilità di scegliere una Statistica che riceverà un bonus extra di +1. Ma non è tutto, i giocatori hanno anche la possibilità di chiedere la benedizione di Gaia per altre due Statistiche. La benedizione di Gaia ha una probabilità del 50% di aumentare ciascuna delle Statistiche selezionate.
 
-![LevelChoices](https://user-images.githubusercontent.com/91647016/136141588-22152842-d295-4859-964f-80376be24d26.png)
+<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 Riassumendo, quando un Eroe sale di livello, accadrà quanto segue:
 

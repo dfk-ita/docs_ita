@@ -6,7 +6,7 @@ description: Una panoramica dei vari NFTs utilizzati in DeFi Kingdoms
 
 Anche se il giardinaggio e la coltivazione di JEWEL e CRYSTAL sono straordinariamente adorabili di per sé, volevamo aggiungere un po' di "spada e stregoneria" a questo regno fantastico, e quale modo migliore per farlo se non introdurre degli Eroi unici in pixel style nel nostro mercato?
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Eroi
 
@@ -44,7 +44,7 @@ A volte gli Eroi possono trovare uova che possono schiudere in rari [Pet NFTs](.
 
 ## **Terreni**
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Gli Eroi avranno l'opportunità di competere per il diritto di acquistare terreni, che sono un tipo speciale di NFT migliorabile e limitato. I terreni potranno essere acquistati e venduti, potranno essere edificati e visitati dagli Eroi in viaggio. Queste ultime caratteristiche sono attualmente in fase di sviluppo.
 

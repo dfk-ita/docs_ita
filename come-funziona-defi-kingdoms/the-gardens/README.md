@@ -2,7 +2,7 @@
 
 In ogni Regno, i Giardini sono il luogo in cui depositare i token delle pool di liquidità (qui indicati come "tokens LP") per ricevere una quota di emissioni di [Power Token](../i-token-del-potere/#power-tokens). Nei [Giardini JADE](giardini-jade.md) di Serendale, i giocatori possono depositare per ricevere le emissioni di JADE, mentre nei [Giardini CRYSTAL](ice-gardens.md) di Crystalvale sono in palio emissioni di CRYSTAL.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Inoltre, i giocatori possono assegnare i loro Eroi NFT a lavorare nei loro Giardini attraverso [Missioni di Gardening](../../learn/gameplay/professions/gardening.md). Quegli Eroi guadagnano ricompense aggiuntive in JEWEL e JADE o CRYSTAL in base al Regno dove si esegue la Missione, all'abilità degli Eroi ed alla quantità di tokens LP depositati nel Giardino che stanno curando, quindi i giocatori che depositano tokens LP nei Giardini ed assegnano Eroi in quegli stessi Giardini, hanno un'utilità sinergica tramite per i loro NFT.
 

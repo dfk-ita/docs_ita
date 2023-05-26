@@ -43,3 +43,7 @@ L'emissione di JADE è programmata per cambiare durante ogni periodo di tempo co
 I JADE bloccati reclamati rimarranno bloccati fino al **30 Novembre 2023** circa, data che segna la fine dell**'Epoca 51**. Le ricompense bloccate cominceranno a sbloccarsi in modo razionale in quel momento per le 52 epoche successive.
 
 La percentuale di JADE che viene sbloccata inizia al 5% nell'Epoca 1 ed aumenta del 2% ogni Epoca. Le ricompense non reclamate continuano a sbloccarsi secondo questo schema fino alla richiesta, a quel punto le ricompense sbloccate finiscono direttamente nel portafoglio del giocatore e le ricompense bloccate diventano **completamente bloccate fino alla fine dell'Epoca 51**.
+
+### Transferimento dei JADE Bloccati
+
+Il saldo JADE bloccati di un portafoglio può essere trasferito ad un altro portafoglio una volta ogni 72 ore visitando il Manager nella [zona del Jeweler](../../learn/gameplay/bank.md). Il portafoglio destinatario dovrà prima consentire il trasferimento dal portafoglio di origine. Se si ricevono JADE Bloccati in questo modo, si reclamano anche i JADE sbloccabili.
