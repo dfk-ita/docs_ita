@@ -2,11 +2,13 @@
 
 In ogni Regno, i Giardini sono il luogo in cui depositare i token delle pool di liquidità (qui indicati come "tokens LP") per ricevere una quota di emissioni di [Power Token](../i-token-del-potere/#power-tokens). Nei [Giardini JADE](giardini-jade.md) di Serendale, i giocatori possono depositare per ricevere le emissioni di JADE, mentre nei [Giardini CRYSTAL](ice-gardens.md) di Crystalvale sono in palio emissioni di CRYSTAL.
 
-![](<../../.gitbook/assets/Cute Henry.gif>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Inoltre, i giocatori possono assegnare i loro Eroi NFT a lavorare nei loro Giardini attraverso [Missioni di Gardening](../../learn/gameplay/professions/gardening.md). Quegli Eroi guadagnano ricompense aggiuntive in JEWEL e JADE o CRYSTAL in base al Regno dove si esegue la Missione, all'abilità degli Eroi ed alla quantità di tokens LP depositati nel Giardino che stanno curando, quindi i giocatori che depositano tokens LP nei Giardini ed assegnano Eroi in quegli stessi Giardini, hanno un'utilità sinergica tramite per i loro NFT.
 
 ### Epoche ed Emissioni
+
+Inoltre, i giocatori possono assegnare i loro [Eroi](../the-heroes.md) NFT a lavorare nei loro Giardini attraverso le Missioni di [Gardening](../../learn/gameplay/professions/gardening.md). Questi Eroi guadagnano ricompense aggiuntive in JEWEL, CRYSTAL o JADE in base all'abilità dell'Eroe e alla quantità di tokens LP depositati nel Giardino che stanno curando, quindi i giocatori che depositano tokens LP nei Giardini e fanno le missioni in quegli stessi giardini hanno subito un'utilità sinergica per i loro NFT.
 
 Ogni Power Token ha un proprio programma di emissioni. In generale, le emissioni al minuto sono più elevate al momento del lancio del token e diminuiscono nel tempo. Questa diminuzione delle emissioni non è lineare, quindi è importante esaminare i programmi di emissione di ciascun token nella relativa sottopagina de[ I Giardini](./).
 

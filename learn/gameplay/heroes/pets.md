@@ -10,18 +10,11 @@ E' possibile controllare la ripartizione qui di seguito:
 
 ### Costi in base al Tier di schiusa
 
-| Tier di schiusa        | Prezzo in JEWEL | Prezzo in Gold | Prezzo in Gaia's Tears  | Tempo di Incubazione | Possibilità Shiny |
-| ---------------------- | --------------- | -------------- | ----------------------- | -------------------- | ----------------- |
-| Piccolo (Gaia's Favor) | 1               | 50             | 200                     | 168 ore              | 1%                |
-| Medio (Gaia's Grace)   | 10              | 500            | 200                     | 24 ore               | 10%               |
-| Grande (Gaia's Boon)   | 50              | 5000           | 200                     | 20 secondi           | 100%              |
+<table><thead><tr><th width="226.24659606656581">Tier di schiusa</th><th width="161">Prezzo in JEWEL</th><th width="150">Prezzo in Gold</th><th>Prezzo in Gaia's Tears </th><th>Tempo di Incubazione</th><th>Possibilità Shiny</th></tr></thead><tbody><tr><td>Piccolo (Gaia's Favor)</td><td>1</td><td>50</td><td>200</td><td>168 ore</td><td>1%</td></tr><tr><td>Medio (Gaia's Grace)</td><td>10</td><td>500</td><td>200</td><td>24 ore</td><td>10%</td></tr><tr><td>Grande (Gaia's Boon)</td><td>50</td><td>5000</td><td>200</td><td>20 secondi</td><td>100%</td></tr></tbody></table>
 
 ### Costi in base al tipo di uovo (non variano in base al Tier)
 
-| Tipo di Uovo | Materiale 1 | Quantità | Materiale 2  | Quantità |
-| ------------ | ----------- | -------- | ------------ | -------- |
-| Blu          | Latern-Eye  | 50       | Ironscale    | 50       |
-| Grigio       | Rockroot    | 45       | Darkweed     | 35       |
+<table><thead><tr><th width="150">Tipo di Uovo</th><th width="150">Materiale 1</th><th width="150">Quantità</th><th width="150">Materiale 2 </th><th>Quantità</th></tr></thead><tbody><tr><td>Blu</td><td>Latern-Eye</td><td>50</td><td>Ironscale</td><td>50</td></tr><tr><td>Grigio</td><td>Rockroot</td><td>45</td><td>Darkweed</td><td>35</td></tr></tbody></table>
 
 ![](<../../../.gitbook/assets/image (1) (2).png>)
 

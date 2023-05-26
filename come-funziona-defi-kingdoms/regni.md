@@ -19,3 +19,17 @@ DeFi Kingdoms: Crystalvale è stato lanciato il 30 Marzo 2022. È la prima espan
 <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 DeFi Kingdoms: Serendale è stato rilanciato sulla blockchain Klaytn il 7 Dicembre 2022, utilizzando il nuovo Power Token, JADE, e portando classi di Eroi aggiuntive ed un sapore aggiornato per adattarsi alla sua nuova casa.
+
+## Avamposti
+
+### Avalanche C-Chain
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>"Bellissimo, non è vero? Le montagne innevate e le foreste brulicanti di vita! Il suono rilassante dell'acqua che scorre lungo il fiume... è tutto così mozzafiato. Non siate timidi, date un'occhiata! Prometto che non ti spingerò oltre". - Snow Sage Ellia</p></figcaption></figure>
+
+L'avamposto di **Avalanche C-Chain** è stato lanciato il 30 Marzo 2022 come parte del lancio di DeFi Kingdoms: Crystalvale su [DFK Chain](defi-kingdoms-blockchain.md), una sottorete di Avalanche. Visitate **Snow Sage Ellia** per scambiare i gettoni o per trasferirli facilmente in uno dei nostri Regni.
+
+### Harmony
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>"Il filo di questa realtà si è finalmente spezzato e ha cominciato a cedere sotto l'enormità del suo stesso peso. Sì, il Portale rimane intatto, ma nessuno può dire per quanto tempo. Per favore, salvatevi..." - Druido Lisa</p></figcaption></figure>
+
+DeFi Kingdoms: Serendale è stato trasformato in un avamposto su **Harmony** il 12 Ottobre 2022. I giocatori possono ritirare la liquidità rimanente dai Giardini parlando con il **Druido Lazarus**, convertire gli xJEWEL rimanenti in JEWEL tramite il **Jeweler Ian**, ed inviare tramite bridge tutti gli Eroi, i Tokens o gli Oggetti rimanenti tramite la **Dockmaster Maria**.

@@ -40,8 +40,6 @@ L'emissione di JADE è programmata per cambiare durante ogni periodo di tempo co
 
 ### Meccanismo di Blocco
 
-Per bilanciare gli alti tassi di emissione delle prime Epoche e per garantire la stabilità dei prezzi, la tokenomic di JADE include un modello di blocco delle ricompense dei Giardini. Quando le ricompense vengono reclamate, una certa parte finisce direttamente nel portafoglio del giocatore, mentre la parte restante viene assegnata al portafoglio del giocatore ma bloccata.
+I JADE bloccati reclamati rimarranno bloccati fino al **30 Novembre 2023** circa, data che segna la fine dell**'Epoca 51**. Le ricompense bloccate cominceranno a sbloccarsi in modo razionale in quel momento per le 52 epoche successive.
 
 La percentuale di JADE che viene sbloccata inizia al 5% nell'Epoca 1 ed aumenta del 2% ogni Epoca. Le ricompense non reclamate continuano a sbloccarsi secondo questo schema fino alla richiesta, a quel punto le ricompense sbloccate finiscono direttamente nel portafoglio del giocatore e le ricompense bloccate diventano **completamente bloccate fino alla fine dell'Epoca 51**.
-
-I JADE bloccati reclamati rimarranno bloccati fino al **30 Novembre 2023** circa, data che segna la fine dell'**Epoca 51**. A quel punto le ricompense bloccate inizieranno a sbloccarsi in modo lineare nel corso delle 52 Epoche successive.

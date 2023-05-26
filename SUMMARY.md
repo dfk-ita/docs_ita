@@ -16,7 +16,7 @@
   * [Giardini JEWEL](come-funziona-defi-kingdoms/the-gardens/giardini-jewel.md)
   * [Giardini CRYSTAL](come-funziona-defi-kingdoms/the-gardens/ice-gardens.md)
   * [Giardini JADE](come-funziona-defi-kingdoms/the-gardens/giardini-jade.md)
-* [Gli Eroi](come-funziona-defi-kingdoms/the-heroes.md)
+* [Eroi & NFTs](come-funziona-defi-kingdoms/the-heroes.md)
 * [DeFi Kingdoms Blockchain](come-funziona-defi-kingdoms/defi-kingdoms-blockchain.md)
 
 ***
