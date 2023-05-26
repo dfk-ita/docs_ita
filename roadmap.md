@@ -45,7 +45,14 @@ L'elenco che segue è da intendersi come riferimento per gli utenti vecchi e nuo
 
 ### 2023
 
+#### Maggio
 
+<figure><img src=".gitbook/assets/image (19).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* :white\_check\_mark: **Cibo per Pets, Alimentazione ed Equipaggiamento:** Crea Cibi per Pets e mantieni i tuoi animaletti nutriti mentre sono legati ad un Eroe! Legare i Pets è la prima iterazione dell'Equipaggiamento dell'Eroe e getta le basi per il futuro.
+* :white\_check\_mark: **Schiusa delle Uova Verdi (Gardening Pets)**: La nostra terza serie di Pets unici in diverse rarità e strane varianti. Equipaggiateli a un Eroe per potenziare le sue abilità di Gardening!
+* :white\_check\_mark: **Mission di Professione  lv10 (Fishing, Foraging, & Gardening)**: Le nostre prime Missioni di Professione  lv10 sono iniziate con Fishing, Foraging e Gardening, che permettono agli Eroi più esperti di ottenere ricompense maggiori rispetto alle missioni base.
+* :white\_check\_mark: **Pet Utility**: Aumenta le prestazioni dei tuoi Eroi nelle missioni quando hanno un Pet legato. Ma attenzione: i Pets devono essere nutriti e curati per essere utili come compagni!
 
 #### Marzo
 
