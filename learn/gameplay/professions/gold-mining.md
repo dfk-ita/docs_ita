@@ -12,7 +12,7 @@ Le **missioni di Gold Mining** possono essere svolte da un massimo di sei Eroi a
 
 Le missioni di Gold Mining si iniziano nella zona **Professions** parlando con il **Miner** o il **Picker**, a seconda del regno. Tutti gli Eroi possono tentare le missioni di Gold Mining, ma gli Eroi con il **gene della professione Mining** useranno la loro Stamina in modo più efficiente e avranno maggiori possibilità di ottenere oggetti in premio. Completare con successo una missione di Gold Mining garantirà ad ogni Eroe una piccola quantità di XP ed una possibilità di aumentare la propria **abilità nella professione Mining**.
 
-Queste missioni hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Yellow Pet Eggs**. Tutti questi oggetti possono essere scambiati con altri tokens o oggetti presso il Trader nel [Marketplace](../marketplace.md). Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), per far nascere [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
+Queste missioni hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Yellow Pet Eggs**. Tutti questi oggetti possono essere scambiati con altri tokens o oggetti presso il Trader nel [Marketplace](../../../gameplay/zone-di-gioco/marketplace.md). Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** e [Enhancement Stones](../../../gameplay/oggetti/enhancement-stones.md), per far nascere [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
 
 ### Le Basi delle missioni di Mining
 

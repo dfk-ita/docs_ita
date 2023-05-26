@@ -41,5 +41,5 @@ La percentuale di CRYSTAL sbloccati inizia al 5% in Epoch 1 e aumenta del 2% in 
 
 ### Transferimento dei CRYSTAL Bloccati
 
-Il saldo CRYSTAL bloccati di un portafoglio può essere trasferito ad un altro portafoglio una volta ogni 72 ore visitando il Manager nella [zona del Jeweler](../../learn/gameplay/bank.md). Il portafoglio destinatario dovrà prima consentire il trasferimento dal portafoglio di origine. Se si ricevono CRYSTAL Bloccati in questo modo, si reclamano anche i CRYSTAL sbloccabili.
+Il saldo CRYSTAL bloccati di un portafoglio può essere trasferito ad un altro portafoglio una volta ogni 72 ore visitando il Manager nella [zona del Jeweler](../../gameplay/zone-di-gioco/bank.md). Il portafoglio destinatario dovrà prima consentire il trasferimento dal portafoglio di origine. Se si ricevono CRYSTAL Bloccati in questo modo, si reclamano anche i CRYSTAL sbloccabili.
 

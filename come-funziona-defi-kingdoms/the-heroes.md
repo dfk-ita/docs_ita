@@ -22,7 +22,7 @@ Gli Eroi hanno due serie di geni, una per l'aspetto e l'altra per gli attributi 
 
 Gli Eroi vengono evocati attraverso un portale dimensionale combinando i geni di due Eroi esistenti e pagando un costo di evocazione. Poiché le parti che compongono un Eroe sono tante, ogni nuovo NFT ha una combinazione unica di aspetto, classe e statistiche. L'evocazione è un'arte e una scienza, ma con significativi elementi di casualità. Ogni evocazione ha la possibilità di produrre un Eroe estremamente raro e prezioso con cui giocare o da scambiare!
 
-Gli Eroi possono essere acquistati o messi in vendita nella Taverna. I giocatori possono anche offrire i loro Eroi in affitto nella [Taverna](../learn/gameplay/tavern.md), per essere utilizzati da altri giocatori per l'Evocazione.
+Gli Eroi possono essere acquistati o messi in vendita nella Taverna. I giocatori possono anche offrire i loro Eroi in affitto nella [Taverna](../gameplay/zone-di-gioco/tavern.md), per essere utilizzati da altri giocatori per l'Evocazione.
 
 ### **Statistiche**
 
@@ -30,7 +30,7 @@ Gli Eroi hanno diverse [statistiche](../learn/gameplay/heroes/stats.md) che infl
 
 ### **Missioni**
 
-Gli Eroi possono intraprendere diverse [missioni](../learn/gameplay/heroes/quests.md) all'interno del regno. Le [Missioni di Professione](../learn/gameplay/professions/) permettono agli Eroi di raccogliere risorse di gioco, guadagnare tokens aggiuntivi dai Giardini e sbloccare tokens in anticipo, il tutto guadagnando esperienza e aumentando l'abilità della loro professione. Gli Eroi possono anche partecipare a [Missioni di Addestramento](../learn/gameplay/training-quests.md) che richiedono l'utilizzo delle loro statistiche per raggiungere determinati obiettivi, dialogare con gli NPC e viaggiare per la mappa. Alla fine, gli Eroi potranno anche combattere contro i nemici. Queste ultime caratteristiche sono attualmente in fase di sviluppo.
+Gli Eroi possono intraprendere diverse [missioni](../learn/gameplay/heroes/quests.md) all'interno del regno. Le [Missioni di Professione](../learn/gameplay/professions/) permettono agli Eroi di raccogliere risorse di gioco, guadagnare tokens aggiuntivi dai Giardini e sbloccare tokens in anticipo, il tutto guadagnando esperienza e aumentando l'abilità della loro professione. Gli Eroi possono anche partecipare a [Missioni di Addestramento](../gameplay/quests/missioni-di-addestramento.md) che richiedono l'utilizzo delle loro statistiche per raggiungere determinati obiettivi, dialogare con gli NPC e viaggiare per la mappa. Alla fine, gli Eroi potranno anche combattere contro i nemici. Queste ultime caratteristiche sono attualmente in fase di sviluppo.
 
 ### **PvP**
 

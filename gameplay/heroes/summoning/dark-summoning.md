@@ -17,7 +17,7 @@ Il **Dark Summoning** consente ai giocatori di sacrificare due Eroi per evocarne
 ## Meccaniche
 
 \
-L'Evocazione Oscura funziona come l'Evocazione standard, in cui due Eroi possono creare un nuovo Eroe. La genetica dell'Eroe e le evocazioni rimanenti vengono tramandate allo stesso modo. I giocatori possono usare [Enhancement Stones](../../../learn/gameplay/heroes/enhancement-stones.md) ed infondere la nuova evocazione con Gaia's Tears per ricevere bonus statistici.
+L'Evocazione Oscura funziona come l'Evocazione standard, in cui due Eroi possono creare un nuovo Eroe. La genetica dell'Eroe e le evocazioni rimanenti vengono tramandate allo stesso modo. I giocatori possono usare [Enhancement Stones](../../oggetti/enhancement-stones.md) ed infondere la nuova evocazione con Gaia's Tears per ricevere bonus statistici.
 
 Tuttavia, ci sono alcune differenze chiave rispetto all'evocazione standard:
 
@@ -40,7 +40,7 @@ Il Dark Summoning costa 1/4 della quantità di CRYSTAL necessaria nell'Evocazion
 ### Restrizioni Aggiuntive
 
 * Gli Eroi Gen0 non sono idonei per l'evocazione oscura.
-* Gli eroi listati per essere assoldati nella [Taverna](../../../learn/gameplay/tavern.md) non possono essere usati nel Dark Summoning. I giocatori devono possedere entrambi gli Eroi evocanti.
+* Gli eroi listati per essere assoldati nella [Taverna](../../zone-di-gioco/tavern.md) non possono essere usati nel Dark Summoning. I giocatori devono possedere entrambi gli Eroi evocanti.
 
 ## Benefits per l'Eroe
 
@@ -48,7 +48,7 @@ In cambio del sacrificio degli Eroi evocatori, gli Eroi evocati attraverso il Da
 
 ### Trasmissione del Livello
 
-Gli Eroi evocati attraverso il Dark Summoning possono [salire immediatamente di livello](../../../learn/gameplay/heroes/leveling.md) fino al livello medio dei due Eroi evocatori (arrotondato per difetto). Non sono necessari XP per questi passaggi di livello e gli XP guadagnati non verranno trasferiti. Gli aumenti di livello vengono effettuati individualmente ed i giocatori possono scegliere le statistiche per la benedizione di Gaia ed utilizzare gli [Attunement Crystals](../../../learn/gameplay/heroes/attunement-crystal/) durante ciascuno di essi.
+Gli Eroi evocati attraverso il Dark Summoning possono [salire immediatamente di livello](../../../learn/gameplay/heroes/leveling.md) fino al livello medio dei due Eroi evocatori (arrotondato per difetto). Non sono necessari XP per questi passaggi di livello e gli XP guadagnati non verranno trasferiti. Gli aumenti di livello vengono effettuati individualmente ed i giocatori possono scegliere le statistiche per la benedizione di Gaia ed utilizzare gli [Attunement Crystals](../../oggetti/attunement-crystal/) durante ciascuno di essi.
 
 ### Rarità
 

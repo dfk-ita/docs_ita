@@ -91,7 +91,7 @@ Le ricompense delle Rune sono determinate in base alla tabella seguente. Bisogna
 
 ![Runes Reward](../.gitbook/assets/runereward.png)
 
-Le [Enhancement Stones](gameplay/heroes/enhancement-stones.md) e gli [Attunement Crystals](gameplay/heroes/attunement-crystal/) vengono assegnati in base al Grado ed alla Rarità dell'Eroe, come mostrato nella tabella seguente. Il tipo di Enhancement Stones e gli Attunement Crystals  ricevuti sono determinati in base ad una o due statistiche più alte (a seconda del Grado) dell'Eroe bruciato. In caso di parità per la statistica più alta, le percentuali di crescita primarie e secondarie vengono utilizzate per gli spareggi.
+Le [Enhancement Stones](../gameplay/oggetti/enhancement-stones.md) e gli [Attunement Crystals](../gameplay/oggetti/attunement-crystal/) vengono assegnati in base al Grado ed alla Rarità dell'Eroe, come mostrato nella tabella seguente. Il tipo di Enhancement Stones e gli Attunement Crystals  ricevuti sono determinati in base ad una o due statistiche più alte (a seconda del Grado) dell'Eroe bruciato. In caso di parità per la statistica più alta, le percentuali di crescita primarie e secondarie vengono utilizzate per gli spareggi.
 
 ![Enhancement Stone and Attunement Crystal Rewards](../.gitbook/assets/death-enhancement-attunement-reward.png)
 

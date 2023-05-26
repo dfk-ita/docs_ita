@@ -4,5 +4,5 @@ DeFi Kingdoms ha attualmente due scambi decentralizzati che utilizzano il collau
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
-Dal [Marketplace](../learn/gameplay/marketplace.md), puoi scambiare i token ai tassi di cambio correnti. Puoi anche diventare un fornitore di liquidità aggiungendo liquidità a qualsiasi pool di token che desideri. Questi ti faranno guadagnare commissioni ogni volta che qualcuno scambia quei token. Inoltre, i token LP per determinati abbinamenti di token incentivati ​​possono anche guadagnare premi JEWEL o CRYSTAL quando sono puntati nei [Gardens](the-gardens/).
+Dal [Marketplace](../gameplay/zone-di-gioco/marketplace.md), puoi scambiare i token ai tassi di cambio correnti. Puoi anche diventare un fornitore di liquidità aggiungendo liquidità a qualsiasi pool di token che desideri. Questi ti faranno guadagnare commissioni ogni volta che qualcuno scambia quei token. Inoltre, i token LP per determinati abbinamenti di token incentivati ​​possono anche guadagnare premi JEWEL o CRYSTAL quando sono puntati nei [Gardens](the-gardens/).
 

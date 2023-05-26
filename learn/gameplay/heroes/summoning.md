@@ -2,7 +2,7 @@
 
 <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Il Portale di Evocazione di Crystalvale</p></figcaption></figure>
 
-Per evocare, due Eroi devono recarsi dall'**Arcidruido** ed infondere un Cristallo dell'Evocazione con la loro essenza combinata. I **Cristalli Infusi** vengono poi utilizzati nel [Portale](../portal.md) per cercare Eroi da terre lontane che siano in sintonia con gli Eroi che hanno infuso il cristallo.
+Per evocare, due Eroi devono recarsi dall'**Arcidruido** ed infondere un Cristallo dell'Evocazione con la loro essenza combinata. I **Cristalli Infusi** vengono poi utilizzati nel [Portale](../../../gameplay/zone-di-gioco/portal.md) per cercare Eroi da terre lontane che siano in sintonia con gli Eroi che hanno infuso il cristallo.
 
 ![Infused Crystal](https://dfk-hv.b-cdn.net/art-assets/crystal-yellow.gif)
 

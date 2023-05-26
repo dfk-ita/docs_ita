@@ -1,6 +1,6 @@
-# Leveling
+# Livellamento
 
-Gli Eroi possono aumentare le loro Statistiche salendo di livello. Per salire di livello, un Eroe deve prima aver accumulato abbastanza EXP dalle sue avventure. Dopo averlo fatto, possono visitare il Circolo di Meditazione (**Meditation Circle**) e, spendono un certo numero di Rune e JEWEL in base al loro livello, passare a quello successivo. Hanno anche la possibilità di utilizzare un Cristallo di Sintonizzazione ([Attunement Crystal](attunement-crystal/)) mentre salgono di livello, il che aumenterà la percentuale di successo per determinati aumenti delle Statistiche.
+Gli Eroi possono aumentare le loro Statistiche salendo di livello. Per salire di livello, un Eroe deve prima aver accumulato abbastanza EXP dalle sue avventure. Dopo averlo fatto, possono visitare il Circolo di Meditazione (**Meditation Circle**) e, spendono un certo numero di Rune e JEWEL in base al loro livello, passare a quello successivo. Hanno anche la possibilità di utilizzare un Cristallo di Sintonizzazione ([Attunement Crystal](../../../gameplay/oggetti/attunement-crystal/)) mentre salgono di livello, il che aumenterà la percentuale di successo per determinati aumenti delle Statistiche.
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

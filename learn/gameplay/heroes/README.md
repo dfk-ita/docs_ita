@@ -1,4 +1,4 @@
-# Heroes
+# Eroi
 
 Gli Eroi in DeFi Kingdoms sono NFT basati sull'utilità con una varietà di usi.
 
@@ -8,4 +8,4 @@ Gli Eroi possono impegnarsi nelle [Profession Quests](../professions/) per guada
 
 Alla fine, gli Eroi potranno partecipare a ulteriori [missioni](quests.md) per guadagnare bottino ed esperienza, per esempio le missioni PVE in cui combatteranno i nemici.
 
-La [Tavern](../tavern.md) ospita l'Agent NFT, che permetterà l'acquisto la vendita di Eroi, oltre all'affitto per usarli nel [Portale di Evocazione](../portal.md).
+La [Tavern](../../../gameplay/zone-di-gioco/tavern.md) ospita l'Agent NFT, che permetterà l'acquisto la vendita di Eroi, oltre all'affitto per usarli nel [Portale di Evocazione](../../../gameplay/zone-di-gioco/portal.md).

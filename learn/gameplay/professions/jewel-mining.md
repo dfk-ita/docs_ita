@@ -14,7 +14,7 @@ Le missioni di Token Mining si iniziano nella Zona delle **Professioni** parland
 
 Tutti gli Eroi possono tentare le Missioni di Token Mining, ma gli Eroi con il **gene della professione Mining** useranno la loro Stamina in modo più efficiente ed avranno maggiori possibilità di ottenere le ricompense degli oggetti. Completare con successo una Missione di Token Mining garantirà ad ogni Eroe una piccola quantità di XP ed una possibilità di aumentare la propria **abilità nella professione Mining**.
 
-Queste missioni hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Yellow Pet Eggs**. Tutti questi oggetti possono essere scambiati con altri tokens o oggetti presso il Trader nel [Marketplace](../marketplace.md). Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), per far nascere [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
+Queste missioni hanno anche la possibilità di ricompensare gli Eroi con **Gaia's Tears**, **Rune** e **Yellow Pet Eggs**. Tutti questi oggetti possono essere scambiati con altri tokens o oggetti presso il Trader nel [Marketplace](../../../gameplay/zone-di-gioco/marketplace.md). Alcuni oggetti sono utilizzati anche come reagenti per **Pozioni** e [Enhancement Stones](../../../gameplay/oggetti/enhancement-stones.md), per far nascere [Pets](../heroes/pets.md) e per far [salire di livello gli Eroi](../heroes/leveling.md).
 
 ### Le Basi delle missioni di Mining
 

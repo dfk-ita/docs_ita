@@ -14,7 +14,7 @@ Le **missioni di Fishing** possono essere svolte da un massimo di cinque o sei E
 
 Le missioni di Fishing si iniziano nella zona **Professions** parlando con il **Fisher**. Tutti gli Eroi possono tentare le missioni di Fishing, ma gli Eroi con il **gene della professione Fishing** useranno la loro Stamina in modo più efficiente ed avranno maggiori possibilità di ottenere oggetti in premio. Completare con successo una missione di Fishing garantirà ad ogni Eroe una piccola quantità di XP ed una possibilità di aumentare la propria **abilità nella professione Fishing**.
 
-Queste missioni hanno la possibilità di ricompensare gli Eroi con **Pesci**, **Gaia's Tears**, **Rune** e **Blue Pet Eggs**. Tutti i pesci possono essere venduti al **Vendor** nel [Marketplace](../marketplace.md) in cambio di **Gold** o scambiati presso il Trader con altri tokens o oggetti. Alcuni oggetti sono utilizzati anche come reagenti per la creazione di **Pozioni** e [Enhancement Stones](../heroes/enhancement-stones.md), per la schiusa di [Pets](../heroes/pets.md) e per il[ livellamento degli Eroi](../heroes/leveling.md).
+Queste missioni hanno la possibilità di ricompensare gli Eroi con **Pesci**, **Gaia's Tears**, **Rune** e **Blue Pet Eggs**. Tutti i pesci possono essere venduti al **Vendor** nel [Marketplace](../../../gameplay/zone-di-gioco/marketplace.md) in cambio di **Gold** o scambiati presso il Trader con altri tokens o oggetti. Alcuni oggetti sono utilizzati anche come reagenti per la creazione di **Pozioni** e [Enhancement Stones](../../../gameplay/oggetti/enhancement-stones.md), per la schiusa di [Pets](../heroes/pets.md) e per il[ livellamento degli Eroi](../heroes/leveling.md).
 
 ### Le Basi delle missioni Fishing
 

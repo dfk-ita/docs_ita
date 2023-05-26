@@ -40,15 +40,15 @@ Puoi leggere di più sulla [finanza decentralizzata](https://academy.binance.com
 
 Il gioco in se è gratuito, tuttavia c'è un costo di transazione (gas) ogni volta che interagisci con la blockchain, come quando crei un profilo entrando nel gioco. Grazie alle commissioni molto basse di Harmony, queste sono una frazione di centesimo.
 
-Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../come-funziona-defi-kingdoms/the-gardens/) o JEWEL dal [Jeweler](gameplay/bank.md).
+Una volta che sei nel gioco, puoi spendere quanto vuoi, tanto o poco, aggiungendo alle riserve di liquidità nel Marketplace e depositando token LP nei [Gardens](../come-funziona-defi-kingdoms/the-gardens/) o JEWEL dal [Jeweler](../gameplay/zone-di-gioco/bank.md).
 
-Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](gameplay/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](gameplay/portal.md).
+Puoi anche spendere JEWEL per acquistare [Eroi NFT](gameplay/heroes/) nella [Tavern](../gameplay/zone-di-gioco/tavern.md). Gli Eroi possono essere usati per raccogliere risorse attraverso le loro [Professions](gameplay/professions/) e possono essere accoppiati ad altri Eroi per [Evocare](gameplay/heroes/summoning.md) nuovi Eroi dal [Portal](../gameplay/zone-di-gioco/portal.md).
 
 ## ![](../.gitbook/assets/jewel-icon.png)TOKEN DEL POTERE
 
 ### Come posso acquistare JEWEL?
 
-Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.defikingdoms.com/#/) potrai acquistare JEWEL al [Marketplace](gameplay/marketplace.md) dal commerciante, il Trader Matoya. Potrai scambiare i tuoi ONE, o la maggior parte degli altri token di Harmony.
+Dopo aver effettuato l'accesso a [https://game.defikingdoms.com/](https://game.defikingdoms.com/#/) potrai acquistare JEWEL al [Marketplace](../gameplay/zone-di-gioco/marketplace.md) dal commerciante, il Trader Matoya. Potrai scambiare i tuoi ONE, o la maggior parte degli altri token di Harmony.
 
 Il contratto di JEWEL su Harmony è: `0x72Cb10C6bfA5624dD07Ef608027E366bd690048F`
 
@@ -70,7 +70,7 @@ JEWEL è la linfa vitale dell'economia DFK e la maggior parte delle azioni di gi
 
 ### Qual'è la differenza tra Jeweler e Gardens?
 
-Il [Jeweler](gameplay/bank.md) è una pool a partecipazione unica per JEWEL o CRYSTAL. Quando depositi i tuoi JEWEL o CRYSTAL dal Jeweler, ricevi un importo proporzionale di xJEWEL o xCRYSTAL. Poiché il rapporto tra loro non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL o CRYSTAL di quelli che hai messo!
+Il [Jeweler](../gameplay/zone-di-gioco/bank.md) è una pool a partecipazione unica per JEWEL o CRYSTAL. Quando depositi i tuoi JEWEL o CRYSTAL dal Jeweler, ricevi un importo proporzionale di xJEWEL o xCRYSTAL. Poiché il rapporto tra loro non fa che aumentare, quando prelevi dal Jeweler riceverai sempre più JEWEL o CRYSTAL di quelli che hai messo!
 
 I [Gardens](../come-funziona-defi-kingdoms/the-gardens/) ti consentono di mettere in stake i token Liquidity Pool (LP) che ricevi fornendo liquidità al DEX. Riceverai un ritorno in JEWEL o CRYSTAL in cambio dello staking di questi token.
 
@@ -112,7 +112,7 @@ Leggi di più riguardo gli Eroi [qui](../come-funziona-defi-kingdoms/the-heroes.
 
 ### Dove posso acquisire un Eroe?
 
-Gli Eroi possono essere acquistati da altri giocatori nella [Tavern](gameplay/tavern.md) e possono anche essere noleggiati dal [Portal](gameplay/portal.md), per assistere nel processo di [Evocazione](gameplay/heroes/summoning.md).
+Gli Eroi possono essere acquistati da altri giocatori nella [Tavern](../gameplay/zone-di-gioco/tavern.md) e possono anche essere noleggiati dal [Portal](../gameplay/zone-di-gioco/portal.md), per assistere nel processo di [Evocazione](gameplay/heroes/summoning.md).
 
 ### Qual'è la differenza tra Eroi Gen0 e Generazioni successive?
 
