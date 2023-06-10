@@ -1,4 +1,4 @@
-# Alchemist
+# Alchimista
 
 l'Alchimista Herbert ha aperto le porte del suo emporio alchemico, superato i controlli di sicurezza, ed è ora autorizzato a distillare Pozioni nel Regno di Serendale!\
 Ha pensato di cimentarsi in alcune nuove ricette... Perché non fare scorta in preparazione delle prossime avventure?

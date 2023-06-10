@@ -1,6 +1,6 @@
 # Summoning
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>Il Portale di Evocazione di Crystalvale</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt="" width="563"><figcaption><p>Il Portale di Evocazione di Crystalvale</p></figcaption></figure>
 
 Per evocare, due Eroi devono recarsi dall'**Arcidruido** ed infondere un Cristallo dell'Evocazione con la loro essenza combinata. I **Cristalli Infusi** vengono poi utilizzati nel [Portale](../../../gameplay/zone-di-gioco/portal.md) per cercare Eroi da terre lontane che siano in sintonia con gli Eroi che hanno infuso il cristallo.
 
@@ -33,7 +33,7 @@ LVL30 Wizard (statistiche più alte INT, WIS e LCK) paga 70 Gaia's Tears (base 1
 
 LVL100 Wizard (statistiche più alte INT, WIS e LCK) paga 210 Gaia's Tears (base 10 + 200 per 20 passaggi di 5 livelli) L'eroe evocato riceve +6 a INT, +3 WIS e +3 LCK, +6% statistica primaria crescita a INT, +3% a WIS e 3% a LCK e +5% di crescita statistica secondaria a INT, WIS e LCK
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="223"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (19).png" alt="" width="223"><figcaption></figcaption></figure>
 
 Questi bonus sono **per** **ogni Eroe evocato**, quindi il massimo che due Eroi di LVL100 possono spendere è di 420 Gaia's Tears (10_2 di base + 200_2 extra).
 
@@ -49,7 +49,7 @@ Che cos'è? Sì, purtroppo solo gli Eroi Gen0 sono in grado di mantenere la sint
 
 Gli Eroi di grado superiore hanno iniziato ad arrivare nel regno!!!
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 L'evocazione con Eroi che hanno i geni appropriati può provocare una mutazione genetica che porta a evocare un Eroe di grado superiore. La tabella qui sopra mostra le combinazioni genetiche necessarie per Evocare ogni possibile classe di Eroi. Gli Eroi di grado superiore hanno statistiche di partenza e parametri di crescita delle statistiche migliori rispetto a quelli di grado inferiore. Tuttavia, un effetto collaterale delle loro abilità avanzate è che richiedono più Gaia's Tears per effettuare un'Evocazione rispetto agli Eroi di grado inferiore. Inoltre, gli Eroi di grado superiore sono più difficili da localizzare per il Portale, quindi gli Eroi di grado superiore hanno evocazioni massime inferiori rispetto a quelli di grado inferiore. La tabella qui sopra mostra i requisiti delle Gaia's Tears per i gradi più alti ed il numero massimo di evocazioni che le classi di grado superiore possono ricevere durante l'evocazione.
 
@@ -65,6 +65,6 @@ Exalted - DreadKnight
 
 Il livello di rarità di un Eroe Evocato è influenzato dalla rarità dei due Eroi utilizzati per infondere il Cristallo di Evocazione.
 
-<figure><img src="../../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 La tabella qui sopra illustra la probabilità che accoppiando Eroi di determinate rarità si ottenga un Eroe Evocato di una determinata rarità. Per ulteriori informazioni su questo argomento, visitate la pagina dell'argomento [Rarità](rarity.md).

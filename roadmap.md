@@ -15,17 +15,13 @@ L'elenco che segue è da intendersi come riferimento per gli utenti vecchi e nuo
 
 ## In Arrivo prossimamente
 
-* **Missioni di Fishing & Foraging Livello 10**: La nostra prima serie di missioni di Professione livello 10 inizierà con Fishing e Foraging e consentirà agli Eroi più esperti di ottenere ricompense maggiori rispetto alle missioni base.
-* **Alimentazione & Utilità Pets**: Equipaggiate i vostri amati Animali Domestici ai vostri Eroi per aumentare le loro prestazioni nelle missioni. Ma attenzione: Gli Animali Domestici devono essere nutriti e curati per essere utili compagni!
-* **Schiusa delle Uova Verdi (Gardening Pets)**: Dopo la schiusa delle uova blu e grigie, rilasceremo la nostra terza serie di Pets unici in diverse rarità e strane varianti provenientei dalle missioni di Gardening. Equipaggiateli ad un Eroe per potenziare le sue abilità nel Gardening!
-* **Tornei**: Una funzione di torneo integrata consentirà ai giocatori di sfidarsi con i propri Eroi in tornei di DFK Duels in stile bracket e di competere per ottenere premi vantaggiosi.
-* **Casa d'Aste**: Scambiate materiali o oggetti rari nella nostra Casa d'Aste, che consentirà di effettuare scambi in massa tra i giocatori.
+* **Baazar**: Scambiate materiali o oggetti rari nella nostra Casa d'Aste, che consentirà di effettuare scambi in massa tra i giocatori.
 * **Spedizioni**: Questa funzione consentirà ai giocatori di inviare i propri Eroi in missione per periodi di tempo più lunghi. Fino a quando l'utente non terminerà la Spedizione, gli Eroi coltiveranno automaticamente i materiali per il giocatore.
+* **Tornei**: Una funzione di torneo integrata consentirà ai giocatori di sfidarsi con i propri Eroi in tornei di DFK Duels in stile bracket e di competere per ottenere premi vantaggiosi.
 * **Chat In-Game**: Comunica con altri giocatori in tutto il mondo con la nostra funzione di chat in-game: reclutate membri per la Gilda, scambiate Eroi, sfidate giocatori e molto altro ancora!
-* **Player vs Player (PVP), Combat System**: La nostra modalità di gioco principale consentirà ai giocatori di combattere contro altri giocatori in una modalità di combattimento a turni animata e ricca di azione, con possibilità pressoché infinite grazie ad un ampio albero delle abilità, all'equipaggiamento dell'Eroe e alle varianti della squadra di Eroi.
-* **Missioni di Gardening livello 10**: Affidate ai vostri Eroi esperti le missioni di Gardening livello 10, più impegnativa, per ottenere maggiori ricompense.
+* **Player vs Player (PVP), Combat System**: La nostra modalità di gioco principale consentirà ai giocatori di combattere contro altri giocatori in una modalità di combattimento a turni animata e ricca di azione, con possibilità pressoché infinite grazie ad un ampio albero delle abilità, all'equipaggiamento dell'Eroe e alle varianti della squadra di Eroi.&#x20;
 * **Missioni di Mining livello 10**: Le ultime missioni di Professione, Gold Mining e Token Mining avranno le loro varianti più impegnative di livello 10.
-* **Achievements-Traguardi**: Guadagnate e raccogliete risultati unici con una varietà di compiti impegnativi e mostrateli agli altri giocatori!
+* **Achievements - Traguardi**: Guadagnate e raccogliete risultati unici con una varietà di compiti impegnativi e mostrateli agli altri giocatori!
 * **Schiusa delle Uova Gialle (Mining Pets)**: Esplora molti nuovi animali domestici a tema Mining ed equipaggiali ai tuoi Eroi per aiutarli ad ottenere le migliori ricompense dalle miniere.
 
 ## Funzionalità sulla Roadmap Long-Term
@@ -45,9 +41,15 @@ L'elenco che segue è da intendersi come riferimento per gli utenti vecchi e nuo
 
 ### 2023
 
+#### Giugno
+
+<figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+* :white\_check\_mark: **Arte Eroi & Animazioni**: Tutte le nuove immagini degli Eroi e degli sfondi, oltre a una completa riscrittura del sistema che alimenta le animazioni degli Eroi che saranno utilizzate in combattimento e altrove in futuro.
+
 #### Maggio
 
-<figure><img src=".gitbook/assets/image (24).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * :white\_check\_mark: **Cibo per Pets, Alimentazione ed Equipaggiamento:** Crea Cibi per Pets e mantieni i tuoi animaletti nutriti mentre sono legati ad un Eroe! Legare i Pets è la prima iterazione dell'Equipaggiamento dell'Eroe e getta le basi per il futuro.
 * :white\_check\_mark: **Schiusa delle Uova Verdi (Gardening Pets)**: La nostra terza serie di Pets unici in diverse rarità e strane varianti. Equipaggiateli a un Eroe per potenziare le sue abilità di Gardening!

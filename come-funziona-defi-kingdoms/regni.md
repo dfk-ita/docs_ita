@@ -4,13 +4,13 @@ DeFi Kingdoms è sempre stato concepito come un gioco **cross-chain** con **più
 
 ## Serendale 1.0 (Harmony)
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption></figcaption></figure>
 
 DeFi Kingdoms: Serendale è stato lanciato originariamente sulla chain Harmony il 22 Agosto 2021 come DEX con possibilità di farming in  LP. Gli Eroi e le Missioni sono arrivati poco dopo. Serendale su Harmony ha chiuso ufficialmente il 12 Ottobre 2022 ed è stato convertito in un Avamposto.
 
 ## Crystalvale (DFK Chain)
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 DeFi Kingdoms: Crystalvale è stato lanciato il 30 Marzo 2022. È la prima espansione di DeFi Kingdoms e vive su [DFK Chain](defi-kingdoms-blockchain.md), una subnet di Avalanche. Crystalvale ha introdotto il nuovo Power Token, [CRYSTAL](i-token-del-potere/crystal-token.md), insieme a nuove classi di Eroi ed un mondo nuovo da esplorare.
 
@@ -24,7 +24,7 @@ DeFi Kingdoms: Serendale è stato rilanciato sulla blockchain Klaytn il 7 Dicemb
 
 ### Avalanche C-Chain
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>"Bellissimo, non è vero? Le montagne innevate e le foreste brulicanti di vita! Il suono rilassante dell'acqua che scorre lungo il fiume... è tutto così mozzafiato. Non siate timidi, date un'occhiata! Prometto che non ti spingerò oltre". - Snow Sage Ellia</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>"Bellissimo, non è vero? Le montagne innevate e le foreste brulicanti di vita! Il suono rilassante dell'acqua che scorre lungo il fiume... è tutto così mozzafiato. Non siate timidi, date un'occhiata! Prometto che non ti spingerò oltre". - Snow Sage Ellia</p></figcaption></figure>
 
 L'avamposto di **Avalanche C-Chain** è stato lanciato il 30 Marzo 2022 come parte del lancio di DeFi Kingdoms: Crystalvale su [DFK Chain](defi-kingdoms-blockchain.md), una sottorete di Avalanche. Visitate **Snow Sage Ellia** per scambiare i gettoni o per trasferirli facilmente in uno dei nostri Regni.
 

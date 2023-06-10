@@ -32,6 +32,21 @@ Tra **20 secondi** (1 Eroe / 1 Tentativo) e **1090 secondi** (6 Eroi / 5 Tentati
 
 15 XP per Tentativo di missione
 
+### **Missioni di Foraging livello 10**
+
+Gli Eroi con la Professione Foraging esistente possono svolgere missioni più difficili per ottenere ricompense maggiori. Le missioni di Foraging livello 10 presentano le seguenti differenze rispetto alle missioni livello 0:
+
+* Gli Eroi devono soddisfare un requisito minimo di **abilità di Foraging** pari a 10 per partecipare.
+* Il guadagno base di **Punti Esperienza Eroe (XP)** per ogni tentativo di missione è aumentato a +25 XP.
+* Gli Eroi ricevono una **possibilità aggiuntiva di ottenere un tiro bonus per le ricompense degli oggetti.**
+* La possibilità di **aumentare l'abilità di Foraging** rispetto al livello della missione è ridotta della metà.
+
+### Bonus Pets
+
+Gli Eroi che sono legati ad un Pet nutrito che ha il **bonus di Professione Foraging** riceveranno un bonus aggiuntivo ai loro tiri di ricompensa per le missioni. I possibili bonus di Foraging dei Pets sono tratti dai seguenti:
+
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 ### **Ricompense Oggetti**
 
 {% hint style="info" %}

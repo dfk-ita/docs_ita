@@ -1,6 +1,6 @@
 # Missioni
 
-![Quest Giver](https://dfk-hv.b-cdn.net/art-assets/quest-giver.gif)
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 A parte l'[Evocazione](summoning.md), l'obiettivo principale degli Eroi è andare in missione per raccogliere oggetti e guadagnare esperienza. Le missioni si suddividono in due categorie: [Profession Quests](../professions/) e [Training Quests](../../../gameplay/quests/missioni-di-addestramento.md). Le Profession Quests sono missioni non orientate al combattimento, per apprendere ed eccellere in diverse abilità utili al regno. Le Adventure Quests implicano l'andare in un luogo remoto con una squadra di Eroi per combattere il male, ed il bottino di quelle battaglie sarà a tua disposizione. Le Adventure Quests non saranno disponibili fino alle fasi successive.
 
